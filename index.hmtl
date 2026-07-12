@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Exacta Soluciones Industriales</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #1f2937;
+    }
+
+    header {
+      background: #063b67;
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+
+    .boton {
+      display: inline-block;
+      background: white;
+      color: #063b67;
+      padding: 14px 24px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+
+    h2 {
+      color: #063b67;
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    .servicios {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .servicio {
+      padding: 25px;
+      border: 1px solid #dddddd;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    footer {
+      background: #111827;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>EXACTA</h1>
+    <p>Soluciones industriales para laboratorios y empresas</p>
+
+    <a class="boton"
+       href="https://wa.me/51932610623"
+       target="_blank">
+       Solicitar cotización
+    </a>
+  </header>
+
+  <section>
+    <h2>Nuestros servicios</h2>
+
+    <div class="servicios">
+      <div class="servicio">
+        <h3>Mantenimiento</h3>
+        <p>Mantenimiento preventivo y correctivo de equipos de laboratorio.</p>
+      </div>
+
+      <div class="servicio">
+        <h3>Reparación</h3>
+        <p>Diagnóstico y reparación especializada de equipos e instrumentos.</p>
+      </div>
+
+      <div class="servicio">
+        <h3>Calibración</h3>
+        <p>Gestión y ejecución de servicios de calibración.</p>
+      </div>
+
+      <div class="servicio">
+        <h3>Equipos y repuestos</h3>
+        <p>Comercialización de equipos, repuestos, accesorios y consumibles.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contacto</h2>
+
+    <p style="text-align:center;">
+      Correo:
+      <a href="mailto:contacto@exactaperu.com">
+        contacto@exactaperu.com
+      </a>
+      <br><br>
+
+      Teléfono y WhatsApp: 932 610 623
+      <br><br>
+
+      Lima, Perú
+    </p>
+  </section>
+
+  <footer>
+    © 2026 Exacta Soluciones Industriales S.A.C.
+  </footer>
+
+</body>
+</html>
