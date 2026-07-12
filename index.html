@@ -6,228 +6,335 @@
 
   <title>Exacta Soluciones Industriales S.A.C.</title>
 
+  <meta
+    name="description"
+    content="Servicio técnico, mantenimiento, reparación, calibración y comercialización de equipos para laboratorios e industria."
+  >
+
   <style>
-
-    body{
-      margin:0;
-      font-family:Arial,Helvetica,sans-serif;
-      background:#ffffff;
-      color:#1f2937;
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
     }
 
-    header{
-      background:#063b67;
-      color:white;
-      padding:80px 20px;
-      text-align:center;
+    html {
+      scroll-behavior: smooth;
     }
 
-    .logo{
-      width:420px;
-      max-width:90%;
-      height:auto;
-      margin-bottom:30px;
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
     }
 
-    header p{
-      font-size:22px;
-      margin-bottom:35px;
-      max-width:850px;
-      margin-left:auto;
-      margin-right:auto;
-      line-height:1.5;
+    header {
+      background: #f4f7fb;
+      color: #063b67;
+      text-align: center;
+      padding: 70px 20px;
+      border-bottom: 1px solid #e5e7eb;
     }
 
-    .boton{
-      display:inline-block;
-      background:white;
-      color:#063b67;
-      padding:15px 28px;
-      text-decoration:none;
-      border-radius:8px;
-      font-weight:bold;
-      font-size:18px;
-      transition:.3s;
+    .logo {
+      display: block;
+      width: 520px;
+      max-width: 92%;
+      height: auto;
+      margin: 0 auto 30px;
     }
 
-    .boton:hover{
-      background:#f3f4f6;
+    header p {
+      max-width: 850px;
+      margin: 0 auto 35px;
+      color: #4b5563;
+      font-size: 22px;
+      line-height: 1.55;
     }
 
-    section{
-      max-width:1200px;
-      margin:auto;
-      padding:70px 20px;
+    .boton {
+      display: inline-block;
+      background: #1746f5;
+      color: #ffffff;
+      padding: 16px 30px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      transition: transform 0.25s ease, background 0.25s ease;
     }
 
-    h2{
-      color:#063b67;
-      text-align:center;
-      font-size:38px;
-      margin-bottom:45px;
+    .boton:hover {
+      background: #101b70;
+      transform: translateY(-2px);
     }
 
-    .servicios{
-      display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-      gap:25px;
+    section {
+      max-width: 1150px;
+      margin: 0 auto;
+      padding: 75px 20px;
     }
 
-    .servicio{
-      border:1px solid #e5e7eb;
-      border-radius:12px;
-      padding:35px 25px;
-      text-align:center;
-      transition:.3s;
+    h2 {
+      margin-bottom: 45px;
+      color: #101b70;
+      text-align: center;
+      font-size: 38px;
+      line-height: 1.2;
     }
 
-    .servicio:hover{
-      transform:translateY(-5px);
-      box-shadow:0 8px 25px rgba(0,0,0,.12);
+    .servicios {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
     }
 
-    .servicio h3{
-      color:#063b67;
-      font-size:26px;
-      margin-bottom:15px;
+    .servicio {
+      min-height: 240px;
+      padding: 32px 24px;
+      border: 1px solid #dfe4eb;
+      border-radius: 12px;
+      background: #ffffff;
+      text-align: center;
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
     }
 
-    .servicio p{
-      line-height:1.6;
-      font-size:17px;
+    .servicio:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 28px rgba(16, 27, 112, 0.10);
     }
 
-    .contacto{
-      text-align:center;
-      font-size:20px;
-      line-height:2;
+    .servicio h3 {
+      margin-bottom: 16px;
+      color: #101b70;
+      font-size: 23px;
+      line-height: 1.25;
     }
 
-    .contacto a{
-      color:#063b67;
-      text-decoration:none;
-      font-weight:bold;
+    .servicio p {
+      color: #4b5563;
+      font-size: 17px;
     }
 
-    footer{
-      background:#111827;
-      color:white;
-      text-align:center;
-      padding:35px;
-      font-size:15px;
+    .contacto-section {
+      background: #f7f9fc;
+      max-width: none;
     }
 
+    .contacto-contenido {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+      font-size: 18px;
+    }
+
+    .contacto-item {
+      margin-bottom: 25px;
+    }
+
+    .contacto-item strong {
+      display: block;
+      margin-bottom: 4px;
+      color: #101b70;
+    }
+
+    .contacto a {
+      color: #1746f5;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .contacto a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      background: #0b1630;
+      color: #ffffff;
+      padding: 35px 20px;
+      text-align: center;
+      font-size: 15px;
+    }
+
+    .whatsapp-flotante {
+      position: fixed;
+      right: 22px;
+      bottom: 22px;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 58px;
+      height: 58px;
+      border-radius: 50%;
+      background: #25d366;
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 28px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
+      transition: transform 0.2s ease;
+    }
+
+    .whatsapp-flotante:hover {
+      transform: scale(1.06);
+    }
+
+    @media (max-width: 900px) {
+      .servicios {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 600px) {
+      header {
+        padding: 50px 16px;
+      }
+
+      .logo {
+        width: 390px;
+        max-width: 96%;
+      }
+
+      header p {
+        font-size: 18px;
+      }
+
+      .boton {
+        padding: 14px 23px;
+        font-size: 16px;
+      }
+
+      section {
+        padding: 55px 16px;
+      }
+
+      h2 {
+        margin-bottom: 32px;
+        font-size: 30px;
+      }
+
+      .servicios {
+        grid-template-columns: 1fr;
+      }
+
+      .servicio {
+        min-height: auto;
+      }
+    }
   </style>
-
 </head>
 
 <body>
 
-<header>
+  <header>
+    <img
+      src="logo-exacta4.svg"
+      alt="Exacta Soluciones Industriales"
+      class="logo"
+    >
 
-<img src="logo-exacta.svg"
-     alt="Exacta Soluciones Industriales"
-     class="logo">
+    <p>
+      Servicio técnico especializado, mantenimiento, reparación, calibración
+      y soluciones para laboratorios e industria.
+    </p>
 
-<p>
-Servicio técnico especializado, mantenimiento preventivo y correctivo,
-gestión de calibraciones, venta de equipos, repuestos y accesorios
-para laboratorios e industria.
-</p>
+    <a
+      class="boton"
+      href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Solicitar cotización
+    </a>
+  </header>
 
-<a class="boton"
-href="https://wa.me/51932610623"
-target="_blank">
-Solicitar cotización
-</a>
+  <main>
+    <section>
+      <h2>Nuestros servicios</h2>
 
-</header>
+      <div class="servicios">
 
-<section>
+        <article class="servicio">
+          <h3>Mantenimiento</h3>
+          <p>
+            Mantenimiento preventivo y correctivo de equipos de laboratorio
+            e instrumentación.
+          </p>
+        </article>
 
-<h2>Nuestros servicios</h2>
+        <article class="servicio">
+          <h3>Reparación</h3>
+          <p>
+            Diagnóstico y reparación especializada de equipos e instrumentos
+            de diversas marcas.
+          </p>
+        </article>
 
-<div class="servicios">
+        <article class="servicio">
+          <h3>Calibración</h3>
+          <p>
+            Gestión y ejecución de servicios de calibración para equipos e
+            instrumentos de medición.
+          </p>
+        </article>
 
-<div class="servicio">
-<h3>Mantenimiento</h3>
+        <article class="servicio">
+          <h3>Equipos y repuestos</h3>
+          <p>
+            Comercialización de equipos, repuestos, accesorios, consumibles
+            y soluciones para laboratorio e industria.
+          </p>
+        </article>
 
-<p>
-Mantenimiento preventivo y correctivo de equipos de laboratorio e
-instrumentación industrial.
-</p>
+      </div>
+    </section>
 
-</div>
+    <section class="contacto-section">
+      <div class="contacto-contenido contacto">
+        <h2>Contacto</h2>
 
-<div class="servicio">
+        <div class="contacto-item">
+          <strong>Correo</strong>
+          <a href="mailto:contacto@exactaperu.com">
+            contacto@exactaperu.com
+          </a>
+        </div>
 
-<h3>Reparación</h3>
+        <div class="contacto-item">
+          <strong>WhatsApp</strong>
+          <a
+            href="https://wa.me/51932610623"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            +51 932 610 623
+          </a>
+        </div>
 
-<p>
-Diagnóstico y reparación especializada de equipos e instrumentos de
-diversas marcas.
-</p>
+        <div class="contacto-item">
+          <strong>Ubicación</strong>
+          Lima, Perú
+        </div>
+      </div>
+    </section>
+  </main>
 
-</div>
+  <footer>
+    © 2026 Exacta Soluciones Industriales S.A.C.<br>
+    Todos los derechos reservados.
+  </footer>
 
-<div class="servicio">
-
-<h3>Calibración</h3>
-
-<p>
-Gestión y ejecución de servicios de calibración con laboratorios
-acreditados.
-</p>
-
-</div>
-
-<div class="servicio">
-
-<h3>Equipos y Repuestos</h3>
-
-<p>
-Comercialización de equipos, accesorios, consumibles y repuestos para
-laboratorio e industria.
-</p>
-
-</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2>Contacto</h2>
-
-<div class="contacto">
-
-📧
-<a href="mailto:contacto@exactaperu.com">
-contacto@exactaperu.com
-</a>
-
-<br><br>
-
-📱 WhatsApp:
-<a href="https://wa.me/51932610623">
-+51 932 610 623
-</a>
-
-<br><br>
-
-📍 Lima - Perú
-
-</div>
-
-</section>
-
-<footer>
-
-© 2026 Exacta Soluciones Industriales S.A.C.<br>
-Todos los derechos reservados.
-
-</footer>
+  <a
+    class="whatsapp-flotante"
+    href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20recibir%20informaci%C3%B3n."
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Contactar por WhatsApp"
+    title="Contactar por WhatsApp"
+  >
+    ☎
+  </a>
 
 </body>
 </html>
