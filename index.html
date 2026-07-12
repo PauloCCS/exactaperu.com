@@ -30,10 +30,10 @@
     }
 
     header {
-      background: #f4f7fb;
-      color: #063b67;
+      background: #f7f9fc;
+      color: #101b70;
       text-align: center;
-      padding: 70px 20px;
+      padding: 42px 20px 55px;
       border-bottom: 1px solid #e5e7eb;
     }
 
@@ -42,23 +42,23 @@
       width: 520px;
       max-width: 92%;
       height: auto;
-      margin: 0 auto 30px;
+      margin: 0 auto 22px;
     }
 
     header p {
-      max-width: 850px;
-      margin: 0 auto 35px;
+      max-width: 760px;
+      margin: 0 auto 30px;
       color: #4b5563;
-      font-size: 22px;
-      line-height: 1.55;
+      font-size: 21px;
+      line-height: 1.5;
     }
 
     .boton {
       display: inline-block;
       background: #1746f5;
       color: #ffffff;
-      padding: 16px 30px;
-      border-radius: 8px;
+      padding: 17px 34px;
+      border-radius: 9px;
       text-decoration: none;
       font-size: 18px;
       font-weight: bold;
@@ -73,14 +73,14 @@
     section {
       max-width: 1150px;
       margin: 0 auto;
-      padding: 75px 20px;
+      padding: 70px 20px;
     }
 
     h2 {
-      margin-bottom: 45px;
+      margin-bottom: 42px;
       color: #101b70;
       text-align: center;
-      font-size: 38px;
+      font-size: 36px;
       line-height: 1.2;
     }
 
@@ -91,18 +91,19 @@
     }
 
     .servicio {
-      min-height: 240px;
-      padding: 32px 24px;
+      min-height: 245px;
+      padding: 34px 24px;
       border: 1px solid #dfe4eb;
       border-radius: 12px;
       background: #ffffff;
       text-align: center;
+      box-shadow: 0 6px 18px rgba(16, 27, 112, 0.04);
       transition: transform 0.25s ease, box-shadow 0.25s ease;
     }
 
     .servicio:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 12px 28px rgba(16, 27, 112, 0.10);
+      transform: translateY(-6px);
+      box-shadow: 0 14px 30px rgba(16, 27, 112, 0.11);
     }
 
     .servicio h3 {
@@ -117,9 +118,44 @@
       font-size: 17px;
     }
 
-    .contacto-section {
+    .ventajas-section {
       background: #f7f9fc;
       max-width: none;
+    }
+
+    .ventajas-contenido {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .ventajas {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
+    }
+
+    .ventaja {
+      padding: 28px 22px;
+      border-radius: 12px;
+      background: #ffffff;
+      text-align: center;
+      border: 1px solid #e3e8ef;
+    }
+
+    .ventaja h3 {
+      margin-bottom: 12px;
+      color: #101b70;
+      font-size: 21px;
+    }
+
+    .ventaja p {
+      color: #4b5563;
+      font-size: 16px;
+    }
+
+    .contacto-section {
+      max-width: none;
+      background: #ffffff;
     }
 
     .contacto-contenido {
@@ -130,7 +166,7 @@
     }
 
     .contacto-item {
-      margin-bottom: 25px;
+      margin-bottom: 24px;
     }
 
     .contacto-item strong {
@@ -152,7 +188,7 @@
     footer {
       background: #0b1630;
       color: #ffffff;
-      padding: 35px 20px;
+      padding: 34px 20px;
       text-align: center;
       font-size: 15px;
     }
@@ -165,30 +201,35 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 58px;
-      height: 58px;
+      width: 60px;
+      height: 60px;
       border-radius: 50%;
       background: #25d366;
-      color: #ffffff;
       text-decoration: none;
-      font-size: 28px;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
+      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.24);
       transition: transform 0.2s ease;
     }
 
     .whatsapp-flotante:hover {
-      transform: scale(1.06);
+      transform: scale(1.08);
+    }
+
+    .whatsapp-flotante svg {
+      width: 32px;
+      height: 32px;
+      fill: #ffffff;
     }
 
     @media (max-width: 900px) {
-      .servicios {
+      .servicios,
+      .ventajas {
         grid-template-columns: repeat(2, 1fr);
       }
     }
 
     @media (max-width: 600px) {
       header {
-        padding: 50px 16px;
+        padding: 38px 16px 46px;
       }
 
       .logo {
@@ -201,12 +242,12 @@
       }
 
       .boton {
-        padding: 14px 23px;
+        padding: 14px 24px;
         font-size: 16px;
       }
 
       section {
-        padding: 55px 16px;
+        padding: 52px 16px;
       }
 
       h2 {
@@ -214,12 +255,20 @@
         font-size: 30px;
       }
 
-      .servicios {
+      .servicios,
+      .ventajas {
         grid-template-columns: 1fr;
       }
 
       .servicio {
         min-height: auto;
+      }
+
+      .whatsapp-flotante {
+        width: 56px;
+        height: 56px;
+        right: 16px;
+        bottom: 16px;
       }
     }
   </style>
@@ -229,14 +278,14 @@
 
   <header>
     <img
-      src="logo-exacta5.svg"
+      src="logo-exacta4.svg"
       alt="Exacta Soluciones Industriales"
       class="logo"
     >
 
     <p>
-      Servicio técnico especializado, mantenimiento, reparación, calibración
-      y soluciones para laboratorios e industria.
+      Soluciones técnicas especializadas para equipos de laboratorio,
+      instrumentación y procesos industriales.
     </p>
 
     <a
@@ -290,6 +339,48 @@
       </div>
     </section>
 
+    <section class="ventajas-section">
+      <div class="ventajas-contenido">
+        <h2>¿Por qué elegir Exacta?</h2>
+
+        <div class="ventajas">
+
+          <article class="ventaja">
+            <h3>Experiencia técnica</h3>
+            <p>
+              Conocimiento especializado en equipos de laboratorio,
+              instrumentación y servicio técnico.
+            </p>
+          </article>
+
+          <article class="ventaja">
+            <h3>Atención especializada</h3>
+            <p>
+              Evaluación técnica orientada a identificar la solución más
+              adecuada para cada necesidad.
+            </p>
+          </article>
+
+          <article class="ventaja">
+            <h3>Soporte multimarcas</h3>
+            <p>
+              Atención de equipos e instrumentos de diferentes fabricantes
+              y tecnologías.
+            </p>
+          </article>
+
+          <article class="ventaja">
+            <h3>Compromiso y respuesta</h3>
+            <p>
+              Comunicación clara, seguimiento técnico y atención enfocada
+              en la continuidad operativa del cliente.
+            </p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
     <section class="contacto-section">
       <div class="contacto-contenido contacto">
         <h2>Contacto</h2>
@@ -333,7 +424,10 @@
     aria-label="Contactar por WhatsApp"
     title="Contactar por WhatsApp"
   >
-    ☎
+    <svg viewBox="0 0 32 32" aria-hidden="true">
+      <path d="M19.11 17.29c-.26-.13-1.52-.75-1.76-.84-.24-.09-.41-.13-.59.13-.17.26-.67.84-.82 1.01-.15.17-.3.2-.56.07-.26-.13-1.08-.4-2.06-1.27-.76-.68-1.27-1.52-1.42-1.78-.15-.26-.02-.4.11-.53.12-.12.26-.3.39-.45.13-.15.17-.26.26-.43.09-.17.04-.32-.02-.45-.07-.13-.59-1.42-.8-1.94-.21-.51-.43-.44-.59-.45h-.5c-.17 0-.45.07-.69.32-.24.26-.91.89-.91 2.17 0 1.27.93 2.51 1.06 2.68.13.17 1.83 2.79 4.43 3.92.62.27 1.1.43 1.48.55.62.2 1.18.17 1.63.1.5-.08 1.52-.62 1.74-1.22.22-.6.22-1.11.15-1.22-.07-.11-.24-.17-.5-.3z"/>
+      <path d="M16.03 3.2c-7.1 0-12.87 5.76-12.87 12.86 0 2.27.59 4.49 1.72 6.44L3.05 29.2l6.86-1.8a12.85 12.85 0 0 0 6.12 1.56h.01c7.09 0 12.86-5.77 12.86-12.86 0-3.43-1.34-6.66-3.77-9.09A12.78 12.78 0 0 0 16.03 3.2zm0 23.58h-.01a10.67 10.67 0 0 1-5.44-1.49l-.39-.23-4.07 1.07 1.09-3.96-.25-.41a10.65 10.65 0 1 1 9.07 5.02z"/>
+    </svg>
   </a>
 
 </body>
