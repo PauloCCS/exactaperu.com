@@ -8,7 +8,7 @@
 
   <meta
     name="description"
-    content="Servicio técnico, mantenimiento, reparación, calibración y comercialización de equipos para laboratorios e industria."
+    content="Servicio técnico, mantenimiento, reparación, calibración y comercialización de equipos para laboratorios e industria en Lima, Perú."
   >
 
   <style>
@@ -20,6 +20,7 @@
 
     html {
       scroll-behavior: smooth;
+      scroll-padding-top: 80px;
     }
 
     body {
@@ -29,11 +30,58 @@
       line-height: 1.6;
     }
 
+    .navegacion {
+      position: sticky;
+      top: 0;
+      z-index: 1100;
+      background: rgba(255, 255, 255, 0.98);
+      border-bottom: 1px solid #e5e7eb;
+      box-shadow: 0 3px 14px rgba(16, 27, 112, 0.05);
+    }
+
+    .navegacion-contenido {
+      max-width: 1150px;
+      min-height: 72px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .marca {
+      color: #101b70;
+      font-size: 21px;
+      font-weight: bold;
+      text-decoration: none;
+      letter-spacing: 0.2px;
+    }
+
+    .menu {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      list-style: none;
+    }
+
+    .menu a {
+      color: #374151;
+      font-size: 15px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .menu a:hover {
+      color: #1746f5;
+    }
+
     header {
       background: #f7f9fc;
       color: #101b70;
       text-align: center;
-      padding: 42px 20px 55px;
+      padding: 54px 20px 62px;
       border-bottom: 1px solid #e5e7eb;
     }
 
@@ -53,14 +101,21 @@
       line-height: 1.5;
     }
 
+    .botones-portada {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 14px;
+    }
+
     .boton {
       display: inline-block;
       background: #1746f5;
       color: #ffffff;
-      padding: 17px 34px;
+      padding: 16px 30px;
       border-radius: 9px;
       text-decoration: none;
-      font-size: 18px;
+      font-size: 17px;
       font-weight: bold;
       transition: transform 0.25s ease, background 0.25s ease;
     }
@@ -68,6 +123,17 @@
     .boton:hover {
       background: #101b70;
       transform: translateY(-2px);
+    }
+
+    .boton-secundario {
+      background: #ffffff;
+      color: #101b70;
+      border: 1px solid #cfd6e4;
+    }
+
+    .boton-secundario:hover {
+      background: #eef2ff;
+      color: #101b70;
     }
 
     section {
@@ -82,6 +148,43 @@
       text-align: center;
       font-size: 36px;
       line-height: 1.2;
+    }
+
+    .nosotros {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 48px;
+      align-items: center;
+    }
+
+    .nosotros-destacado {
+      padding: 38px 32px;
+      border-radius: 14px;
+      background: #101b70;
+      color: #ffffff;
+      box-shadow: 0 14px 32px rgba(16, 27, 112, 0.16);
+    }
+
+    .nosotros-destacado h2 {
+      margin-bottom: 18px;
+      color: #ffffff;
+      text-align: left;
+      font-size: 32px;
+    }
+
+    .nosotros-destacado p {
+      font-size: 18px;
+      color: #e8ecff;
+    }
+
+    .nosotros-texto p {
+      margin-bottom: 18px;
+      color: #4b5563;
+      font-size: 17px;
+    }
+
+    .nosotros-texto strong {
+      color: #101b70;
     }
 
     .servicios {
@@ -221,15 +324,39 @@
     }
 
     @media (max-width: 900px) {
+      .nosotros {
+        grid-template-columns: 1fr;
+      }
+
       .servicios,
       .ventajas {
         grid-template-columns: repeat(2, 1fr);
       }
     }
 
+    @media (max-width: 700px) {
+      .navegacion-contenido {
+        min-height: auto;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .menu {
+        gap: 16px;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .menu a {
+        font-size: 14px;
+      }
+    }
+
     @media (max-width: 600px) {
       header {
-        padding: 38px 16px 46px;
+        padding: 42px 16px 48px;
       }
 
       .logo {
@@ -255,6 +382,14 @@
         font-size: 30px;
       }
 
+      .nosotros-destacado {
+        padding: 30px 24px;
+      }
+
+      .nosotros-destacado h2 {
+        font-size: 28px;
+      }
+
       .servicios,
       .ventajas {
         grid-template-columns: 1fr;
@@ -275,10 +410,22 @@
 </head>
 
 <body>
+  <nav class="navegacion" aria-label="Navegación principal">
+    <div class="navegacion-contenido">
+      <a class="marca" href="#inicio">EXACTA</a>
 
-  <header>
+      <ul class="menu">
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#nosotros">Nosotros</a></li>
+        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <header id="inicio">
     <img
-      src="logo-exacta5.svg"
+      src="logo-exacta4.svg"
       alt="Exacta Soluciones Industriales"
       class="logo"
     >
@@ -288,22 +435,59 @@
       instrumentación y procesos industriales.
     </p>
 
-    <a
-      class="boton"
-      href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Solicitar cotización
-    </a>
+    <div class="botones-portada">
+      <a
+        class="boton"
+        href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Solicitar cotización
+      </a>
+
+      <a class="boton boton-secundario" href="#servicios">
+        Conocer servicios
+      </a>
+    </div>
   </header>
 
   <main>
-    <section>
+    <section id="nosotros">
+      <div class="nosotros">
+        <div class="nosotros-destacado">
+          <h2>Sobre Exacta</h2>
+          <p>
+            Experiencia técnica aplicada a soluciones confiables para
+            laboratorios, industria e instrumentación especializada.
+          </p>
+        </div>
+
+        <div class="nosotros-texto">
+          <p>
+            <strong>Exacta Soluciones Industriales S.A.C.</strong> es una empresa peruana
+            orientada al servicio técnico, mantenimiento, reparación, calibración,
+            comercialización de equipos, repuestos y soluciones para laboratorio e industria.
+          </p>
+
+          <p>
+            Nuestro trabajo combina evaluación técnica, comunicación clara y atención
+            personalizada, buscando soluciones adecuadas para las necesidades operativas
+            de cada cliente.
+          </p>
+
+          <p>
+            Atendemos equipos e instrumentos de distintas marcas y tecnologías,
+            acompañando al cliente desde el diagnóstico hasta la ejecución y seguimiento
+            del servicio.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="servicios">
       <h2>Nuestros servicios</h2>
 
       <div class="servicios">
-
         <article class="servicio">
           <h3>Mantenimiento</h3>
           <p>
@@ -335,7 +519,6 @@
             y soluciones para laboratorio e industria.
           </p>
         </article>
-
       </div>
     </section>
 
@@ -344,7 +527,6 @@
         <h2>¿Por qué elegir Exacta?</h2>
 
         <div class="ventajas">
-
           <article class="ventaja">
             <h3>Experiencia técnica</h3>
             <p>
@@ -376,12 +558,11 @@
               en la continuidad operativa del cliente.
             </p>
           </article>
-
         </div>
       </div>
     </section>
 
-    <section class="contacto-section">
+    <section class="contacto-section" id="contacto">
       <div class="contacto-contenido contacto">
         <h2>Contacto</h2>
 
@@ -429,6 +610,6 @@
       <path d="M16.03 3.2c-7.1 0-12.87 5.76-12.87 12.86 0 2.27.59 4.49 1.72 6.44L3.05 29.2l6.86-1.8a12.85 12.85 0 0 0 6.12 1.56h.01c7.09 0 12.86-5.77 12.86-12.86 0-3.43-1.34-6.66-3.77-9.09A12.78 12.78 0 0 0 16.03 3.2zm0 23.58h-.01a10.67 10.67 0 0 1-5.44-1.49l-.39-.23-4.07 1.07 1.09-3.96-.25-.41a10.65 10.65 0 1 1 9.07 5.02z"/>
     </svg>
   </a>
-
 </body>
 </html>
+
