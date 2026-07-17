@@ -4,611 +4,1570 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Exacta Soluciones Industriales S.A.C.</title>
+  <title>Exacta Soluciones Industriales | Servicio técnico e instrumentación</title>
 
   <meta
     name="description"
-    content="Servicio técnico, mantenimiento, reparación, calibración y comercialización de equipos para laboratorios e industria en Lima, Perú."
+    content="Mantenimiento, reparación, calibración, equipos, repuestos y soporte técnico para laboratorios e industria en Perú."
   >
 
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
+    :root{
+      --azul:#1746f5;
+      --azul-oscuro:#0a1c52;
+      --azul-profundo:#061333;
+      --azul-suave:#edf3ff;
+      --gris:#f5f7fb;
+      --texto:#263247;
+      --texto-suave:#667085;
+      --borde:#dde4ef;
+      --blanco:#ffffff;
+      --verde:#25d366;
+      --sombra:0 18px 42px rgba(10,28,82,.12);
     }
 
-    html {
-      scroll-behavior: smooth;
-      scroll-padding-top: 80px;
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
     }
 
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      background: #ffffff;
-      color: #1f2937;
-      line-height: 1.6;
+    html{
+      scroll-behavior:smooth;
+      scroll-padding-top:96px;
     }
 
-    .navegacion {
-      position: sticky;
-      top: 0;
-      z-index: 1100;
-      background: rgba(255, 255, 255, 0.98);
-      border-bottom: 1px solid #e5e7eb;
-      box-shadow: 0 3px 14px rgba(16, 27, 112, 0.05);
+    body{
+      font-family:Arial,Helvetica,sans-serif;
+      color:var(--texto);
+      background:var(--blanco);
+      line-height:1.6;
     }
 
-    .navegacion-contenido {
-      max-width: 1150px;
-      min-height: 72px;
-      margin: 0 auto;
-      padding: 0 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 24px;
+    a{
+      color:inherit;
+      text-decoration:none;
     }
 
-    .marca {
-      color: #101b70;
-      font-size: 21px;
-      font-weight: bold;
-      text-decoration: none;
-      letter-spacing: 0.2px;
+    img{
+      display:block;
+      width:100%;
     }
 
-    .menu {
-      display: flex;
-      align-items: center;
-      gap: 28px;
-      list-style: none;
+    .topbar{
+      color:var(--blanco);
+      background:var(--azul-profundo);
+      font-size:13px;
     }
 
-    .menu a {
-      color: #374151;
-      font-size: 15px;
-      font-weight: bold;
-      text-decoration: none;
-      transition: color 0.2s ease;
+    .topbar-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:8px 22px;
+      display:flex;
+      justify-content:space-between;
+      gap:20px;
+      flex-wrap:wrap;
     }
 
-    .menu a:hover {
-      color: #1746f5;
+    .nav{
+      position:sticky;
+      top:0;
+      z-index:1200;
+      background:rgba(255,255,255,.97);
+      border-bottom:1px solid var(--borde);
+      box-shadow:0 5px 20px rgba(10,28,82,.06);
+      backdrop-filter:blur(10px);
     }
 
-    header {
-      background: #f7f9fc;
-      color: #101b70;
-      text-align: center;
-      padding: 54px 20px 62px;
-      border-bottom: 1px solid #e5e7eb;
+    .nav-inner{
+      max-width:1200px;
+      min-height:80px;
+      margin:0 auto;
+      padding:10px 22px;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:26px;
     }
 
-    .logo {
-      display: block;
-      width: 520px;
-      max-width: 92%;
-      height: auto;
-      margin: 0 auto 22px;
+    .nav-logo{
+      width:215px;
+      max-height:58px;
+      object-fit:contain;
     }
 
-    header p {
-      max-width: 760px;
-      margin: 0 auto 30px;
-      color: #4b5563;
-      font-size: 21px;
-      line-height: 1.5;
+    .menu{
+      display:flex;
+      align-items:center;
+      gap:24px;
+      list-style:none;
+      flex-wrap:wrap;
     }
 
-    .botones-portada {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 14px;
+    .menu a{
+      color:#3b4559;
+      font-size:15px;
+      font-weight:700;
     }
 
-    .boton {
-      display: inline-block;
-      background: #1746f5;
-      color: #ffffff;
-      padding: 16px 30px;
-      border-radius: 9px;
-      text-decoration: none;
-      font-size: 17px;
-      font-weight: bold;
-      transition: transform 0.25s ease, background 0.25s ease;
+    .menu a:hover{
+      color:var(--azul);
     }
 
-    .boton:hover {
-      background: #101b70;
-      transform: translateY(-2px);
+    .menu .cta{
+      padding:12px 20px;
+      border-radius:8px;
+      color:var(--blanco);
+      background:var(--azul);
     }
 
-    .boton-secundario {
-      background: #ffffff;
-      color: #101b70;
-      border: 1px solid #cfd6e4;
+    .menu .cta:hover{
+      color:var(--blanco);
+      background:var(--azul-oscuro);
     }
 
-    .boton-secundario:hover {
-      background: #eef2ff;
-      color: #101b70;
+    .hero{
+      background:
+        radial-gradient(circle at 80% 15%,rgba(23,70,245,.14),transparent 25%),
+        linear-gradient(135deg,#f9fbff 0%,#edf3ff 54%,#fff 100%);
     }
 
-    section {
-      max-width: 1150px;
-      margin: 0 auto;
-      padding: 70px 20px;
+    .hero-inner{
+      max-width:1200px;
+      min-height:620px;
+      margin:0 auto;
+      padding:72px 22px;
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:56px;
+      align-items:center;
     }
 
-    h2 {
-      margin-bottom: 42px;
-      color: #101b70;
-      text-align: center;
-      font-size: 36px;
-      line-height: 1.2;
+    .eyebrow{
+      margin-bottom:12px;
+      color:var(--azul);
+      font-size:13px;
+      font-weight:800;
+      letter-spacing:1.2px;
+      text-transform:uppercase;
     }
 
-    .nosotros {
-      display: grid;
-      grid-template-columns: 0.9fr 1.1fr;
-      gap: 48px;
-      align-items: center;
+    .hero h1{
+      margin-bottom:22px;
+      color:var(--azul-oscuro);
+      font-size:clamp(42px,5vw,66px);
+      line-height:1.05;
+      letter-spacing:-1.5px;
     }
 
-    .nosotros-destacado {
-      padding: 38px 32px;
-      border-radius: 14px;
-      background: #101b70;
-      color: #ffffff;
-      box-shadow: 0 14px 32px rgba(16, 27, 112, 0.16);
+    .hero h1 span{
+      color:var(--azul);
     }
 
-    .nosotros-destacado h2 {
-      margin-bottom: 18px;
-      color: #ffffff;
-      text-align: left;
-      font-size: 32px;
+    .hero-copy>p{
+      max-width:650px;
+      margin-bottom:30px;
+      color:var(--texto-suave);
+      font-size:19px;
     }
 
-    .nosotros-destacado p {
-      font-size: 18px;
-      color: #e8ecff;
+    .hero-actions{
+      display:flex;
+      gap:14px;
+      flex-wrap:wrap;
+      margin-bottom:28px;
     }
 
-    .nosotros-texto p {
-      margin-bottom: 18px;
-      color: #4b5563;
-      font-size: 17px;
+    .btn{
+      min-height:50px;
+      padding:14px 24px;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      border-radius:8px;
+      font-size:16px;
+      font-weight:700;
+      transition:transform .2s ease,background .2s ease;
     }
 
-    .nosotros-texto strong {
-      color: #101b70;
+    .btn-primary{
+      color:var(--blanco);
+      background:var(--azul);
+      box-shadow:0 10px 26px rgba(23,70,245,.24);
     }
 
-    .servicios {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 24px;
+    .btn-primary:hover{
+      background:var(--azul-oscuro);
+      transform:translateY(-2px);
     }
 
-    .servicio {
-      min-height: 245px;
-      padding: 34px 24px;
-      border: 1px solid #dfe4eb;
-      border-radius: 12px;
-      background: #ffffff;
-      text-align: center;
-      box-shadow: 0 6px 18px rgba(16, 27, 112, 0.04);
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    .btn-secondary{
+      color:var(--azul-oscuro);
+      background:var(--blanco);
+      border:1px solid #cbd5e4;
     }
 
-    .servicio:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 14px 30px rgba(16, 27, 112, 0.11);
+    .btn-secondary:hover{
+      background:var(--azul-suave);
+      transform:translateY(-2px);
     }
 
-    .servicio h3 {
-      margin-bottom: 16px;
-      color: #101b70;
-      font-size: 23px;
-      line-height: 1.25;
+    .hero-points{
+      display:flex;
+      flex-wrap:wrap;
+      gap:15px 25px;
+      color:#4b5568;
+      font-size:14px;
+      font-weight:700;
     }
 
-    .servicio p {
-      color: #4b5563;
-      font-size: 17px;
+    .hero-points span::before{
+      content:"✓";
+      margin-right:7px;
+      color:var(--azul);
     }
 
-    .ventajas-section {
-      background: #f7f9fc;
-      max-width: none;
+    .hero-visual{
+      display:grid;
+      grid-template-columns:1.25fr .75fr;
+      gap:14px;
+      min-height:470px;
     }
 
-    .ventajas-contenido {
-      max-width: 1100px;
-      margin: 0 auto;
+    .hero-photo-main,
+    .hero-device{
+      overflow:hidden;
+      border-radius:22px;
+      box-shadow:var(--sombra);
+      background:var(--blanco);
     }
 
-    .ventajas {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 24px;
+    .hero-photo-main img{
+      height:470px;
+      object-fit:cover;
     }
 
-    .ventaja {
-      padding: 28px 22px;
-      border-radius: 12px;
-      background: #ffffff;
-      text-align: center;
-      border: 1px solid #e3e8ef;
+    .hero-side{
+      display:grid;
+      grid-template-rows:1fr 1fr;
+      gap:14px;
     }
 
-    .ventaja h3 {
-      margin-bottom: 12px;
-      color: #101b70;
-      font-size: 21px;
+    .hero-device{
+      padding:13px;
+      display:flex;
+      flex-direction:column;
+      justify-content:space-between;
     }
 
-    .ventaja p {
-      color: #4b5563;
-      font-size: 16px;
+    .hero-device img{
+      height:165px;
+      object-fit:cover;
+      border-radius:14px;
     }
 
-    .contacto-section {
-      max-width: none;
-      background: #ffffff;
+    .hero-device strong{
+      margin-top:10px;
+      color:var(--azul-oscuro);
+      font-size:14px;
     }
 
-    .contacto-contenido {
-      max-width: 800px;
-      margin: 0 auto;
-      text-align: center;
-      font-size: 18px;
+    .hero-device-image-only{
+      padding:0;
+      overflow:hidden;
     }
 
-    .contacto-item {
-      margin-bottom: 24px;
+    .hero-device-image-only img{
+      width:100%;
+      height:100%;
+      min-height:0;
+      object-fit:cover;
+      border-radius:22px;
     }
 
-    .contacto-item strong {
-      display: block;
-      margin-bottom: 4px;
-      color: #101b70;
+    .pillars{
+      color:var(--blanco);
+      background:var(--azul-oscuro);
     }
 
-    .contacto a {
-      color: #1746f5;
-      font-weight: bold;
-      text-decoration: none;
+    .pillars-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:28px 22px;
+      display:grid;
+      grid-template-columns:repeat(4,1fr);
     }
 
-    .contacto a:hover {
-      text-decoration: underline;
+    .pillar{
+      min-height:86px;
+      padding:14px 23px;
+      border-right:1px solid rgba(255,255,255,.18);
     }
 
-    footer {
-      background: #0b1630;
-      color: #ffffff;
-      padding: 34px 20px;
-      text-align: center;
-      font-size: 15px;
+    .pillar:last-child{
+      border-right:none;
     }
 
-    .whatsapp-flotante {
-      position: fixed;
-      right: 22px;
-      bottom: 22px;
-      z-index: 1000;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      background: #25d366;
-      text-decoration: none;
-      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.24);
-      transition: transform 0.2s ease;
+    .pillar strong{
+      display:block;
+      margin-bottom:3px;
+      font-size:20px;
     }
 
-    .whatsapp-flotante:hover {
-      transform: scale(1.08);
+    .pillar span{
+      color:#dce5ff;
+      font-size:14px;
     }
 
-    .whatsapp-flotante svg {
-      width: 32px;
-      height: 32px;
-      fill: #ffffff;
+    .section{
+      max-width:1200px;
+      margin:0 auto;
+      padding:88px 22px;
     }
 
-    @media (max-width: 900px) {
-      .nosotros {
-        grid-template-columns: 1fr;
+    .section-head{
+      max-width:780px;
+      margin:0 auto 48px;
+      text-align:center;
+    }
+
+    .section-head h2{
+      margin-bottom:14px;
+      color:var(--azul-oscuro);
+      font-size:clamp(32px,4vw,44px);
+      line-height:1.15;
+    }
+
+    .section-head p{
+      color:var(--texto-suave);
+      font-size:18px;
+    }
+
+    .solutions{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:22px;
+    }
+
+    .solution{
+      overflow:hidden;
+      border:1px solid var(--borde);
+      border-radius:18px;
+      background:var(--blanco);
+      box-shadow:0 8px 24px rgba(10,28,82,.05);
+      transition:transform .22s ease,box-shadow .22s ease;
+    }
+
+    .solution:hover{
+      transform:translateY(-6px);
+      box-shadow:var(--sombra);
+    }
+
+    .solution img{
+      height:185px;
+      object-fit:cover;
+    }
+
+    .solution-body{
+      padding:24px;
+    }
+
+    .solution-number{
+      margin-bottom:10px;
+      color:var(--azul);
+      font-size:13px;
+      font-weight:900;
+      letter-spacing:1px;
+    }
+
+    .solution h3{
+      margin-bottom:10px;
+      color:var(--azul-oscuro);
+      font-size:21px;
+      line-height:1.25;
+    }
+
+    .solution p{
+      color:var(--texto-suave);
+      font-size:15px;
+    }
+
+    .about{
+      background:var(--gris);
+      border-top:1px solid var(--borde);
+      border-bottom:1px solid var(--borde);
+    }
+
+    .about-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:88px 22px;
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:62px;
+      align-items:center;
+    }
+
+    .about-gallery{
+      display:grid;
+      grid-template-columns:1.15fr .85fr;
+      grid-template-rows:215px 215px;
+      gap:14px;
+    }
+
+    .about-gallery img{
+      height:100%;
+      object-fit:cover;
+      border-radius:17px;
+      box-shadow:0 10px 26px rgba(10,28,82,.09);
+    }
+
+    .about-gallery .tall{
+      grid-row:1/3;
+    }
+
+    .about-copy h2{
+      margin-bottom:20px;
+      color:var(--azul-oscuro);
+      font-size:clamp(34px,4vw,47px);
+      line-height:1.12;
+    }
+
+    .about-copy p{
+      margin-bottom:16px;
+      color:var(--texto-suave);
+      font-size:17px;
+    }
+
+    .experience-note{
+      margin-top:24px;
+      padding:18px 19px;
+      border-left:4px solid var(--azul);
+      background:var(--blanco);
+      color:#42506a;
+      box-shadow:0 7px 20px rgba(10,28,82,.05);
+    }
+
+    .experience-note strong{
+      color:var(--azul-oscuro);
+    }
+
+    .industries{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:20px;
+    }
+
+    .industry{
+      overflow:hidden;
+      border:1px solid var(--borde);
+      border-radius:17px;
+      background:var(--blanco);
+      box-shadow:0 6px 18px rgba(10,28,82,.04);
+      transition:transform .2s ease;
+    }
+
+    .industry:hover{
+      transform:translateY(-5px);
+    }
+
+    .industry img{
+      height:130px;
+      object-fit:cover;
+    }
+
+    .industry-body{
+      padding:22px;
+    }
+
+    .industry-number{
+      margin-bottom:14px;
+      color:#b5c5f8;
+      font-size:27px;
+      font-weight:900;
+    }
+
+    .industry h3{
+      margin-bottom:8px;
+      color:var(--azul-oscuro);
+      font-size:20px;
+    }
+
+    .industry p{
+      color:var(--texto-suave);
+      font-size:14px;
+    }
+
+    .process{
+      color:var(--blanco);
+      background:var(--azul-oscuro);
+    }
+
+    .process-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:88px 22px;
+    }
+
+    .process .section-head h2{
+      color:var(--blanco);
+    }
+
+    .process .section-head p{
+      color:#dce5ff;
+    }
+
+    .process-grid{
+      display:grid;
+      grid-template-columns:repeat(4,1fr);
+      gap:18px;
+    }
+
+    .process-card{
+      padding:25px;
+      border:1px solid rgba(255,255,255,.18);
+      border-radius:15px;
+      background:rgba(255,255,255,.07);
+    }
+
+    .process-card .step{
+      margin-bottom:15px;
+      color:#8fb1ff;
+      font-size:13px;
+      font-weight:900;
+      letter-spacing:1px;
+    }
+
+    .process-card h3{
+      margin-bottom:10px;
+      font-size:20px;
+    }
+
+    .process-card p{
+      color:#dfe6ff;
+      font-size:14px;
+    }
+
+    .contact{
+      background:
+        radial-gradient(circle at 92% 25%,rgba(23,70,245,.25),transparent 24%),
+        linear-gradient(135deg,#eef3ff 0%,#f8faff 52%,#ffffff 100%);
+      border-top:1px solid var(--borde);
+    }
+
+    .contact-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:86px 22px;
+    }
+
+    .contact-layout{
+      display:grid;
+      grid-template-columns:.85fr 1.15fr;
+      gap:48px;
+      align-items:stretch;
+    }
+
+    .contact-copy{
+      padding:38px;
+      border-radius:22px;
+      color:var(--blanco);
+      background:
+        linear-gradient(160deg,rgba(8,27,76,.96),rgba(18,50,125,.94)),
+        url("assets/metrologia.jpg") center/cover;
+      box-shadow:var(--sombra);
+    }
+
+    .contact-copy h2{
+      margin-bottom:15px;
+      font-size:clamp(34px,4vw,48px);
+      line-height:1.12;
+    }
+
+    .contact-copy>p{
+      margin-bottom:28px;
+      color:#dfe8ff;
+      font-size:17px;
+    }
+
+    .contact-list{
+      display:grid;
+      gap:15px;
+    }
+
+    .contact-item{
+      padding:15px;
+      border:1px solid rgba(255,255,255,.18);
+      border-radius:12px;
+      background:rgba(255,255,255,.07);
+    }
+
+    .contact-item strong{
+      display:block;
+      margin-bottom:2px;
+      color:var(--blanco);
+      font-size:14px;
+    }
+
+    .contact-item span,
+    .contact-item a{
+      color:#e9efff;
+      font-size:15px;
+    }
+
+    .contact-form{
+      padding:34px;
+      border:1px solid var(--borde);
+      border-radius:22px;
+      background:var(--blanco);
+      box-shadow:var(--sombra);
+    }
+
+    .contact-form h3{
+      margin-bottom:8px;
+      color:var(--azul-oscuro);
+      font-size:24px;
+    }
+
+    .contact-form>p{
+      margin-bottom:22px;
+      color:var(--texto-suave);
+      font-size:14px;
+    }
+
+    .form-grid{
+      display:grid;
+      grid-template-columns:repeat(2,1fr);
+      gap:16px;
+    }
+
+    .field{
+      display:flex;
+      flex-direction:column;
+      gap:7px;
+    }
+
+    .field-full{
+      grid-column:1/-1;
+    }
+
+    .field label{
+      color:#3d4860;
+      font-size:14px;
+      font-weight:700;
+    }
+
+    .field input,
+    .field textarea{
+      width:100%;
+      padding:14px 15px;
+      border:1px solid #cad4e3;
+      border-radius:9px;
+      color:var(--texto);
+      background:#fbfcff;
+      font:inherit;
+      outline:none;
+    }
+
+    .field input:focus,
+    .field textarea:focus{
+      border-color:var(--azul);
+      box-shadow:0 0 0 3px rgba(23,70,245,.10);
+    }
+
+    .field textarea{
+      min-height:130px;
+      resize:vertical;
+    }
+
+    .submit-button{
+      width:100%;
+      margin-top:18px;
+      border:none;
+      cursor:pointer;
+      color:var(--blanco);
+      background:var(--verde);
+    }
+
+    .submit-button:hover{
+      background:#1cad54;
+    }
+
+    .form-note{
+      margin-top:12px;
+      color:#7b8598;
+      font-size:12px;
+    }
+
+    footer{
+      color:#c6d0e9;
+      background:#050d25;
+    }
+
+    .footer-inner{
+      max-width:1200px;
+      margin:0 auto;
+      padding:40px 22px 22px;
+      display:grid;
+      grid-template-columns:1.2fr .8fr .8fr;
+      gap:40px;
+    }
+
+    .footer-logo{
+      width:210px;
+      margin-bottom:14px;
+      filter:brightness(0) invert(1);
+    }
+
+    footer h3{
+      margin-bottom:12px;
+      color:var(--blanco);
+      font-size:16px;
+    }
+
+    footer ul{
+      list-style:none;
+    }
+
+    footer li{
+      margin-bottom:7px;
+      font-size:14px;
+    }
+
+    footer p{
+      font-size:14px;
+    }
+
+    .copyright{
+      max-width:1200px;
+      margin:0 auto;
+      padding:18px 22px 24px;
+      border-top:1px solid rgba(255,255,255,.12);
+      text-align:center;
+      font-size:13px;
+    }
+
+    .floating-whatsapp{
+      position:fixed;
+      right:18px;
+      bottom:18px;
+      z-index:1500;
+      width:60px;
+      height:60px;
+      display:grid;
+      place-items:center;
+      border-radius:50%;
+      color:var(--blanco);
+      background:var(--verde);
+      box-shadow:0 10px 26px rgba(0,0,0,.25);
+      font-size:27px;
+      font-weight:900;
+    }
+
+    @media(max-width:1000px){
+      .hero-inner,
+      .about-inner,
+      .contact-layout{
+        grid-template-columns:1fr;
       }
 
-      .servicios,
-      .ventajas {
-        grid-template-columns: repeat(2, 1fr);
+      .hero-copy{
+        text-align:center;
+      }
+
+      .hero-copy>p{
+        margin-left:auto;
+        margin-right:auto;
+      }
+
+      .hero-actions,
+      .hero-points{
+        justify-content:center;
+      }
+
+      .solutions,
+      .industries{
+        grid-template-columns:repeat(2,1fr);
+      }
+
+      .process-grid{
+        grid-template-columns:repeat(2,1fr);
       }
     }
 
-    @media (max-width: 700px) {
-      .navegacion-contenido {
-        min-height: auto;
-        padding-top: 14px;
-        padding-bottom: 14px;
-        flex-direction: column;
-        gap: 10px;
+    @media(max-width:760px){
+      .nav-inner{
+        flex-direction:column;
+        padding:13px 16px;
+        gap:10px;
       }
 
-      .menu {
-        gap: 16px;
-        flex-wrap: wrap;
-        justify-content: center;
+      .nav-logo{
+        width:180px;
       }
 
-      .menu a {
-        font-size: 14px;
+      .menu{
+        justify-content:center;
+        gap:10px 16px;
+      }
+
+      .menu a{
+        font-size:13px;
+      }
+
+      .pillars-inner{
+        grid-template-columns:repeat(2,1fr);
+      }
+
+      .pillar:nth-child(2){
+        border-right:none;
+      }
+
+      .pillar:nth-child(-n+2){
+        border-bottom:1px solid rgba(255,255,255,.18);
+      }
+
+      .form-grid,
+      .footer-inner{
+        grid-template-columns:1fr;
       }
     }
 
-    @media (max-width: 600px) {
-      header {
-        padding: 42px 16px 48px;
+    @media(max-width:560px){
+      html{
+        scroll-padding-top:145px;
       }
 
-      .logo {
-        width: 390px;
-        max-width: 96%;
+      .topbar-inner{
+        justify-content:center;
+        text-align:center;
       }
 
-      header p {
-        font-size: 18px;
+      .hero-inner{
+        min-height:auto;
+        padding:50px 16px 58px;
       }
 
-      .boton {
-        padding: 14px 24px;
-        font-size: 16px;
+      .hero h1{
+        font-size:40px;
       }
 
-      section {
-        padding: 52px 16px;
+      .hero-copy>p{
+        font-size:17px;
       }
 
-      h2 {
-        margin-bottom: 32px;
-        font-size: 30px;
+      .hero-visual{
+        grid-template-columns:1fr;
       }
 
-      .nosotros-destacado {
-        padding: 30px 24px;
+      .hero-photo-main img{
+        height:330px;
       }
 
-      .nosotros-destacado h2 {
-        font-size: 28px;
+      .hero-side{
+        grid-template-columns:1fr 1fr;
+        grid-template-rows:auto;
       }
 
-      .servicios,
-      .ventajas {
-        grid-template-columns: 1fr;
+      .hero-device img{
+        height:140px;
       }
 
-      .servicio {
-        min-height: auto;
+      .pillars-inner,
+      .solutions,
+      .industries,
+      .process-grid{
+        grid-template-columns:1fr;
       }
 
-      .whatsapp-flotante {
-        width: 56px;
-        height: 56px;
-        right: 16px;
-        bottom: 16px;
+      .pillar{
+        border-right:none;
+        border-bottom:1px solid rgba(255,255,255,.18);
+      }
+
+      .pillar:last-child{
+        border-bottom:none;
+      }
+
+      .section,
+      .about-inner,
+      .process-inner,
+      .contact-inner{
+        padding:64px 16px;
+      }
+
+      .about-gallery{
+        grid-template-columns:1fr;
+        grid-template-rows:250px 180px 180px;
+      }
+
+      .about-gallery .tall{
+        grid-row:auto;
+      }
+
+      .contact-copy,
+      .contact-form{
+        padding:24px 18px;
+      }
+
+      .floating-whatsapp{
+        width:56px;
+        height:56px;
+        right:14px;
+        bottom:14px;
       }
     }
+  
+    /* Ajuste V6: imágenes laterales de portada sin áreas blancas */
+    .hero-device-image-only{
+      padding:0;
+      min-height:0;
+      height:100%;
+      overflow:hidden;
+      background:transparent;
+    }
+
+    .hero-device-image-only img{
+      width:100%;
+      height:100%;
+      min-height:0;
+      object-fit:cover;
+      border-radius:22px;
+    }
+
+    .hero-side{
+      grid-template-rows:minmax(0,1fr) minmax(0,1fr);
+    }
+
+    /* Encuadre uniforme de fotografías */
+    .solution img{
+      object-position:center;
+    }
+
+    .industry img{
+      object-position:center;
+    }
+
+  
+    /* Ajuste V7: composición uniforme de la portada */
+    .hero-visual{
+      height:470px;
+      min-height:470px;
+      align-items:stretch;
+    }
+
+    .hero-photo-main{
+      height:470px;
+      min-height:470px;
+      background:transparent;
+    }
+
+    .hero-photo-main img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center;
+    }
+
+    .hero-side{
+      height:470px;
+      min-height:470px;
+      display:grid;
+      grid-template-rows:repeat(2,minmax(0,1fr));
+      gap:14px;
+    }
+
+    .hero-side-photo{
+      min-height:0;
+      height:100%;
+      overflow:hidden;
+      border-radius:22px;
+      background:transparent;
+      box-shadow:var(--sombra);
+    }
+
+    .hero-side-photo img{
+      width:100%;
+      height:100%;
+      min-height:0;
+      object-fit:cover;
+      object-position:center;
+      border-radius:22px;
+    }
+
+    .hero-side-photo:first-child img{
+      object-position:center 42%;
+    }
+
+    .hero-side-photo:last-child img{
+      object-position:center 48%;
+    }
+
+    @media(max-width:560px){
+      .hero-visual{
+        height:auto;
+        min-height:0;
+      }
+
+      .hero-photo-main{
+        height:330px;
+        min-height:330px;
+      }
+
+      .hero-side{
+        height:300px;
+        min-height:300px;
+        grid-template-columns:1fr 1fr;
+        grid-template-rows:1fr;
+      }
+    }
+
+  
+    /* Ajuste V8: nueva fotografía principal del HPLC */
+    .hero-photo-main img{
+      object-position:center 48%;
+    }
+
+  
+    /* Ajustes V9: imágenes finales proporcionadas por Exacta */
+    .hero-photo-main img{
+      object-position:center 50%;
+    }
+
+    .solution-card img,
+    .sector-card img,
+    .card img{
+      width:100%;
+      height:230px;
+      object-fit:cover;
+      object-position:center;
+    }
+
+    .solution-card:nth-child(1) img{ object-position:center 48%; }
+    .solution-card:nth-child(2) img{ object-position:center 52%; }
+    .solution-card:nth-child(3) img{ object-position:center 50%; }
+    .solution-card:nth-child(4) img{ object-position:center 48%; }
+    .solution-card:nth-child(5) img{ object-position:center 45%; }
+    .solution-card:nth-child(6) img{ object-position:center 50%; }
+
+    .sector-card img{
+      height:165px;
+    }
+
+    .sector-card:nth-child(1) img{ object-position:center 50%; }
+    .sector-card:nth-child(2) img{ object-position:center 38%; }
+    .sector-card:nth-child(3) img{ object-position:center 45%; }
+    .sector-card:nth-child(4) img{ object-position:center 48%; }
+    .sector-card:nth-child(5) img{ object-position:center 45%; }
+    .sector-card:nth-child(6) img{ object-position:center 42%; }
+
   </style>
 </head>
 
 <body>
-  <nav class="navegacion" aria-label="Navegación principal">
-    <div class="navegacion-contenido">
-      <a class="marca" href="#inicio">EXACTA</a>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span>Lima, Perú · La solución EXACTA para su operación</span>
+      <span>contacto@exactaperu.com · +51 932 610 623</span>
+    </div>
+  </div>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="#inicio">
+        <img
+          class="nav-logo"
+          src="logo-exacta5.svg"
+          alt="Exacta Soluciones Industriales"
+        >
+      </a>
 
       <ul class="menu">
         <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#soluciones">Soluciones</a></li>
         <li><a href="#nosotros">Nosotros</a></li>
-        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#industrias">Industrias</a></li>
+        <li><a href="#proceso">Cómo trabajamos</a></li>
         <li><a href="#contacto">Contacto</a></li>
+        <li>
+          <a
+            class="cta"
+            href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Cotizar
+          </a>
+        </li>
       </ul>
     </div>
   </nav>
 
-  <header id="inicio">
-    <img
-      src="logo-exacta5.svg"
-      alt="Exacta Soluciones Industriales"
-      class="logo"
-    >
-
-    <p>
-      Soluciones técnicas especializadas para equipos de laboratorio,
-      instrumentación y procesos industriales.
-    </p>
-
-    <div class="botones-portada">
-      <a
-        class="boton"
-        href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Solicitar cotización
-      </a>
-
-      <a class="boton boton-secundario" href="#servicios">
-        Conocer servicios
-      </a>
-    </div>
-  </header>
-
   <main>
-    <section id="nosotros">
-      <div class="nosotros">
-        <div class="nosotros-destacado">
-          <h2>Sobre Exacta</h2>
+    <header class="hero" id="inicio">
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <div class="eyebrow">Servicio técnico · equipos · calibración</div>
+
+          <h1>
+            Soluciones confiables para
+            <span>laboratorios e industria</span>
+          </h1>
+
           <p>
-            Experiencia técnica aplicada a soluciones confiables para
-            laboratorios, industria e instrumentación especializada.
+            Mantenimiento, reparación, calibración, equipos, repuestos y
+            soporte técnico especializado para proteger la continuidad de su operación.
           </p>
+
+          <div class="hero-actions">
+            <a
+              class="btn btn-primary"
+              href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Solicitar cotización
+            </a>
+
+            <a class="btn btn-secondary" href="#soluciones">
+              Conocer soluciones
+            </a>
+          </div>
+
+          <div class="hero-points">
+            <span>Atención especializada</span>
+            <span>Soporte multimarca</span>
+            <span>Cobertura nacional</span>
+          </div>
         </div>
 
-        <div class="nosotros-texto">
-          <p>
-            <strong>Exacta Soluciones Industriales S.A.C.</strong> es una empresa peruana
-            orientada al servicio técnico, mantenimiento, reparación, calibración,
-            comercialización de equipos, repuestos y soluciones para laboratorio e industria.
-          </p>
+        <div class="hero-visual">
+          <div class="hero-photo-main">
+            <img
+              src="assets/equipos-instrumentacion.jpg"
+              alt="Laboratorio analítico con instrumentación"
+            >
+          </div>
 
-          <p>
-            Nuestro trabajo combina evaluación técnica, comunicación clara y atención
-            personalizada, buscando soluciones adecuadas para las necesidades operativas
-            de cada cliente.
-          </p>
+          <div class="hero-side">
+            <div class="hero-device hero-device-image-only">
+              <img style="object-fit:cover; object-position:center 48%;" src="assets/hero-balanza.png" alt="Balanza analítica de laboratorio">
+            </div>
 
-          <p>
-            Atendemos equipos e instrumentos de distintas marcas y tecnologías,
-            acompañando al cliente desde el diagnóstico hasta la ejecución y seguimiento
-            del servicio.
-          </p>
+            <div class="hero-device hero-device-image-only">
+              <img src="assets/hero-phmetro.png" alt="Medidor multiparámetro para análisis fisicoquímico">
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="pillars">
+      <div class="pillars-inner">
+        <div class="pillar">
+          <strong>Servicio técnico</strong>
+          <span>Mantenimiento, diagnóstico y reparación.</span>
+        </div>
+
+        <div class="pillar">
+          <strong>Instrumentación</strong>
+          <span>Equipos y soluciones para laboratorio e industria.</span>
+        </div>
+
+        <div class="pillar">
+          <strong>Calibración</strong>
+          <span>Gestión metrológica y soporte documental.</span>
+        </div>
+
+        <div class="pillar">
+          <strong>Abastecimiento</strong>
+          <span>Repuestos, accesorios y consumibles.</span>
         </div>
       </div>
     </section>
 
-    <section id="servicios">
-      <h2>Nuestros servicios</h2>
+    <section class="section" id="soluciones">
+      <div class="section-head">
+        <div class="eyebrow">Nuestras soluciones</div>
+        <h2>Servicio técnico y suministro especializado</h2>
+        <p>
+          Integramos atención técnica, calibración y comercialización para
+          responder a diferentes necesidades operativas.
+        </p>
+      </div>
 
-      <div class="servicios">
-        <article class="servicio">
-          <h3>Mantenimiento</h3>
-          <p>
-            Mantenimiento preventivo y correctivo de equipos de laboratorio
-            e instrumentación.
-          </p>
+      <div class="solutions">
+        <article class="solution">
+          <img src="assets/solucion-mantenimiento.jpg" alt="Técnico realizando mantenimiento y reparación con guantes">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 01</div>
+            <h3>Mantenimiento y reparación</h3>
+            <p>
+              Evaluación, mantenimiento preventivo, diagnóstico y reparación
+              de equipos de laboratorio e instrumentación.
+            </p>
+          </div>
         </article>
 
-        <article class="servicio">
-          <h3>Reparación</h3>
-          <p>
-            Diagnóstico y reparación especializada de equipos e instrumentos
-            de diversas marcas.
-          </p>
+        <article class="solution">
+          <img style="object-position:center 42%;" src="assets/solucion-metrologia.jpg" alt="Pesas patrón utilizadas en calibración y metrología">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 02</div>
+            <h3>Calibración y metrología</h3>
+            <p>
+              Gestión y ejecución de servicios de calibración para instrumentos
+              de medición según el requerimiento del cliente.
+            </p>
+          </div>
         </article>
 
-        <article class="servicio">
-          <h3>Calibración</h3>
-          <p>
-            Gestión y ejecución de servicios de calibración para equipos e
-            instrumentos de medición.
-          </p>
+        <article class="solution">
+          <img style="object-position:center 48%;" src="assets/equipos-instrumentacion.jpg" alt="Equipo e instrumentación utilizados en laboratorio">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 03</div>
+            <h3>Equipos e instrumentación</h3>
+            <p>
+              Soluciones para análisis, control de calidad, investigación y
+              procesos industriales.
+            </p>
+          </div>
         </article>
 
-        <article class="servicio">
-          <h3>Equipos y repuestos</h3>
-          <p>
-            Comercialización de equipos, repuestos, accesorios, consumibles
-            y soluciones para laboratorio e industria.
-          </p>
+        <article class="solution">
+          <img src="assets/solucion-repuestos.jpg" alt="Componentes electrónicos y repuestos de instrumentación">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 04</div>
+            <h3>Repuestos y componentes</h3>
+            <p>
+              Búsqueda y suministro de repuestos, accesorios, componentes y
+              consumibles de distintas marcas.
+            </p>
+          </div>
+        </article>
+
+        <article class="solution">
+          <img src="assets/solucion-capacitacion.jpg" alt="Capacitación y asesoría técnica en laboratorio">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 05</div>
+            <h3>Asesoría y capacitación</h3>
+            <p>
+              Evaluación de requerimientos, selección de alternativas,
+              acompañamiento técnico y capacitación.
+            </p>
+          </div>
+        </article>
+
+        <article class="solution">
+          <img src="assets/solucion-integral.jpg" alt="Atención técnica integral de un equipo de laboratorio">
+          <div class="solution-body">
+            <div class="solution-number">SOLUCIÓN 06</div>
+            <h3>Soluciones integrales</h3>
+            <p>
+              Atención coordinada para servicio, equipos, repuestos y soporte
+              en un solo punto de contacto.
+            </p>
+          </div>
         </article>
       </div>
     </section>
 
-    <section class="ventajas-section">
-      <div class="ventajas-contenido">
-        <h2>¿Por qué elegir Exacta?</h2>
+    <section class="about" id="nosotros">
+      <div class="about-inner">
+        <div class="about-gallery">
+          <img class="tall" src="assets/sobre-laboratorio.jpg" alt="Laboratorio técnico con condiciones controladas">
+          <img src="assets/sobre-balanza.jpg" alt="Balanza analítica instalada para operación">
+          <img src="assets/solucion-metrologia.jpg" alt="Juego de pesas patrón para calibración">
+        </div>
 
-        <div class="ventajas">
-          <article class="ventaja">
-            <h3>Experiencia técnica</h3>
-            <p>
-              Conocimiento especializado en equipos de laboratorio,
-              instrumentación y servicio técnico.
-            </p>
+        <div class="about-copy">
+          <div class="eyebrow">Sobre Exacta</div>
+          <h2>Conocimiento técnico orientado a soluciones reales</h2>
+
+          <p>
+            <strong>Exacta Soluciones Industriales S.A.C.</strong> es una empresa
+            peruana especializada en mantenimiento, reparación, calibración,
+            equipos, repuestos y soluciones para laboratorio e industria.
+          </p>
+
+          <p>
+            Nuestro enfoque combina evaluación técnica, comunicación clara y
+            atención personalizada. Analizamos cada necesidad para presentar
+            alternativas realistas y adecuadas para la operación del cliente.
+          </p>
+
+          <p>
+            Trabajamos con equipos e instrumentos de diferentes fabricantes,
+            acompañando cada requerimiento desde la evaluación inicial hasta
+            el seguimiento final.
+          </p>
+
+          <div class="experience-note">
+            <strong>Experiencia profesional acumulada:</strong>
+            el equipo fundador cuenta con una trayectoria amplia en servicio
+            técnico, calibración e instrumentación, aplicada hoy al desarrollo de Exacta.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="industrias">
+      <div class="section-head">
+        <div class="eyebrow">Industrias atendidas</div>
+        <h2>Soluciones para operaciones de alta exigencia</h2>
+        <p>
+          Atendemos organizaciones que dependen de la confiabilidad de sus
+          equipos, instrumentos y procesos de medición.
+        </p>
+      </div>
+
+      <div class="industries">
+        <article class="industry">
+          <img style="object-position:center 48%;" src="assets/sector-laboratorio.jpg" alt="Laboratorio de análisis instrumental con sistema HPLC">
+          <div class="industry-body">
+            <div class="industry-number">01</div>
+            <h3>Laboratorios</h3>
+            <p>Equipos, mantenimiento, calibración y soporte para análisis y control de calidad.</p>
+          </div>
+        </article>
+
+        <article class="industry">
+          <img src="assets/sector-farmaceutica.jpg" alt="Proceso controlado en industria farmacéutica">
+          <div class="industry-body">
+            <div class="industry-number">02</div>
+            <h3>Farmacéutica</h3>
+            <p>Atención técnica para laboratorios, producción y procesos regulados.</p>
+          </div>
+        </article>
+
+        <article class="industry">
+          <img style="object-position:center 60%;" src="assets/sector-alimentos.png" alt="Análisis fisicoquímico para alimentos y bebidas">
+          <div class="industry-body">
+            <div class="industry-number">03</div>
+            <h3>Alimentos y bebidas</h3>
+            <p>Instrumentación para análisis, producción, investigación y control de procesos.</p>
+          </div>
+        </article>
+
+        <article class="industry">
+          <img style="object-position:center 46%;" src="assets/sector-mineria.jpg" alt="Capacitación y soporte técnico para operaciones mineras">
+          <div class="industry-body">
+            <div class="industry-number">04</div>
+            <h3>Minería</h3>
+            <p>Soluciones para laboratorios, preparación de muestras y operaciones industriales.</p>
+          </div>
+        </article>
+
+        <article class="industry">
+          <img src="assets/sector-manufactura.jpg" alt="Instrumentación aplicada en una operación de manufactura">
+          <div class="industry-body">
+            <div class="industry-number">05</div>
+            <h3>Manufactura</h3>
+            <p>Soporte técnico e instrumentación para producción, inspección y mantenimiento.</p>
+          </div>
+        </article>
+
+        <article class="industry">
+          <img style="object-position:center 38%;" src="assets/sector-universidad.png" alt="Investigación y formación técnica universitaria">
+          <div class="industry-body">
+            <div class="industry-number">06</div>
+            <h3>Universidades</h3>
+            <p>Equipamiento y soporte para docencia, ensayos e investigación científica.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="process" id="proceso">
+      <div class="process-inner">
+        <div class="section-head">
+          <div class="eyebrow">Cómo trabajamos</div>
+          <h2>Un proceso claro para cada requerimiento</h2>
+          <p>
+            Desde la consulta inicial hasta la entrega, mantenemos una
+            comunicación ordenada y transparente.
+          </p>
+        </div>
+
+        <div class="process-grid">
+          <article class="process-card">
+            <div class="step">PASO 01</div>
+            <h3>Recepción</h3>
+            <p>Registramos la necesidad, el equipo y la información técnica disponible.</p>
           </article>
 
-          <article class="ventaja">
-            <h3>Atención especializada</h3>
-            <p>
-              Evaluación técnica orientada a identificar la solución más
-              adecuada para cada necesidad.
-            </p>
+          <article class="process-card">
+            <div class="step">PASO 02</div>
+            <h3>Evaluación</h3>
+            <p>Analizamos el alcance, las condiciones y las posibles alternativas.</p>
           </article>
 
-          <article class="ventaja">
-            <h3>Soporte multimarcas</h3>
-            <p>
-              Atención de equipos e instrumentos de diferentes fabricantes
-              y tecnologías.
-            </p>
+          <article class="process-card">
+            <div class="step">PASO 03</div>
+            <h3>Propuesta</h3>
+            <p>Presentamos solución, precio, plazo y condiciones del servicio o suministro.</p>
           </article>
 
-          <article class="ventaja">
-            <h3>Compromiso y respuesta</h3>
-            <p>
-              Comunicación clara, seguimiento técnico y atención enfocada
-              en la continuidad operativa del cliente.
-            </p>
+          <article class="process-card">
+            <div class="step">PASO 04</div>
+            <h3>Entrega</h3>
+            <p>Ejecutamos, documentamos y realizamos el seguimiento correspondiente.</p>
           </article>
         </div>
       </div>
     </section>
 
-    <section class="contacto-section" id="contacto">
-      <div class="contacto-contenido contacto">
-        <h2>Contacto</h2>
+    <section class="contact" id="contacto">
+      <div class="contact-inner">
+        <div class="contact-layout">
+          <div class="contact-copy">
+            <div class="eyebrow">Contacto directo</div>
+            <h2>Conversemos sobre su requerimiento</h2>
 
-        <div class="contacto-item">
-          <strong>Correo</strong>
-          <a href="mailto:contacto@exactaperu.com">
-            contacto@exactaperu.com
-          </a>
-        </div>
+            <p>
+              Cuéntenos qué equipo, servicio o solución necesita. Revisaremos
+              la información para orientarlo de manera clara y especializada.
+            </p>
 
-        <div class="contacto-item">
-          <strong>WhatsApp</strong>
-          <a
-            href="https://wa.me/51932610623"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            +51 932 610 623
-          </a>
-        </div>
+            <div class="contact-list">
+              <div class="contact-item">
+                <strong>Teléfono y WhatsApp</strong>
+                <a href="tel:+51932610623">+51 932 610 623</a>
+              </div>
 
-        <div class="contacto-item">
-          <strong>Ubicación</strong>
-          Lima, Perú
+              <div class="contact-item">
+                <strong>Correo</strong>
+                <a href="mailto:contacto@exactaperu.com">contacto@exactaperu.com</a>
+              </div>
+
+              <div class="contact-item">
+                <strong>Ubicación</strong>
+                <span>Lima, Perú · Atención a nivel nacional</span>
+              </div>
+            </div>
+          </div>
+
+          <form class="contact-form" id="whatsapp-form">
+            <h3>Solicitar información</h3>
+
+            <p>
+              Complete los datos y se abrirá WhatsApp con el mensaje listo para enviar.
+            </p>
+
+            <div class="form-grid">
+              <div class="field">
+                <label for="nombre">Nombre completo *</label>
+                <input id="nombre" type="text" placeholder="Su nombre" required>
+              </div>
+
+              <div class="field">
+                <label for="telefono">Teléfono *</label>
+                <input id="telefono" type="tel" placeholder="+51 999 999 999" required>
+              </div>
+
+              <div class="field">
+                <label for="empresa">Empresa / Institución</label>
+                <input id="empresa" type="text" placeholder="Nombre de empresa">
+              </div>
+
+              <div class="field">
+                <label for="correo">Correo electrónico</label>
+                <input id="correo" type="email" placeholder="correo@empresa.com">
+              </div>
+
+              <div class="field field-full">
+                <label for="mensaje">Requerimiento *</label>
+                <textarea
+                  id="mensaje"
+                  placeholder="Describa brevemente su consulta..."
+                  required
+                ></textarea>
+              </div>
+            </div>
+
+            <button class="btn submit-button" type="submit">
+              Enviar consulta por WhatsApp
+            </button>
+
+            <p class="form-note">
+              El formulario no almacena sus datos.
+            </p>
+          </form>
         </div>
       </div>
     </section>
   </main>
 
   <footer>
-    © 2026 Exacta Soluciones Industriales S.A.C.<br>
-    Todos los derechos reservados.
+    <div class="footer-inner">
+      <div>
+        <img
+          class="footer-logo"
+          src="logo-exacta5.svg"
+          alt="Exacta Soluciones Industriales"
+        >
+        <p>
+          Soluciones técnicas para equipos de laboratorio, instrumentación
+          y procesos industriales.
+        </p>
+      </div>
+
+      <div>
+        <h3>Navegación</h3>
+        <ul>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#soluciones">Soluciones</a></li>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#industrias">Industrias</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Contacto</h3>
+        <ul>
+          <li>Lima, Perú</li>
+          <li><a href="mailto:contacto@exactaperu.com">contacto@exactaperu.com</a></li>
+          <li><a href="tel:+51932610623">+51 932 610 623</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="copyright">
+      © 2026 Exacta Soluciones Industriales S.A.C. Todos los derechos reservados.
+    </div>
   </footer>
 
   <a
-    class="whatsapp-flotante"
+    class="floating-whatsapp"
     href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20recibir%20informaci%C3%B3n."
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Contactar por WhatsApp"
-    title="Contactar por WhatsApp"
   >
-    <svg viewBox="0 0 32 32" aria-hidden="true">
-      <path d="M19.11 17.29c-.26-.13-1.52-.75-1.76-.84-.24-.09-.41-.13-.59.13-.17.26-.67.84-.82 1.01-.15.17-.3.2-.56.07-.26-.13-1.08-.4-2.06-1.27-.76-.68-1.27-1.52-1.42-1.78-.15-.26-.02-.4.11-.53.12-.12.26-.3.39-.45.13-.15.17-.26.26-.43.09-.17.04-.32-.02-.45-.07-.13-.59-1.42-.8-1.94-.21-.51-.43-.44-.59-.45h-.5c-.17 0-.45.07-.69.32-.24.26-.91.89-.91 2.17 0 1.27.93 2.51 1.06 2.68.13.17 1.83 2.79 4.43 3.92.62.27 1.1.43 1.48.55.62.2 1.18.17 1.63.1.5-.08 1.52-.62 1.74-1.22.22-.6.22-1.11.15-1.22-.07-.11-.24-.17-.5-.3z"/>
-      <path d="M16.03 3.2c-7.1 0-12.87 5.76-12.87 12.86 0 2.27.59 4.49 1.72 6.44L3.05 29.2l6.86-1.8a12.85 12.85 0 0 0 6.12 1.56h.01c7.09 0 12.86-5.77 12.86-12.86 0-3.43-1.34-6.66-3.77-9.09A12.78 12.78 0 0 0 16.03 3.2zm0 23.58h-.01a10.67 10.67 0 0 1-5.44-1.49l-.39-.23-4.07 1.07 1.09-3.96-.25-.41a10.65 10.65 0 1 1 9.07 5.02z"/>
-    </svg>
+    ☎
   </a>
+
+  <script>
+    document.getElementById("whatsapp-form").addEventListener("submit", function(event) {
+      event.preventDefault();
+
+      const nombre = document.getElementById("nombre").value.trim();
+      const telefono = document.getElementById("telefono").value.trim();
+      const empresa = document.getElementById("empresa").value.trim();
+      const correo = document.getElementById("correo").value.trim();
+      const mensaje = document.getElementById("mensaje").value.trim();
+
+      const texto =
+        "Hola, quisiera solicitar información.%0A%0A" +
+        "*Nombre:* " + encodeURIComponent(nombre) + "%0A" +
+        "*Teléfono:* " + encodeURIComponent(telefono) + "%0A" +
+        "*Empresa / Institución:* " + encodeURIComponent(empresa || "No indicada") + "%0A" +
+        "*Correo:* " + encodeURIComponent(correo || "No indicado") + "%0A" +
+        "*Requerimiento:* " + encodeURIComponent(mensaje);
+
+      window.open("https://wa.me/51932610623?text=" + texto, "_blank");
+    });
+  </script>
 </body>
 </html>

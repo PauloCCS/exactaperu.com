@@ -1,3 +1,3 @@
 # exactaperu.com
-Sitio web oficial de Exacta Soluciones Industriales S.A.C.
- 
+
+Sitio web oficial de Exacta Soluciones Industriales S.A.C. — versión 15.
