@@ -3,1643 +3,775 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <meta name="description" content="Exacta Soluciones Industriales: mantenimiento, reparación, calibración, equipos, repuestos y soporte técnico para laboratorios e industria en Perú.">
   <title>Exacta Soluciones Industriales | Servicio técnico e instrumentación</title>
 
-  <meta
-    name="description"
-    content="Mantenimiento, reparación, calibración, equipos, repuestos y soporte técnico para laboratorios e industria en Perú."
-  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <style>
     :root{
-      --azul:#1746f5;
-      --azul-oscuro:#0a1c52;
-      --azul-profundo:#061333;
-      --azul-suave:#edf3ff;
-      --gris:#f5f7fb;
-      --texto:#263247;
-      --texto-suave:#667085;
-      --borde:#dde4ef;
-      --blanco:#ffffff;
-      --verde:#25d366;
-      --sombra:0 18px 42px rgba(10,28,82,.12);
+      --navy:#12385f;
+      --navy-2:#0b2948;
+      --blue:#2f638f;
+      --orange:#f58220;
+      --orange-dark:#d96812;
+      --accent-a:#0742F4;
+      --brand-blue:#0742F4;
+      --brand-blue-dark:#0536c9;
+      --accent-a-dark:#0638cf;
+      --text:#17304d;
+      --muted:#627184;
+      --line:#e4eaf0;
+      --soft:#f4f5f6;
+      --white:#ffffff;
+      --shadow:0 14px 36px rgba(18,56,95,.10);
+      --radius:12px;
+      --max:1180px;
     }
 
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-    }
-
-    html{
-      scroll-behavior:smooth;
-      scroll-padding-top:96px;
-    }
-
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
     body{
-      font-family:Arial,Helvetica,sans-serif;
-      color:var(--texto);
-      background:var(--blanco);
-      line-height:1.6;
+      margin:0;
+      font-family:"Inter",Arial,sans-serif;
+      color:var(--text);
+      background:#fff;
+      line-height:1.55;
     }
-
-    a{
-      color:inherit;
-      text-decoration:none;
-    }
-
-    img{
-      display:block;
-      width:100%;
-    }
-
-    .topbar{
-      color:var(--blanco);
-      background:var(--azul-profundo);
-      font-size:13px;
-    }
-
-    .topbar-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:8px 22px;
-      display:flex;
-      justify-content:space-between;
-      gap:20px;
-      flex-wrap:wrap;
-    }
-
-    .nav{
-      position:sticky;
-      top:0;
-      z-index:1200;
-      background:rgba(255,255,255,.97);
-      border-bottom:1px solid var(--borde);
-      box-shadow:0 5px 20px rgba(10,28,82,.06);
-      backdrop-filter:blur(10px);
-    }
-
-    .nav-inner{
-      max-width:1200px;
-      min-height:80px;
-      margin:0 auto;
-      padding:10px 22px;
-      display:flex;
-      justify-content:space-between;
-      align-items:center;
-      gap:26px;
-    }
-
-    .nav-logo{
-      width:215px;
-      max-height:58px;
-      object-fit:contain;
-    }
-
-    .menu{
-      display:flex;
-      align-items:center;
-      gap:24px;
-      list-style:none;
-      flex-wrap:wrap;
-    }
-
-    .menu a{
-      color:#3b4559;
-      font-size:15px;
-      font-weight:700;
-    }
-
-    .menu a:hover{
-      color:var(--azul);
-    }
-
-    .menu .cta{
-      padding:12px 20px;
-      border-radius:8px;
-      color:var(--blanco);
-      background:var(--azul);
-    }
-
-    .menu .cta:hover{
-      color:var(--blanco);
-      background:var(--azul-oscuro);
-    }
-
-    .hero{
-      background:
-        radial-gradient(circle at 80% 15%,rgba(23,70,245,.14),transparent 25%),
-        linear-gradient(135deg,#f9fbff 0%,#edf3ff 54%,#fff 100%);
-    }
-
-    .hero-inner{
-      max-width:1200px;
-      min-height:620px;
-      margin:0 auto;
-      padding:72px 22px;
-      display:grid;
-      grid-template-columns:1fr 1fr;
-      gap:56px;
-      align-items:center;
-    }
-
+    img{display:block;max-width:100%}
+    a{text-decoration:none;color:inherit}
+    button,input,textarea{font:inherit}
+    .container{width:min(var(--max),calc(100% - 40px));margin:auto}
     .eyebrow{
-      margin-bottom:12px;
-      color:var(--azul);
-      font-size:13px;
-      font-weight:800;
-      letter-spacing:1.2px;
+      color:var(--accent-a-dark);
       text-transform:uppercase;
+      letter-spacing:.12em;
+      font-size:.76rem;
+      font-weight:800;
+      margin:0 0 10px;
     }
-
-    .hero h1{
-      margin-bottom:22px;
-      color:var(--azul-oscuro);
-      font-size:clamp(42px,5vw,66px);
-      line-height:1.05;
-      letter-spacing:-1.5px;
+    .section{padding:88px 0}
+    .section.soft{background:var(--soft)}
+    .section-title{
+      max-width:760px;
+      margin:0 auto 42px;
+      text-align:center;
     }
-
-    .hero h1 span{
-      color:var(--azul);
+    .section-title h2{
+      margin:0 0 12px;
+      color:var(--navy);
+      font-size:clamp(2rem,4vw,3.1rem);
+      line-height:1.08;
+      letter-spacing:-.035em;
     }
-
-    .hero-copy>p{
-      max-width:650px;
-      margin-bottom:30px;
-      color:var(--texto-suave);
-      font-size:19px;
-    }
-
-    .hero-actions{
-      display:flex;
-      gap:14px;
-      flex-wrap:wrap;
-      margin-bottom:28px;
-    }
-
+    .section-title p{margin:0;color:var(--muted);font-size:1.05rem}
     .btn{
-      min-height:50px;
-      padding:14px 24px;
       display:inline-flex;
       align-items:center;
       justify-content:center;
-      border-radius:8px;
-      font-size:16px;
-      font-weight:700;
-      transition:transform .2s ease,background .2s ease;
+      gap:10px;
+      min-height:50px;
+      padding:0 22px;
+      border-radius:10px;
+      font-weight:800;
+      transition:.2s ease;
+      border:1px solid transparent;
+      cursor:pointer;
     }
-
-    .btn-primary{
-      color:var(--blanco);
-      background:var(--azul);
-      box-shadow:0 10px 26px rgba(23,70,245,.24);
+    .btn:hover{transform:translateY(-2px)}
+    .btn-primary{background:var(--brand-blue);color:#fff;box-shadow:0 10px 24px rgba(7,66,244,.28)}
+    .btn-primary:hover{background:var(--brand-blue-dark)}
+    .btn-outline{border-color:#b9c6d4;color:var(--navy);background:#fff}
+    .btn-outline:hover{border-color:var(--brand-blue);color:var(--brand-blue)}
+    .btn-whatsapp{background:#18a558;color:#fff}
+    .topbar{
+      background:var(--navy-2);
+      color:#dce7f4;
+      font-size:.82rem;
     }
-
-    .btn-primary:hover{
-      background:var(--azul-oscuro);
-      transform:translateY(-2px);
-    }
-
-    .btn-secondary{
-      color:var(--azul-oscuro);
-      background:var(--blanco);
-      border:1px solid #cbd5e4;
-    }
-
-    .btn-secondary:hover{
-      background:var(--azul-suave);
-      transform:translateY(-2px);
-    }
-
-    .hero-points{
+    .topbar-inner{
+      min-height:36px;
       display:flex;
-      flex-wrap:wrap;
-      gap:15px 25px;
-      color:#4b5568;
-      font-size:14px;
-      font-weight:700;
-    }
-
-    .hero-points span::before{
-      content:"✓";
-      margin-right:7px;
-      color:var(--azul);
-    }
-
-    .hero-visual{
-      display:grid;
-      grid-template-columns:1.25fr .75fr;
-      gap:14px;
-      min-height:470px;
-    }
-
-    .hero-photo-main,
-    .hero-device{
-      overflow:hidden;
-      border-radius:22px;
-      box-shadow:var(--sombra);
-      background:var(--blanco);
-    }
-
-    .hero-photo-main img{
-      height:470px;
-      object-fit:cover;
-    }
-
-    .hero-side{
-      display:grid;
-      grid-template-rows:1fr 1fr;
-      gap:14px;
-    }
-
-    .hero-device{
-      padding:13px;
-      display:flex;
-      flex-direction:column;
+      align-items:center;
       justify-content:space-between;
+      gap:20px;
     }
 
-    .hero-device img{
-      height:165px;
-      object-fit:cover;
-      border-radius:14px;
+    header{
+      position:sticky;
+      top:0;
+      z-index:1000;
+      background:rgba(255,255,255,.96);
+      backdrop-filter:blur(12px);
+      border-bottom:1px solid rgba(8,42,85,.08);
+    }
+    .nav{
+      min-height:76px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:26px;
+    }
+    .logo img{width:176px;height:auto}
+    .menu{display:flex;align-items:center;gap:28px;font-size:.91rem;font-weight:700}
+    .menu a{position:relative;color:#263d58}
+    .menu a:not(.nav-cta)::after{
+      content:"";position:absolute;left:0;right:100%;bottom:-8px;height:2px;
+      background:var(--accent-a);transition:.25s ease;
+    }
+    .menu a:hover::after{right:0}
+    .nav-cta{
+      padding:12px 18px;
+      border-radius:9px;
+      background:var(--brand-blue);
+      color:#fff!important;
+    }
+    .hamburger{
+      display:none;
+      border:0;
+      background:none;
+      font-size:1.8rem;
+      color:var(--navy);
+      cursor:pointer;
     }
 
-    .hero-device strong{
-      margin-top:10px;
-      color:var(--azul-oscuro);
-      font-size:14px;
-    }
-
-    .hero-device-image-only{
-      padding:0;
+    .hero{
+      position:relative;
+      min-height:690px;
+      display:flex;
+      align-items:center;
       overflow:hidden;
+      background:var(--navy-2);
+    }
+    .hero::before{
+      content:"";
+      position:absolute;inset:0;
+      background:
+        linear-gradient(90deg,rgba(11,41,72,.96) 0%,rgba(11,41,72,.82) 42%,rgba(11,41,72,.24) 72%,rgba(11,41,72,.06) 100%),
+        url("https://pauloccs.github.io/exactaperu.com/assets/equipos-instrumentacion.jpg") center/cover no-repeat;
+    }
+    .hero::after{
+      content:"";
+      position:absolute;inset:auto 0 0;height:120px;
+      background:linear-gradient(to top,rgba(3,24,51,.75),transparent);
+    }
+    .hero-content{position:relative;z-index:2;color:#fff;max-width:710px;padding:92px 0 122px}
+    .hero .eyebrow{color:#8fb0ff}
+    .hero h1{
+      margin:0 0 20px;
+      font-size:clamp(2.7rem,5.7vw,5rem);
+      line-height:.98;
+      letter-spacing:-.055em;
+      max-width:780px;
+    }
+    .hero h1 span{color:#4f7cff}
+    .hero-lead{font-size:clamp(1.05rem,1.7vw,1.25rem);max-width:650px;color:#e2ebf5;margin:0 0 30px}
+    .hero-actions{display:flex;gap:13px;flex-wrap:wrap;margin-bottom:42px}
+    .hero .btn-outline{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.5);color:#fff}
+    .trust-row{display:flex;gap:36px;flex-wrap:wrap}
+    .trust-item{display:flex;align-items:center;gap:11px;max-width:180px;font-size:.88rem;font-weight:700;color:#f1f5f9}
+    .trust-icon{
+      width:39px;height:39px;display:grid;place-items:center;flex:0 0 auto;
+      border:1px solid rgba(79,124,255,.72);border-radius:50%;color:#8fb0ff;
     }
 
-    .hero-device-image-only img{
-      width:100%;
-      height:100%;
-      min-height:0;
-      object-fit:cover;
-      border-radius:22px;
+    .quick-strip{
+      position:relative;
+      z-index:5;
+      margin-top:-58px;
     }
-
-    .pillars{
-      color:var(--blanco);
-      background:var(--azul-oscuro);
-    }
-
-    .pillars-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:28px 22px;
+    .quick-grid{
+      background:#fff;
+      box-shadow:var(--shadow);
+      border-radius:10px;
       display:grid;
       grid-template-columns:repeat(4,1fr);
+      overflow:hidden;
     }
+    .quick-item{padding:28px 25px;border-right:1px solid var(--line)}
+    .quick-item:last-child{border-right:0}
+    .quick-number{color:var(--accent-a-dark);font-size:.75rem;font-weight:800;letter-spacing:.1em}
+    .quick-item h3{font-size:1rem;margin:7px 0 5px;color:var(--navy)}
+    .quick-item p{font-size:.88rem;color:var(--muted);margin:0}
 
-    .pillar{
-      min-height:86px;
-      padding:14px 23px;
-      border-right:1px solid rgba(255,255,255,.18);
-    }
-
-    .pillar:last-child{
-      border-right:none;
-    }
-
-    .pillar strong{
-      display:block;
-      margin-bottom:3px;
-      font-size:20px;
-    }
-
-    .pillar span{
-      color:#dce5ff;
-      font-size:14px;
-    }
-
-    .section{
-      max-width:1200px;
-      margin:0 auto;
-      padding:88px 22px;
-    }
-
-    .section-head{
-      max-width:780px;
-      margin:0 auto 48px;
-      text-align:center;
-    }
-
-    .section-head h2{
-      margin-bottom:14px;
-      color:var(--azul-oscuro);
-      font-size:clamp(32px,4vw,44px);
-      line-height:1.15;
-    }
-
-    .section-head p{
-      color:var(--texto-suave);
-      font-size:18px;
-    }
-
-    .solutions{
+    .services-grid{
       display:grid;
       grid-template-columns:repeat(3,1fr);
-      gap:22px;
+      gap:24px;
     }
-
-    .solution{
+    .service-card{
+      background:#fff;
+      border:1px solid var(--line);
+      border-radius:var(--radius);
       overflow:hidden;
-      border:1px solid var(--borde);
-      border-radius:18px;
-      background:var(--blanco);
-      box-shadow:0 8px 24px rgba(10,28,82,.05);
-      transition:transform .22s ease,box-shadow .22s ease;
+      transition:.25s ease;
     }
+    .service-card:hover{transform:translateY(-6px);box-shadow:var(--shadow)}
+    .service-image{height:215px;overflow:hidden}
+    .service-image img{width:100%;height:100%;object-fit:cover;transition:.5s ease}
+    .service-card:hover img{transform:scale(1.04)}
+    .service-body{padding:26px}
+    .service-no{font-size:.75rem;color:var(--accent-a-dark);font-weight:800;letter-spacing:.1em}
+    .service-body h3{margin:7px 0 10px;color:var(--navy);font-size:1.23rem}
+    .service-body p{margin:0;color:var(--muted);font-size:.94rem}
 
-    .solution:hover{
-      transform:translateY(-6px);
-      box-shadow:var(--sombra);
-    }
-
-    .solution img{
-      height:185px;
-      object-fit:cover;
-    }
-
-    .solution-body{
-      padding:24px;
-    }
-
-    .solution-number{
-      margin-bottom:10px;
-      color:var(--azul);
-      font-size:13px;
-      font-weight:900;
-      letter-spacing:1px;
-    }
-
-    .solution h3{
-      margin-bottom:10px;
-      color:var(--azul-oscuro);
-      font-size:21px;
-      line-height:1.25;
-    }
-
-    .solution p{
-      color:var(--texto-suave);
-      font-size:15px;
-    }
-
-    .about{
-      background:var(--gris);
-      border-top:1px solid var(--borde);
-      border-bottom:1px solid var(--borde);
-    }
-
-    .about-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:88px 22px;
+    .about-layout{
       display:grid;
-      grid-template-columns:1fr 1fr;
-      gap:62px;
+      grid-template-columns:1.05fr .95fr;
+      gap:58px;
       align-items:center;
     }
-
-    .about-gallery{
+    .about-collage{
       display:grid;
-      grid-template-columns:1.15fr .85fr;
-      grid-template-rows:215px 215px;
+      grid-template-columns:1.2fr .8fr;
+      grid-template-rows:220px 220px;
       gap:14px;
     }
-
-    .about-gallery img{
-      height:100%;
-      object-fit:cover;
-      border-radius:17px;
-      box-shadow:0 10px 26px rgba(10,28,82,.09);
-    }
-
-    .about-gallery .tall{
-      grid-row:1/3;
-    }
-
+    .about-collage img{width:100%;height:100%;object-fit:cover;border-radius:16px}
+    .about-collage .tall{grid-row:1/3}
     .about-copy h2{
-      margin-bottom:20px;
-      color:var(--azul-oscuro);
-      font-size:clamp(34px,4vw,47px);
-      line-height:1.12;
+      margin:0 0 18px;
+      color:var(--navy);
+      font-size:clamp(2rem,4vw,3.1rem);
+      line-height:1.07;
+      letter-spacing:-.035em;
     }
+    .about-copy>p{color:var(--muted);font-size:1.03rem;margin:0 0 26px}
+    .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:32px 0}
+    .stat{padding:19px 16px;border-left:3px solid var(--accent-a);background:var(--soft)}
+    .stat strong{display:block;color:var(--navy);font-size:1.4rem}
+    .stat span{color:var(--muted);font-size:.82rem}
 
-    .about-copy p{
-      margin-bottom:16px;
-      color:var(--texto-suave);
-      font-size:17px;
-    }
-
-    .experience-note{
-      margin-top:24px;
-      padding:18px 19px;
-      border-left:4px solid var(--azul);
-      background:var(--blanco);
-      color:#42506a;
-      box-shadow:0 7px 20px rgba(10,28,82,.05);
-    }
-
-    .experience-note strong{
-      color:var(--azul-oscuro);
-    }
-
-    .industries{
+    .industries-grid{
       display:grid;
       grid-template-columns:repeat(3,1fr);
       gap:20px;
     }
-
     .industry{
+      position:relative;
+      height:320px;
+      border-radius:10px;
       overflow:hidden;
-      border:1px solid var(--borde);
-      border-radius:17px;
-      background:var(--blanco);
-      box-shadow:0 6px 18px rgba(10,28,82,.04);
-      transition:transform .2s ease;
+      color:#fff;
     }
-
-    .industry:hover{
-      transform:translateY(-5px);
+    .industry img{width:100%;height:100%;object-fit:cover;transition:.5s}
+    .industry:hover img{transform:scale(1.05)}
+    .industry::after{
+      content:"";position:absolute;inset:0;
+      background:linear-gradient(to top,rgba(3,24,51,.94),rgba(3,24,51,.06) 65%);
     }
+    .industry-content{position:absolute;z-index:2;left:24px;right:24px;bottom:22px}
+    .industry-content small{color:#8fb0ff;font-weight:800;letter-spacing:.1em}
+    .industry-content h3{font-size:1.45rem;margin:4px 0 5px}
+    .industry-content p{font-size:.88rem;color:#dce6f1;margin:0}
 
-    .industry img{
-      height:130px;
-      object-fit:cover;
+    .process-wrap{
+      background:var(--navy);
+      color:#fff;
+      border-radius:14px;
+      padding:54px;
     }
+    .process-heading{text-align:center;max-width:680px;margin:0 auto 44px}
+    .process-heading h2{font-size:clamp(2rem,4vw,3rem);margin:0 0 12px;line-height:1.08}
+    .process-heading p{margin:0;color:#cbd8e7}
+    .process-grid{display:grid;grid-template-columns:repeat(4,1fr)}
+    .step{position:relative;padding:0 26px;border-right:1px solid rgba(255,255,255,.18)}
+    .step:last-child{border-right:0}
+    .step-no{font-size:2.25rem;color:#5f86ff;font-weight:800;line-height:1}
+    .step h3{margin:15px 0 8px;font-size:1.1rem}
+    .step p{margin:0;color:#cfdae7;font-size:.89rem}
 
-    .industry-body{
-      padding:22px;
-    }
-
-    .industry-number{
-      margin-bottom:14px;
-      color:#b5c5f8;
-      font-size:27px;
-      font-weight:900;
-    }
-
-    .industry h3{
-      margin-bottom:8px;
-      color:var(--azul-oscuro);
-      font-size:20px;
-    }
-
-    .industry p{
-      color:var(--texto-suave);
-      font-size:14px;
-    }
-
-    .process{
-      color:var(--blanco);
-      background:var(--azul-oscuro);
-    }
-
-    .process-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:88px 22px;
-    }
-
-    .process .section-head h2{
-      color:var(--blanco);
-    }
-
-    .process .section-head p{
-      color:#dce5ff;
-    }
-
-    .process-grid{
-      display:grid;
-      grid-template-columns:repeat(4,1fr);
-      gap:18px;
-    }
-
-    .process-card{
-      padding:25px;
-      border:1px solid rgba(255,255,255,.18);
-      border-radius:15px;
-      background:rgba(255,255,255,.07);
-    }
-
-    .process-card .step{
-      margin-bottom:15px;
-      color:#8fb1ff;
-      font-size:13px;
-      font-weight:900;
-      letter-spacing:1px;
-    }
-
-    .process-card h3{
-      margin-bottom:10px;
-      font-size:20px;
-    }
-
-    .process-card p{
-      color:#dfe6ff;
-      font-size:14px;
-    }
-
-    .contact{
+    .cta{
       background:
-        radial-gradient(circle at 92% 25%,rgba(23,70,245,.25),transparent 24%),
-        linear-gradient(135deg,#eef3ff 0%,#f8faff 52%,#ffffff 100%);
-      border-top:1px solid var(--borde);
+        linear-gradient(90deg,rgba(3,24,51,.98),rgba(3,24,51,.76)),
+        url("https://pauloccs.github.io/exactaperu.com/assets/solucion-integral.jpg") center/cover;
+      color:#fff;
+      padding:72px 0;
     }
+    .cta-inner{display:flex;justify-content:space-between;align-items:center;gap:35px}
+    .cta h2{font-size:clamp(2rem,4vw,3.1rem);line-height:1.05;margin:0 0 12px;max-width:700px}
+    .cta p{margin:0;color:#dce6f2;max-width:700px}
 
-    .contact-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:86px 22px;
-    }
-
-    .contact-layout{
-      display:grid;
-      grid-template-columns:.85fr 1.15fr;
-      gap:48px;
-      align-items:stretch;
-    }
-
-    .contact-copy{
-      padding:38px;
-      border-radius:22px;
-      color:var(--blanco);
-      background:
-        linear-gradient(160deg,rgba(8,27,76,.96),rgba(18,50,125,.94)),
-        url("assets/metrologia.jpg") center/cover;
-      box-shadow:var(--sombra);
-    }
-
-    .contact-copy h2{
-      margin-bottom:15px;
-      font-size:clamp(34px,4vw,48px);
-      line-height:1.12;
-    }
-
-    .contact-copy>p{
-      margin-bottom:28px;
-      color:#dfe8ff;
-      font-size:17px;
-    }
-
-    .contact-list{
-      display:grid;
-      gap:15px;
-    }
-
-    .contact-item{
-      padding:15px;
-      border:1px solid rgba(255,255,255,.18);
+    .contact-layout{display:grid;grid-template-columns:.8fr 1.2fr;gap:34px}
+    .contact-info{
+      background:var(--navy);
+      color:#fff;
+      padding:40px;
       border-radius:12px;
-      background:rgba(255,255,255,.07);
     }
-
-    .contact-item strong{
-      display:block;
-      margin-bottom:2px;
-      color:var(--blanco);
-      font-size:14px;
-    }
-
-    .contact-item span,
-    .contact-item a{
-      color:#e9efff;
-      font-size:15px;
-    }
-
-    .contact-form{
-      padding:34px;
-      border:1px solid var(--borde);
-      border-radius:22px;
-      background:var(--blanco);
-      box-shadow:var(--sombra);
-    }
-
-    .contact-form h3{
-      margin-bottom:8px;
-      color:var(--azul-oscuro);
-      font-size:24px;
-    }
-
-    .contact-form>p{
-      margin-bottom:22px;
-      color:var(--texto-suave);
-      font-size:14px;
-    }
-
-    .form-grid{
-      display:grid;
-      grid-template-columns:repeat(2,1fr);
-      gap:16px;
-    }
-
-    .field{
-      display:flex;
-      flex-direction:column;
-      gap:7px;
-    }
-
-    .field-full{
-      grid-column:1/-1;
-    }
-
-    .field label{
-      color:#3d4860;
-      font-size:14px;
-      font-weight:700;
-    }
-
-    .field input,
-    .field textarea{
+    .contact-info h2{font-size:2rem;line-height:1.12;margin:0 0 15px}
+    .contact-info>p{color:#d5e0ec;margin:0 0 28px}
+    .contact-list{display:grid;gap:17px}
+    .contact-item{display:flex;gap:13px}
+    .contact-item span:first-child{color:#4f7cff}
+    .form-card{padding:38px;border:1px solid var(--line);border-radius:12px;background:#fff;box-shadow:0 12px 30px rgba(8,42,85,.06)}
+    .form-card h3{margin:0 0 22px;color:var(--navy);font-size:1.45rem}
+    .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+    .field{display:flex;flex-direction:column;gap:7px}
+    .field.full{grid-column:1/-1}
+    label{font-size:.82rem;font-weight:700;color:#344b65}
+    input,textarea{
       width:100%;
-      padding:14px 15px;
-      border:1px solid #cad4e3;
+      border:1px solid #d8e1ea;
       border-radius:9px;
-      color:var(--texto);
-      background:#fbfcff;
-      font:inherit;
+      padding:13px 14px;
       outline:none;
+      background:#fbfcfe;
     }
+    input:focus,textarea:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(11,92,168,.09)}
+    textarea{min-height:120px;resize:vertical}
+    .privacy{font-size:.76rem;color:var(--muted);margin-top:12px}
 
-    .field input:focus,
-    .field textarea:focus{
-      border-color:var(--azul);
-      box-shadow:0 0 0 3px rgba(23,70,245,.10);
-    }
+    footer{background:var(--navy-2);color:#d6e1ed;padding:58px 0 24px}
+    .footer-grid{display:grid;grid-template-columns:1.5fr .8fr .9fr;gap:50px}
+    .footer-logo{filter:brightness(0) invert(1);width:180px;margin-bottom:18px}
+    .footer-text{max-width:430px;color:#aebed0;font-size:.9rem}
+    footer h4{color:#fff;margin:0 0 15px}
+    footer ul{list-style:none;padding:0;margin:0;display:grid;gap:8px;font-size:.88rem;color:#aebed0}
+    .copyright{margin-top:44px;padding-top:20px;border-top:1px solid rgba(255,255,255,.12);font-size:.79rem;color:#91a4ba;display:flex;justify-content:space-between;gap:20px}
 
-    .field textarea{
-      min-height:130px;
-      resize:vertical;
-    }
-
-    .submit-button{
-      width:100%;
-      margin-top:18px;
-      border:none;
-      cursor:pointer;
-      color:var(--blanco);
-      background:var(--verde);
-    }
-
-    .submit-button:hover{
-      background:#1cad54;
-    }
-
-    .form-note{
-      margin-top:12px;
-      color:#7b8598;
-      font-size:12px;
-    }
-
-    footer{
-      color:#c6d0e9;
-      background:#050d25;
-    }
-
-    .footer-inner{
-      max-width:1200px;
-      margin:0 auto;
-      padding:40px 22px 22px;
-      display:grid;
-      grid-template-columns:1.2fr .8fr .8fr;
-      gap:40px;
-    }
-
-    .footer-logo{
-      width:210px;
-      margin-bottom:14px;
-      filter:brightness(0) invert(1);
-    }
-
-    footer h3{
-      margin-bottom:12px;
-      color:var(--blanco);
-      font-size:16px;
-    }
-
-    footer ul{
-      list-style:none;
-    }
-
-    footer li{
-      margin-bottom:7px;
-      font-size:14px;
-    }
-
-    footer p{
-      font-size:14px;
-    }
-
-    .copyright{
-      max-width:1200px;
-      margin:0 auto;
-      padding:18px 22px 24px;
-      border-top:1px solid rgba(255,255,255,.12);
-      text-align:center;
-      font-size:13px;
-    }
-
-    .whatsapp-container{
+    .whatsapp-float{
       position:fixed;
-      right:18px;
-      bottom:18px;
-      z-index:1500;
+      right:22px;
+      bottom:22px;
+      z-index:999;
       display:flex;
       align-items:center;
       gap:12px;
     }
-
-    .whatsapp-popup{
-      padding:13px 16px;
-      border:1px solid var(--borde);
+    .whatsapp-message{
+      position:relative;
+      max-width:245px;
+      padding:12px 16px;
+      border:1px solid #e0e6eb;
       border-radius:14px;
-      color:var(--texto);
-      background:var(--blanco);
-      box-shadow:0 10px 28px rgba(0,0,0,.18);
-      font-size:14px;
+      background:#fff;
+      color:var(--navy);
+      box-shadow:0 12px 32px rgba(18,56,95,.16);
+      font-size:.84rem;
       line-height:1.35;
-      opacity:0;
-      transform:translateX(16px);
-      animation:whatsappPopupIn .45s ease .8s forwards;
-      transition:opacity .45s ease,transform .45s ease;
     }
-
-    .whatsapp-popup strong{
-      display:block;
-      color:var(--azul-oscuro);
-      font-size:14px;
+    .whatsapp-message strong{display:block}
+    .whatsapp-message::after{
+      content:"";
+      position:absolute;
+      right:-7px;
+      top:50%;
+      width:13px;
+      height:13px;
+      background:#fff;
+      border-top:1px solid #e0e6eb;
+      border-right:1px solid #e0e6eb;
+      transform:translateY(-50%) rotate(45deg);
     }
-
-    .whatsapp-popup.hide{
-      opacity:0;
-      transform:translateX(16px);
-      pointer-events:none;
-    }
-
-    .floating-whatsapp{
+    .floating-wa{
       width:60px;
       height:60px;
+      border-radius:50%;
       display:grid;
       place-items:center;
       flex:0 0 auto;
-      border-radius:50%;
-      color:var(--blanco);
-      background:var(--verde);
-      box-shadow:0 10px 26px rgba(0,0,0,.25);
-      transition:transform .22s ease,box-shadow .22s ease;
+      color:#fff;
+      background:#25d366;
+      box-shadow:0 12px 30px rgba(0,0,0,.23);
+      transition:.2s ease;
+    }
+    .floating-wa:hover{transform:translateY(-3px) scale(1.03)}
+    .floating-wa svg{width:31px;height:31px}
+    @media (max-width:650px){
+      .whatsapp-float{right:14px;bottom:14px}
+      .whatsapp-message{display:none}
     }
 
-    .floating-whatsapp:hover{
-      transform:translateY(-3px) scale(1.04);
-      box-shadow:0 14px 30px rgba(0,0,0,.28);
+    @media (max-width:980px){
+      .menu{display:none;position:absolute;top:76px;left:0;right:0;background:#fff;padding:24px;box-shadow:var(--shadow);flex-direction:column;align-items:flex-start}
+      .menu.open{display:flex}
+      .hamburger{display:block}
+      .quick-grid,.process-grid{grid-template-columns:repeat(2,1fr)}
+      .quick-item:nth-child(2){border-right:0}
+      .quick-item:nth-child(-n+2){border-bottom:1px solid var(--line)}
+      .services-grid,.industries-grid{grid-template-columns:repeat(2,1fr)}
+      .about-layout,.contact-layout{grid-template-columns:1fr}
+      .about-copy{order:-1}
+      .cta-inner{align-items:flex-start;flex-direction:column}
+      .footer-grid{grid-template-columns:1fr 1fr}
     }
-
-    .floating-whatsapp svg{
-      width:32px;
-      height:32px;
-      fill:currentColor;
+    @media (max-width:650px){
+      .container{width:min(100% - 28px,var(--max))}
+      .topbar-inner{justify-content:center;text-align:center}
+      .topbar-inner span:last-child{display:none}
+      .logo img{width:148px}
+      .hero{min-height:650px}
+      .hero::before{
+        background:
+          linear-gradient(90deg,rgba(3,24,51,.97),rgba(3,24,51,.82)),
+          url("https://pauloccs.github.io/exactaperu.com/assets/equipos-instrumentacion.jpg") 64% center/cover;
+      }
+      .hero-content{padding:76px 0 120px}
+      .hero h1{font-size:2.9rem}
+      .trust-row{gap:18px}
+      .quick-grid,.services-grid,.industries-grid,.process-grid,.stats,.form-grid,.footer-grid{grid-template-columns:1fr}
+      .quick-item{border-right:0;border-bottom:1px solid var(--line)}
+      .quick-item:last-child{border-bottom:0}
+      .service-image{height:235px}
+      .about-collage{grid-template-columns:1fr;grid-template-rows:220px 180px 180px}
+      .about-collage .tall{grid-row:auto}
+      .process-wrap{padding:38px 23px}
+      .step{border-right:0;border-bottom:1px solid rgba(255,255,255,.17);padding:22px 0}
+      .step:last-child{border-bottom:0}
+      .section{padding:70px 0}
+      .form-card,.contact-info{padding:28px 22px}
+      .copyright{flex-direction:column}
     }
-
-    @keyframes whatsappPopupIn{
-      from{
-        opacity:0;
-        transform:translateX(16px);
-      }
-      to{
-        opacity:1;
-        transform:translateX(0);
-      }
-    }
-
-    @media(max-width:1000px){
-      .hero-inner,
-      .about-inner,
-      .contact-layout{
-        grid-template-columns:1fr;
-      }
-
-      .hero-copy{
-        text-align:center;
-      }
-
-      .hero-copy>p{
-        margin-left:auto;
-        margin-right:auto;
-      }
-
-      .hero-actions,
-      .hero-points{
-        justify-content:center;
-      }
-
-      .solutions,
-      .industries{
-        grid-template-columns:repeat(2,1fr);
-      }
-
-      .process-grid{
-        grid-template-columns:repeat(2,1fr);
-      }
-    }
-
-    @media(max-width:760px){
-      .nav-inner{
-        flex-direction:column;
-        padding:13px 16px;
-        gap:10px;
-      }
-
-      .nav-logo{
-        width:180px;
-      }
-
-      .menu{
-        justify-content:center;
-        gap:10px 16px;
-      }
-
-      .menu a{
-        font-size:13px;
-      }
-
-      .pillars-inner{
-        grid-template-columns:repeat(2,1fr);
-      }
-
-      .pillar:nth-child(2){
-        border-right:none;
-      }
-
-      .pillar:nth-child(-n+2){
-        border-bottom:1px solid rgba(255,255,255,.18);
-      }
-
-      .form-grid,
-      .footer-inner{
-        grid-template-columns:1fr;
-      }
-    }
-
-    @media(max-width:560px){
-      html{
-        scroll-padding-top:145px;
-      }
-
-      .topbar-inner{
-        justify-content:center;
-        text-align:center;
-      }
-
-      .hero-inner{
-        min-height:auto;
-        padding:50px 16px 58px;
-      }
-
-      .hero h1{
-        font-size:40px;
-      }
-
-      .hero-copy>p{
-        font-size:17px;
-      }
-
-      .hero-visual{
-        grid-template-columns:1fr;
-      }
-
-      .hero-photo-main img{
-        height:330px;
-      }
-
-      .hero-side{
-        grid-template-columns:1fr 1fr;
-        grid-template-rows:auto;
-      }
-
-      .hero-device img{
-        height:140px;
-      }
-
-      .pillars-inner,
-      .solutions,
-      .industries,
-      .process-grid{
-        grid-template-columns:1fr;
-      }
-
-      .pillar{
-        border-right:none;
-        border-bottom:1px solid rgba(255,255,255,.18);
-      }
-
-      .pillar:last-child{
-        border-bottom:none;
-      }
-
-      .section,
-      .about-inner,
-      .process-inner,
-      .contact-inner{
-        padding:64px 16px;
-      }
-
-      .about-gallery{
-        grid-template-columns:1fr;
-        grid-template-rows:250px 180px 180px;
-      }
-
-      .about-gallery .tall{
-        grid-row:auto;
-      }
-
-      .contact-copy,
-      .contact-form{
-        padding:24px 18px;
-      }
-
-      .whatsapp-container{
-        right:14px;
-        bottom:14px;
-      }
-
-      .whatsapp-popup{
-        display:none;
-      }
-
-      .floating-whatsapp{
-        width:56px;
-        height:56px;
-      }
-
-      .floating-whatsapp svg{
-        width:30px;
-        height:30px;
-      }
-    }
-  
-    /* Ajuste V6: imágenes laterales de portada sin áreas blancas */
-    .hero-device-image-only{
-      padding:0;
-      min-height:0;
-      height:100%;
-      overflow:hidden;
-      background:transparent;
-    }
-
-    .hero-device-image-only img{
-      width:100%;
-      height:100%;
-      min-height:0;
-      object-fit:cover;
-      border-radius:22px;
-    }
-
-    .hero-side{
-      grid-template-rows:minmax(0,1fr) minmax(0,1fr);
-    }
-
-    /* Encuadre uniforme de fotografías */
-    .solution img{
-      object-position:center;
-    }
-
-    .industry img{
-      object-position:center;
-    }
-
-  
-    /* Ajuste V7: composición uniforme de la portada */
-    .hero-visual{
-      height:470px;
-      min-height:470px;
-      align-items:stretch;
-    }
-
-    .hero-photo-main{
-      height:470px;
-      min-height:470px;
-      background:transparent;
-    }
-
-    .hero-photo-main img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      object-position:center;
-    }
-
-    .hero-side{
-      height:470px;
-      min-height:470px;
-      display:grid;
-      grid-template-rows:repeat(2,minmax(0,1fr));
-      gap:14px;
-    }
-
-    .hero-side-photo{
-      min-height:0;
-      height:100%;
-      overflow:hidden;
-      border-radius:22px;
-      background:transparent;
-      box-shadow:var(--sombra);
-    }
-
-    .hero-side-photo img{
-      width:100%;
-      height:100%;
-      min-height:0;
-      object-fit:cover;
-      object-position:center;
-      border-radius:22px;
-    }
-
-    .hero-side-photo:first-child img{
-      object-position:center 42%;
-    }
-
-    .hero-side-photo:last-child img{
-      object-position:center 48%;
-    }
-
-    @media(max-width:560px){
-      .hero-visual{
-        height:auto;
-        min-height:0;
-      }
-
-      .hero-photo-main{
-        height:330px;
-        min-height:330px;
-      }
-
-      .hero-side{
-        height:300px;
-        min-height:300px;
-        grid-template-columns:1fr 1fr;
-        grid-template-rows:1fr;
-      }
-    }
-
-  
-    /* Ajuste V8: nueva fotografía principal del HPLC */
-    .hero-photo-main img{
-      object-position:center 48%;
-    }
-
-  
-    /* Ajustes V9: imágenes finales proporcionadas por Exacta */
-    .hero-photo-main img{
-      object-position:center 50%;
-    }
-
-    .solution-card img,
-    .sector-card img,
-    .card img{
-      width:100%;
-      height:230px;
-      object-fit:cover;
-      object-position:center;
-    }
-
-    .solution-card:nth-child(1) img{ object-position:center 48%; }
-    .solution-card:nth-child(2) img{ object-position:center 52%; }
-    .solution-card:nth-child(3) img{ object-position:center 50%; }
-    .solution-card:nth-child(4) img{ object-position:center 48%; }
-    .solution-card:nth-child(5) img{ object-position:center 45%; }
-    .solution-card:nth-child(6) img{ object-position:center 50%; }
-
-    .sector-card img{
-      height:165px;
-    }
-
-    .sector-card:nth-child(1) img{ object-position:center 50%; }
-    .sector-card:nth-child(2) img{ object-position:center 38%; }
-    .sector-card:nth-child(3) img{ object-position:center 45%; }
-    .sector-card:nth-child(4) img{ object-position:center 48%; }
-    .sector-card:nth-child(5) img{ object-position:center 45%; }
-    .sector-card:nth-child(6) img{ object-position:center 42%; }
-
   </style>
 </head>
 
 <body>
   <div class="topbar">
-    <div class="topbar-inner">
+    <div class="container topbar-inner">
       <span>Lima, Perú · La solución EXACTA para su operación</span>
       <span>contacto@exactaperu.com · +51 932 610 623</span>
     </div>
   </div>
 
-  <nav class="nav">
-    <div class="nav-inner">
-      <a href="#inicio">
-        <img
-          class="nav-logo"
-          src="logo-exacta5.svg"
-          alt="Exacta Soluciones Industriales"
-        >
+  <header>
+    <div class="container nav">
+      <a class="logo" href="#inicio" aria-label="Exacta">
+        <img src="https://pauloccs.github.io/exactaperu.com/logo-exacta5.svg" alt="Exacta Soluciones Industriales">
       </a>
 
-      <ul class="menu">
-        <li><a href="#inicio">Inicio</a></li>
-        <li><a href="#soluciones">Soluciones</a></li>
-        <li><a href="#nosotros">Nosotros</a></li>
-        <li><a href="#industrias">Industrias</a></li>
-        <li><a href="#proceso">Cómo trabajamos</a></li>
-        <li><a href="#contacto">Contacto</a></li>
-        <li>
-          <a
-            class="cta"
-            href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Cotizar
-          </a>
-        </li>
-      </ul>
+      <button class="hamburger" id="menuButton" aria-label="Abrir menú">☰</button>
+
+      <nav class="menu" id="menu">
+        <a href="#inicio">Inicio</a>
+        <a href="#soluciones">Soluciones</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#industrias">Industrias</a>
+        <a href="#proceso">Cómo trabajamos</a>
+        <a href="#contacto">Contacto</a>
+        <a class="nav-cta" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20solicitar%20informaci%C3%B3n%20sobre%20sus%20servicios." target="_blank"><svg viewBox="0 0 32 32" aria-hidden="true" width="20" height="20" fill="currentColor">
+  <path d="M16.03 3C8.84 3 3 8.72 3 15.78c0 2.5.74 4.94 2.13 7.02L3.72 28l5.36-1.37a13.18 13.18 0 0 0 6.94 1.92h.01C23.22 28.55 29 22.83 29 15.78 29 8.72 23.22 3 16.03 3Zm0 23.39h-.01a11 11 0 0 1-5.61-1.51l-.4-.23-3.18.81.85-3.04-.26-.41a10.55 10.55 0 0 1-1.7-5.73c0-5.87 4.86-10.64 10.84-10.64 2.9 0 5.62 1.11 7.66 3.13a10.49 10.49 0 0 1 3.18 7.51c0 5.87-4.86 10.64-10.84 10.64Zm5.94-7.96c-.33-.16-1.94-.94-2.24-1.05-.3-.11-.52-.16-.74.16-.22.32-.85 1.05-1.04 1.27-.19.22-.38.24-.71.08-.33-.16-1.37-.5-2.61-1.58a9.62 9.62 0 0 1-1.81-2.22c-.19-.32-.02-.5.14-.66.15-.14.33-.38.49-.57.16-.19.22-.32.33-.54.11-.22.05-.41-.03-.57-.08-.16-.74-1.75-1.01-2.4-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.32-1.14 1.1-1.14 2.68 0 1.59 1.18 3.12 1.34 3.34.16.22 2.32 3.49 5.62 4.9.78.33 1.4.53 1.87.68.79.25 1.51.21 2.08.13.63-.09 1.94-.78 2.21-1.53.27-.76.27-1.4.19-1.53-.08-.14-.3-.22-.63-.38Z"/>
+</svg><span>Cotizar</span></a>
+      </nav>
     </div>
-  </nav>
+  </header>
 
   <main>
-    <header class="hero" id="inicio">
-      <div class="hero-inner">
-        <div class="hero-copy">
-          <div class="eyebrow">Servicio técnico · equipos · calibración</div>
-
-          <h1>
-            Soluciones confiables para
-            <span>laboratorios e industria</span>
-          </h1>
-
-          <p>
-            Mantenimiento, reparación, calibración, equipos, repuestos y
-            soporte técnico especializado para proteger la continuidad de su operación.
+    <section class="hero" id="inicio">
+      <div class="container">
+        <div class="hero-content">
+          <p class="eyebrow">Servicio técnico · Equipos · Calibración</p>
+          <h1>Soluciones técnicas para <span>equipos críticos</span></h1>
+          <p class="hero-lead">
+            Mantenimiento, reparación, calibración, equipos, repuestos y soporte técnico especializado para proteger la continuidad de su operación.
           </p>
 
           <div class="hero-actions">
-            <a
-              class="btn btn-primary"
-              href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20solicitar%20una%20cotizaci%C3%B3n."
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Solicitar cotización
-            </a>
-
-            <a class="btn btn-secondary" href="#soluciones">
-              Conocer soluciones
-            </a>
+            <a class="btn btn-primary" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20solicitar%20una%20cotizaci%C3%B3n." target="_blank"><svg viewBox="0 0 32 32" aria-hidden="true" width="20" height="20" fill="currentColor">
+  <path d="M16.03 3C8.84 3 3 8.72 3 15.78c0 2.5.74 4.94 2.13 7.02L3.72 28l5.36-1.37a13.18 13.18 0 0 0 6.94 1.92h.01C23.22 28.55 29 22.83 29 15.78 29 8.72 23.22 3 16.03 3Zm0 23.39h-.01a11 11 0 0 1-5.61-1.51l-.4-.23-3.18.81.85-3.04-.26-.41a10.55 10.55 0 0 1-1.7-5.73c0-5.87 4.86-10.64 10.84-10.64 2.9 0 5.62 1.11 7.66 3.13a10.49 10.49 0 0 1 3.18 7.51c0 5.87-4.86 10.64-10.84 10.64Zm5.94-7.96c-.33-.16-1.94-.94-2.24-1.05-.3-.11-.52-.16-.74.16-.22.32-.85 1.05-1.04 1.27-.19.22-.38.24-.71.08-.33-.16-1.37-.5-2.61-1.58a9.62 9.62 0 0 1-1.81-2.22c-.19-.32-.02-.5.14-.66.15-.14.33-.38.49-.57.16-.19.22-.32.33-.54.11-.22.05-.41-.03-.57-.08-.16-.74-1.75-1.01-2.4-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.32-1.14 1.1-1.14 2.68 0 1.59 1.18 3.12 1.34 3.34.16.22 2.32 3.49 5.62 4.9.78.33 1.4.53 1.87.68.79.25 1.51.21 2.08.13.63-.09 1.94-.78 2.21-1.53.27-.76.27-1.4.19-1.53-.08-.14-.3-.22-.63-.38Z"/>
+</svg><span>Solicitar cotización</span></a>
+            <a class="btn btn-outline" href="#soluciones">Conocer soluciones</a>
           </div>
 
-          <div class="hero-points">
-            <span>Atención especializada</span>
-            <span>Soporte multimarca</span>
-            <span>Cobertura nacional</span>
+          <div class="trust-row">
+            <div class="trust-item"><span class="trust-icon">✓</span><span>Experiencia técnica especializada</span></div>
+            <div class="trust-item"><span class="trust-icon">⚙</span><span>Soporte multimarca</span></div>
+            <div class="trust-item"><span class="trust-icon">⌖</span><span>Cobertura nacional</span></div>
           </div>
-        </div>
-
-        <div class="hero-visual">
-          <div class="hero-photo-main">
-            <img
-              src="assets/equipos-instrumentacion.jpg"
-              alt="Laboratorio analítico con instrumentación"
-            >
-          </div>
-
-          <div class="hero-side">
-            <div class="hero-device hero-device-image-only">
-              <img style="object-fit:cover; object-position:center 48%;" src="assets/hero-balanza.png" alt="Balanza analítica de laboratorio">
-            </div>
-
-            <div class="hero-device hero-device-image-only">
-              <img src="assets/hero-phmetro.png" alt="Medidor multiparámetro para análisis fisicoquímico">
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <section class="pillars">
-      <div class="pillars-inner">
-        <div class="pillar">
-          <strong>Servicio técnico</strong>
-          <span>Mantenimiento, diagnóstico y reparación.</span>
-        </div>
-
-        <div class="pillar">
-          <strong>Instrumentación</strong>
-          <span>Equipos y soluciones para laboratorio e industria.</span>
-        </div>
-
-        <div class="pillar">
-          <strong>Calibración</strong>
-          <span>Gestión metrológica y soporte documental.</span>
-        </div>
-
-        <div class="pillar">
-          <strong>Abastecimiento</strong>
-          <span>Repuestos, accesorios y consumibles.</span>
         </div>
       </div>
     </section>
+
+    <div class="quick-strip">
+      <div class="container quick-grid">
+        <article class="quick-item">
+          <span class="quick-number">01</span>
+          <h3>Servicio técnico</h3>
+          <p>Mantenimiento, diagnóstico y reparación.</p>
+        </article>
+        <article class="quick-item">
+          <span class="quick-number">02</span>
+          <h3>Instrumentación</h3>
+          <p>Equipos para laboratorio e industria.</p>
+        </article>
+        <article class="quick-item">
+          <span class="quick-number">03</span>
+          <h3>Calibración</h3>
+          <p>Gestión metrológica y documentación.</p>
+        </article>
+        <article class="quick-item">
+          <span class="quick-number">04</span>
+          <h3>Abastecimiento</h3>
+          <p>Repuestos, accesorios y consumibles.</p>
+        </article>
+      </div>
+    </div>
 
     <section class="section" id="soluciones">
-      <div class="section-head">
-        <div class="eyebrow">Nuestras soluciones</div>
-        <h2>Servicio técnico y suministro especializado</h2>
-        <p>
-          Integramos atención técnica, calibración y comercialización para
-          responder a diferentes necesidades operativas.
-        </p>
-      </div>
+      <div class="container">
+        <div class="section-title">
+          <p class="eyebrow">Nuestras soluciones</p>
+          <h2>Servicio técnico y suministro especializado</h2>
+          <p>Un solo punto de contacto para atender necesidades técnicas, metrológicas y de abastecimiento.</p>
+        </div>
 
-      <div class="solutions">
-        <article class="solution">
-          <img src="assets/solucion-mantenimiento.jpg" alt="Técnico realizando mantenimiento y reparación con guantes">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 01</div>
-            <h3>Mantenimiento y reparación</h3>
-            <p>
-              Evaluación, mantenimiento preventivo, diagnóstico y reparación
-              de equipos de laboratorio e instrumentación.
-            </p>
-          </div>
-        </article>
+        <div class="services-grid">
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-mantenimiento.jpg" alt="Mantenimiento y reparación"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 01</span>
+              <h3>Mantenimiento y reparación</h3>
+              <p>Evaluación, mantenimiento preventivo, diagnóstico y reparación de equipos de laboratorio e instrumentación.</p>
+            </div>
+          </article>
 
-        <article class="solution">
-          <img style="object-position:center 42%;" src="assets/solucion-metrologia.jpg" alt="Pesas patrón utilizadas en calibración y metrología">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 02</div>
-            <h3>Calibración y metrología</h3>
-            <p>
-              Gestión y ejecución de servicios de calibración para instrumentos
-              de medición según el requerimiento del cliente.
-            </p>
-          </div>
-        </article>
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-metrologia.jpg" alt="Calibración y metrología"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 02</span>
+              <h3>Calibración y metrología</h3>
+              <p>Servicios de calibración y soporte documental según el requerimiento técnico del cliente.</p>
+            </div>
+          </article>
 
-        <article class="solution">
-          <img style="object-position:center 48%;" src="assets/equipos-instrumentacion.jpg" alt="Equipo e instrumentación utilizados en laboratorio">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 03</div>
-            <h3>Equipos e instrumentación</h3>
-            <p>
-              Soluciones para análisis, control de calidad, investigación y
-              procesos industriales.
-            </p>
-          </div>
-        </article>
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/equipos-instrumentacion.jpg" alt="Equipos e instrumentación"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 03</span>
+              <h3>Equipos e instrumentación</h3>
+              <p>Soluciones para análisis, control de calidad, investigación y procesos industriales.</p>
+            </div>
+          </article>
 
-        <article class="solution">
-          <img src="assets/solucion-repuestos.jpg" alt="Componentes electrónicos y repuestos de instrumentación">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 04</div>
-            <h3>Repuestos y componentes</h3>
-            <p>
-              Búsqueda y suministro de repuestos, accesorios, componentes y
-              consumibles de distintas marcas.
-            </p>
-          </div>
-        </article>
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-repuestos.jpg" alt="Repuestos y componentes"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 04</span>
+              <h3>Repuestos y componentes</h3>
+              <p>Búsqueda y suministro de repuestos, accesorios, componentes y consumibles multimarca.</p>
+            </div>
+          </article>
 
-        <article class="solution">
-          <img src="assets/solucion-capacitacion.jpg" alt="Capacitación y asesoría técnica en laboratorio">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 05</div>
-            <h3>Asesoría y capacitación</h3>
-            <p>
-              Evaluación de requerimientos, selección de alternativas,
-              acompañamiento técnico y capacitación.
-            </p>
-          </div>
-        </article>
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-capacitacion.jpg" alt="Asesoría y capacitación"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 05</span>
+              <h3>Asesoría y capacitación</h3>
+              <p>Evaluación de necesidades, selección de alternativas y acompañamiento técnico.</p>
+            </div>
+          </article>
 
-        <article class="solution">
-          <img src="assets/solucion-integral.jpg" alt="Atención técnica integral de un equipo de laboratorio">
-          <div class="solution-body">
-            <div class="solution-number">SOLUCIÓN 06</div>
-            <h3>Soluciones integrales</h3>
-            <p>
-              Atención coordinada para servicio, equipos, repuestos y soporte
-              en un solo punto de contacto.
-            </p>
-          </div>
-        </article>
+          <article class="service-card">
+            <div class="service-image"><img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-integral.jpg" alt="Soluciones integrales"></div>
+            <div class="service-body">
+              <span class="service-no">SOLUCIÓN 06</span>
+              <h3>Soluciones integrales</h3>
+              <p>Atención coordinada para servicio, equipos, repuestos y soporte en un solo lugar.</p>
+            </div>
+          </article>
+        </div>
       </div>
     </section>
 
-    <section class="about" id="nosotros">
-      <div class="about-inner">
-        <div class="about-gallery">
-          <img class="tall" src="assets/sobre-laboratorio.jpg" alt="Laboratorio técnico con condiciones controladas">
-          <img src="assets/sobre-balanza.jpg" alt="Balanza analítica instalada para operación">
-          <img src="assets/solucion-metrologia.jpg" alt="Juego de pesas patrón para calibración">
+    <section class="section soft" id="nosotros">
+      <div class="container about-layout">
+        <div class="about-collage">
+          <img class="tall" src="https://pauloccs.github.io/exactaperu.com/assets/sobre-laboratorio.jpg" alt="Laboratorio técnico">
+          <img src="https://pauloccs.github.io/exactaperu.com/assets/sobre-balanza.jpg" alt="Balanza analítica">
+          <img src="https://pauloccs.github.io/exactaperu.com/assets/solucion-metrologia.jpg" alt="Pesas patrón">
         </div>
 
         <div class="about-copy">
-          <div class="eyebrow">Sobre Exacta</div>
+          <p class="eyebrow">Sobre Exacta</p>
           <h2>Conocimiento técnico orientado a soluciones reales</h2>
-
           <p>
-            <strong>Exacta Soluciones Industriales S.A.C.</strong> es una empresa
-            peruana especializada en mantenimiento, reparación, calibración,
-            equipos, repuestos y soluciones para laboratorio e industria.
+            Exacta Soluciones Industriales S.A.C. es una empresa peruana especializada en mantenimiento, reparación, calibración, equipos y repuestos para laboratorio e industria.
+          </p>
+          <p>
+            Combinamos evaluación técnica, comunicación clara y atención personalizada para proponer alternativas realistas y adecuadas a cada operación.
           </p>
 
-          <p>
-            Nuestro enfoque combina evaluación técnica, comunicación clara y
-            atención personalizada. Analizamos cada necesidad para presentar
-            alternativas realistas y adecuadas para la operación del cliente.
-          </p>
-
-          <p>
-            Trabajamos con equipos e instrumentos de diferentes fabricantes,
-            acompañando cada requerimiento desde la evaluación inicial hasta
-            el seguimiento final.
-          </p>
-
-          <div class="experience-note">
-            <strong>Experiencia profesional acumulada:</strong>
-            el equipo fundador cuenta con una trayectoria amplia en servicio
-            técnico, calibración e instrumentación, aplicada hoy al desarrollo de Exacta.
+          <div class="stats">
+            <div class="stat"><strong>+16 años</strong><span>de experiencia profesional acumulada</span></div>
+            <div class="stat"><strong>Multimarca</strong><span>soporte para diferentes fabricantes</span></div>
+            <div class="stat"><strong>Perú</strong><span>atención con cobertura nacional</span></div>
           </div>
+
+          <a class="btn btn-primary" href="#contacto">Conversemos sobre su necesidad</a>
         </div>
       </div>
     </section>
 
     <section class="section" id="industrias">
-      <div class="section-head">
-        <div class="eyebrow">Industrias atendidas</div>
-        <h2>Soluciones para operaciones de alta exigencia</h2>
-        <p>
-          Atendemos organizaciones que dependen de la confiabilidad de sus
-          equipos, instrumentos y procesos de medición.
-        </p>
-      </div>
-
-      <div class="industries">
-        <article class="industry">
-          <img style="object-position:center 48%;" src="assets/sector-laboratorio.jpg" alt="Laboratorio de análisis instrumental con sistema HPLC">
-          <div class="industry-body">
-            <div class="industry-number">01</div>
-            <h3>Laboratorios</h3>
-            <p>Equipos, mantenimiento, calibración y soporte para análisis y control de calidad.</p>
-          </div>
-        </article>
-
-        <article class="industry">
-          <img src="assets/sector-farmaceutica.jpg" alt="Proceso controlado en industria farmacéutica">
-          <div class="industry-body">
-            <div class="industry-number">02</div>
-            <h3>Farmacéutica</h3>
-            <p>Atención técnica para laboratorios, producción y procesos regulados.</p>
-          </div>
-        </article>
-
-        <article class="industry">
-          <img style="object-position:center 60%;" src="assets/sector-alimentos.png" alt="Análisis fisicoquímico para alimentos y bebidas">
-          <div class="industry-body">
-            <div class="industry-number">03</div>
-            <h3>Alimentos y bebidas</h3>
-            <p>Instrumentación para análisis, producción, investigación y control de procesos.</p>
-          </div>
-        </article>
-
-        <article class="industry">
-          <img style="object-position:center 46%;" src="assets/sector-mineria.jpg" alt="Capacitación y soporte técnico para operaciones mineras">
-          <div class="industry-body">
-            <div class="industry-number">04</div>
-            <h3>Minería</h3>
-            <p>Soluciones para laboratorios, preparación de muestras y operaciones industriales.</p>
-          </div>
-        </article>
-
-        <article class="industry">
-          <img src="assets/sector-manufactura.jpg" alt="Instrumentación aplicada en una operación de manufactura">
-          <div class="industry-body">
-            <div class="industry-number">05</div>
-            <h3>Manufactura</h3>
-            <p>Soporte técnico e instrumentación para producción, inspección y mantenimiento.</p>
-          </div>
-        </article>
-
-        <article class="industry">
-          <img style="object-position:center 38%;" src="assets/sector-universidad.png" alt="Investigación y formación técnica universitaria">
-          <div class="industry-body">
-            <div class="industry-number">06</div>
-            <h3>Universidades</h3>
-            <p>Equipamiento y soporte para docencia, ensayos e investigación científica.</p>
-          </div>
-        </article>
-      </div>
-    </section>
-
-    <section class="process" id="proceso">
-      <div class="process-inner">
-        <div class="section-head">
-          <div class="eyebrow">Cómo trabajamos</div>
-          <h2>Un proceso claro para cada requerimiento</h2>
-          <p>
-            Desde la consulta inicial hasta la entrega, mantenemos una
-            comunicación ordenada y transparente.
-          </p>
+      <div class="container">
+        <div class="section-title">
+          <p class="eyebrow">Industrias atendidas</p>
+          <h2>Soluciones para operaciones de alta exigencia</h2>
+          <p>Atendemos organizaciones que dependen de la confiabilidad de sus equipos, instrumentos y procesos de medición.</p>
         </div>
 
-        <div class="process-grid">
-          <article class="process-card">
-            <div class="step">PASO 01</div>
-            <h3>Recepción</h3>
-            <p>Registramos la necesidad, el equipo y la información técnica disponible.</p>
+        <div class="industries-grid">
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-laboratorio.jpg" alt="Laboratorios">
+            <div class="industry-content"><small>01</small><h3>Laboratorios</h3><p>Análisis, control de calidad y soporte instrumental.</p></div>
           </article>
 
-          <article class="process-card">
-            <div class="step">PASO 02</div>
-            <h3>Evaluación</h3>
-            <p>Analizamos el alcance, las condiciones y las posibles alternativas.</p>
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-farmaceutica.jpg" alt="Farmacéutica">
+            <div class="industry-content"><small>02</small><h3>Farmacéutica</h3><p>Atención para laboratorios y procesos regulados.</p></div>
           </article>
 
-          <article class="process-card">
-            <div class="step">PASO 03</div>
-            <h3>Propuesta</h3>
-            <p>Presentamos solución, precio, plazo y condiciones del servicio o suministro.</p>
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-alimentos.png" alt="Alimentos y bebidas">
+            <div class="industry-content"><small>03</small><h3>Alimentos y bebidas</h3><p>Instrumentación para análisis y producción.</p></div>
           </article>
 
-          <article class="process-card">
-            <div class="step">PASO 04</div>
-            <h3>Entrega</h3>
-            <p>Ejecutamos, documentamos y realizamos el seguimiento correspondiente.</p>
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-mineria.jpg" alt="Minería">
+            <div class="industry-content"><small>04</small><h3>Minería</h3><p>Laboratorios, preparación de muestras y operación.</p></div>
+          </article>
+
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-manufactura.jpg" alt="Manufactura">
+            <div class="industry-content"><small>05</small><h3>Manufactura</h3><p>Soporte para producción, inspección y mantenimiento.</p></div>
+          </article>
+
+          <article class="industry">
+            <img src="https://pauloccs.github.io/exactaperu.com/assets/sector-universidad.png" alt="Universidades">
+            <div class="industry-content"><small>06</small><h3>Universidades</h3><p>Equipamiento y soporte para docencia e investigación.</p></div>
           </article>
         </div>
       </div>
     </section>
 
-    <section class="contact" id="contacto">
-      <div class="contact-inner">
-        <div class="contact-layout">
-          <div class="contact-copy">
-            <div class="eyebrow">Contacto directo</div>
-            <h2>Conversemos sobre su requerimiento</h2>
-
-            <p>
-              Cuéntenos qué equipo, servicio o solución necesita. Revisaremos
-              la información para orientarlo de manera clara y especializada.
-            </p>
-
-            <div class="contact-list">
-              <div class="contact-item">
-                <strong>Teléfono y WhatsApp</strong>
-                <a href="tel:+51932610623">+51 932 610 623</a>
-              </div>
-
-              <div class="contact-item">
-                <strong>Correo</strong>
-                <a href="mailto:contacto@exactaperu.com">contacto@exactaperu.com</a>
-              </div>
-
-              <div class="contact-item">
-                <strong>Ubicación</strong>
-                <span>Lima, Perú · Atención a nivel nacional</span>
-              </div>
-            </div>
+    <section class="section soft" id="proceso">
+      <div class="container">
+        <div class="process-wrap">
+          <div class="process-heading">
+            <p class="eyebrow">Cómo trabajamos</p>
+            <h2>Un proceso claro para cada requerimiento</h2>
+            <p>Desde la consulta inicial hasta la entrega, mantenemos una comunicación ordenada y transparente.</p>
           </div>
 
-          <form class="contact-form" id="whatsapp-form">
-            <h3>Solicitar información</h3>
-
-            <p>
-              Complete los datos y se abrirá WhatsApp con el mensaje listo para enviar.
-            </p>
-
-            <div class="form-grid">
-              <div class="field">
-                <label for="nombre">Nombre completo *</label>
-                <input id="nombre" type="text" placeholder="Su nombre" required>
-              </div>
-
-              <div class="field">
-                <label for="telefono">Teléfono *</label>
-                <input id="telefono" type="tel" placeholder="+51 999 999 999" required>
-              </div>
-
-              <div class="field">
-                <label for="empresa">Empresa / Institución</label>
-                <input id="empresa" type="text" placeholder="Nombre de empresa">
-              </div>
-
-              <div class="field">
-                <label for="correo">Correo electrónico</label>
-                <input id="correo" type="email" placeholder="correo@empresa.com">
-              </div>
-
-              <div class="field field-full">
-                <label for="mensaje">Requerimiento *</label>
-                <textarea
-                  id="mensaje"
-                  placeholder="Describa brevemente su consulta..."
-                  required
-                ></textarea>
-              </div>
-            </div>
-
-            <button class="btn submit-button" type="submit">
-              Enviar consulta por WhatsApp
-            </button>
-
-            <p class="form-note">
-              El formulario no almacena sus datos.
-            </p>
-          </form>
+          <div class="process-grid">
+            <article class="step"><div class="step-no">01</div><h3>Recepción</h3><p>Registramos la necesidad, el equipo y la información técnica disponible.</p></article>
+            <article class="step"><div class="step-no">02</div><h3>Evaluación</h3><p>Analizamos el alcance, las condiciones y las alternativas posibles.</p></article>
+            <article class="step"><div class="step-no">03</div><h3>Propuesta</h3><p>Presentamos solución, precio, plazo y condiciones comerciales.</p></article>
+            <article class="step"><div class="step-no">04</div><h3>Entrega</h3><p>Ejecutamos, documentamos y realizamos el seguimiento correspondiente.</p></article>
+          </div>
         </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container cta-inner">
+        <div>
+          <h2>La solución EXACTA para proteger su operación</h2>
+          <p>Cuéntenos qué equipo, servicio o suministro necesita. Revisaremos la información y le orientaremos de manera clara.</p>
+        </div>
+        <a class="btn btn-primary" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20consultar%20sobre%20un%20equipo%20o%20servicio." target="_blank"><svg viewBox="0 0 32 32" aria-hidden="true" width="20" height="20" fill="currentColor">
+  <path d="M16.03 3C8.84 3 3 8.72 3 15.78c0 2.5.74 4.94 2.13 7.02L3.72 28l5.36-1.37a13.18 13.18 0 0 0 6.94 1.92h.01C23.22 28.55 29 22.83 29 15.78 29 8.72 23.22 3 16.03 3Zm0 23.39h-.01a11 11 0 0 1-5.61-1.51l-.4-.23-3.18.81.85-3.04-.26-.41a10.55 10.55 0 0 1-1.7-5.73c0-5.87 4.86-10.64 10.84-10.64 2.9 0 5.62 1.11 7.66 3.13a10.49 10.49 0 0 1 3.18 7.51c0 5.87-4.86 10.64-10.84 10.64Zm5.94-7.96c-.33-.16-1.94-.94-2.24-1.05-.3-.11-.52-.16-.74.16-.22.32-.85 1.05-1.04 1.27-.19.22-.38.24-.71.08-.33-.16-1.37-.5-2.61-1.58a9.62 9.62 0 0 1-1.81-2.22c-.19-.32-.02-.5.14-.66.15-.14.33-.38.49-.57.16-.19.22-.32.33-.54.11-.22.05-.41-.03-.57-.08-.16-.74-1.75-1.01-2.4-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.32-1.14 1.1-1.14 2.68 0 1.59 1.18 3.12 1.34 3.34.16.22 2.32 3.49 5.62 4.9.78.33 1.4.53 1.87.68.79.25 1.51.21 2.08.13.63-.09 1.94-.78 2.21-1.53.27-.76.27-1.4.19-1.53-.08-.14-.3-.22-.63-.38Z"/>
+</svg><span>Escribir por WhatsApp</span></a>
+      </div>
+    </section>
+
+    <section class="section" id="contacto">
+      <div class="container contact-layout">
+        <aside class="contact-info">
+          <p class="eyebrow">Contacto directo</p>
+          <h2>Conversemos sobre su requerimiento</h2>
+          <p>Le ayudaremos a identificar la alternativa técnica más adecuada para su necesidad.</p>
+
+          <div class="contact-list">
+            <div class="contact-item"><span>●</span><div><strong>Teléfono y WhatsApp</strong><br>+51 932 610 623</div></div>
+            <div class="contact-item"><span>●</span><div><strong>Correo</strong><br>contacto@exactaperu.com</div></div>
+            <div class="contact-item"><span>●</span><div><strong>Ubicación</strong><br>Lima, Perú · Cobertura nacional</div></div>
+          </div>
+        </aside>
+
+        <form class="form-card" id="contactForm">
+          <h3>Solicitar información</h3>
+          <div class="form-grid">
+            <div class="field"><label for="nombre">Nombre completo *</label><input id="nombre" required></div>
+            <div class="field"><label for="telefono">Teléfono *</label><input id="telefono" required></div>
+            <div class="field"><label for="empresa">Empresa / Institución</label><input id="empresa"></div>
+            <div class="field"><label for="correo">Correo electrónico</label><input id="correo" type="email"></div>
+            <div class="field full"><label for="mensaje">Requerimiento *</label><textarea id="mensaje" required></textarea></div>
+            <div class="field full"><button class="btn btn-primary" type="submit">Enviar consulta por WhatsApp</button></div>
+          </div>
+          <p class="privacy">El formulario no almacena sus datos; genera el mensaje y abre WhatsApp.</p>
+        </form>
       </div>
     </section>
   </main>
 
   <footer>
-    <div class="footer-inner">
-      <div>
-        <img
-          class="footer-logo"
-          src="logo-exacta5.svg"
-          alt="Exacta Soluciones Industriales"
-        >
-        <p>
-          Soluciones técnicas para equipos de laboratorio, instrumentación
-          y procesos industriales.
-        </p>
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <img class="footer-logo" src="https://pauloccs.github.io/exactaperu.com/logo-exacta5.svg" alt="Exacta">
+          <p class="footer-text">Soluciones técnicas para equipos de laboratorio, instrumentación y procesos industriales.</p>
+        </div>
+
+        <div>
+          <h4>Navegación</h4>
+          <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#soluciones">Soluciones</a></li>
+            <li><a href="#nosotros">Nosotros</a></li>
+            <li><a href="#industrias">Industrias</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4>Contacto</h4>
+          <ul>
+            <li>Lima, Perú</li>
+            <li>contacto@exactaperu.com</li>
+            <li>+51 932 610 623</li>
+          </ul>
+        </div>
       </div>
 
-      <div>
-        <h3>Navegación</h3>
-        <ul>
-          <li><a href="#inicio">Inicio</a></li>
-          <li><a href="#soluciones">Soluciones</a></li>
-          <li><a href="#nosotros">Nosotros</a></li>
-          <li><a href="#industrias">Industrias</a></li>
-          <li><a href="#contacto">Contacto</a></li>
-        </ul>
+      <div class="copyright">
+        <span>© 2026 Exacta Soluciones Industriales S.A.C. Todos los derechos reservados.</span>
+        <span>Servicio técnico · Calibración · Equipos · Repuestos</span>
       </div>
-
-      <div>
-        <h3>Contacto</h3>
-        <ul>
-          <li>Lima, Perú</li>
-          <li><a href="mailto:contacto@exactaperu.com">contacto@exactaperu.com</a></li>
-          <li><a href="tel:+51932610623">+51 932 610 623</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="copyright">
-      © 2026 Exacta Soluciones Industriales S.A.C. Todos los derechos reservados.
     </div>
   </footer>
 
-  <div class="whatsapp-container">
-    <div class="whatsapp-popup" id="whatsapp-popup" role="status" aria-live="polite">
+  <div class="whatsapp-float">
+    <div class="whatsapp-message">
       <strong>¿Necesita soporte técnico?</strong>
       Escríbanos por WhatsApp
     </div>
-
-    <a
-      class="floating-whatsapp"
-      href="https://wa.me/51932610623?text=Hola%2C%20quisiera%20recibir%20informaci%C3%B3n%20sobre%20sus%20servicios."
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Contactar con Exacta por WhatsApp"
-      title="Contactar por WhatsApp"
-    >
-      <svg viewBox="0 0 32 32" aria-hidden="true">
-        <path d="M19.11 17.53c-.27-.14-1.6-.79-1.85-.88-.25-.09-.43-.14-.61.14-.18.27-.7.88-.86 1.06-.16.18-.32.2-.59.07-.27-.14-1.14-.42-2.18-1.34-.81-.72-1.35-1.61-1.51-1.88-.16-.27-.02-.42.12-.55.12-.12.27-.32.41-.48.14-.16.18-.27.27-.45.09-.18.05-.34-.02-.48-.07-.14-.61-1.47-.84-2.01-.22-.53-.45-.46-.61-.47h-.52c-.18 0-.48.07-.73.34-.25.27-.95.93-.95 2.27s.98 2.63 1.11 2.81c.14.18 1.93 2.95 4.68 4.14.65.28 1.16.45 1.56.57.66.21 1.25.18 1.72.11.52-.08 1.6-.66 1.83-1.29.23-.64.23-1.18.16-1.29-.07-.11-.25-.18-.52-.32z"/>
-        <path d="M16.03 3.2c-7.07 0-12.82 5.75-12.82 12.82 0 2.26.59 4.47 1.71 6.41L3.1 29.07l6.8-1.78a12.78 12.78 0 0 0 6.13 1.56h.01c7.07 0 12.82-5.75 12.82-12.82S23.1 3.2 16.03 3.2zm0 23.48h-.01a10.64 10.64 0 0 1-5.43-1.49l-.39-.23-4.03 1.06 1.08-3.93-.25-.4a10.64 10.64 0 1 1 9.03 4.99z"/>
-      </svg>
+    <a class="floating-wa" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20informaci%C3%B3n%20sobre%20Exacta." target="_blank" aria-label="Escribir a Exacta por WhatsApp">
+      <svg viewBox="0 0 32 32" aria-hidden="true" width="20" height="20" fill="currentColor">
+  <path d="M16.03 3C8.84 3 3 8.72 3 15.78c0 2.5.74 4.94 2.13 7.02L3.72 28l5.36-1.37a13.18 13.18 0 0 0 6.94 1.92h.01C23.22 28.55 29 22.83 29 15.78 29 8.72 23.22 3 16.03 3Zm0 23.39h-.01a11 11 0 0 1-5.61-1.51l-.4-.23-3.18.81.85-3.04-.26-.41a10.55 10.55 0 0 1-1.7-5.73c0-5.87 4.86-10.64 10.84-10.64 2.9 0 5.62 1.11 7.66 3.13a10.49 10.49 0 0 1 3.18 7.51c0 5.87-4.86 10.64-10.84 10.64Zm5.94-7.96c-.33-.16-1.94-.94-2.24-1.05-.3-.11-.52-.16-.74.16-.22.32-.85 1.05-1.04 1.27-.19.22-.38.24-.71.08-.33-.16-1.37-.5-2.61-1.58a9.62 9.62 0 0 1-1.81-2.22c-.19-.32-.02-.5.14-.66.15-.14.33-.38.49-.57.16-.19.22-.32.33-.54.11-.22.05-.41-.03-.57-.08-.16-.74-1.75-1.01-2.4-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.32-1.14 1.1-1.14 2.68 0 1.59 1.18 3.12 1.34 3.34.16.22 2.32 3.49 5.62 4.9.78.33 1.4.53 1.87.68.79.25 1.51.21 2.08.13.63-.09 1.94-.78 2.21-1.53.27-.76.27-1.4.19-1.53-.08-.14-.3-.22-.63-.38Z"/>
+</svg>
     </a>
   </div>
 
   <script>
-    const whatsappPopup = document.getElementById("whatsapp-popup");
+    const menuButton = document.getElementById("menuButton");
+    const menu = document.getElementById("menu");
 
-    if (whatsappPopup) {
-      window.setTimeout(function() {
-        whatsappPopup.classList.add("hide");
+    menuButton.addEventListener("click", () => {
+      menu.classList.toggle("open");
+      menuButton.textContent = menu.classList.contains("open") ? "✕" : "☰";
+    });
 
-        window.setTimeout(function() {
-          whatsappPopup.style.display = "none";
-        }, 450);
-      }, 6000);
-    }
+    document.querySelectorAll("#menu a").forEach(link => {
+      link.addEventListener("click", () => {
+        menu.classList.remove("open");
+        menuButton.textContent = "☰";
+      });
+    });
 
-    document.getElementById("whatsapp-form").addEventListener("submit", function(event) {
+    document.getElementById("contactForm").addEventListener("submit", function(event){
       event.preventDefault();
 
       const nombre = document.getElementById("nombre").value.trim();
@@ -1649,14 +781,17 @@
       const mensaje = document.getElementById("mensaje").value.trim();
 
       const texto =
-        "Hola, quisiera solicitar información.%0A%0A" +
-        "*Nombre:* " + encodeURIComponent(nombre) + "%0A" +
-        "*Teléfono:* " + encodeURIComponent(telefono) + "%0A" +
-        "*Empresa / Institución:* " + encodeURIComponent(empresa || "No indicada") + "%0A" +
-        "*Correo:* " + encodeURIComponent(correo || "No indicado") + "%0A" +
-        "*Requerimiento:* " + encodeURIComponent(mensaje);
+`Buenos días. Deseo solicitar información a Exacta.
 
-      window.open("https://wa.me/51932610623?text=" + texto, "_blank");
+Nombre: ${nombre}
+Teléfono: ${telefono}
+Empresa / Institución: ${empresa || "No indicado"}
+Correo: ${correo || "No indicado"}
+
+Requerimiento:
+${mensaje}`;
+
+      window.open("https://wa.me/51932610623?text=" + encodeURIComponent(texto), "_blank");
     });
   </script>
 </body>
