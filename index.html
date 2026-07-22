@@ -213,24 +213,8 @@
       font-size:.8rem;
     }
 
-    .quick-strip{
-      position:relative;
-      z-index:5;
-      margin-top:-58px;
-    }
-    .quick-grid{
-      background:#fff;
-      box-shadow:var(--shadow);
-      border-radius:10px;
-      display:grid;
-      grid-template-columns:repeat(4,1fr);
-      overflow:hidden;
-    }
-    .quick-item{padding:28px 25px;border-right:1px solid var(--line)}
-    .quick-item:last-child{border-right:0}
-    .quick-number{color:var(--accent-a-dark);font-size:.75rem;font-weight:800;letter-spacing:.1em}
-    .quick-item h3{font-size:1rem;margin:7px 0 5px;color:var(--navy)}
-    .quick-item p{font-size:.88rem;color:var(--muted);margin:0}
+
+    .solutions-first{padding-top:64px}
 
     .services-grid{
       display:grid;
@@ -425,9 +409,7 @@
       .menu{display:none;position:absolute;top:76px;left:0;right:0;background:#fff;padding:24px;box-shadow:var(--shadow);flex-direction:column;align-items:flex-start}
       .menu.open{display:flex}
       .hamburger{display:block}
-      .quick-grid,.process-grid{grid-template-columns:repeat(2,1fr)}
-      .quick-item:nth-child(2){border-right:0}
-      .quick-item:nth-child(-n+2){border-bottom:1px solid var(--line)}
+      .process-grid{grid-template-columns:repeat(2,1fr)}
       .services-grid,.industries-grid{grid-template-columns:repeat(2,1fr)}
       .about-layout,.contact-layout{grid-template-columns:1fr}
       .about-copy{order:-1}
@@ -453,9 +435,7 @@
       .hero-actions .btn{width:100%}
       .trust-row{gap:10px}
       .trust-item{width:100%;border-radius:10px}
-      .quick-grid,.services-grid,.industries-grid,.process-grid,.stats,.form-grid,.footer-grid{grid-template-columns:1fr}
-      .quick-item{border-right:0;border-bottom:1px solid var(--line)}
-      .quick-item:last-child{border-bottom:0}
+      .services-grid,.industries-grid,.process-grid,.stats,.form-grid,.footer-grid{grid-template-columns:1fr}
       .service-image{height:235px}
       .about-collage{grid-template-columns:1fr;grid-template-rows:220px 180px 180px}
       .about-collage .tall{grid-row:auto}
@@ -463,6 +443,7 @@
       .step{border-right:0;border-bottom:1px solid rgba(255,255,255,.17);padding:22px 0}
       .step:last-child{border-bottom:0}
       .section{padding:70px 0}
+      .solutions-first{padding-top:54px}
       .form-card,.contact-info{padding:28px 22px}
       .copyright{flex-direction:column}
     }
@@ -514,7 +495,7 @@
           <div class="hero-actions">
             <a class="btn btn-primary" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20recibir%20asesor%C3%ADa%20t%C3%A9cnica%20sobre%20un%20equipo%20o%20servicio." target="_blank"><svg viewBox="0 0 32 32" aria-hidden="true" width="20" height="20" fill="currentColor">
   <path d="M16.03 3C8.84 3 3 8.72 3 15.78c0 2.5.74 4.94 2.13 7.02L3.72 28l5.36-1.37a13.18 13.18 0 0 0 6.94 1.92h.01C23.22 28.55 29 22.83 29 15.78 29 8.72 23.22 3 16.03 3Zm0 23.39h-.01a11 11 0 0 1-5.61-1.51l-.4-.23-3.18.81.85-3.04-.26-.41a10.55 10.55 0 0 1-1.7-5.73c0-5.87 4.86-10.64 10.84-10.64 2.9 0 5.62 1.11 7.66 3.13a10.49 10.49 0 0 1 3.18 7.51c0 5.87-4.86 10.64-10.84 10.64Zm5.94-7.96c-.33-.16-1.94-.94-2.24-1.05-.3-.11-.52-.16-.74.16-.22.32-.85 1.05-1.04 1.27-.19.22-.38.24-.71.08-.33-.16-1.37-.5-2.61-1.58a9.62 9.62 0 0 1-1.81-2.22c-.19-.32-.02-.5.14-.66.15-.14.33-.38.49-.57.16-.19.22-.32.33-.54.11-.22.05-.41-.03-.57-.08-.16-.74-1.75-1.01-2.4-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.32-1.14 1.1-1.14 2.68 0 1.59 1.18 3.12 1.34 3.34.16.22 2.32 3.49 5.62 4.9.78.33 1.4.53 1.87.68.79.25 1.51.21 2.08.13.63-.09 1.94-.78 2.21-1.53.27-.76.27-1.4.19-1.53-.08-.14-.3-.22-.63-.38Z"/>
-</svg><span>Solicite asesoría técnica</span></a>
+</svg><span>Hable con un especialista</span></a>
             <a class="btn btn-outline" href="#soluciones">Nuestros servicios</a>
           </div>
 
@@ -527,32 +508,7 @@
       </div>
     </section>
 
-    <div class="quick-strip">
-      <div class="container quick-grid">
-        <article class="quick-item">
-          <span class="quick-number">01</span>
-          <h3>Servicio técnico</h3>
-          <p>Mantenimiento, diagnóstico y reparación.</p>
-        </article>
-        <article class="quick-item">
-          <span class="quick-number">02</span>
-          <h3>Instrumentación</h3>
-          <p>Equipos de pesaje, medición y control.</p>
-        </article>
-        <article class="quick-item">
-          <span class="quick-number">03</span>
-          <h3>Calibración</h3>
-          <p>Trazabilidad, gestión metrológica y documentación.</p>
-        </article>
-        <article class="quick-item">
-          <span class="quick-number">04</span>
-          <h3>Abastecimiento</h3>
-          <p>Repuestos y consumibles.</p>
-        </article>
-      </div>
-    </div>
-
-    <section class="section" id="soluciones">
+    <section class="section solutions-first" id="soluciones">
       <div class="container">
         <div class="section-title">
           <p class="eyebrow">Nuestras soluciones</p>
@@ -629,6 +585,9 @@
         <div class="about-copy">
           <p class="eyebrow">Sobre <span class="brand-word">Exacta</span></p>
           <h2>Conocimiento técnico orientado a soluciones reales</h2>
+          <p>
+            Entendemos que un equipo detenido representa retrasos, costos y riesgos para su operación. Por eso respondemos con soluciones técnicas confiables, respaldadas por experiencia, criterio de ingeniería y un compromiso permanente con la calidad del servicio.
+          </p>
           <p>
             <span class="brand-word">Exacta</span> Soluciones Industriales S.A.C. es una empresa peruana especializada en mantenimiento, reparación, calibración, equipos y repuestos para laboratorio e industria.
           </p>
