@@ -8,7 +8,7 @@
     "code": "30355413",
     "capacity": "220 g",
     "readability": "0,01 mg",
-    "description": "Balanza analítica XPR para aplicaciones de alta precisión, aseguramiento de calidad y flujos de trabajo regulados.",
+    "description": "Balanza analítica de la línea Excellence XPR orientada al pesaje de alta precisión. Integra funciones de aseguramiento de calidad, control de nivel y soporte para flujos de trabajo regulados; puede integrarse con LabX y admite automatización opcional de dosificación.",
     "specs": {
       "Capacidad máxima": "220 g",
       "Legibilidad": "0,01 mg",
@@ -21,9 +21,27 @@
       "Linealidad": "±0,1 mg",
       "Línea de balanzas": "XPR",
       "Tipo de balanza": "Balanza analítica",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Dimensiones (Al × An × P)": "292 × 195 × 485 mm",
+      "Interfaces": "Ethernet (LAN), RS232, USB-A, USB-B; Bluetooth opcional",
+      "Gestión de calidad": "StatusLight, LevelControl y GWP Approved",
+      "Detección electrostática": "StaticDetect; ionizador opcional",
+      "Software": "Compatible con LabX",
+      "Automatización": "Dosificación opcional de polvos y líquidos"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Rendimiento de pesaje para muestras pequeñas y de alto valor.",
+      "Funciones integradas de aseguramiento de calidad para apoyar resultados trazables.",
+      "StaticDetect ayuda a identificar cargas electrostáticas que pueden afectar el pesaje.",
+      "Compatibilidad con LabX para guía de usuario, documentación y gestión centralizada."
+    ],
+    "applications": [
+      "Pesaje analítico de alta precisión",
+      "Preparación de muestras y soluciones",
+      "Laboratorios regulados y control de calidad",
+      "Dosificación automática opcional"
+    ]
   },
   {
     "id": "xpr105m",
@@ -49,7 +67,17 @@
       "Tipo de balanza": "Balanza analítica",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR105-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR105-M.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr226drm",
@@ -75,7 +103,17 @@
       "Tipo de balanza": "Balanza analítica",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DR-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DR-M.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr226drqm",
@@ -86,15 +124,36 @@
     "code": "30591937",
     "capacity": "220 g / 121 g",
     "readability": "0,01 mg / 0,005 mg",
-    "description": "Balanza XPR preparada para automatizar la dosificación de polvos y líquidos y reducir errores de usuario.",
+    "description": "Balanza analítica automática XPR diseñada para combinar pesaje manual de alto rendimiento con dosificación automatizada de polvos y líquidos. La automatización busca reducir intervención del usuario, mejorar la repetibilidad del proceso y agilizar la preparación de soluciones y diluciones.",
     "specs": {
       "N.º de material": "30591937",
-      "Línea de balanzas": "XPR",
+      "Capacidad máxima": "220 g / 121 g",
+      "Legibilidad": "0,01 mg / 0,005 mg",
+      "Repetibilidad, típica": "0,003 mg / 0,003 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "6 mg / 6 mg",
+      "Peso mínimo (U = 1 %, k = 2)": "0,8 mg / 0,8 mg",
+      "Peso mínimo automatizado (U = 1 %, k = 2)": "0,6 mg / 0,6 mg",
+      "Tiempo de estabilización": "2 s",
+      "Ajuste": "Interno (automático/FACT)",
+      "Interfaces": "Ethernet (LAN), RS232, USB-A, USB-B; Bluetooth opcional",
+      "Dimensiones (Al × An × P)": "453 × 195 × 458 mm",
       "Tipo": "Balanza analítica automatizada",
       "Aplicación": "Dosificación automática de polvos y líquidos",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DRQ-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DRQ-M.html",
+    "highlights": [
+      "Dosificación automática de sustancias en polvo y líquidos.",
+      "Uso dual: dosificación automatizada y pesaje manual.",
+      "La automatización puede reducir el peso mínimo frente al proceso manual.",
+      "Diseñada para preparación eficiente de soluciones y diluciones."
+    ],
+    "applications": [
+      "Preparación gravimétrica de soluciones",
+      "Dosificación de polvos",
+      "Dosificación de líquidos",
+      "Pesaje analítico general"
+    ]
   },
   {
     "id": "xpr3m",
@@ -119,7 +178,17 @@
       "Tipo de balanza": "Microbalanza",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR3-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR3-M.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr3",
@@ -144,7 +213,17 @@
       "Tipo de balanza": "Microbalanza",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR3.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR3.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr106duhqm",
@@ -167,7 +246,17 @@
       "Tipo de balanza": "Balanza automática",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR106DUHQ-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR106DUHQ-M.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr225drm",
@@ -189,7 +278,17 @@
       "Tipo de balanza": "Balanza analítica",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR225DR-M.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR225DR-M.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr226dra",
@@ -211,7 +310,17 @@
       "Línea de balanzas": "XPR",
       "Tipo de balanza": "Balanza analítica"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DR-A.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR226DR-A.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "ma303e",
@@ -234,7 +343,17 @@
       "Línea de balanzas": "MA",
       "Tipo de balanza": "Balanza de precisión"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA303E.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA303E.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "ma602e",
@@ -257,7 +376,17 @@
       "Grado de protección": "IP43",
       "Línea de balanzas": "MA"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA602E.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA602E.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "ma2002e",
@@ -280,7 +409,17 @@
       "Grado de protección": "IP43",
       "Línea de balanzas": "MA"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA2002E.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA2002E.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "ma4002e",
@@ -303,7 +442,17 @@
       "Grado de protección": "IP43",
       "Línea de balanzas": "MA"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA4002E.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/MA4002E.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr4002sa",
@@ -324,7 +473,17 @@
       "Tipo de balanza": "Balanza de precisión",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR4002S-A.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR4002S-A.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr20002ldra",
@@ -346,7 +505,17 @@
       "Tipo de balanza": "Balanza de precisión",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR20002LDR-A.html"
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR20002LDR-A.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "xpr4002s",
@@ -367,7 +536,17 @@
       "Plato": "SmartPan Pro",
       "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/my/en/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR4002S.html"
+    "source": "https://www.mt.com/my/en/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR4002S.html",
+    "highlights": [
+      "Configuración orientada a tareas de pesaje de laboratorio.",
+      "La ficha resume las prestaciones publicadas para la variante indicada.",
+      "La configuración final y accesorios deben confirmarse al cotizar."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ]
   },
   {
     "id": "hx204",
@@ -376,17 +555,41 @@
     "sub": "Excellence",
     "model": "HX204",
     "code": "",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Analizador de humedad de alto rendimiento para aplicaciones exigentes, bajo contenido de humedad y entornos regulados.",
+    "capacity": "201 g",
+    "readability": "0,1 mg / 0,001 %MC",
+    "description": "Analizador halógeno de humedad de alto rendimiento para muestras con contenidos de humedad bajos y aplicaciones exigentes. Combina una celda de pesaje de 0,1 mg con calentamiento halógeno, desarrollo guiado de métodos, almacenamiento de resultados y opciones de gestión de datos mediante LabX.",
     "specs": {
-      "Nivel": "Excellence",
-      "Tecnología de calentamiento": "Halógena",
-      "Aplicaciones": "Bajo contenido de humedad y procesos regulados",
+      "Capacidad máxima": "201 g",
+      "Legibilidad de masa": "0,1 mg",
+      "Legibilidad de humedad": "0,001 %MC",
+      "Rango mínimo recomendado de humedad": "0,01 %MC",
+      "Repetibilidad con muestra de 2 g": "0,05 % (sd)",
+      "Repetibilidad con muestra de 10 g": "0,01 % (sd)",
+      "Temperatura de secado": "40–230 °C",
+      "Incrementos de temperatura": "1 °C",
+      "Programas de secado": "Suave, rápido, estándar y por pasos",
+      "Memoria de métodos": "Hasta 300",
+      "Almacenamiento de resultados": "Hasta 3000",
+      "Criterios de desconexión": "5 automáticos, libremente definibles y temporizado",
+      "Pantalla": "Pantalla táctil a color de 7″",
+      "Interfaces": "Ethernet, RS232 y USB",
       "Gestión de datos": "Compatible con LabX",
-      "Familia": "Analizadores de humedad"
+      "Funciones": "QuickPredict, Method Wizard, curva de secado en tiempo real, gestión de usuarios",
+      "Familia": "Excellence"
     },
-    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html"
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
+    "highlights": [
+      "QuickPredict permite estimar el resultado antes de completar un ciclo convencional.",
+      "Method Wizard y Temperature Assistant apoyan el desarrollo de métodos.",
+      "Admite pruebas con SmartCal y ajustes de temperatura y peso.",
+      "Gestión de usuarios, resultados y métodos para entornos con mayores exigencias documentales."
+    ],
+    "applications": [
+      "Alimentos y materias primas",
+      "Industria farmacéutica",
+      "Química y plásticos",
+      "Control de procesos con bajo contenido de humedad"
+    ]
   },
   {
     "id": "hs153",
@@ -404,7 +607,17 @@
       "Aplicaciones": "Control de calidad y laboratorio",
       "Familia": "Analizadores de humedad"
     },
-    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html"
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
+    "highlights": [
+      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
+      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
+      "Consulte la referencia del fabricante para validar el método aplicable."
+    ],
+    "applications": [
+      "Control de humedad",
+      "Control de calidad",
+      "Desarrollo o transferencia de métodos"
+    ]
   },
   {
     "id": "hc103",
@@ -423,7 +636,17 @@
       "Aplicaciones": "Laboratorio y control en proceso",
       "Familia": "Analizadores de humedad"
     },
-    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html"
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
+    "highlights": [
+      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
+      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
+      "Consulte la referencia del fabricante para validar el método aplicable."
+    ],
+    "applications": [
+      "Control de humedad",
+      "Control de calidad",
+      "Desarrollo o transferencia de métodos"
+    ]
   },
   {
     "id": "he73",
@@ -441,7 +664,17 @@
       "Operación": "Flujo sencillo de 3 pasos",
       "Familia": "Analizadores de humedad"
     },
-    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html"
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
+    "highlights": [
+      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
+      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
+      "Consulte la referencia del fabricante para validar el método aplicable."
+    ],
+    "applications": [
+      "Control de humedad",
+      "Control de calidad",
+      "Desarrollo o transferencia de métodos"
+    ]
   },
   {
     "id": "he53",
@@ -459,7 +692,17 @@
       "Operación": "Flujo sencillo de 3 pasos",
       "Familia": "Analizadores de humedad"
     },
-    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html"
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
+    "highlights": [
+      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
+      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
+      "Consulte la referencia del fabricante para validar el método aplicable."
+    ],
+    "applications": [
+      "Control de humedad",
+      "Control de calidad",
+      "Desarrollo o transferencia de métodos"
+    ]
   },
   {
     "id": "tgadsc3plus",
@@ -479,6 +722,15 @@
       "Rango de temperatura": "Hasta 1600 °C, según configuración",
       "Familia": "Análisis térmico"
     },
-    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TGA-DSC-3-plus.html"
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TGA-DSC-3-plus.html",
+    "highlights": [
+      "Instrumentación para caracterización térmica de materiales.",
+      "La configuración del sistema se define según la aplicación y accesorios requeridos."
+    ],
+    "applications": [
+      "Investigación y desarrollo",
+      "Control de calidad",
+      "Caracterización de materiales"
+    ]
   }
 ]
