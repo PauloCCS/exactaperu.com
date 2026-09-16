@@ -260,15 +260,19 @@
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR106DUHQ-M.html",
     "highlights": [
-      "Configuración orientada a tareas de pesaje de laboratorio.",
-      "La ficha resume las prestaciones publicadas para la variante indicada.",
-      "La configuración final y accesorios deben confirmarse al cotizar."
+      "Dosificación gravimétrica automatizada de polvos y líquidos.",
+      "Puede reducir el peso mínimo al automatizar la dosificación.",
+      "Funcionamiento dual para dosificación automática y pesaje manual.",
+      "Compatible con cambiador de muestras para automatizar series de preparación."
     ],
     "applications": [
-      "Pesaje de laboratorio",
-      "Control de calidad",
-      "Preparación de muestras"
-    ]
+      "Preparación gravimétrica de soluciones",
+      "Dosificación de polvos",
+      "Dosificación de líquidos",
+      "Preparación automatizada de series de muestras"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30591877.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "xpr225drm",
@@ -288,19 +292,33 @@
       "Dimensiones del plato": "78 mm × 73 mm",
       "Línea de balanzas": "XPR",
       "Tipo de balanza": "Balanza analítica",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Repetibilidad, típica": "0,007 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "1,4 mg",
+      "Tiempo de estabilización": "1,5 s",
+      "Linealidad": "±0,15 mg",
+      "Dimensiones": "292 × 195 × 485 mm",
+      "Pantalla": "Pantalla táctil TFT de 7 pulgadas",
+      "Interfaces": "Ethernet (LAN), RS232, USB-A, USB-B; Bluetooth opcional",
+      "Detección electrostática": "StaticDetect",
+      "Software": "Compatible con LabX",
+      "Automatización": "Dosificación automática de líquidos, polvos y flujos automatizados"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR225DR-M.html",
     "highlights": [
-      "Configuración orientada a tareas de pesaje de laboratorio.",
-      "La ficha resume las prestaciones publicadas para la variante indicada.",
-      "La configuración final y accesorios deben confirmarse al cotizar."
+      "StaticDetect ayuda a detectar cargas electrostáticas que pueden comprometer el resultado.",
+      "StatusLight, LevelControl y GWP Approved apoyan el aseguramiento de calidad.",
+      "Compatible con LabX para documentación, integridad de datos y flujos regulados.",
+      "Admite actualización a dosificación automática de polvos y líquidos."
     ],
     "applications": [
-      "Pesaje de laboratorio",
-      "Control de calidad",
-      "Preparación de muestras"
-    ]
+      "Pesaje analítico de alta precisión",
+      "Preparación de muestras y soluciones",
+      "Laboratorios regulados y control de calidad",
+      "Dosificación automatizada opcional"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30594485.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "xpr226dra",
@@ -332,7 +350,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30594482.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "ma303e",
@@ -340,7 +360,7 @@
     "category": "Balanzas",
     "sub": "Precisión",
     "model": "MA303E",
-    "code": "",
+    "code": "30697436",
     "capacity": "320 g",
     "readability": "1 mg",
     "description": "Balanza de precisión MA para tareas rutinarias con pantalla táctil híbrida, RS232 y USB.",
@@ -365,7 +385,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697436.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "ma602e",
@@ -398,7 +420,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697461.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "ma2002e",
@@ -431,7 +455,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697465.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "ma4002e",
@@ -439,7 +465,7 @@
     "category": "Balanzas",
     "sub": "Precisión",
     "model": "MA4002E",
-    "code": "",
+    "code": "30697469",
     "capacity": "4,2 kg",
     "readability": "0,01 g",
     "description": "Balanza de precisión MA de mayor capacidad para aplicaciones rutinarias de laboratorio.",
@@ -464,7 +490,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697469.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "xpr4002sa",
@@ -472,7 +500,7 @@
     "category": "Balanzas",
     "sub": "Precisión",
     "model": "XPR4002S/A",
-    "code": "",
+    "code": "30317442",
     "capacity": "4,1 kg",
     "readability": "10 mg",
     "description": "Balanza de precisión XPR de alto rendimiento para aplicaciones exigentes y gestión avanzada de datos.",
@@ -495,7 +523,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30317442.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "xpr20002ldra",
@@ -503,7 +533,7 @@
     "category": "Balanzas",
     "sub": "Precisión",
     "model": "XPR20002LDR/A",
-    "code": "",
+    "code": "30317529",
     "capacity": "20,1 kg / 4,2 kg",
     "readability": "10 mg",
     "description": "Balanza XPR de precisión de gran capacidad y doble rango para aplicaciones avanzadas.",
@@ -527,7 +557,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30317529.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "xpr4002s",
@@ -558,7 +590,9 @@
       "Pesaje de laboratorio",
       "Control de calidad",
       "Preparación de muestras"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30317269.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "hx204",
@@ -611,27 +645,43 @@
     "category": "Analizadores de humedad",
     "sub": "Excellence",
     "model": "HS153",
-    "code": "",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Analizador de humedad Excellence para resultados precisos y repetibles en una amplia variedad de muestras.",
+    "code": "30019876",
+    "capacity": "150 g",
+    "readability": "0,01 %MC",
+    "description": "Analizador de humedad halógeno Excellence para resultados precisos y repetibles, con pantalla táctil, gráficos de control, gestión de usuarios y opciones de predicción rápida de resultados.",
     "specs": {
-      "Nivel": "Excellence",
-      "Tecnología de calentamiento": "Halógena",
-      "Aplicaciones": "Control de calidad y laboratorio",
-      "Familia": "Analizadores de humedad"
+      "N.º de material": "30019876",
+      "Capacidad máxima": "150 g",
+      "Resolución de humedad": "0,01 %MC",
+      "Rango de temperatura de secado": "40–230 °C",
+      "Repetibilidad (muestra de 10 g)": "0,01 %",
+      "Repetibilidad (muestra de 2 g)": "0,05 %",
+      "Rango de humedad recomendado mínimo": "0,5 %MC",
+      "Programas de secado": "Moderado, estándar y rápido",
+      "Almacenamiento de métodos": "100",
+      "Almacenamiento de resultados": "3.000",
+      "Interfaces": "Ethernet, RS232 y USB",
+      "Pantalla": "Pantalla táctil de 7 pulgadas",
+      "Gestión de usuarios": "Hasta 30 perfiles; grupos personalizables y protección por contraseña",
+      "Pruebas y ajuste": "Peso, SmartCal y temperatura",
+      "Tensión": "115 V o 230 V",
+      "Nivel": "Excellence"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
-      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
-      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
-      "Consulte la referencia del fabricante para validar el método aplicable."
+      "Gráficos de control y límites para decisiones rápidas de aprobación/rechazo.",
+      "QuickPredict opcional para predecir resultados en menos tiempo.",
+      "Gestión de usuarios y protección por contraseña para apoyar la integridad de datos.",
+      "Diseño de plato suspendido y superficie plana para facilitar la limpieza."
     ],
     "applications": [
-      "Control de humedad",
-      "Control de calidad",
-      "Desarrollo o transferencia de métodos"
-    ]
+      "Control de humedad en alimentos",
+      "Productos químicos y materias primas",
+      "Control de calidad y producción",
+      "Desarrollo y transferencia de métodos de humedad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30019876.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "hc103",
@@ -639,7 +689,7 @@
     "category": "Analizadores de humedad",
     "sub": "Advanced",
     "model": "HC103",
-    "code": "",
+    "code": "30216101",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Analizador de humedad compacto y robusto con operación guiada por pantalla táctil para laboratorio y control en proceso.",
@@ -648,7 +698,8 @@
       "Tecnología de calentamiento": "Halógena",
       "Operación": "Pantalla táctil con guía de usuario",
       "Aplicaciones": "Laboratorio y control en proceso",
-      "Familia": "Analizadores de humedad"
+      "Familia": "Analizadores de humedad",
+      "Versión de imagen/referencia": "230 V"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
@@ -660,7 +711,9 @@
       "Control de humedad",
       "Control de calidad",
       "Desarrollo o transferencia de métodos"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30216101.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "he73",
@@ -668,7 +721,7 @@
     "category": "Analizadores de humedad",
     "sub": "Standard",
     "model": "HE73",
-    "code": "",
+    "code": "30237200",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Analizador de humedad de nivel Standard para mediciones rápidas y fiables con operación sencilla.",
@@ -676,7 +729,8 @@
       "Nivel": "Standard",
       "Tecnología de calentamiento": "Halógena",
       "Operación": "Flujo sencillo de 3 pasos",
-      "Familia": "Analizadores de humedad"
+      "Familia": "Analizadores de humedad",
+      "Versión de imagen/referencia": "230 V"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
@@ -688,7 +742,9 @@
       "Control de humedad",
       "Control de calidad",
       "Desarrollo o transferencia de métodos"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30237200.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "he53",
@@ -696,7 +752,7 @@
     "category": "Analizadores de humedad",
     "sub": "Standard",
     "model": "HE53",
-    "code": "",
+    "code": "30100246",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Analizador de humedad Standard orientado a tareas rutinarias y mediciones rápidas y fiables.",
@@ -704,7 +760,8 @@
       "Nivel": "Standard",
       "Tecnología de calentamiento": "Halógena",
       "Operación": "Flujo sencillo de 3 pasos",
-      "Familia": "Analizadores de humedad"
+      "Familia": "Analizadores de humedad",
+      "Versión de imagen/referencia": "230 V"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
@@ -716,7 +773,9 @@
       "Control de humedad",
       "Control de calidad",
       "Desarrollo o transferencia de métodos"
-    ]
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30100246.jpg",
+    "image_source": "METTLER TOLEDO"
   },
   {
     "id": "tgadsc3plus",
@@ -727,24 +786,33 @@
     "code": "30139250",
     "capacity": "hasta 5 g",
     "readability": "0,1 µg (según configuración)",
-    "description": "Sistema simultáneo TGA/DSC con ultramicrobalanza integrada para caracterización térmica avanzada.",
+    "description": "Sistema simultáneo TGA/DSC con ultramicrobalanza METTLER TOLEDO para medir cambios de masa y efectos térmicos en una misma corrida, con opciones de sensores DSC/DTA/SDTA y control de atmósfera.",
     "specs": {
       "N.º de material": "30139250",
       "Técnica": "TGA y DSC simultáneos",
       "Capacidad de muestra": "Hasta 5 g, según configuración",
       "Resolución de balanza": "Hasta 0,1 µg, según configuración",
-      "Rango de temperatura": "Hasta 1600 °C, según configuración",
-      "Familia": "Análisis térmico"
+      "Rango de temperatura": "Desde temperatura ambiente hasta 1600 °C",
+      "Familia": "Análisis térmico",
+      "Señales térmicas": "TGA y DSC/DTA/SDTA simultáneas, según sensor",
+      "Control de gases": "Control de caudal de gas integrado",
+      "Automatización": "Cambiador automático de muestras disponible",
+      "Análisis de gases desprendidos": "Integración con FTIR, MS y GC/MS"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TGA-DSC-3-plus.html",
     "highlights": [
-      "Instrumentación para caracterización térmica de materiales.",
-      "La configuración del sistema se define según la aplicación y accesorios requeridos."
+      "Medición simultánea de cambio de masa y efectos térmicos.",
+      "Ultramicrobalanza con pesas de calibración integradas.",
+      "Amplio rango de temperatura hasta 1600 °C.",
+      "Arquitectura modular para adaptar sensores y análisis de gases desprendidos."
     ],
     "applications": [
-      "Investigación y desarrollo",
-      "Control de calidad",
-      "Caracterización de materiales"
-    ]
+      "Estabilidad térmica y descomposición",
+      "Contenido de humedad, volátiles y cenizas",
+      "Oxidación y reducción",
+      "Caracterización de polímeros, químicos, minerales y materiales"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30139250.jpg",
+    "image_source": "METTLER TOLEDO"
   }
 ]
