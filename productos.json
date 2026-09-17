@@ -927,17 +927,12 @@
     "code": "30997013",
     "capacity": "2 canales",
     "readability": "pH / ORP / conductividad",
-    "description": "Sistema multiparámetro de sobremesa NineFocus con arquitectura modular, sensores digitales InLab DES, diagnóstico de sensores y soporte para entornos regulados.",
+    "description": "Kit NineFocus pH/conductividad con dos módulos, InLab Expert Pro-DES e InLab 731 Pro-DES; modular y orientado a integridad de datos.",
     "specs": {
-      "N.º de material": "30997013",
-      "Línea": "NineFocus",
-      "Canales": "Doble canal",
-      "Parámetros": "pH, ORP y conductividad; ampliable según configuración",
-      "Pantalla": "TFT color de 7″",
-      "Dimensiones": "111 × 178 × 325 mm",
-      "Peso": "1697 g",
-      "Conectividad": "LAN, USB A, USB C y conexiones de sensores",
-      "Gestión": "Usuarios, métodos y soporte de cumplimiento regulatorio"
+      "Parámetros": "pH, redox, conductividad; ampliable a DO",
+      "Sensores incluidos": "InLab Expert Pro-DES + InLab 731 Pro-DES",
+      "Módulos incluidos": "2",
+      "Software": "Compatible con LabX"
     },
     "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-meter-ninefocus-nf2300-kit.html",
     "highlights": [
@@ -4622,6 +4617,95 @@
       "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/21901297.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "nf1000api",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "NineFocus",
+    "model": "NineFocus NF1000 API Base",
+    "code": "30997018",
+    "capacity": "Multiparámetro / integración",
+    "readability": "Consultar ficha",
+    "description": "Medidor de sobremesa modular con un módulo para sensores InLab DES y REST API para integración con sistemas.",
+    "specs": {
+      "Canales": "1",
+      "Pantalla": "TFT color 7 pulgadas",
+      "Memoria": "3000 conjuntos de resultados",
+      "Protección": "IP54",
+      "Interfaz": "REST API, LAN, USB",
+      "Rango mV": "-2000…2000 mV"
+    },
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Imagen asociada al número de material.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Laboratorio",
+      "Electroquímica"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30997018.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "nf2300pure",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "NineFocus",
+    "model": "NineFocus NF2300 Pure H2O",
+    "code": "30997014",
+    "capacity": "pH / conductividad",
+    "readability": "Consultar ficha",
+    "description": "Kit para agua pura con dos módulos de medición, InLab Pure Pro-DES e InLab 741 Pro-DES.",
+    "specs": {
+      "Parámetros": "pH, redox, conductividad; ampliable",
+      "Sensores incluidos": "InLab Pure Pro-DES + InLab 741 Pro-DES",
+      "Enfoque": "Agua pura y muestras de baja fuerza iónica"
+    },
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Imagen asociada al número de material.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Laboratorio",
+      "Electroquímica"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30997014.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "inlabscienceprodes",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Science Pro-DES",
+    "code": "31027064",
+    "capacity": "Sensor pH",
+    "readability": "Consultar ficha",
+    "description": "Electrodo combinado de pH de vidrio con sensor de temperatura, diseñado para solventes orgánicos, emulsiones y muestras con proteínas.",
+    "specs": {
+      "Parámetro": "pH",
+      "Cuerpo": "Vidrio",
+      "Sensor de temperatura": "Integrado",
+      "Unión": "Manguito de vidrio móvil",
+      "Señal": "Digital DES"
+    },
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Imagen asociada al número de material.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Laboratorio",
+      "Electroquímica"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027064.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
