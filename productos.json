@@ -3062,5 +3062,479 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30355541.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr603s",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR603S",
+    "code": "30316504",
+    "capacity": "610 g",
+    "readability": "1 mg",
+    "description": "Balanza de precisión XPR de plataforma pequeña para pesaje de alta exactitud.",
+    "specs": {
+      "Capacidad máxima": "610 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,5 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "100 mg",
+      "Peso mínimo USP, típico": "1 g",
+      "Tiempo de estabilización": "1,5 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR603S",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316504.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr603sdr",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR603SDR",
+    "code": "30316525",
+    "capacity": "610 g / 120 g",
+    "readability": "10 mg / 1 mg",
+    "description": "Balanza XPR de precisión de doble rango con SmartPan.",
+    "specs": {
+      "Capacidad máxima": "610 g / 120 g",
+      "Legibilidad": "10 mg / 1 mg",
+      "Repetibilidad, típica": "4 mg / 0,8 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "160 mg",
+      "Peso mínimo USP, típico": "1,6 g",
+      "Tiempo de estabilización": "1,5 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR603SDR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316525.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr603sn2",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR603SN2",
+    "code": "30316540",
+    "capacity": "610 g",
+    "readability": "1 mg",
+    "description": "Balanza de precisión XPR con SmartPan para resultados estables y rápidos.",
+    "specs": {
+      "Capacidad máxima": "610 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,5 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "100 mg",
+      "Peso mínimo USP, típico": "1 g",
+      "Tiempo de estabilización": "1,5 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR603SN2",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316540.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr1203s",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR1203S",
+    "code": "30316563",
+    "capacity": "1210 g",
+    "readability": "1 mg",
+    "description": "Balanza XPR de precisión para aplicaciones exigentes de laboratorio.",
+    "specs": {
+      "Capacidad máxima": "1210 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,4 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "82 mg",
+      "Peso mínimo USP, típico": "820 mg",
+      "Tiempo de estabilización": "1,5 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316563.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr3003s",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR3003S",
+    "code": "30316701",
+    "capacity": "3,1 kg",
+    "readability": "1 mg",
+    "description": "Balanza XPR de precisión de 3,1 kg para aplicaciones de alta exactitud.",
+    "specs": {
+      "Capacidad máxima": "3,1 kg",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,6 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "120 mg",
+      "Peso mínimo USP, típico": "1,2 g",
+      "Tiempo de estabilización": "2 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR3003S",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316701.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr5003s",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR5003S",
+    "code": "30316990",
+    "capacity": "5,1 kg",
+    "readability": "1 mg",
+    "description": "Balanza XPR de precisión de 5,1 kg con resolución de 1 mg.",
+    "specs": {
+      "Capacidad máxima": "5,1 kg",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "1 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "200 mg",
+      "Peso mínimo USP, típico": "2 g",
+      "Tiempo de estabilización": "2 s",
+      "Plato de pesaje": "127 × 127 mm",
+      "Línea de balanzas": "XPR5003S",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316990.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/dam/P5/labtec/03_Precision_Balances/xpr/DS_XPR-Precision-Small_EN.PDF"
+  },
+  {
+    "id": "xpr1203sna",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR1203SN/A",
+    "code": "30710404",
+    "capacity": "1210 g",
+    "readability": "1 mg",
+    "description": "Balanza XPR de precisión con SmartPan Pro, métodos integrados y compatibilidad con LabX.",
+    "specs": {
+      "Capacidad máxima": "1210 g",
+      "Legibilidad": "1 mg",
+      "Interfaces": "4 × USB, 1 × LAN",
+      "Compatibilidad": "LabX",
+      "Plato": "SmartPan Pro",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Familia": "Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30710404.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR1203SN-A.html"
+  },
+  {
+    "id": "xpr15002la",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR15002L/A",
+    "code": "30317525",
+    "capacity": "15,1 kg",
+    "readability": "0,01 g",
+    "description": "Balanza XPR de gran plataforma para pesaje preciso de muestras pesadas.",
+    "specs": {
+      "Capacidad máxima": "15,1 kg",
+      "Legibilidad": "0,01 g",
+      "Plataforma": "Grande",
+      "Familia": "Excellence",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30317525.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR15002L-A.html"
+  },
+  {
+    "id": "xpr32001la",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "XPR32001L/A",
+    "code": "30316296",
+    "capacity": "32,1 kg",
+    "readability": "0,1 g",
+    "description": "Balanza XPR de gran plataforma para cargas pesadas, con gestión de usuarios y pruebas rutinarias.",
+    "specs": {
+      "Capacidad máxima": "32,1 kg",
+      "Legibilidad": "0,1 g",
+      "Plataforma": "Grande",
+      "Familia": "Excellence",
+      "Línea de balanzas": "XPR3200",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30316296.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/XPR32001L-A.html"
+  },
+  {
+    "id": "ma2002",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "MA2002",
+    "code": "30697446",
+    "capacity": "Confirmar ficha",
+    "readability": "0,01 g",
+    "description": "Balanza de precisión MA con ajuste interno y operación guiada.",
+    "specs": {
+      "Legibilidad": "0,01 g",
+      "Ajuste": "Interno",
+      "Interfaces": "USB y RS232",
+      "Familia": "Standard",
+      "Línea de balanzas": "MA",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697446.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA2002.html"
+  },
+  {
+    "id": "ma4002",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "MA4002",
+    "code": "30697452",
+    "capacity": "Confirmar ficha",
+    "readability": "0,01 g",
+    "description": "Balanza de precisión MA para tareas rutinarias, con ajuste interno.",
+    "specs": {
+      "Legibilidad": "0,01 g",
+      "Ajuste": "Interno",
+      "Interfaces": "USB y RS232",
+      "Familia": "Standard",
+      "Línea de balanzas": "MA",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697452.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA4002.html"
+  },
+  {
+    "id": "ma5001",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "MA5001",
+    "code": "30697458",
+    "capacity": "Confirmar ficha",
+    "readability": "0,1 g",
+    "description": "Balanza de precisión MA robusta para pesaje rutinario.",
+    "specs": {
+      "Legibilidad": "0,1 g",
+      "Ajuste": "Interno",
+      "Interfaces": "USB y RS232",
+      "Familia": "Standard",
+      "Línea de balanzas": "MA",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697458.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA5001.html"
+  },
+  {
+    "id": "ma12001l",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "MA12001L",
+    "code": "30697475",
+    "capacity": "Confirmar ficha",
+    "readability": "0,1 g",
+    "description": "Balanza MA de gran plataforma para aplicaciones rutinarias de mayor capacidad.",
+    "specs": {
+      "Legibilidad": "0,1 g",
+      "Ajuste": "Interno",
+      "Interfaces": "USB y RS232",
+      "Familia": "Standard",
+      "Línea de balanzas": "MA",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697475.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA12001L.html"
+  },
+  {
+    "id": "ma16001l",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Precisión",
+    "model": "MA16001L",
+    "code": "30697478",
+    "capacity": "Confirmar ficha",
+    "readability": "0,1 g",
+    "description": "Balanza MA de gran plataforma para pesaje rutinario de alta capacidad.",
+    "specs": {
+      "Legibilidad": "0,1 g",
+      "Ajuste": "Interno",
+      "Interfaces": "USB y RS232",
+      "Familia": "Standard",
+      "Línea de balanzas": "MA",
+      "Tipo de balanza": "Balanza de precisión"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Fotografía vinculada mediante el número de material oficial.",
+      "Confirmar configuración comercial y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697478.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA16001L.html"
   }
 ]
