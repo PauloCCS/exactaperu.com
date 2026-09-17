@@ -1067,7 +1067,7 @@
     "category": "Balanzas",
     "sub": "XPR",
     "model": "XPR204/M",
-    "code": "",
+    "code": "30355421",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio XPR204/M de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1088,8 +1088,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30355421.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "xpr106duhm",
@@ -1907,7 +1907,7 @@
     "category": "Titulación",
     "sub": "EasyPlus",
     "model": "Easy pH",
-    "code": "",
+    "code": "30060041",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Valorador EasyPlus orientado a titulaciones ácido-base y pH.",
@@ -1925,8 +1925,8 @@
       "Determinación de concentración",
       "Titulaciones rutinarias"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30060041.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "easypro",
@@ -1934,7 +1934,7 @@
     "category": "Titulación",
     "sub": "EasyPlus",
     "model": "Easy Pro",
-    "code": "",
+    "code": "30060044",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Valorador EasyPlus para titulaciones rutinarias.",
@@ -1952,8 +1952,8 @@
       "Determinación de concentración",
       "Titulaciones rutinarias"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30060044.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "easykf",
@@ -1961,7 +1961,7 @@
     "category": "Titulación",
     "sub": "EasyPlus",
     "model": "Easy KFV",
-    "code": "",
+    "code": "30060045",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Valorador EasyPlus para Karl Fischer volumétrico.",
@@ -1979,8 +1979,8 @@
       "Determinación de concentración",
       "Titulaciones rutinarias"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30060045.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "d4",
