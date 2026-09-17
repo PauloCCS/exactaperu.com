@@ -4394,7 +4394,7 @@
   {
     "id": "do308",
     "brand": "Mettler Toledo",
-    "category": "Accesorios",
+    "category": "Accesorios y consumibles",
     "sub": "Accesorios",
     "model": "DO308",
     "code": "51371200",
@@ -4422,7 +4422,7 @@
   {
     "id": "molsieve250",
     "brand": "Mettler Toledo",
-    "category": "Accesorios",
+    "category": "Accesorios y consumibles",
     "sub": "Consumibles",
     "model": "Tamiz molecular 250 g",
     "code": "71478",
@@ -4450,7 +4450,7 @@
   {
     "id": "barcodehand",
     "brand": "Mettler Toledo",
-    "category": "Accesorios",
+    "category": "Accesorios y consumibles",
     "sub": "Accesorios",
     "model": "Barcode Reader Hand Scanner",
     "code": "21901297",
