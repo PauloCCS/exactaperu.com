@@ -6496,5 +6496,410 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51343180.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "paper72456",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Impresión",
+    "model": "Papel para impresora matricial, 5 rollos",
+    "code": "72456",
+    "capacity": "57 mm × 20 m; paquete de 5",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 57 mm × 20 m; paquete de 5. Compatibilidad/aplicación: P-52RUE / RS-P25.",
+    "specs": {
+      "Presentación": "57 mm × 20 m; paquete de 5",
+      "Compatibilidad / aplicación": "P-52RUE / RS-P25",
+      "Número de material": "72456"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "P-52RUE / RS-P25",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/72456.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "paper11600388",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Impresión",
+    "model": "Papel autoadhesivo matricial, 3 rollos",
+    "code": "11600388",
+    "capacity": "57 mm × 13 m; paquete de 3",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 57 mm × 13 m; paquete de 3. Compatibilidad/aplicación: Impresoras matriciales compatibles.",
+    "specs": {
+      "Presentación": "57 mm × 13 m; paquete de 3",
+      "Compatibilidad / aplicación": "Impresoras matriciales compatibles",
+      "Número de material": "11600388"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "Impresoras matriciales compatibles",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/11600388.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "ribbon65975",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Impresión",
+    "model": "Cinta negra de impresión, 2 uds.",
+    "code": "65975",
+    "capacity": "Cartucho de cinta negra; paquete de 2",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. Cartucho de cinta negra; paquete de 2. Compatibilidad/aplicación: P-52RUE / RS-P25.",
+    "specs": {
+      "Presentación": "Cartucho de cinta negra; paquete de 2",
+      "Compatibilidad / aplicación": "P-52RUE / RS-P25",
+      "Número de material": "65975"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "P-52RUE / RS-P25",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/65975.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "cru26763",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Crisoles Al 40 µL, 100 uds.",
+    "code": "26763",
+    "capacity": "40 µL; 100 crisoles con tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 40 µL; 100 crisoles con tapas. Compatibilidad/aplicación: DSC.",
+    "specs": {
+      "Presentación": "40 µL; 100 crisoles con tapas",
+      "Compatibilidad / aplicación": "DSC",
+      "Número de material": "26763"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/26763.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "cru27331",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Crisoles Al 40 µL con pin, 100 uds.",
+    "code": "27331",
+    "capacity": "40 µL; 100 uds.; con pin",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 40 µL; 100 uds.; con pin. Compatibilidad/aplicación: DSC.",
+    "specs": {
+      "Presentación": "40 µL; 100 uds.; con pin",
+      "Compatibilidad / aplicación": "DSC",
+      "Número de material": "27331"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/27331.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pan51119870",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Bandejas Al 40 µL, 400 uds.",
+    "code": "51119870",
+    "capacity": "40 µL; 400 bandejas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 40 µL; 400 bandejas. Compatibilidad/aplicación: DSC / automatización.",
+    "specs": {
+      "Presentación": "40 µL; 400 bandejas",
+      "Compatibilidad / aplicación": "DSC / automatización",
+      "Número de material": "51119870"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC / automatización",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51119870.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "crulight51119810",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Crisoles Al Light 20 µL, 100 uds.",
+    "code": "51119810",
+    "capacity": "20 µL; 100 uds.",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 20 µL; 100 uds.. Compatibilidad/aplicación: DSC.",
+    "specs": {
+      "Presentación": "20 µL; 100 uds.",
+      "Compatibilidad / aplicación": "DSC",
+      "Número de material": "51119810"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51119810.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "cru30085850",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Crisoles Al 25 µL, 100 uds.",
+    "code": "30085850",
+    "capacity": "25 µL; 100 uds.; sellado hermético",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 25 µL; 100 uds.; sellado hermético. Compatibilidad/aplicación: DSC / entalpía / volátiles.",
+    "specs": {
+      "Presentación": "25 µL; 100 uds.; sellado hermético",
+      "Compatibilidad / aplicación": "DSC / entalpía / volátiles",
+      "Número de material": "30085850"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC / entalpía / volátiles",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30085850.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pan51119872",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Bandejas Al 100 µL, 400 uds.",
+    "code": "51119872",
+    "capacity": "100 µL; 400 bandejas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 100 µL; 400 bandejas. Compatibilidad/aplicación: DSC.",
+    "specs": {
+      "Presentación": "100 µL; 400 bandejas",
+      "Compatibilidad / aplicación": "DSC",
+      "Número de material": "51119872"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51119872.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "lid51119873",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles DSC",
+    "model": "Tapas Al perforables, 400 uds.",
+    "code": "51119873",
+    "capacity": "400 tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 400 tapas. Compatibilidad/aplicación: DSC / automatización.",
+    "specs": {
+      "Presentación": "400 tapas",
+      "Compatibilidad / aplicación": "DSC / automatización",
+      "Número de material": "51119873"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "DSC / automatización",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51119873.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "alox24123",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles TGA/DSC",
+    "model": "Crisoles AlOx 70 µL, 20 uds.",
+    "code": "24123",
+    "capacity": "70 µL; 20 uds.",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 70 µL; 20 uds.. Compatibilidad/aplicación: TGA / TGA-DSC; hasta 1600 °C.",
+    "specs": {
+      "Presentación": "70 µL; 20 uds.",
+      "Compatibilidad / aplicación": "TGA / TGA-DSC; hasta 1600 °C",
+      "Número de material": "24123"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "TGA / TGA-DSC; hasta 1600 °C",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/24123.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pt51140842",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles TGA/DSC",
+    "model": "Crisoles Pt 30 µL, 4 uds.",
+    "code": "51140842",
+    "capacity": "30 µL; 4 crisoles con tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 30 µL; 4 crisoles con tapas. Compatibilidad/aplicación: TGA/DSC por encima de 640 °C.",
+    "specs": {
+      "Presentación": "30 µL; 4 crisoles con tapas",
+      "Compatibilidad / aplicación": "TGA/DSC por encima de 640 °C",
+      "Número de material": "51140842"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "TGA/DSC por encima de 640 °C",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51140842.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pt51119654",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles TGA/DSC",
+    "model": "Crisoles Pt 70 µL, 4 uds.",
+    "code": "51119654",
+    "capacity": "70 µL; 4 crisoles con tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 70 µL; 4 crisoles con tapas. Compatibilidad/aplicación: TGA/DSC por encima de 640 °C.",
+    "specs": {
+      "Presentación": "70 µL; 4 crisoles con tapas",
+      "Compatibilidad / aplicación": "TGA/DSC por encima de 640 °C",
+      "Número de material": "51119654"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "TGA/DSC por encima de 640 °C",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51119654.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pt24126",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles TGA/DSC",
+    "model": "Crisoles Pt 150 µL, 4 uds.",
+    "code": "24126",
+    "capacity": "150 µL; 4 crisoles con tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 150 µL; 4 crisoles con tapas. Compatibilidad/aplicación: TGA/DSC por encima de 640 °C.",
+    "specs": {
+      "Presentación": "150 µL; 4 crisoles con tapas",
+      "Compatibilidad / aplicación": "TGA/DSC por encima de 640 °C",
+      "Número de material": "24126"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "TGA/DSC por encima de 640 °C",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/24126.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "pca51140845",
+    "brand": "Mettler Toledo",
+    "category": "Accesorios y consumibles",
+    "sub": "Crisoles TGA/DSC",
+    "model": "Crisoles PCA 70 µL, 4 uds.",
+    "code": "51140845",
+    "capacity": "70 µL; 4 crisoles con tapas",
+    "readability": "Consumible",
+    "description": "Consumible original METTLER TOLEDO. 70 µL; 4 crisoles con tapas. Compatibilidad/aplicación: TGA/DSC; alta resistencia química.",
+    "specs": {
+      "Presentación": "70 µL; 4 crisoles con tapas",
+      "Compatibilidad / aplicación": "TGA/DSC; alta resistencia química",
+      "Número de material": "51140845"
+    },
+    "highlights": [
+      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
+      "Confirmar compatibilidad exacta con el instrumento antes de cotizar."
+    ],
+    "applications": [
+      "TGA/DSC; alta resistencia química",
+      "Laboratorio",
+      "Reposición"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/51140845.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
