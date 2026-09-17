@@ -959,16 +959,13 @@
     "code": "30474901",
     "capacity": "1,5 mL mínimo",
     "readability": "0,00001 g/cm³",
-    "description": "Densímetro Excellence D5 con control automático de temperatura, visualización en tiempo real de la celda y corrección automática de viscosidad.",
+    "description": "Medidor de densidad Excellence de alta exactitud, con corrección automática de viscosidad y video en tiempo real de la celda.",
     "specs": {
-      "N.º de material": "30474901",
-      "Exactitud": "±0,00005 g/cm³",
-      "Repetibilidad": "0,000005 g/cm³",
-      "Resolución": "0,00001 g/cm³",
-      "Rango de temperatura": "0–95 °C",
-      "Volumen mínimo de muestra": "1,5 mL",
-      "Conectividad": "USB, Ethernet, HDMI y RS232",
-      "Escalas": "Densidad, gravedad específica, Brix, alcohol y tablas programables"
+      "Exactitud": "±0.00005 g/cm³",
+      "Repetibilidad": "0.000005 g/cm³",
+      "Resolución": "0.00001 g/cm³",
+      "Temperatura": "0–95 °C",
+      "Volumen mínimo": "1.5 mL"
     },
     "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/density-meter/density-meters/D5.html",
     "highlights": [
@@ -977,11 +974,10 @@
       "Ampliable a sistemas multiparámetro y automatizados."
     ],
     "applications": [
-      "Bebidas",
-      "Alimentos",
-      "Química",
-      "Farmacéutica",
-      "Control de concentración"
+      "Densidad",
+      "Brix",
+      "Alcohol",
+      "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474901.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -995,15 +991,13 @@
     "code": "30474903",
     "capacity": "nD 1,3200–1,7000",
     "readability": "Exactitud ±0,0001 nD",
-    "description": "Refractómetro digital de sobremesa Excellence R4 con control Peltier y plataforma modular para mediciones de índice de refracción y escalas relacionadas.",
+    "description": "Refractómetro Excellence para rutinas, con amplio rango de índice de refracción y control automático de temperatura.",
     "specs": {
-      "N.º de material": "30474903",
-      "Rango nD": "1,3200–1,7000",
-      "Exactitud nD": "±0,0001",
-      "Repetibilidad nD": "5 × 10⁻⁵",
-      "Control de temperatura": "Peltier",
-      "Escalas": "nD, Brix y otras escalas integradas",
-      "Integración": "Sistemas multiparámetro y automatización disponibles"
+      "Rango nD": "1.3200–1.7000",
+      "Exactitud nD": "±0.0001",
+      "Repetibilidad nD": "0.00005",
+      "Temperatura": "0–100 °C",
+      "Interfaz": "One Click"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
     "highlights": [
@@ -1012,10 +1006,8 @@
       "Puede combinarse con densidad, pH/conductividad y otros parámetros."
     ],
     "applications": [
-      "Brix",
       "Índice de refracción",
-      "Alimentos y bebidas",
-      "Química",
+      "Brix",
       "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474903.jpg",
@@ -1030,15 +1022,12 @@
     "code": "30474904",
     "capacity": "nD 1,32000–1,58000",
     "readability": "Exactitud ±0,00002 nD",
-    "description": "Refractómetro Excellence R5 de alta exactitud para determinación de índice de refracción y Brix, con control térmico Peltier y posibilidades de automatización.",
+    "description": "Refractómetro Excellence de mayor precisión para índice de refracción, Brix y concentraciones derivadas.",
     "specs": {
-      "N.º de material": "30474904",
-      "Rango nD": "1,32000–1,58000",
-      "Exactitud nD": "±0,00002",
-      "Repetibilidad nD": "1 × 10⁻⁵",
-      "Control de temperatura": "Peltier",
-      "Gestión de datos": "Compatible con soluciones LabX según configuración",
-      "Integración": "Sistemas multiparámetro y automatización disponibles"
+      "Rango nD": "1.32000–1.58000",
+      "Exactitud nD": "±0.00002",
+      "Repetibilidad nD": "0.00001",
+      "Familia": "Excellence"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
     "highlights": [
@@ -1047,11 +1036,9 @@
       "Integración con automatización y sistemas multiparámetro."
     ],
     "applications": [
-      "Índice de refracción de alta exactitud",
+      "Índice de refracción de alta precisión",
       "Brix",
-      "Farmacéutica",
-      "Química",
-      "Alimentos y bebidas"
+      "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474904.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -1932,19 +1919,20 @@
     "code": "30474900",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro D4 para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "Medidor de densidad Excellence modular con control automático de temperatura, visualización de la celda y detección automática de burbujas.",
     "specs": {
       "Familia": "Excellence",
-      "Modelo": "D4",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Control de temperatura": "Automático Peltier",
+      "Detección": "Burbujas automática",
+      "Interfaz": "One Click",
+      "Sistema": "Modular y automatizable"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
     "applications": [
-      "Control de calidad",
-      "Bebidas y alimentos",
-      "Química y formulación"
+      "Densidad",
+      "Gravedad específica",
+      "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474900.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -1958,19 +1946,21 @@
     "code": "30474902",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro D6 para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "Medidor de densidad Excellence de máxima resolución para aplicaciones exigentes y sistemas multiparámetro.",
     "specs": {
-      "Familia": "Excellence",
-      "Modelo": "D6",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Exactitud": "±0.000005 g/cm³",
+      "Repetibilidad": "0.000001 g/cm³",
+      "Resolución": "0.000001 g/cm³",
+      "Temperatura": "0–95 °C",
+      "Volumen mínimo": "1.5 mL"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
     "applications": [
-      "Control de calidad",
-      "Bebidas y alimentos",
-      "Química y formulación"
+      "Densidad de alta precisión",
+      "Alcohol",
+      "API",
+      "Control de calidad"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474902.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -1984,19 +1974,19 @@
     "code": "30468670",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro Easy D30 para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "Medidor compacto de densidad y gravedad específica con control automático de temperatura y detección de burbujas.",
     "specs": {
-      "Familia": "EasyPlus",
-      "Modelo": "Easy D30",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Parámetros": "Densidad y gravedad específica",
+      "Control de temperatura": "Automático",
+      "Detección": "Burbujas",
+      "Corrección": "Viscosidad"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
     "applications": [
-      "Control de calidad",
-      "Bebidas y alimentos",
-      "Química y formulación"
+      "Densidad",
+      "Gravedad específica",
+      "Rutina"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30468670.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -2010,19 +2000,20 @@
     "code": "30468671",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro Easy D40 para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "Medidor EasyPlus para densidad, gravedad específica, Brix, alcohol y otras concentraciones con control automático de temperatura.",
     "specs": {
-      "Familia": "EasyPlus",
-      "Modelo": "Easy D40",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Parámetros": "Densidad, gravedad específica, Brix, alcohol y más",
+      "Control de temperatura": "Automático",
+      "Detección": "Burbujas",
+      "Corrección": "Viscosidad"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
     "applications": [
-      "Control de calidad",
-      "Bebidas y alimentos",
-      "Química y formulación"
+      "Densidad",
+      "Brix",
+      "Alcohol",
+      "Rutina"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30468671.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -2080,58 +2071,6 @@
     "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
-    "id": "r4x",
-    "brand": "Mettler Toledo",
-    "category": "Refractometría",
-    "sub": "Excellence",
-    "model": "R4X",
-    "code": "",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro R4X para medición de índice de refracción, Brix u otras escalas según configuración.",
-    "specs": {
-      "Familia": "Excellence",
-      "Modelo": "R4X",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
-    },
-    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
-    "applications": [
-      "Control de calidad",
-      "Concentración de soluciones",
-      "Alimentos y bebidas"
-    ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
-  },
-  {
-    "id": "r5x",
-    "brand": "Mettler Toledo",
-    "category": "Refractometría",
-    "sub": "Excellence",
-    "model": "R5X",
-    "code": "",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro R5X para medición de índice de refracción, Brix u otras escalas según configuración.",
-    "specs": {
-      "Familia": "Excellence",
-      "Modelo": "R5X",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
-    },
-    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
-    "applications": [
-      "Control de calidad",
-      "Concentración de soluciones",
-      "Alimentos y bebidas"
-    ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
-  },
-  {
     "id": "easyr40",
     "brand": "Mettler Toledo",
     "category": "Refractometría",
@@ -2140,19 +2079,18 @@
     "code": "30468672",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro Easy R40 para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "description": "Refractómetro compacto para índice de refracción, Brix y otras concentraciones, con control automático de temperatura.",
     "specs": {
-      "Familia": "EasyPlus",
-      "Modelo": "Easy R40",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+      "Parámetros": "Índice de refracción, Brix y más",
+      "Tecnología": "FastStart",
+      "Control de temperatura": "Peltier automático"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
     "applications": [
-      "Control de calidad",
-      "Concentración de soluciones",
-      "Alimentos y bebidas"
+      "Brix",
+      "Índice de refracción",
+      "Rutina"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30468672.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
@@ -5099,6 +5037,66 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344211.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "rx4",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Celda modular Excellence",
+    "model": "RX4",
+    "code": "30474905",
+    "capacity": "Celda modular Excellence",
+    "readability": "Consultar ficha",
+    "description": "Celda de índice de refracción que se conecta a un densímetro Excellence para medir densidad e índice de refracción simultáneamente.",
+    "specs": {
+      "Rango nD": "1.3200–1.7000",
+      "Exactitud nD": "±0.0001",
+      "Repetibilidad nD": "0.00005",
+      "Temperatura": "0–100 °C",
+      "Uso": "Con densímetro Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Imagen oficial asociada al número de material.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Sistemas multiparámetro",
+      "Índice de refracción",
+      "Densidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30474905.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "rx5",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Celda modular Excellence",
+    "model": "RX5",
+    "code": "30474906",
+    "capacity": "Celda modular Excellence",
+    "readability": "Consultar ficha",
+    "description": "Celda de índice de refracción de alta precisión para integración con densímetros Excellence y sistemas multiparámetro.",
+    "specs": {
+      "Rango nD": "1.32000–1.58000",
+      "Exactitud nD": "±0.00002",
+      "Repetibilidad nD": "0.00001",
+      "Temperatura": "5–75 °C",
+      "Uso": "Con densímetro Excellence"
+    },
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Imagen oficial asociada al número de material.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Sistemas multiparámetro",
+      "Índice de refracción de alta precisión",
+      "Densidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30474906.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
