@@ -3536,5 +3536,261 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/30697478.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MA16001L.html"
+  },
+  {
+    "id": "mx1203",
+    "model": "MX1203",
+    "code": "30665161",
+    "capacity": "1.220 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Advanced",
+    "description": "Balanza de precisión MX con SmartPan, gestión de usuarios, documentación avanzada e integración en red.",
+    "specs": {
+      "Capacidad máxima": "1.220 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,5 mg",
+      "Peso mínimo USP, típico": "1 g",
+      "Peso mínimo (U = 1 %, k = 2), típico": "100 mg",
+      "Tiempo de estabilización": "1,5 s",
+      "Ajuste": "Interno (automático/FACT)",
+      "Pantalla": "Táctil TFT color de 7 pulgadas",
+      "Interfaces": "Ethernet (LAN), USB-A, USB-C, Bluetooth opcional",
+      "Línea de balanzas": "MX",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Advanced"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MX1203.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30665161.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "mr203",
+    "model": "MR203",
+    "code": "30666212",
+    "capacity": "220 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Advanced",
+    "description": "Balanza de precisión MR para laboratorio y planta, con FACT, protección IP43 e integración mediante múltiples interfaces.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "1 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Grado de protección": "IP43",
+      "Línea de balanzas": "MR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Advanced"
+    },
+    "source": "https://www.mt.com/nz/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MR203.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666212.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "mr303",
+    "model": "MR303",
+    "code": "30666215",
+    "capacity": "320 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Advanced",
+    "description": "Balanza de precisión MR de 320 g con FACT, IP43, pantalla táctil e interfaces para integración.",
+    "specs": {
+      "Capacidad máxima": "320 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,7 mg",
+      "Peso mínimo USP, típico": "1,4 g",
+      "Peso mínimo (U = 1 %, k = 2), típico": "140 mg",
+      "Tiempo de estabilización": "1,5 s",
+      "Ajuste": "Interno (automático/FACT)",
+      "Pantalla": "Táctil TFT color de 4,5 pulgadas",
+      "Interfaces": "Ethernet, RS232, USB-A, USB-C, Bluetooth opcional",
+      "Línea de balanzas": "MR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Advanced"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MR303.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666215.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "mr503",
+    "model": "MR503",
+    "code": "30666218",
+    "capacity": "520 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Advanced",
+    "description": "Balanza de precisión MR de 520 g, diseñada para resultados fiables en laboratorio y entornos de producción.",
+    "specs": {
+      "Capacidad máxima": "520 g",
+      "Legibilidad": "1 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Grado de protección": "IP43",
+      "Línea de balanzas": "MR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Advanced"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MR503.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666218.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "mr603",
+    "model": "MR603",
+    "code": "30666221",
+    "capacity": "620 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Advanced",
+    "description": "Balanza de precisión MR de 620 g con construcción robusta, FACT e integración flexible.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "1 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Grado de protección": "IP43",
+      "Línea de balanzas": "MR",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Advanced"
+    },
+    "source": "https://www.mt.com/nz/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MR603.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666221.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "la203",
+    "model": "LA203",
+    "code": "30880512",
+    "capacity": "220 g",
+    "readability": "1 mg",
+    "sub": "Precisión",
+    "family": "Standard",
+    "description": "Balanza de precisión LA de nivel básico para tareas rutinarias, conteo de piezas y pesaje dinámico.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "1 mg",
+      "Repetibilidad, típica": "0,7 mg",
+      "Peso mínimo USP, típico": "1,4 g",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,14 g",
+      "Tiempo de estabilización": "2 s",
+      "Ajuste": "Interno",
+      "Interfaces": "RS232, Bluetooth opcional",
+      "Línea de balanzas": "LA",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Standard"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Weighing_Solutions/precision-balances/LA203.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30880512.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "la4002",
+    "model": "LA4002",
+    "code": "30880515",
+    "capacity": "4,2 kg",
+    "readability": "0,01 g",
+    "sub": "Precisión",
+    "family": "Standard",
+    "description": "Balanza de precisión LA de 4,2 kg para tareas básicas de laboratorio con ajuste interno.",
+    "specs": {
+      "Capacidad máxima": "4,2 kg",
+      "Legibilidad": "0,01 g",
+      "Repetibilidad, típica": "7 mg",
+      "Peso mínimo USP, típico": "14 g",
+      "Peso mínimo (U = 1 %, k = 2), típico": "1,4 g",
+      "Tiempo de estabilización": "1 s",
+      "Ajuste": "Interno",
+      "Interfaces": "RS232, Bluetooth opcional",
+      "Línea de balanzas": "LA",
+      "Tipo de balanza": "Balanza de precisión",
+      "Nivel": "Standard"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Weighing_Solutions/precision-balances/LA4002.html",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "highlights": [
+      "Referencia verificada en la web oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados al modelo.",
+      "Confirmar disponibilidad y configuración comercial al cotizar."
+    ],
+    "applications": [
+      "Pesaje de precisión",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30880515.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
