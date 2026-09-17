@@ -814,5 +814,251 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30139250.jpg",
     "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "t5",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Excellence",
+    "model": "T5",
+    "code": "30252672",
+    "capacity": "1–4 buretas",
+    "readability": "Potenciométrica / KF",
+    "description": "Valorador Excellence modular para aplicaciones potenciométricas y Karl Fischer, ampliable de una a cuatro buretas y compatible con automatización InMotion.",
+    "specs": {
+      "N.º de material": "30252672",
+      "Familia": "Excellence",
+      "Técnicas": "Titulación potenciométrica y Karl Fischer",
+      "Buretas": "Ampliable de 1 a 4",
+      "Automatización": "Compatible con InMotion",
+      "Software": "Compatible con LabX"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
+    "highlights": [
+      "Plataforma modular para crecer con las necesidades del laboratorio.",
+      "Automatización InMotion para flujos de trabajo y series de muestras.",
+      "Integración con LabX para gestión de datos y métodos."
+    ],
+    "applications": [
+      "Ácido-base",
+      "Redox",
+      "Precipitación",
+      "Complejometría",
+      "Karl Fischer"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30252672.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "t7",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Excellence",
+    "model": "T7",
+    "code": "30252675",
+    "capacity": "1–4 buretas",
+    "readability": "Potenciométrica / KF",
+    "description": "Valorador Excellence T7 con mayor modularidad para métodos avanzados, hasta cuatro buretas y tarjeta de sensor adicional; actualizable a T9.",
+    "specs": {
+      "N.º de material": "30252675",
+      "Familia": "Excellence",
+      "Buretas": "Ampliable de 1 a 4",
+      "Tarjetas de sensor": "Tarjeta adicional disponible",
+      "Karl Fischer": "Compatible",
+      "Automatización": "Compatible con InMotion",
+      "Actualización": "Actualizable a T9"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
+    "highlights": [
+      "Modularidad para aplicaciones avanzadas.",
+      "Preparado para Karl Fischer y automatización InMotion.",
+      "Puede actualizarse a la funcionalidad T9."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Farmacéutica",
+      "Alimentos",
+      "Química",
+      "Karl Fischer"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30252675.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "t9",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Excellence",
+    "model": "T9",
+    "code": "30252676",
+    "capacity": "1–8 buretas",
+    "readability": "2 tareas simultáneas",
+    "description": "Valorador Excellence T9 de máxima modularidad, ampliable hasta ocho buretas y preparado para ejecutar dos tareas de valoración simultáneas.",
+    "specs": {
+      "N.º de material": "30252676",
+      "Familia": "Excellence",
+      "Buretas": "Ampliable de 1 a 8",
+      "Tarjetas de sensor": "Hasta 2 adicionales",
+      "Tareas simultáneas": "2",
+      "Karl Fischer": "Compatible",
+      "Automatización": "Compatible con InMotion"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
+    "highlights": [
+      "Máxima modularidad de la plataforma Excellence.",
+      "Dos tareas de valoración simultáneas.",
+      "Integración con automatización y gestión de datos."
+    ],
+    "applications": [
+      "Laboratorios de alto rendimiento",
+      "Métodos potenciométricos complejos",
+      "Karl Fischer",
+      "Automatización"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30252676.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "nf2300",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "NineFocus",
+    "model": "NineFocus NF2300 Kit",
+    "code": "30997013",
+    "capacity": "2 canales",
+    "readability": "pH / ORP / conductividad",
+    "description": "Sistema multiparámetro de sobremesa NineFocus con arquitectura modular, sensores digitales InLab DES, diagnóstico de sensores y soporte para entornos regulados.",
+    "specs": {
+      "N.º de material": "30997013",
+      "Línea": "NineFocus",
+      "Canales": "Doble canal",
+      "Parámetros": "pH, ORP y conductividad; ampliable según configuración",
+      "Pantalla": "TFT color de 7″",
+      "Dimensiones": "111 × 178 × 325 mm",
+      "Peso": "1697 g",
+      "Conectividad": "LAN, USB A, USB C y conexiones de sensores",
+      "Gestión": "Usuarios, métodos y soporte de cumplimiento regulatorio"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-meter-ninefocus-nf2300-kit.html",
+    "highlights": [
+      "Plataforma modular de nueva generación sucesora de SevenExcellence.",
+      "Diagnóstico guiado con sensores InLab DES.",
+      "Diseñado para crecer en parámetros y productividad."
+    ],
+    "applications": [
+      "pH",
+      "Conductividad",
+      "ORP",
+      "Control de calidad",
+      "Laboratorios regulados"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30997013.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "d5",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "Excellence",
+    "model": "D5",
+    "code": "30474901",
+    "capacity": "1,5 mL mínimo",
+    "readability": "0,00001 g/cm³",
+    "description": "Densímetro Excellence D5 con control automático de temperatura, visualización en tiempo real de la celda y corrección automática de viscosidad.",
+    "specs": {
+      "N.º de material": "30474901",
+      "Exactitud": "±0,00005 g/cm³",
+      "Repetibilidad": "0,000005 g/cm³",
+      "Resolución": "0,00001 g/cm³",
+      "Rango de temperatura": "0–95 °C",
+      "Volumen mínimo de muestra": "1,5 mL",
+      "Conectividad": "USB, Ethernet, HDMI y RS232",
+      "Escalas": "Densidad, gravedad específica, Brix, alcohol y tablas programables"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/density-meter/density-meters/D5.html",
+    "highlights": [
+      "Operación One Click.",
+      "Detección de burbujas y observación de la celda en tiempo real.",
+      "Ampliable a sistemas multiparámetro y automatizados."
+    ],
+    "applications": [
+      "Bebidas",
+      "Alimentos",
+      "Química",
+      "Farmacéutica",
+      "Control de concentración"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30474901.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "r4",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Excellence",
+    "model": "R4",
+    "code": "30474903",
+    "capacity": "nD 1,3200–1,7000",
+    "readability": "Exactitud ±0,0001 nD",
+    "description": "Refractómetro digital de sobremesa Excellence R4 con control Peltier y plataforma modular para mediciones de índice de refracción y escalas relacionadas.",
+    "specs": {
+      "N.º de material": "30474903",
+      "Rango nD": "1,3200–1,7000",
+      "Exactitud nD": "±0,0001",
+      "Repetibilidad nD": "5 × 10⁻⁵",
+      "Control de temperatura": "Peltier",
+      "Escalas": "nD, Brix y otras escalas integradas",
+      "Integración": "Sistemas multiparámetro y automatización disponibles"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
+    "highlights": [
+      "Control Peltier sin baño termostático externo.",
+      "Interfaz One Click para flujos de trabajo rutinarios.",
+      "Puede combinarse con densidad, pH/conductividad y otros parámetros."
+    ],
+    "applications": [
+      "Brix",
+      "Índice de refracción",
+      "Alimentos y bebidas",
+      "Química",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30474903.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "r5",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Excellence",
+    "model": "R5",
+    "code": "30474904",
+    "capacity": "nD 1,32000–1,58000",
+    "readability": "Exactitud ±0,00002 nD",
+    "description": "Refractómetro Excellence R5 de alta exactitud para determinación de índice de refracción y Brix, con control térmico Peltier y posibilidades de automatización.",
+    "specs": {
+      "N.º de material": "30474904",
+      "Rango nD": "1,32000–1,58000",
+      "Exactitud nD": "±0,00002",
+      "Repetibilidad nD": "1 × 10⁻⁵",
+      "Control de temperatura": "Peltier",
+      "Gestión de datos": "Compatible con soluciones LabX según configuración",
+      "Integración": "Sistemas multiparámetro y automatización disponibles"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
+    "highlights": [
+      "Mayor exactitud de la línea Excellence.",
+      "Control preciso de temperatura mediante Peltier.",
+      "Integración con automatización y sistemas multiparámetro."
+    ],
+    "applications": [
+      "Índice de refracción de alta exactitud",
+      "Brix",
+      "Farmacéutica",
+      "Química",
+      "Alimentos y bebidas"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30474904.jpg",
+    "image_source": "METTLER TOLEDO"
   }
 ]
