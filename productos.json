@@ -2385,5 +2385,378 @@
     "applications": [],
     "image": "",
     "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "nf2300-pure-h2o",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "NineFocus",
+    "model": "NineFocus NF2300 Pure H2O",
+    "code": "30997014",
+    "capacity": "2 canales",
+    "readability": "pH / ORP / conductividad",
+    "description": "Kit NineFocus de doble canal orientado a agua pura, con módulos de pH y conductividad, sensores InLab Pure Pro-DES e InLab 741 Pro-DES, brazo de electrodo y estándares para calibración inicial.",
+    "specs": {
+      "N.º de material": "30997014",
+      "Canales": "Doble canal",
+      "Parámetros": "pH, ORP y conductividad",
+      "Rango pH": "-2,000 a 20,000",
+      "Resolución pH": "0,001 / 0,01 / 0,1",
+      "Exactitud pH": "±0,002",
+      "Rango de conductividad": "0,001 µS/cm a 2000 mS/cm",
+      "Exactitud de conductividad": "±0,5 %",
+      "Memoria": "3000 conjuntos de resultados",
+      "Protección": "IP52",
+      "Software": "Compatible con LabX"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-meter-ninefocus-nf2300-pure-h2o.html",
+    "highlights": [
+      "Configuración específica para agua pura y de baja conductividad.",
+      "Diagnóstico de sensores InLab DES.",
+      "Gestión de usuarios y soporte para entornos regulados."
+    ],
+    "applications": [
+      "Agua ultrapura",
+      "Agua desionizada",
+      "Laboratorios farmacéuticos",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30997014.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "nf2340-kit",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "NineFocus",
+    "model": "NineFocus NF2340 Kit",
+    "code": "30997017",
+    "capacity": "3 canales",
+    "readability": "pH / conductividad / OD",
+    "description": "Kit multiparámetro NineFocus de triple canal para pH, conductividad y oxígeno disuelto, con sensores digitales DES y soporte de transferencia automática de datos a LabX.",
+    "specs": {
+      "N.º de material": "30997017",
+      "Canales": "Triple canal",
+      "Parámetros": "pH, ORP, conductividad y oxígeno disuelto",
+      "Sensores incluidos": "InLab Expert Pro-DES, InLab 731 Pro-DES y OptiOx Pro-DES",
+      "Plataforma": "NineFocus modular",
+      "Gestión de datos": "Transferencia automática a LabX",
+      "Cumplimiento": "Soporte para 21 CFR Part 11 y ALCOA++"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-do-meter-ninefocus-nf2340-kit.html",
+    "highlights": [
+      "Tres módulos de medición en un solo sistema.",
+      "Diagnóstico guiado de sensores.",
+      "Arquitectura ampliable y orientada a integridad de datos."
+    ],
+    "applications": [
+      "pH",
+      "Conductividad",
+      "Oxígeno disuelto",
+      "Laboratorios regulados"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30997017.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-expert-pro-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Expert Pro-DES",
+    "code": "31027061",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Sensor pH DES robusto con eje PEEK, sensor de temperatura integrado y cable desmontable, diseñado para aplicaciones generales y condiciones exigentes.",
+    "specs": {
+      "N.º de material": "31027061",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus",
+      "Rango de temperatura": "0 a 100 °C",
+      "Longitud del eje": "120 mm",
+      "Volumen mínimo de muestra": "20 mL"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/inlab-expert-pro-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "Aplicaciones generales",
+      "Muestras exigentes",
+      "Laboratorio y campo"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027061.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-micro-pro-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Micro Pro-DES",
+    "code": "31027062",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Microelectrodo de pH DES con sensor de temperatura integrado, diseñado para recipientes y volúmenes de muestra muy pequeños.",
+    "specs": {
+      "N.º de material": "31027062",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/inlab-micro-pro-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "Tubos de ensayo",
+      "Viales",
+      "Cubetas",
+      "Pequeños volúmenes"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027062.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-solids-pro-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Solids Pro-DES",
+    "code": "31027063",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Electrodo de pH DES de bajo mantenimiento con punta tipo lanza y unión abierta, diseñado para muestras sólidas y semisólidas.",
+    "specs": {
+      "N.º de material": "31027063",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/inlab-solids-pro-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "Carne",
+      "Queso",
+      "Alimentos preparados",
+      "Frutas y vegetales"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027063.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-max-pro-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Max Pro-DES",
+    "code": "31027065",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Electrodo de pH DES de cuerpo de vidrio con sensor de temperatura integrado, diseñado para mediciones rápidas y altamente reproducibles, incluso a pH elevado.",
+    "specs": {
+      "N.º de material": "31027065",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/inlab-max-pro-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "Aplicaciones generales",
+      "pH elevado",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027065.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-pure-pro-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Pure Pro-DES",
+    "code": "31027066",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Electrodo de pH DES para muestras de baja fuerza iónica, con electrolito puente y unión de manguito de vidrio para lecturas estables en agua pura.",
+    "specs": {
+      "N.º de material": "31027066",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus",
+      "Rango de temperatura": "0 a 80 °C",
+      "Longitud del eje": "170 mm",
+      "Volumen mínimo de muestra": "20 mL"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/inlab-pure-pro-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "Agua ultrapura",
+      "Agua desionizada",
+      "Agua para inyectables"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027066.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inlab-redox-des",
+    "brand": "Mettler Toledo",
+    "category": "pH y electrodos",
+    "sub": "InLab DES",
+    "model": "InLab Redox-DES",
+    "code": "31027068",
+    "capacity": "Sensor digital",
+    "readability": "DES",
+    "description": "Electrodo combinado ORP/Redox DES con anillo indicador de platino y cabezal sVP8 DES.",
+    "specs": {
+      "N.º de material": "31027068",
+      "Familia": "InLab DES",
+      "Tecnología": "Sensor digital DES con diagnóstico",
+      "Compatibilidad": "NineFocus",
+      "Tipo": "ORP/Redox",
+      "Metal": "Anillo de platino"
+    },
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/orp-sensor/inlab-redox-des.html",
+    "highlights": [
+      "Diagnóstico de estado del sensor.",
+      "Transmisión digital robusta y trazabilidad de datos.",
+      "Diseño modular DES."
+    ],
+    "applications": [
+      "ORP/Redox",
+      "Control de procesos",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/31027068.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "dsc5plus",
+    "brand": "Mettler Toledo",
+    "category": "Análisis térmico",
+    "sub": "DSC",
+    "model": "DSC 5+",
+    "code": "30674095",
+    "capacity": "-150 a 700 °C",
+    "readability": "DSC",
+    "description": "Calorímetro diferencial de barrido de nueva generación con sensor MultiStar MMS 1, 136 termopares y FlexMode para trabajar en compensación de potencia o flujo de calor.",
+    "specs": {
+      "N.º de material": "30674095",
+      "Técnica": "Calorimetría diferencial de barrido (DSC)",
+      "Rango de temperatura": "-150 a 700 °C",
+      "Exactitud de temperatura": "±0,2 K",
+      "Precisión de temperatura": "±0,02 K",
+      "Constante de tiempo de señal": "0,7 s",
+      "Muestreo": "Hasta 50 puntos/s",
+      "Velocidad de calentamiento": "0,001 a 200 K/min",
+      "Velocidad de enfriamiento": "0,001 a 50 K/min",
+      "Sensor": "MMS 1 MultiStar, 136 termopares"
+    },
+    "source": "https://www.mt.com/gb/en/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DSC-5-plus.html",
+    "highlights": [
+      "FlexMode: compensación de potencia o flujo de calor.",
+      "Amplio rango térmico en una sola medición.",
+      "Automatización opcional con robot de muestras."
+    ],
+    "applications": [
+      "Transición vítrea",
+      "Cristalización",
+      "Capacidad calorífica",
+      "Cinética",
+      "OIT",
+      "DSC modulado"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30674095.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "tma-sdta2plus",
+    "brand": "Mettler Toledo",
+    "category": "Análisis térmico",
+    "sub": "TMA",
+    "model": "TMA/SDTA 2+",
+    "code": "30259700",
+    "capacity": "-150 a 1600 °C",
+    "readability": "0,5 nm",
+    "description": "Analizador termomecánico TMA/SDTA 2+ para medir cambios dimensionales con resolución nanométrica y señal SDTA simultánea.",
+    "specs": {
+      "N.º de material": "30259700",
+      "Técnica": "Análisis termomecánico (TMA)",
+      "Rango de temperatura": "-150 a 1600 °C, según horno/configuración",
+      "Rango de fuerza": "-0,1 a 1 N",
+      "Resolución de longitud": "0,5 nm",
+      "Rango de medición": "-5 a 5 mm",
+      "Longitud máxima de muestra": "20 mm",
+      "Resolución SDTA": "0,005 °C",
+      "Muestreo": "10 puntos/s"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TMA-SDTA-2-plus.html",
+    "highlights": [
+      "Mecánica de precisión para cambios dimensionales mínimos.",
+      "SDTA para efectos térmicos simultáneos.",
+      "Modo DLTMA y arquitectura modular."
+    ],
+    "applications": [
+      "Coeficiente de expansión",
+      "Transición vítrea",
+      "Reblandecimiento",
+      "Cinética",
+      "Cambios dimensionales"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30259700.jpg",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "dma1",
+    "brand": "Mettler Toledo",
+    "category": "Análisis térmico",
+    "sub": "DMA",
+    "model": "DMA 1",
+    "code": "30027401",
+    "capacity": "-190 a 600 °C",
+    "readability": "DMA",
+    "description": "Analizador dinamo-mecánico DMA 1 con cabezal giratorio para caracterización mecánica y viscoelástica en múltiples modos de deformación.",
+    "specs": {
+      "N.º de material": "30027401",
+      "Técnica": "Análisis dinamo-mecánico (DMA)",
+      "Rango de temperatura": "-190 a 600 °C",
+      "Rango de fuerza": "0,001 a 10 N",
+      "Rango de frecuencia": "0,001 a 300 Hz",
+      "Rango de desplazamiento": "±1 mm",
+      "Rango de rigidez": "50 N/m a 10⁵ N/m",
+      "Rango tan delta": "0,0001 a 50"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DMA-1.html",
+    "highlights": [
+      "Cabezal de medición giratorio.",
+      "Múltiples modos de deformación.",
+      "Opción de humedad y mediciones en líquidos."
+    ],
+    "applications": [
+      "Transición vítrea",
+      "Viscoelasticidad",
+      "Cristalización",
+      "Módulo de almacenamiento y pérdida"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30027401.jpg",
+    "image_source": "METTLER TOLEDO"
   }
 ]
