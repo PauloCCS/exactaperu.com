@@ -2761,5 +2761,306 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30027401.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr2um",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR2U/M",
+    "code": "30279261",
+    "capacity": "2,1 g",
+    "readability": "0,1 µg",
+    "description": "Ultramicrobalanza XPR Excellence para muestras extremadamente pequeñas y valiosas.",
+    "specs": {
+      "Capacidad máxima": "2,1 g",
+      "Legibilidad": "0,1 µg",
+      "Repetibilidad, típica": "0,15 µg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,03 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "0,3 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Pantalla": "Pantalla táctil TFT de 7 pulgadas",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR2U_M-30279261.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30279261.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr6um",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR6U/M",
+    "code": "30279279",
+    "capacity": "6,1 g",
+    "readability": "0,1 µg",
+    "description": "Comparador/ultramicrobalanza XPR Excellence para determinación de masa de alta precisión.",
+    "specs": {
+      "Capacidad máxima": "6,1 g",
+      "Legibilidad": "0,1 µg",
+      "Repetibilidad, típica": "0,15 µg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,03 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "0,3 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR6U_M-30279279.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30279279.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr6ud5m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR6UD5/M",
+    "code": "30279290",
+    "capacity": "6,1 g",
+    "readability": "0,5 µg",
+    "description": "Microbalanza XPR Excellence de doble rango para micropesaje, con cortaaires automático y compatibilidad con LabX.",
+    "specs": {
+      "Capacidad máxima": "6,1 g",
+      "Legibilidad": "0,5 µg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR6UD5_M-30279290.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30279290.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr10m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR10/M",
+    "code": "30279299",
+    "capacity": "10,1 g",
+    "readability": "1 µg",
+    "description": "Microbalanza XPR Excellence para muestras pequeñas, con dos terminales y soporte para flujos regulados.",
+    "specs": {
+      "Capacidad máxima": "10,1 g",
+      "Legibilidad": "1 µg",
+      "Repetibilidad, típica": "0,4 µg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,082 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "0,82 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR10_M-30279299.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30279299.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr10um",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR10U/M",
+    "code": "30756578",
+    "capacity": "10,1 g",
+    "readability": "0,1 µg",
+    "description": "Comparador XPR Excellence para determinación de masa de alta precisión y trazabilidad metrológica.",
+    "specs": {
+      "Capacidad máxima": "10,1 g",
+      "Legibilidad": "0,1 µg",
+      "Repetibilidad, típica": "0,3 µg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,06 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "0,6 mg",
+      "Ajuste": "Interno (automático/FACT)",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR10U-M.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30756578.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr36m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR36/M",
+    "code": "30594495",
+    "capacity": "32 g",
+    "readability": "1 µg",
+    "description": "Balanza microanalítica XPR Excellence para dosificación directa de micromuestras.",
+    "specs": {
+      "Capacidad máxima": "32 g",
+      "Legibilidad": "1 µg",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR36_M-30594495.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30594495.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr36drm",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR36DR/M",
+    "code": "30594500",
+    "capacity": "32 g / 8,1 g",
+    "readability": "0,01 mg / 0,001 mg",
+    "description": "Balanza microanalítica XPR Excellence de doble rango con StaticDetect y soporte LabX.",
+    "specs": {
+      "Capacidad máxima": "32 g / 8,1 g",
+      "Legibilidad": "0,01 mg / 0,001 mg",
+      "Repetibilidad, típica": "0,001 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "0,2 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "2 mg",
+      "Tiempo de estabilización": "2,5 s",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR36DR_M-30594500.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30594500.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr56m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR56/M",
+    "code": "30355537",
+    "capacity": "52 g",
+    "readability": "1 µg",
+    "description": "Balanza microanalítica XPR Excellence de alta capacidad para dosificación de micromuestras.",
+    "specs": {
+      "Capacidad máxima": "52 g",
+      "Legibilidad": "1 µg",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR56_M-30355537.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30355537.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "xpr56drm",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "Microbalanza",
+    "model": "XPR56DR/M",
+    "code": "30355541",
+    "capacity": "52 g / 11 g",
+    "readability": "0,01 mg / 0,001 mg",
+    "description": "Balanza microanalítica XPR Excellence de doble rango para pesaje de micromuestras.",
+    "specs": {
+      "Capacidad máxima": "52 g / 11 g",
+      "Legibilidad": "0,01 mg / 0,001 mg",
+      "Línea de balanzas": "XPR",
+      "Tipo de balanza": "Microbalanza",
+      "Familia": "Excellence"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Weighing_Solutions/microbalances/XPR56DR_M-30355541.html",
+    "highlights": [
+      "Modelo verificado en el catálogo oficial de METTLER TOLEDO.",
+      "Configuración /M para mercados con aprobación metrológica aplicable.",
+      "Confirmar disponibilidad y configuración final al cotizar."
+    ],
+    "applications": [
+      "Micropesaje",
+      "Preparación de muestras",
+      "Control de calidad"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30355541.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
