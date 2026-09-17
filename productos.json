@@ -2372,22 +2372,24 @@
     "category": "Titulación",
     "sub": "Automatización",
     "model": "InMotion KF Six",
-    "code": "",
+    "code": "30693191",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Autosampler de horno Karl Fischer para automatización del análisis de muestras.",
+    "description": "Muestreador automático de horno Karl Fischer de 6 posiciones para extracción de agua mediante calentamiento.",
     "specs": {
       "Número de posiciones": "6",
       "Volumen de vial": "10 mL",
-      "Exactitud de temperatura": "±3 °C",
+      "Rango de temperatura": "40–280 °C",
+      "Exactitud": "±3 °C",
       "Estabilidad": "±0,5 °C",
-      "Compatibilidad": "EVA V1/V3, EVA C1/C3, C10S y C20S"
+      "Gas compatible": "Aire o nitrógeno",
+      "Aplicación": "Automatización Karl Fischer"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/automated-titration-systems/KF-oven-autosampler/inmotion-kf-six.html",
     "highlights": [],
     "applications": [],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30693191.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "nf2300-pure-h2o",
@@ -4182,5 +4184,290 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/30666239.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "source": "https://www.mt.com/ph/en/home/products/Laboratory_Weighing_Solutions/precision-balances/MR6001.html"
+  },
+  {
+    "id": "easycl",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy Cl",
+    "code": "30060043",
+    "capacity": "Valoración por precipitación",
+    "readability": "Consultar configuración",
+    "description": "Valorador EasyPlus para determinación automatizada de cloruros y contenido de plata por precipitación.",
+    "specs": {
+      "Aplicación principal": "Precipitación / cloruros",
+      "Métodos de valoración": "1",
+      "Software": "EasyDirect Titration"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30060043.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "easyox",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy Ox",
+    "code": "30060042",
+    "capacity": "Valoración redox",
+    "readability": "Consultar configuración",
+    "description": "Valorador EasyPlus para titulaciones redox automatizadas, incluyendo SO₂, vitamina C y valor de peróxido.",
+    "specs": {
+      "Aplicación principal": "Redox",
+      "Métodos de valoración": "1",
+      "Software": "EasyDirect Titration"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30060042.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "easyepm",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy EPM",
+    "code": "30470855",
+    "capacity": "Valoración semiautomatizada",
+    "readability": "Consultar configuración",
+    "description": "Instrumento EasyPlus para acelerar valoraciones manuales, preparación de patrones y tareas de dosificación.",
+    "specs": {
+      "Aplicación principal": "Valoración semiautomatizada",
+      "Interfaz": "iTitrate",
+      "Exportación": "USB / impresora"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30470855.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "easydose",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy Dose",
+    "code": "30470856",
+    "capacity": "Dosificación",
+    "readability": "Consultar configuración",
+    "description": "Dispositivo EasyPlus para preparación de muestras y tareas automatizadas de manipulación de líquidos.",
+    "specs": {
+      "Aplicación principal": "Dosificación y preparación de muestras",
+      "Familia": "EasyPlus"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30470856.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "inmotionkfflex",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Automatización",
+    "model": "InMotion KF Flex 10 mL",
+    "code": "30407500",
+    "capacity": "Karl Fischer",
+    "readability": "Consultar configuración",
+    "description": "Muestreador automático de horno Karl Fischer compacto para extracción de agua y automatización de series.",
+    "specs": {
+      "Volumen de vial": "10 mL",
+      "Número de muestras": "hasta 24 según configuración",
+      "Aplicación": "Automatización Karl Fischer"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30407500.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "inmotionkfpro10",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Automatización",
+    "model": "InMotion KF Pro 10 mL",
+    "code": "30407502",
+    "capacity": "Karl Fischer",
+    "readability": "Consultar configuración",
+    "description": "Muestreador automático de horno KF Pro para series de alto rendimiento con viales de 10 mL.",
+    "specs": {
+      "Volumen de vial": "10 mL",
+      "Número de posiciones": "24",
+      "Rango de temperatura": "40–280 °C",
+      "Exactitud": "±3 °C",
+      "Software": "LabX"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30407502.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "inmotionkfpro5",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Automatización",
+    "model": "InMotion KF Pro 5 mL",
+    "code": "30407503",
+    "capacity": "Karl Fischer",
+    "readability": "Consultar configuración",
+    "description": "Muestreador automático de horno KF Pro para alto rendimiento con viales de 5 mL.",
+    "specs": {
+      "Volumen de vial": "5 mL",
+      "Rango de temperatura": "40–280 °C",
+      "Exactitud": "±3 °C",
+      "Software": "LabX",
+      "Máximo de muestras por serie": "120"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30407503.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "inmotionkfpro20",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Automatización",
+    "model": "InMotion KF Pro 20 mL",
+    "code": "30407501",
+    "capacity": "Karl Fischer",
+    "readability": "Consultar configuración",
+    "description": "Muestreador automático de horno KF Pro para muestras que requieren viales de 20 mL.",
+    "specs": {
+      "Volumen de vial": "20 mL",
+      "Rango de temperatura": "40–280 °C",
+      "Exactitud": "±3 °C",
+      "Software": "LabX"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30407501.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "c20sx",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact",
+    "model": "C20SX",
+    "code": "30252660",
+    "capacity": "Karl Fischer coulométrico",
+    "readability": "Consultar configuración",
+    "description": "Valorador Compact Karl Fischer coulométrico sin diafragma, orientado a análisis rutinarios y entornos regulados.",
+    "specs": {
+      "Tipo": "Karl Fischer coulométrico",
+      "Celda generadora": "Sin diafragma",
+      "Software": "Compatible con LabX"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30252660.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
+  },
+  {
+    "id": "c20sd",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact",
+    "model": "C20SD",
+    "code": "30252661",
+    "capacity": "Karl Fischer coulométrico",
+    "readability": "Consultar configuración",
+    "description": "Valorador Compact Karl Fischer coulométrico con diafragma para muestras difíciles y contenidos de agua muy bajos.",
+    "specs": {
+      "Tipo": "Karl Fischer coulométrico",
+      "Celda generadora": "Con diafragma",
+      "Aplicación": "Muestras difíciles / agua muy baja",
+      "Software": "Compatible con LabX"
+    },
+    "highlights": [
+      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
+      "Número de material e imagen oficial asociados.",
+      "Confirmar configuración y disponibilidad al cotizar."
+    ],
+    "applications": [
+      "Control de calidad",
+      "Análisis químico",
+      "Laboratorio"
+    ],
+    "image": "https://www.mt.com/images/WebShop/MainImage/30252661.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   }
 ]
