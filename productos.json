@@ -786,18 +786,14 @@
     "code": "30139250",
     "capacity": "hasta 5 g",
     "readability": "0,1 µg (según configuración)",
-    "description": "Sistema simultáneo TGA/DSC con ultramicrobalanza METTLER TOLEDO para medir cambios de masa y efectos térmicos en una misma corrida, con opciones de sensores DSC/DTA/SDTA y control de atmósfera.",
+    "description": "Analizador termogravimétrico simultáneo con ultramicrobalanza METTLER TOLEDO y medición DSC/DTA/SDTA según configuración.",
     "specs": {
-      "N.º de material": "30139250",
-      "Técnica": "TGA y DSC simultáneos",
-      "Capacidad de muestra": "Hasta 5 g, según configuración",
-      "Resolución de balanza": "Hasta 0,1 µg, según configuración",
-      "Rango de temperatura": "Desde temperatura ambiente hasta 1600 °C",
-      "Familia": "Análisis térmico",
-      "Señales térmicas": "TGA y DSC/DTA/SDTA simultáneas, según sensor",
-      "Control de gases": "Control de caudal de gas integrado",
-      "Automatización": "Cambiador automático de muestras disponible",
-      "Análisis de gases desprendidos": "Integración con FTIR, MS y GC/MS"
+      "Capacidad": "Hasta 5 g según balanza",
+      "Resolución": "Hasta 0.1 µg",
+      "Temperatura": "Ambiente hasta 1600 °C",
+      "Señales": "TGA + DSC/DTA/SDTA según sensor",
+      "Gas": "Control de flujo integrado",
+      "Acoplamientos": "FTIR, MS y GC/MS"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TGA-DSC-3-plus.html",
     "highlights": [
@@ -807,13 +803,14 @@
       "Arquitectura modular para adaptar sensores y análisis de gases desprendidos."
     ],
     "applications": [
-      "Estabilidad térmica y descomposición",
-      "Contenido de humedad, volátiles y cenizas",
-      "Oxidación y reducción",
-      "Caracterización de polímeros, químicos, minerales y materiales"
+      "Pérdida de masa",
+      "Composición",
+      "Estabilidad térmica",
+      "Gases desprendidos"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30139250.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "status": "Vigente"
   },
   {
     "id": "t5",
@@ -2541,18 +2538,13 @@
     "code": "30674095",
     "capacity": "-150 a 700 °C",
     "readability": "DSC",
-    "description": "Calorímetro diferencial de barrido de nueva generación con sensor MultiStar MMS 1, 136 termopares y FlexMode para trabajar en compensación de potencia o flujo de calor.",
+    "description": "Calorímetro diferencial de barrido de nueva generación con sensor MMS 1, modos de flujo de calor y compensación de potencia y automatización de alto rendimiento.",
     "specs": {
-      "N.º de material": "30674095",
-      "Técnica": "Calorimetría diferencial de barrido (DSC)",
-      "Rango de temperatura": "-150 a 700 °C",
-      "Exactitud de temperatura": "±0,2 K",
-      "Precisión de temperatura": "±0,02 K",
-      "Constante de tiempo de señal": "0,7 s",
-      "Muestreo": "Hasta 50 puntos/s",
-      "Velocidad de calentamiento": "0,001 a 200 K/min",
-      "Velocidad de enfriamiento": "0,001 a 50 K/min",
-      "Sensor": "MMS 1 MultiStar, 136 termopares"
+      "Sensor": "MMS 1",
+      "Termopares": "136",
+      "Calentadores integrados": "2",
+      "Modos": "Flujo de calor y compensación de potencia",
+      "Automatización": "Hasta 96 muestras + 7 referencias"
     },
     "source": "https://www.mt.com/gb/en/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DSC-5-plus.html",
     "highlights": [
@@ -2561,15 +2553,14 @@
       "Automatización opcional con robot de muestras."
     ],
     "applications": [
-      "Transición vítrea",
+      "Transiciones térmicas",
+      "Pureza",
       "Cristalización",
-      "Capacidad calorífica",
-      "Cinética",
-      "OIT",
-      "DSC modulado"
+      "Capacidad calorífica"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30674095.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "status": "Vigente"
   },
   {
     "id": "tma-sdta2plus",
@@ -2580,17 +2571,12 @@
     "code": "30259700",
     "capacity": "-150 a 1600 °C",
     "readability": "0,5 nm",
-    "description": "Analizador termomecánico TMA/SDTA 2+ para medir cambios dimensionales con resolución nanométrica y señal SDTA simultánea.",
+    "description": "Analizador termomecánico de alta precisión con medición SDTA próxima a la muestra para estudiar cambios dimensionales frente a temperatura y carga.",
     "specs": {
-      "N.º de material": "30259700",
-      "Técnica": "Análisis termomecánico (TMA)",
-      "Rango de temperatura": "-150 a 1600 °C, según horno/configuración",
-      "Rango de fuerza": "-0,1 a 1 N",
-      "Resolución de longitud": "0,5 nm",
-      "Rango de medición": "-5 a 5 mm",
-      "Longitud máxima de muestra": "20 mm",
-      "Resolución SDTA": "0,005 °C",
-      "Muestreo": "10 puntos/s"
+      "Tecnología": "TMA + SDTA",
+      "Mecánica": "Sonda con guiado paralelo de precisión",
+      "Temperatura de muestra": "Medición SDTA próxima a la muestra",
+      "Operación": "One Click"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TMA-SDTA-2-plus.html",
     "highlights": [
@@ -2599,14 +2585,14 @@
       "Modo DLTMA y arquitectura modular."
     ],
     "applications": [
-      "Coeficiente de expansión",
+      "Expansión térmica",
       "Transición vítrea",
-      "Reblandecimiento",
-      "Cinética",
+      "Ablandamiento",
       "Cambios dimensionales"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30259700.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "status": "Vigente"
   },
   {
     "id": "dma1",
@@ -2617,16 +2603,12 @@
     "code": "30027401",
     "capacity": "-190 a 600 °C",
     "readability": "DMA",
-    "description": "Analizador dinamo-mecánico DMA 1 con cabezal giratorio para caracterización mecánica y viscoelástica en múltiples modos de deformación.",
+    "description": "Analizador mecánico dinámico con cabezal de medición giratorio para múltiples modos de deformación, incluso en líquidos o humedad relativa controlada.",
     "specs": {
-      "N.º de material": "30027401",
-      "Técnica": "Análisis dinamo-mecánico (DMA)",
-      "Rango de temperatura": "-190 a 600 °C",
-      "Rango de fuerza": "0,001 a 10 N",
-      "Rango de frecuencia": "0,001 a 300 Hz",
-      "Rango de desplazamiento": "±1 mm",
-      "Rango de rigidez": "50 N/m a 10⁵ N/m",
-      "Rango tan delta": "0,0001 a 50"
+      "Cabezal": "Giratorio",
+      "Modos": "Múltiples modos de deformación",
+      "Entornos": "Aire, líquidos y humedad relativa definida",
+      "Configuración": "Portamuestras intercambiables"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DMA-1.html",
     "highlights": [
@@ -2635,13 +2617,14 @@
       "Opción de humedad y mediciones en líquidos."
     ],
     "applications": [
+      "Módulo viscoelástico",
       "Transición vítrea",
-      "Viscoelasticidad",
-      "Cristalización",
-      "Módulo de almacenamiento y pérdida"
+      "Relajaciones",
+      "Propiedades mecánicas"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30027401.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "status": "Vigente"
   },
   {
     "id": "xpr2um",
