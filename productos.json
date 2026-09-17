@@ -1157,7 +1157,7 @@
     "category": "Balanzas",
     "sub": "MX",
     "model": "MX104/M",
-    "code": "",
+    "code": "30665142",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MX104/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1178,8 +1178,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30665142.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "mx204m",
@@ -1217,7 +1217,7 @@
     "category": "Balanzas",
     "sub": "MX",
     "model": "MX304/M",
-    "code": "",
+    "code": "30665148",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MX304/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1238,8 +1238,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30665148.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "mr104m",
@@ -1247,7 +1247,7 @@
     "category": "Balanzas",
     "sub": "MR",
     "model": "MR104/M",
-    "code": "",
+    "code": "30666205",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MR104/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1268,8 +1268,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666205.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "mr204m",
@@ -1277,7 +1277,7 @@
     "category": "Balanzas",
     "sub": "MR",
     "model": "MR204/M",
-    "code": "",
+    "code": "30666208",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MR204/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1298,8 +1298,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666208.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "mr304m",
@@ -1307,7 +1307,7 @@
     "category": "Balanzas",
     "sub": "MR",
     "model": "MR304/M",
-    "code": "",
+    "code": "30666211",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MR304/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1328,8 +1328,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666211.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "ma54m",
@@ -1337,7 +1337,7 @@
     "category": "Balanzas",
     "sub": "MA",
     "model": "MA54/M",
-    "code": "",
+    "code": "30697387",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MA54/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1358,8 +1358,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697387.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "ma104m",
@@ -1367,7 +1367,7 @@
     "category": "Balanzas",
     "sub": "MA",
     "model": "MA104/M",
-    "code": "",
+    "code": "30697410",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MA104/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1388,8 +1388,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697410.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "ma204m",
@@ -1427,7 +1427,7 @@
     "category": "Balanzas",
     "sub": "MA",
     "model": "MA55/M",
-    "code": "",
+    "code": "30666318",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MA55/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1448,8 +1448,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30666318.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "ma95m",
@@ -1457,7 +1457,7 @@
     "category": "Balanzas",
     "sub": "MA",
     "model": "MA95/M",
-    "code": "",
+    "code": "30706703",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MA95/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1478,8 +1478,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30706703.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "ma155dum",
@@ -1487,7 +1487,7 @@
     "category": "Balanzas",
     "sub": "MA",
     "model": "MA155DU/M",
-    "code": "",
+    "code": "30697384",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio MA155DU/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1508,8 +1508,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30697384.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "la84",
@@ -1517,7 +1517,7 @@
     "category": "Balanzas",
     "sub": "LA",
     "model": "LA84",
-    "code": "",
+    "code": "30880509",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio LA84 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1538,8 +1538,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30880509.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "la104",
@@ -1547,7 +1547,7 @@
     "category": "Balanzas",
     "sub": "LA",
     "model": "LA104",
-    "code": "",
+    "code": "30880510",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio LA104 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1568,8 +1568,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30880510.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "la204",
@@ -1577,7 +1577,7 @@
     "category": "Balanzas",
     "sub": "LA",
     "model": "LA204",
-    "code": "",
+    "code": "30880511",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Balanza de laboratorio LA204 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
@@ -1598,8 +1598,8 @@
       "Control de calidad",
       "Preparación de muestras"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30880511.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "xpr26pc",
@@ -2040,7 +2040,7 @@
     "category": "Densidad",
     "sub": "EasyPlus",
     "model": "Easy D30",
-    "code": "",
+    "code": "30468670",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Densímetro Easy D30 para determinación de densidad en laboratorio o campo, según la familia.",
@@ -2057,8 +2057,8 @@
       "Bebidas y alimentos",
       "Química y formulación"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30468670.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "easyd40",
@@ -2066,7 +2066,7 @@
     "category": "Densidad",
     "sub": "EasyPlus",
     "model": "Easy D40",
-    "code": "",
+    "code": "30468671",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Densímetro Easy D40 para determinación de densidad en laboratorio o campo, según la familia.",
@@ -2083,8 +2083,8 @@
       "Bebidas y alimentos",
       "Química y formulación"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30468671.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "densito",
@@ -2092,7 +2092,7 @@
     "category": "Densidad",
     "sub": "Portátil",
     "model": "Densito",
-    "code": "",
+    "code": "30330857",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Densímetro Densito para determinación de densidad en laboratorio o campo, según la familia.",
@@ -2109,8 +2109,8 @@
       "Bebidas y alimentos",
       "Química y formulación"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30330857.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "densitopro",
@@ -2118,7 +2118,7 @@
     "category": "Densidad",
     "sub": "Portátil",
     "model": "DensitoPro",
-    "code": "",
+    "code": "30330858",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Densímetro DensitoPro para determinación de densidad en laboratorio o campo, según la familia.",
@@ -2135,8 +2135,8 @@
       "Bebidas y alimentos",
       "Química y formulación"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30330858.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "r4x",
@@ -2196,7 +2196,7 @@
     "category": "Refractometría",
     "sub": "EasyPlus",
     "model": "Easy R40",
-    "code": "",
+    "code": "30468672",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Refractómetro Easy R40 para medición de índice de refracción, Brix u otras escalas según configuración.",
@@ -2213,8 +2213,8 @@
       "Concentración de soluciones",
       "Alimentos y bebidas"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30468672.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "easybrix",
@@ -2222,7 +2222,7 @@
     "category": "Refractometría",
     "sub": "EasyPlus",
     "model": "Easy Brix",
-    "code": "",
+    "code": "30468673",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Refractómetro Easy Brix para medición de índice de refracción, Brix u otras escalas según configuración.",
@@ -2239,8 +2239,8 @@
       "Concentración de soluciones",
       "Alimentos y bebidas"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30468673.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "easybev",
@@ -2248,7 +2248,7 @@
     "category": "Refractometría",
     "sub": "EasyPlus",
     "model": "Easy Bev",
-    "code": "",
+    "code": "30468674",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Refractómetro Easy Bev para medición de índice de refracción, Brix u otras escalas según configuración.",
@@ -2256,7 +2256,8 @@
       "Familia": "EasyPlus",
       "Modelo": "Easy Bev",
       "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
+      "Estado": "Descatalogado desde junio de 2026"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
@@ -2265,8 +2266,8 @@
       "Concentración de soluciones",
       "Alimentos y bebidas"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/30468674.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "refracto30px",
@@ -2274,7 +2275,7 @@
     "category": "Refractometría",
     "sub": "Portátil",
     "model": "Refracto 30PX",
-    "code": "",
+    "code": "51324650",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Refractómetro Refracto 30PX para medición de índice de refracción, Brix u otras escalas según configuración.",
@@ -2282,7 +2283,8 @@
       "Familia": "Portátil",
       "Modelo": "Refracto 30PX",
       "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
+      "Estado": "Descatalogado desde marzo de 2026"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
@@ -2291,8 +2293,8 @@
       "Concentración de soluciones",
       "Alimentos y bebidas"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/51324650.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "refracto30gs",
@@ -2300,7 +2302,7 @@
     "category": "Refractometría",
     "sub": "Portátil",
     "model": "Refracto 30GS",
-    "code": "",
+    "code": "51324660",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
     "description": "Refractómetro Refracto 30GS para medición de índice de refracción, Brix u otras escalas según configuración.",
@@ -2308,7 +2310,8 @@
       "Familia": "Portátil",
       "Modelo": "Refracto 30GS",
       "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
+      "Estado": "Descatalogado desde noviembre de 2025"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
     "highlights": [],
@@ -2317,8 +2320,8 @@
       "Concentración de soluciones",
       "Alimentos y bebidas"
     ],
-    "image": "",
-    "image_source": "METTLER TOLEDO"
+    "image": "https://www.mt.com/images/WebShop/MainImage/51324660.jpg",
+    "image_source": "METTLER TOLEDO WebShop MainImage"
   },
   {
     "id": "smartchemical",
