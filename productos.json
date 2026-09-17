@@ -1060,5 +1060,1330 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30474904.jpg",
     "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "xpr204m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "XPR",
+    "model": "XPR204/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio XPR204/M de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "XPR",
+      "Modelo": "XPR204/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "xpr106duhm",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "XPR",
+    "model": "XPR106DUH/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio XPR106DUH/M de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "XPR",
+      "Modelo": "XPR106DUH/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "xpr226cdrm",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "XPR",
+    "model": "XPR226CDR/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio XPR226CDR/M de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "XPR",
+      "Modelo": "XPR226CDR/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mx104m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MX",
+    "model": "MX104/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MX104/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MX",
+      "Modelo": "MX104/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mx204m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MX",
+    "model": "MX204/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MX204/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MX",
+      "Modelo": "MX204/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mx304m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MX",
+    "model": "MX304/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MX304/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MX",
+      "Modelo": "MX304/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mr104m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MR",
+    "model": "MR104/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MR104/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MR",
+      "Modelo": "MR104/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mr204m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MR",
+    "model": "MR204/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MR204/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MR",
+      "Modelo": "MR204/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "mr304m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MR",
+    "model": "MR304/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MR304/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MR",
+      "Modelo": "MR304/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma54m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA54/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA54/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA54/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma104m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA104/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA104/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA104/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma204m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA204/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA204/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA204/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma55m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA55/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA55/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA55/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma95m",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA95/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA95/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA95/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "ma155dum",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "MA",
+    "model": "MA155DU/M",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio MA155DU/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "MA",
+      "Modelo": "MA155DU/M",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "la84",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "LA",
+    "model": "LA84",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio LA84 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "LA",
+      "Modelo": "LA84",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "la104",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "LA",
+    "model": "LA104",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio LA104 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "LA",
+      "Modelo": "LA104",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "la204",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "LA",
+    "model": "LA204",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio LA204 de la línea LA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "LA",
+      "Modelo": "LA204",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "xpr26pc",
+    "brand": "Mettler Toledo",
+    "category": "Balanzas",
+    "sub": "XPR",
+    "model": "XPR26PC",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Balanza de laboratorio XPR26PC de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "specs": {
+      "Línea de balanzas": "XPR",
+      "Modelo": "XPR26PC",
+      "Tipo": "Balanza analítica / de laboratorio según configuración",
+      "Versión metrológica": "Confirmar según variante y mercado",
+      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+    },
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
+    "highlights": [
+      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
+      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+    ],
+    "applications": [
+      "Pesaje de laboratorio",
+      "Control de calidad",
+      "Preparación de muestras"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "evav1",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Karl Fischer volumétrico",
+    "model": "EVA V1",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador Karl Fischer volumétrico para determinación de agua en líquidos y sólidos solubles.",
+    "specs": {
+      "Familia": "Karl Fischer volumétrico",
+      "Modelo": "EVA V1",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "evav3",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Karl Fischer volumétrico",
+    "model": "EVA V3",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador Karl Fischer volumétrico con capacidades ampliadas para flujos de trabajo de determinación de agua.",
+    "specs": {
+      "Familia": "Karl Fischer volumétrico",
+      "Modelo": "EVA V3",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "evac1",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Karl Fischer coulométrico",
+    "model": "EVA C1",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador Karl Fischer coulométrico para contenidos bajos de agua.",
+    "specs": {
+      "Familia": "Karl Fischer coulométrico",
+      "Modelo": "EVA C1",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "evac3",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Karl Fischer coulométrico",
+    "model": "EVA C3",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador Karl Fischer coulométrico para determinación de trazas de agua con capacidades ampliadas.",
+    "specs": {
+      "Familia": "Karl Fischer coulométrico",
+      "Modelo": "EVA C3",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "v30s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact",
+    "model": "V30S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto para Karl Fischer volumétrico y determinación rutinaria de agua.",
+    "specs": {
+      "Familia": "Compact",
+      "Modelo": "V30S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "g10s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact",
+    "model": "G10S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto de uso general para análisis volumétricos.",
+    "specs": {
+      "Familia": "Compact",
+      "Modelo": "G10S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Titulaciones rutinarias"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "g20s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact",
+    "model": "G20S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto de uso general con capacidades ampliadas.",
+    "specs": {
+      "Familia": "Compact",
+      "Modelo": "G20S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Titulaciones rutinarias"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "c10s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact KF",
+    "model": "C10S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto Karl Fischer coulométrico.",
+    "specs": {
+      "Familia": "Compact KF",
+      "Modelo": "C10S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "c20s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact KF",
+    "model": "C20S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto Karl Fischer coulométrico.",
+    "specs": {
+      "Familia": "Compact KF",
+      "Modelo": "C20S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "c30s",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Compact KF",
+    "model": "C30S",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador compacto Karl Fischer coulométrico.",
+    "specs": {
+      "Familia": "Compact KF",
+      "Modelo": "C30S",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Determinación de agua"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easyph",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy pH",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador EasyPlus orientado a titulaciones ácido-base y pH.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy pH",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Titulaciones rutinarias"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easypro",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy Pro",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador EasyPlus para titulaciones rutinarias.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy Pro",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Titulaciones rutinarias"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easykf",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "EasyPlus",
+    "model": "Easy KFV",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Valorador EasyPlus para Karl Fischer volumétrico.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy KFV",
+      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Automatización": "Consultar accesorios y compatibilidad aplicable",
+      "Software": "Confirmar compatibilidad según configuración"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Determinación de concentración",
+      "Titulaciones rutinarias"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "d4",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "Excellence",
+    "model": "D4",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro D4 para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "Excellence",
+      "Modelo": "D4",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "d6",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "Excellence",
+    "model": "D6",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro D6 para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "Excellence",
+      "Modelo": "D6",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easyd30",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "EasyPlus",
+    "model": "Easy D30",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro Easy D30 para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy D30",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easyd40",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "EasyPlus",
+    "model": "Easy D40",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro Easy D40 para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy D40",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "densito",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "Portátil",
+    "model": "Densito",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro Densito para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "Portátil",
+      "Modelo": "Densito",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "densitopro",
+    "brand": "Mettler Toledo",
+    "category": "Densidad",
+    "sub": "Portátil",
+    "model": "DensitoPro",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Densímetro DensitoPro para determinación de densidad en laboratorio o campo, según la familia.",
+    "specs": {
+      "Familia": "Portátil",
+      "Modelo": "DensitoPro",
+      "Parámetro principal": "Densidad",
+      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Bebidas y alimentos",
+      "Química y formulación"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "r4x",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Excellence",
+    "model": "R4X",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro R4X para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "Excellence",
+      "Modelo": "R4X",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "r5x",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Excellence",
+    "model": "R5X",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro R5X para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "Excellence",
+      "Modelo": "R5X",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easyr40",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "EasyPlus",
+    "model": "Easy R40",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro Easy R40 para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy R40",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easybrix",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "EasyPlus",
+    "model": "Easy Brix",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro Easy Brix para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy Brix",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "easybev",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "EasyPlus",
+    "model": "Easy Bev",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro Easy Bev para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "EasyPlus",
+      "Modelo": "Easy Bev",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "refracto30px",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Portátil",
+    "model": "Refracto 30PX",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro Refracto 30PX para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "Portátil",
+      "Modelo": "Refracto 30PX",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "refracto30gs",
+    "brand": "Mettler Toledo",
+    "category": "Refractometría",
+    "sub": "Portátil",
+    "model": "Refracto 30GS",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Refractómetro Refracto 30GS para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "specs": {
+      "Familia": "Portátil",
+      "Modelo": "Refracto 30GS",
+      "Parámetros": "Índice de refracción / Brix según modelo",
+      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+    },
+    "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
+    "highlights": [],
+    "applications": [
+      "Control de calidad",
+      "Concentración de soluciones",
+      "Alimentos y bebidas"
+    ],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "smartchemical",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Accesorios de titulación",
+    "model": "Lector SmartChemical Externo",
+    "code": "30486743",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Lector RFID externo para transferencia trazable de información de reactivos.",
+    "specs": {
+      "N.º de material": "30486743",
+      "Tipo": "Smart RFID",
+      "Conexión": "USB Tipo A",
+      "Compatibilidad": "T5, T7, T9, G10S, G20S, V30S, EVA V1/V3 y EVA C1/C3"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/Family_Browse_Titration_Acc_main/titration-chemicals/rfid-reader.html",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "dpumpkf",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Accesorios de titulación",
+    "model": "dPump KF",
+    "code": "30869285",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Bomba de solvente para automatizar el intercambio de solvente en titulaciones Karl Fischer.",
+    "specs": {
+      "N.º de material": "30869285",
+      "Tipo": "Bombas y válvulas",
+      "Compatibilidad": "EVA V1, EVA V3, EVA C1 y EVA C3"
+    },
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/Family_Browse_Titration_Acc_main/Product_Family_Titration_other_acc/solvent-pump-dpump-kf.html",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
+  },
+  {
+    "id": "inmotionkfsix",
+    "brand": "Mettler Toledo",
+    "category": "Titulación",
+    "sub": "Automatización",
+    "model": "InMotion KF Six",
+    "code": "",
+    "capacity": "Consultar configuración",
+    "readability": "Consultar ficha aplicable",
+    "description": "Autosampler de horno Karl Fischer para automatización del análisis de muestras.",
+    "specs": {
+      "Número de posiciones": "6",
+      "Volumen de vial": "10 mL",
+      "Exactitud de temperatura": "±3 °C",
+      "Estabilidad": "±0,5 °C",
+      "Compatibilidad": "EVA V1/V3, EVA C1/C3, C10S y C20S"
+    },
+    "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/automated-titration-systems/KF-oven-autosampler/inmotion-kf-six.html",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "METTLER TOLEDO"
   }
 ]
