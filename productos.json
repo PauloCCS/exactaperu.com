@@ -963,19 +963,21 @@
     "code": "30474901",
     "capacity": "1,5 mL mínimo",
     "readability": "0,00001 g/cm³",
-    "description": "Medidor de densidad Excellence de alta exactitud, con corrección automática de viscosidad y video en tiempo real de la celda.",
+    "description": "Densímetro Excellence D5 modular con control automático de temperatura, vídeo en tiempo real de la celda, detección automática de burbujas y corrección automática de viscosidad.",
     "specs": {
-      "Exactitud": "±0.00005 g/cm³",
-      "Repetibilidad": "0.000005 g/cm³",
-      "Resolución": "0.00001 g/cm³",
-      "Temperatura": "0–95 °C",
-      "Volumen mínimo": "1.5 mL"
+      "Número de material": "30474901",
+      "Familia": "Excellence",
+      "Tipo": "Densímetro de sobremesa",
+      "Control de temperatura": "Automático",
+      "Control de errores": "Vídeo de celda en tiempo real y detección automática de burbujas",
+      "Corrección": "Automática de viscosidad",
+      "Operación": "One Click"
     },
     "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/density-meter/density-meters/D5.html",
     "highlights": [
-      "Operación One Click.",
-      "Detección de burbujas y observación de la celda en tiempo real.",
-      "Ampliable a sistemas multiparámetro y automatizados."
+      "Flujo completo mediante One Click.",
+      "Supervisión de la celda en tiempo real.",
+      "Arquitectura modular Excellence."
     ],
     "applications": [
       "Densidad",
@@ -1994,16 +1996,22 @@
     "code": "30474902",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Medidor de densidad Excellence de máxima resolución para aplicaciones exigentes y sistemas multiparámetro.",
+    "description": "Densímetro Excellence D6 de alta precisión, con control automático de temperatura, vídeo en tiempo real, detección de burbujas y corrección automática de viscosidad.",
     "specs": {
-      "Exactitud": "±0.000005 g/cm³",
-      "Repetibilidad": "0.000001 g/cm³",
-      "Resolución": "0.000001 g/cm³",
-      "Temperatura": "0–95 °C",
-      "Volumen mínimo": "1.5 mL"
+      "Número de material": "30474902",
+      "Familia": "Excellence",
+      "Tipo": "Densímetro de sobremesa de alta precisión",
+      "Precisión indicada por fabricante": "0,000005 g/cm³",
+      "Control de temperatura": "0–95 °C",
+      "Control de errores": "Vídeo de celda y detección automática de burbujas",
+      "Operación": "One Click"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Modelo orientado a las mediciones de densidad de mayor precisión de la familia.",
+      "Incluye soporte de jeringa para una introducción precisa de la muestra.",
+      "Flujos automatizables mediante One Click."
+    ],
     "applications": [
       "Densidad de alta precisión",
       "Alcohol",
@@ -2120,15 +2128,21 @@
     "code": "30330858",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro DensitoPro para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "DensitoPro es un densímetro portátil para laboratorio, recepción de materias primas y control de calidad at-line. Integra RFID y lector de códigos de barras para automatizar la identificación de muestras.",
     "specs": {
-      "Familia": "Portátil",
-      "Modelo": "DensitoPro",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Número de material": "30330858",
+      "Tipo": "Densímetro portátil",
+      "Identificación": "RFID y lector de códigos de barras integrados",
+      "Muestreo": "Bomba automática controlada por joystick",
+      "Uso": "Laboratorio, recepción de materiales y control at-line",
+      "Control de resultados": "Límites configurables con identificación visual"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Identificación automática de muestras mediante RFID/código de barras.",
+      "Muestreo con una mano mediante joystick.",
+      "Diseñado para trazabilidad en mediciones portátiles."
+    ],
     "applications": [
       "Control de calidad",
       "Bebidas y alimentos",
@@ -2178,15 +2192,22 @@
     "code": "30468673",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro Easy Brix para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "description": "Easy Brix es un refractómetro compacto para medición rápida del contenido de azúcar, con control automático de temperatura y operación guiada.",
     "specs": {
+      "Número de material": "30468673",
       "Familia": "EasyPlus",
-      "Modelo": "Easy Brix",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable"
+      "Aplicación": "Contenido de azúcar / Brix",
+      "Control de temperatura": "15–25 °C",
+      "Inicio de medición": "FastStart",
+      "Verificación": "SimpleCheck",
+      "Uso": "Laboratorio o cerca de producción"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "FastStart inicia la medición al colocar la muestra.",
+      "Control Peltier automático de temperatura.",
+      "Límites de aceptación/rechazo configurables."
+    ],
     "applications": [
       "Control de calidad",
       "Concentración de soluciones",
@@ -2204,16 +2225,25 @@
     "code": "30468674",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro Easy Bev para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "description": "Easy Bev es un refractómetro de sobremesa diseñado para la industria de bebidas. Su diseño vertical con embudo de muestreo y control automático de temperatura facilita mediciones de jugos y otras bebidas. Producto descatalogado.",
     "specs": {
-      "Familia": "EasyPlus",
-      "Modelo": "Easy Bev",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
+      "Número de material": "30468674",
+      "Tipo": "Refractómetro de sobremesa",
+      "Aplicación": "Industria de bebidas",
+      "Rango Brix": "0–100 % m/m",
+      "Exactitud Brix": "±0,05 % m/m",
+      "Rango nD": "1,32–1,58",
+      "Exactitud nD": "±0,0001",
+      "Control de temperatura": "15–25 °C",
+      "Volumen mínimo de muestra": "50 mL",
       "Estado": "Descatalogado desde junio de 2026"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Diseño vertical para reducir sedimentación sobre el prisma.",
+      "Control automático Peltier de temperatura.",
+      "Producto descatalogado: confirmar sustituto vigente antes de cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Concentración de soluciones",
@@ -2262,16 +2292,25 @@
     "code": "51324660",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro Refracto 30GS para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "description": "Refracto 30GS es un refractómetro portátil para índice de refracción y Brix, diseñado para muestras exigentes y uso móvil. Producto descatalogado.",
     "specs": {
-      "Familia": "Portátil",
-      "Modelo": "Refracto 30GS",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
+      "Número de material": "51324660",
+      "Tipo": "Refractómetro portátil",
+      "Rango nD": "1,32–1,65",
+      "Exactitud nD": "±0,0005",
+      "Rango Brix": "0–100 % m/m",
+      "Exactitud Brix": "±0,2 % m/m",
+      "Duración de medición": "5 s",
+      "Almacenamiento": "Hasta 1100 resultados",
+      "Peso": "250 g",
       "Estado": "Descatalogado desde noviembre de 2025"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Compensación automática de temperatura.",
+      "Adecuado para uso portátil y muestras agresivas.",
+      "Producto descatalogado: confirmar alternativa vigente antes de cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Concentración de soluciones",
