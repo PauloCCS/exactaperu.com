@@ -1854,16 +1854,22 @@
     "code": "30060041",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador EasyPlus orientado a titulaciones ácido-base y pH.",
+    "description": "Valorador EasyPlus Easy pH para valoraciones ácido/base automatizadas, como acidez en jugos, leche y vino y determinación de valores p y m en agua. La interfaz iTitrate simplifica la programación.",
     "specs": {
+      "Número de material": "30060041",
       "Familia": "EasyPlus",
-      "Modelo": "Easy pH",
-      "Técnica": "Titulación / Karl Fischer según modelo",
-      "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Aplicación": "Valoración ácido/base",
+      "Métodos de valoración": "1",
+      "Interfaz": "iTitrate",
+      "Conectividad PC": "EasyDirect Titration",
+      "Buretas compatibles": "10, 20 o 50 mL",
+      "Funciones": "LongClick, tutorial Easy Start, ayuda en línea y cálculos predefinidos"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
-    "highlights": [],
+    "highlights": [
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración final y accesorios sujetos a confirmación al cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Determinación de concentración",
@@ -4050,16 +4056,20 @@
     "code": "30060043",
     "capacity": "Valoración por precipitación",
     "readability": "Consultar configuración",
-    "description": "Valorador EasyPlus para determinación automatizada de cloruros y contenido de plata por precipitación.",
+    "description": "Valorador EasyPlus Easy Cl para valoraciones por precipitación, orientado a la determinación de cloruros en alimentos y otros productos y a la determinación de plata.",
     "specs": {
-      "Aplicación principal": "Precipitación / cloruros",
+      "Número de material": "30060043",
+      "Familia": "EasyPlus",
+      "Aplicación": "Valoración por precipitación",
       "Métodos de valoración": "1",
-      "Software": "EasyDirect Titration"
+      "Interfaz": "iTitrate",
+      "Conectividad PC": "EasyDirect Titration",
+      "Buretas compatibles": "10, 20 o 50 mL",
+      "Funciones": "LongClick, tutorial Easy Start, ayuda en línea y cálculos predefinidos"
     },
     "highlights": [
-      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
-      "Número de material e imagen oficial asociados.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración final y accesorios sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Control de calidad",
@@ -4078,16 +4088,20 @@
     "code": "30060042",
     "capacity": "Valoración redox",
     "readability": "Consultar configuración",
-    "description": "Valorador EasyPlus para titulaciones redox automatizadas, incluyendo SO₂, vitamina C y valor de peróxido.",
+    "description": "Valorador EasyPlus Easy Ox para valoraciones redox automatizadas, incluyendo SO₂ en vino, azúcares reductores, índice de peróxidos y contenido de vitamina C.",
     "specs": {
-      "Aplicación principal": "Redox",
+      "Número de material": "30060042",
+      "Familia": "EasyPlus",
+      "Aplicación": "Valoración redox",
       "Métodos de valoración": "1",
-      "Software": "EasyDirect Titration"
+      "Interfaz": "iTitrate",
+      "Conectividad PC": "EasyDirect Titration",
+      "Buretas compatibles": "10, 20 o 50 mL",
+      "Funciones": "LongClick, tutorial Easy Start, ayuda en línea y cálculos predefinidos"
     },
     "highlights": [
-      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
-      "Número de material e imagen oficial asociados.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración final y accesorios sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Control de calidad",
@@ -4106,16 +4120,19 @@
     "code": "30470855",
     "capacity": "Valoración semiautomatizada",
     "readability": "Consultar configuración",
-    "description": "Instrumento EasyPlus para acelerar valoraciones manuales, preparación de patrones y tareas de dosificación.",
+    "description": "Easy EPM simplifica la valoración manual mediante una bureta automatizada y también facilita la preparación de estándares y tareas de dispensación. Incluye cálculos preprogramados y control mediante pantalla táctil o rueda USB.",
     "specs": {
-      "Aplicación principal": "Valoración semiautomatizada",
-      "Interfaz": "iTitrate",
-      "Exportación": "USB / impresora"
+      "Número de material": "30470855",
+      "Familia": "EasyPlus",
+      "Tipo": "Valoración semiautomática / dosificación",
+      "Operación": "Bureta automatizada con punta dispensadora sumergida",
+      "Cálculos": "Preprogramados",
+      "Control": "Pantalla táctil o controlador de rueda USB",
+      "Aplicaciones": "Valoración manual, preparación de estándares y dispensación"
     },
     "highlights": [
-      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
-      "Número de material e imagen oficial asociados.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración final y accesorios sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Control de calidad",
