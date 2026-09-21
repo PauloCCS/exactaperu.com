@@ -4178,16 +4178,21 @@
     "code": "30407500",
     "capacity": "Karl Fischer",
     "readability": "Consultar configuración",
-    "description": "Muestreador automático de horno Karl Fischer compacto para extracción de agua y automatización de series.",
+    "description": "Cambiador automático InMotion KF Flex para determinación de agua mediante extracción en horno. La muestra se calienta y el agua liberada se transfiere al vaso de valoración con aire seco o nitrógeno.",
     "specs": {
-      "Volumen de vial": "10 mL",
-      "Número de muestras": "hasta 24 según configuración",
-      "Aplicación": "Automatización Karl Fischer"
+      "Número de material": "30407500",
+      "Tipo": "Autosampler KF con horno",
+      "Viales": "10 mL",
+      "Capacidad": "Hasta 24 muestras",
+      "Plataforma": "25 cm",
+      "Transferencia": "Aire seco o nitrógeno",
+      "Control de gas": "Digital",
+      "Interfaz": "One Click"
     },
     "highlights": [
-      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
-      "Número de material e imagen oficial asociados.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Hasta 24 muestras en una plataforma compacta de 25 cm.",
+      "Preparación con tapón monopieza para reducir manipulación y exposición.",
+      "Control digital del flujo de gas para la extracción de agua."
     ],
     "applications": [
       "Control de calidad",
@@ -4206,18 +4211,19 @@
     "code": "30407502",
     "capacity": "Karl Fischer",
     "readability": "Consultar configuración",
-    "description": "Muestreador automático de horno KF Pro para series de alto rendimiento con viales de 10 mL.",
+    "description": "Cambiador automático InMotion KF Pro de 10 mL para determinación de agua mediante extracción en horno, con funciones avanzadas para optimizar la temperatura y comprobar estándares de agua antes y después de series de muestras.",
     "specs": {
-      "Volumen de vial": "10 mL",
-      "Número de posiciones": "24",
-      "Rango de temperatura": "40–280 °C",
-      "Exactitud": "±3 °C",
-      "Software": "LabX"
+      "Número de material": "30407502",
+      "Tipo": "Autosampler KF Pro con horno",
+      "Viales": "10 mL",
+      "Técnica": "Extracción en horno",
+      "Transferencia": "Aire seco o nitrógeno",
+      "Funciones": "Análisis de temperatura y comprobación automática de estándares"
     },
     "highlights": [
-      "Referencia verificada en documentación oficial de METTLER TOLEDO.",
-      "Número de material e imagen oficial asociados.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Ayuda a determinar la temperatura óptima de calentamiento.",
+      "Puede comprobar automáticamente estándares de agua antes y después de una serie.",
+      "Tapón monopieza para preparación eficiente de muestras."
     ],
     "applications": [
       "Control de calidad",
@@ -4236,13 +4242,13 @@
     "code": "30407503",
     "capacity": "Karl Fischer",
     "readability": "Consultar configuración",
-    "description": "Muestreador automático de horno KF Pro para alto rendimiento con viales de 5 mL.",
+    "description": "Cambiador automático InMotion KF Pro de 5 mL para determinación de agua mediante extracción en horno. El agua evaporada de la muestra se transporta al vaso de valoración mediante aire seco o nitrógeno.",
     "specs": {
-      "Volumen de vial": "5 mL",
-      "Rango de temperatura": "40–280 °C",
-      "Exactitud": "±3 °C",
-      "Software": "LabX",
-      "Máximo de muestras por serie": "120"
+      "Número de material": "30407503",
+      "Tipo": "Autosampler KF Pro con horno",
+      "Viales": "5 mL",
+      "Técnica": "Extracción en horno",
+      "Transferencia": "Aire seco o nitrógeno"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -4266,12 +4272,13 @@
     "code": "30407501",
     "capacity": "Karl Fischer",
     "readability": "Consultar configuración",
-    "description": "Muestreador automático de horno KF Pro para muestras que requieren viales de 20 mL.",
+    "description": "Cambiador automático InMotion KF Pro de 20 mL para determinación de agua mediante extracción en horno. El agua evaporada de la muestra se transporta al vaso de valoración mediante aire seco o nitrógeno.",
     "specs": {
-      "Volumen de vial": "20 mL",
-      "Rango de temperatura": "40–280 °C",
-      "Exactitud": "±3 °C",
-      "Software": "LabX"
+      "Número de material": "30407501",
+      "Tipo": "Autosampler KF Pro con horno",
+      "Viales": "20 mL",
+      "Técnica": "Extracción en horno",
+      "Transferencia": "Aire seco o nitrógeno"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -7230,11 +7237,12 @@
     "code": "30869291",
     "capacity": "Kit de célula volumétrica KF",
     "readability": "Accesorio",
-    "description": "Accesorio original METTLER TOLEDO. Kit de célula volumétrica KF. Aplicación/compatibilidad: EVA.",
+    "description": "Kit de célula Karl Fischer KFV S para valoradores volumétricos EVA. Incluye brazo de valoración, recipiente pequeño y el conjunto de piezas de la célula volumétrica.",
     "specs": {
-      "Presentación / configuración": "Kit de célula volumétrica KF",
-      "Aplicación / compatibilidad": "EVA",
-      "Número de material": "30869291"
+      "Número de material": "30869291",
+      "Tipo": "Kit de célula Karl Fischer volumétrica",
+      "Tamaño": "S / recipiente pequeño",
+      "Compatibilidad": "Valoradores volumétricos EVA"
     },
     "highlights": [
       "Referencia verificada en páginas oficiales de METTLER TOLEDO.",
@@ -7257,11 +7265,12 @@
     "code": "30869302",
     "capacity": "Vaso termostatizable",
     "readability": "Accesorio",
-    "description": "Accesorio original METTLER TOLEDO. Vaso termostatizable. Aplicación/compatibilidad: EVA.",
+    "description": "Vaso de valoración termostatizable KFV L-TS para mejorar la disolución y extracción de muestras mediante conexión a un baño externo de agua o aceite. Compatible con valoradores Karl Fischer volumétricos EVA.",
     "specs": {
-      "Presentación / configuración": "Vaso termostatizable",
-      "Aplicación / compatibilidad": "EVA",
-      "Número de material": "30869302"
+      "Número de material": "30869302",
+      "Tipo": "Vaso de valoración termostatizable",
+      "Termostatización": "Baño externo de agua o aceite",
+      "Compatibilidad": "Valoradores volumétricos Karl Fischer EVA"
     },
     "highlights": [
       "Referencia verificada en páginas oficiales de METTLER TOLEDO.",
@@ -7284,11 +7293,11 @@
     "code": "51107668",
     "capacity": "Accesorio para muestras viscosas",
     "readability": "Accesorio",
-    "description": "Accesorio original METTLER TOLEDO. Accesorio para muestras viscosas. Aplicación/compatibilidad: Titulación.",
+    "description": "Visco-Spoon para manipulación sencilla y limpia de muestras viscosas en aplicaciones de valoración Karl Fischer.",
     "specs": {
-      "Presentación / configuración": "Accesorio para muestras viscosas",
-      "Aplicación / compatibilidad": "Titulación",
-      "Número de material": "51107668"
+      "Número de material": "51107668",
+      "Tipo": "Accesorio de manipulación de muestras",
+      "Aplicación": "Muestras viscosas / Karl Fischer"
     },
     "highlights": [
       "Referencia verificada en páginas oficiales de METTLER TOLEDO.",
@@ -7311,11 +7320,11 @@
     "code": "23774",
     "capacity": "Adaptador de botella",
     "readability": "Accesorio",
-    "description": "Accesorio original METTLER TOLEDO. Adaptador de botella. Aplicación/compatibilidad: EasyPlus / titulación.",
+    "description": "Adaptador de botella Merck, accesorio compatible con configuraciones de valoración Karl Fischer y EasyPlus indicadas por METTLER TOLEDO.",
     "specs": {
-      "Presentación / configuración": "Adaptador de botella",
-      "Aplicación / compatibilidad": "EasyPlus / titulación",
-      "Número de material": "23774"
+      "Número de material": "23774",
+      "Tipo": "Adaptador de botella",
+      "Formato": "Merck"
     },
     "highlights": [
       "Referencia verificada en páginas oficiales de METTLER TOLEDO.",
