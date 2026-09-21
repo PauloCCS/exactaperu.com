@@ -4793,7 +4793,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51371200.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "molsieve250",
@@ -4822,7 +4822,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/71478.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "barcodehand",
@@ -4851,7 +4851,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/21901297.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "nf1000api",
@@ -5747,7 +5747,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350032.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH certificados",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Semi-Micro.html"
   },
   {
     "id": "bufph700250",
@@ -5780,7 +5781,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350034.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH certificados",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Semi-Micro.html"
   },
   {
     "id": "bufph921250",
@@ -5812,7 +5814,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350036.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH certificados",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Semi-Micro.html"
   },
   {
     "id": "bufph1000250",
@@ -5844,7 +5847,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350038.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH certificados",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Semi-Micro.html"
   },
   {
     "id": "bufph200s",
@@ -6665,7 +6669,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350006.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH técnicos",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-buffer-standard-and-electrolyte/pH-buffer/Tech-Buffer-pH-7-00-250mL.html"
   },
   {
     "id": "techph921250",
@@ -6696,7 +6701,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350008.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH técnicos",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/mx/es/home/supportive_content/promotions/promocion-buffers.html"
   },
   {
     "id": "techph1000250",
@@ -6727,7 +6733,8 @@
     "image": "https://www.mt.com/images/WebShop/MainImage/51350010.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
     "subfamily": "Buffers pH técnicos",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/mx/es/home/supportive_content/promotions/promocion-buffers.html"
   },
   {
     "id": "rainbow1",
@@ -6755,7 +6762,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51302068.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "rainbow2",
@@ -6783,7 +6790,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51302080.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "rainbowbottle1",
@@ -6811,7 +6818,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30095312.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "rainbowbottle2",
@@ -6839,7 +6846,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30095313.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "nist4006",
@@ -6867,7 +6874,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30111136.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Versatile-Pro.html"
   },
   {
     "id": "nist6865",
@@ -6895,7 +6903,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30111137.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Viscous-Pro-ISM.html"
   },
   {
     "id": "nist9180",
@@ -6923,7 +6932,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30111138.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Surface.html"
   },
   {
     "id": "nist10012",
@@ -6951,7 +6961,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30111139.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/sensor/pH-sensor/InLab-Surface.html"
   },
   {
     "id": "redox220",
@@ -6979,7 +6990,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350060.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "cond13",
@@ -7007,7 +7018,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30090847.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "cond5",
@@ -7035,7 +7046,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30094617.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "cond1288x6",
@@ -7063,7 +7074,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350098.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "kcl3m25",
@@ -7120,7 +7131,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/72456.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "paper11600388",
@@ -7148,7 +7159,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/11600388.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "ribbon65975",
@@ -7176,7 +7187,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/65975.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "cru26763",
@@ -7958,7 +7969,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30094723.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "paper30094724",
@@ -7985,7 +7996,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30094724.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "ergovial30521808",
@@ -8180,7 +8191,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/11140170.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances/XPR205-A.html"
   },
   {
     "id": "filterkit30460857",
@@ -8263,7 +8275,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30460849.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "bt30086494",
@@ -8318,7 +8330,7 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30416089.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Sin fuente oficial específica verificada en V65"
   },
   {
     "id": "theft11600361",
@@ -8345,7 +8357,8 @@
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/11600361.jpg",
     "image_source": "METTLER TOLEDO WebShop MainImage",
-    "source_status": "Pendiente de documentar con fuente oficial"
+    "source_status": "Fuente oficial registrada",
+    "source": "https://www.mt.com/us/en/home/phased_out_products/Laboratory_Weighing_Solutions/precision-balances/ME1002TE-A00.html"
   },
   {
     "id": "ergoauto30521809",
