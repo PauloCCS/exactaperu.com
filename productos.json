@@ -4697,7 +4697,7 @@
     "code": "30014096",
     "capacity": "pH",
     "readability": "Consultar ficha",
-    "description": "Electrodo combinado robusto de pH con cuerpo PEEK, sensor de temperatura integrado, cable fijo e ISM.",
+    "description": "Electrodo combinado de pH InLab Expert Pro-ISM con sensor de temperatura integrado, cuerpo PEEK, cable fijo e ISM. Robusto y de bajo mantenimiento para laboratorio y campo.",
     "specs": {
       "Rango de medición": "pH 0–14",
       "Temperatura": "0–100 °C",
@@ -4706,12 +4706,14 @@
       "Electrolito": "XEROLYT polímero",
       "Temperatura integrada": "NTC 30 kΩ",
       "ISM": "Sí",
-      "Cable": "1,2 m"
+      "Cable": "1,2 m",
+      "Número de material": "30014096",
+      "Aplicación recomendada": "Uso general / campo"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Cuerpo PEEK resistente química y mecánicamente.",
+      "Referencia XEROLYT sin diafragma convencional: reduce riesgo de obstrucción.",
+      "ISM almacena y transfiere automáticamente información del sensor."
     ],
     "applications": [
       "Medición de pH",
@@ -4719,7 +4721,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30014096.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Uso general / campo"
   },
   {
     "id": "inlabexpertgoism",
@@ -4761,19 +4764,21 @@
     "code": "51344055",
     "capacity": "pH",
     "readability": "Consultar ficha",
-    "description": "Electrodo de vidrio para aplicaciones generales de laboratorio, con temperatura integrada, MultiPin e ISM.",
+    "description": "Electrodo combinado de pH InLab Routine Pro-ISM, cuerpo de vidrio, sensor de temperatura, cabezal MultiPin e ISM. Para aplicaciones generales y medios químicamente exigentes.",
     "specs": {
       "Rango de medición": "pH 0–14",
       "Temperatura": "0–100 °C",
       "Cuerpo": "Vidrio",
       "Unión": "Cerámica",
       "ISM": "Sí",
-      "Temperatura integrada": "NTC 30 kΩ"
+      "Temperatura integrada": "NTC 30 kΩ",
+      "Número de material": "51344055",
+      "Aplicación recomendada": "Uso general / alto pH"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Vidrio de membrana HA orientado a valores altos de pH y bajo error alcalino.",
+      "Sensor de temperatura integrado.",
+      "ISM para gestión inteligente del sensor."
     ],
     "applications": [
       "Medición de pH",
@@ -4781,7 +4786,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344055.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Uso general / alto pH"
   },
   {
     "id": "inlabmaxproism",
@@ -4792,17 +4798,19 @@
     "code": "30248830",
     "capacity": "pH",
     "readability": "Consultar ficha",
-    "description": "Electrodo de vidrio de alta reproducibilidad para laboratorio; optimizado para mediciones rápidas y valores altos de pH.",
+    "description": "Electrodo combinado InLab Max Pro-ISM con cuerpo de vidrio, temperatura integrada, MultiPin e ISM. Diseñado para mediciones generales rápidas y altamente reproducibles.",
     "specs": {
       "Cuerpo": "Vidrio",
       "ISM": "Sí",
       "Temperatura integrada": "Sí",
-      "Característica": "Bajo error alcalino a pH alto"
+      "Característica": "Bajo error alcalino a pH alto",
+      "Número de material": "30248830",
+      "Aplicación recomendada": "Uso general / alta reproducibilidad"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Alto flujo de electrolito que ayuda a evitar contaminación y obstrucción de la unión.",
+      "Membrana HA para minimizar error alcalino a pH alto.",
+      "ISM integrado."
     ],
     "applications": [
       "Medición de pH",
@@ -4810,7 +4818,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30248830.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Uso general / alta reproducibilidad"
   },
   {
     "id": "inlabscienceproism",
@@ -4821,18 +4830,20 @@
     "code": "51344072",
     "capacity": "pH",
     "readability": "Consultar ficha",
-    "description": "Electrodo para aplicaciones difíciles como solventes orgánicos, emulsiones y muestras con proteínas.",
+    "description": "InLab Science Pro-ISM para disolventes orgánicos, emulsiones y muestras con proteínas. Incorpora electrolito puente y unión de camisa de vidrio móvil.",
     "specs": {
       "Cuerpo": "Vidrio",
       "Temperatura integrada": "Sí",
       "Cabezal": "MultiPin",
       "Unión": "Manguito de vidrio móvil",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "51344072",
+      "Aplicación recomendada": "Muestras difíciles"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Unión móvil fácil de limpiar.",
+      "Alto flujo de electrolito con efecto autolimpiante.",
+      "Temperatura integrada e ISM."
     ],
     "applications": [
       "Medición de pH",
@@ -4840,7 +4851,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344072.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Muestras difíciles"
   },
   {
     "id": "inlabmicroproism",
@@ -4851,18 +4863,20 @@
     "code": "51344163",
     "capacity": "pH micro",
     "readability": "Consultar ficha",
-    "description": "Electrodo micro de pH para tubos de ensayo, viales y cubetas, con sensor de temperatura integrado e ISM.",
+    "description": "InLab Micro Pro-ISM, electrodo micro combinado de pH con sensor de temperatura, MultiPin e ISM, ideal para tubos de ensayo, viales y cubetas.",
     "specs": {
       "Aplicación": "Pequeños volúmenes",
       "Cuerpo": "Vidrio",
       "Temperatura integrada": "Sí",
       "Cabezal": "MultiPin",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "51344163",
+      "Aplicación recomendada": "Microvolumen"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Eje delgado para pequeños volúmenes de muestra.",
+      "Compensación de temperatura mediante sensor integrado.",
+      "ISM integrado."
     ],
     "applications": [
       "Medición de pH",
@@ -4870,7 +4884,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344163.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Microvolumen"
   },
   {
     "id": "inlabultramicroism",
@@ -4881,17 +4896,19 @@
     "code": "30244732",
     "capacity": "pH ultramicro",
     "readability": "Consultar ficha",
-    "description": "Microelectrodo para volúmenes extremadamente pequeños como viales, microplacas y cubetas.",
+    "description": "InLab Ultra-Micro-ISM, microelectrodo combinado de pH para recipientes muy pequeños como viales, microplacas y cubetas.",
     "specs": {
       "Aplicación": "Volúmenes muy pequeños",
       "Cuerpo": "Vidrio",
       "Cabezal": "MultiPin",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "30244732",
+      "Aplicación recomendada": "Ultramicrovolumen"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Eje muy delgado para volúmenes muy pequeños.",
+      "Sistema de referencia ARGENTHAL con electrolito sin iones de plata.",
+      "ISM integrado."
     ],
     "applications": [
       "Medición de pH",
@@ -4899,7 +4916,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30244732.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Ultramicrovolumen"
   },
   {
     "id": "inlabsolidsproism",
@@ -4910,17 +4928,19 @@
     "code": "51344155",
     "capacity": "pH sólidos",
     "readability": "Consultar ficha",
-    "description": "Electrodo de penetración para alimentos sólidos y semisólidos, con unión abierta resistente a obstrucciones.",
+    "description": "InLab Solids Pro-ISM, electrodo de pH de bajo mantenimiento con temperatura integrada y unión abierta, diseñado para alimentos sólidos y semisólidos.",
     "specs": {
       "Aplicación": "Alimentos sólidos y semisólidos",
       "Temperatura integrada": "Sí",
       "Unión": "Abierta",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "51344155",
+      "Aplicación recomendada": "Sólidos y semisólidos"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Punta en forma de lanza para inserción directa en carne, queso, comidas preparadas, frutas y verduras.",
+      "Unión abierta resistente a obstrucciones y ensuciamiento por proteínas.",
+      "Referencia polimérica XEROLYT EXTRA sin relleno de electrolito."
     ],
     "applications": [
       "Medición de pH",
@@ -4928,7 +4948,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344155.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Sólidos y semisólidos"
   },
   {
     "id": "inlabviscousproism",
@@ -4939,18 +4960,20 @@
     "code": "51343151",
     "capacity": "pH viscosos",
     "readability": "Consultar ficha",
-    "description": "Electrodo para muestras viscosas como cosméticos, pinturas, adhesivos y formulaciones alimentarias.",
+    "description": "InLab Viscous Pro-ISM, electrodo combinado de vidrio con temperatura integrada y sistema SteadyForce, diseñado para muestras viscosas como cosméticos, pinturas y adhesivos.",
     "specs": {
       "Cuerpo": "Vidrio",
       "Temperatura integrada": "Sí",
       "Sistema de referencia": "SteadyForce",
       "Cabezal": "MultiPin",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "51343151",
+      "Aplicación recomendada": "Muestras viscosas"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "SteadyForce presurizado ayuda a evitar obstrucción de la unión.",
+      "Sensor de temperatura integrado.",
+      "ISM integrado."
     ],
     "applications": [
       "Medición de pH",
@@ -4958,7 +4981,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51343151.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Muestras viscosas"
   },
   {
     "id": "inlabsurfaceproism",
@@ -4969,18 +4993,20 @@
     "code": "30249570",
     "capacity": "pH superficies",
     "readability": "Consultar ficha",
-    "description": "Electrodo de membrana plana para medir superficies como papel, placas de agar y piel.",
+    "description": "InLab Surface Pro-ISM, electrodo combinado de pH con membrana plana para medición de superficies como papel, placas de agar y piel.",
     "specs": {
       "Aplicación": "Superficies",
       "Membrana": "Plana",
       "Temperatura integrada": "Sí",
       "Cabezal": "MultiPin",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "30249570",
+      "Aplicación recomendada": "Superficies"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Membrana plana para contacto directo con superficies.",
+      "Sensor de temperatura integrado.",
+      "Cabezal MultiPin e ISM."
     ],
     "applications": [
       "Medición de pH",
@@ -4988,7 +5014,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30249570.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Superficies"
   },
   {
     "id": "inlabpureproism",
@@ -4999,18 +5026,20 @@
     "code": "51344172",
     "capacity": "pH agua pura",
     "readability": "Consultar ficha",
-    "description": "Electrodo para muestras de baja fuerza iónica, incluida agua ultrapura y desionizada.",
+    "description": "InLab Pure Pro-ISM, electrodo combinado de pH con electrolito puente y unión fija de camisa de vidrio, diseñado para muestras de baja fuerza iónica como agua ultrapura y desionizada.",
     "specs": {
       "Aplicación": "Agua ultrapura / desionizada",
       "Cuerpo": "Vidrio",
       "Unión": "Manguito de vidrio fijo",
       "Temperatura integrada": "Sí",
-      "ISM": "Sí"
+      "ISM": "Sí",
+      "Número de material": "51344172",
+      "Aplicación recomendada": "Agua pura / baja fuerza iónica"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Especializado en muestras de baja fuerza iónica.",
+      "Sensor de temperatura integrado.",
+      "Cabezal MultiPin e ISM."
     ],
     "applications": [
       "Medición de pH",
@@ -5018,7 +5047,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344172.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Agua pura / baja fuerza iónica"
   },
   {
     "id": "inlabpowerproism",
@@ -5029,19 +5059,21 @@
     "code": "51344211",
     "capacity": "pH",
     "readability": "Consultar ficha",
-    "description": "Electrodo de vidrio robusto y reproducible, sin mantenimiento, con SteadyForce, temperatura integrada e ISM.",
+    "description": "InLab Power Pro-ISM, electrodo combinado de vidrio con temperatura integrada y SteadyForce. Diseñado para aplicaciones generales que requieren alta reproducibilidad; es de bajo mantenimiento y autoclavable.",
     "specs": {
       "Cuerpo": "Vidrio",
       "Sistema": "SteadyForce",
       "Temperatura integrada": "Sí",
       "Cabezal": "MultiPin",
       "ISM": "Sí",
-      "Autoclavable": "Sí"
+      "Autoclavable": "Sí",
+      "Número de material": "51344211",
+      "Aplicación recomendada": "Uso general / autoclavable"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar compatibilidad con el medidor y disponibilidad antes de cotizar."
+      "Sistema SteadyForce.",
+      "Sensor de temperatura integrado.",
+      "Autoclavable e ISM."
     ],
     "applications": [
       "Medición de pH",
@@ -5049,7 +5081,8 @@
       "Laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51344211.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Uso general / autoclavable"
   },
   {
     "id": "rx4",
