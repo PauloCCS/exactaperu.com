@@ -1057,24 +1057,27 @@
     "sub": "XPR",
     "model": "XPR204/M",
     "code": "30355421",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza analítica Excellence XPR204/M con funciones inteligentes de aseguramiento de calidad, StaticDetect, LevelControl, automatización de dosificación opcional y compatibilidad con LabX.",
+    "capacity": "220 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica Excellence XPR204/M para pesaje de alta precisión, con StaticDetect, LevelControl, StatusLight, automatización de dosificación opcional y compatibilidad con LabX.",
     "specs": {
-      "Línea de balanzas": "XPR",
-      "Modelo": "XPR204/M",
-      "Tipo": "Balanza analítica",
-      "Gestión de calidad": "StatusLight, LevelControl y GWP Approved",
-      "Detección electrostática": "StaticDetect; ionizador opcional",
-      "Software": "Compatible con LabX",
-      "Automatización": "Dosificación opcional",
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,1 mg",
+      "Repetibilidad, típica": "0,04 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "8,2 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "82 mg",
+      "Tiempo de estabilización": "1,5 s",
+      "Linealidad": "±0,2 mg",
+      "Dimensiones del plato": "78 × 73 mm",
+      "Dimensiones (Al × An × P)": "292 × 195 × 485 mm",
+      "Ajuste": "Interno (automático/FACT)",
+      "Legibilidad certificada": "1 mg",
       "Número de material": "30355421"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "StaticDetect ayuda a identificar cargas electrostáticas que pueden afectar el pesaje.",
-      "StatusLight y LevelControl apoyan la validez del resultado.",
-      "LabX permite documentación y gestión centralizada de flujos de trabajo."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1151,20 +1154,22 @@
     "sub": "MX",
     "model": "MX104/M",
     "code": "30665142",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MX104/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "capacity": "120 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica MX104/M con SmartPan, ErgoDoors, StatusLight, documentación GxP, transferencia automática de datos y compatibilidad con LabX.",
     "specs": {
-      "Línea de balanzas": "MX",
-      "Modelo": "MX104/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Número de material": "30665142",
+      "Familia": "MX",
+      "Tipo": "Balanza analítica",
+      "Funciones": "SmartPan, ErgoDoors y StatusLight",
+      "Integración": "Ethernet/USB, MT-SICS y LabX"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1211,20 +1216,25 @@
     "sub": "MX",
     "model": "MX304/M",
     "code": "30665148",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MX304/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "capacity": "320 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica MX304/M con SmartPan, ErgoDoors y StatusLight, diseñada para pesaje rápido y estable y documentación compatible con entornos GxP.",
     "specs": {
-      "Línea de balanzas": "MX",
-      "Modelo": "MX304/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Capacidad máxima": "320 g",
+      "Legibilidad": "0,1 mg",
+      "Repetibilidad, típica": "0,05 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "10 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "100 mg",
+      "Tiempo de estabilización": "2 s",
+      "Diámetro del plato": "90 mm",
+      "Dimensiones (Al × An × P)": "353 × 222 × 379 mm",
+      "Legibilidad certificada": "1 mg",
+      "Número de material": "30665148"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1241,20 +1251,25 @@
     "sub": "MR",
     "model": "MR104/M",
     "code": "30666205",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MR104/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "capacity": "120 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica MR104/M robusta para laboratorio y planta, con múltiples interfaces, comandos MT-SICS y gestión de usuarios para facilitar la integración en sistemas.",
     "specs": {
-      "Línea de balanzas": "MR",
-      "Modelo": "MR104/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Repetibilidad, típica": "0,08 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "16 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "160 mg",
+      "Tiempo de estabilización": "2 s",
+      "Diámetro del plato": "90 mm",
+      "Dimensiones (Al × An × P)": "354 × 209 × 351 mm",
+      "Legibilidad certificada": "1 mg",
+      "Número de material": "30666205"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
