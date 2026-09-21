@@ -1188,18 +1188,21 @@
     "code": "30665145",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MX204/M de la línea MX. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "description": "Balanza analítica MX204/M para pesaje rápido y estable, con SmartPan, ErgoDoors, StatusLight, documentación compatible con GxP y conectividad para transferencia automática de datos y LabX.",
     "specs": {
-      "Línea de balanzas": "MX",
-      "Modelo": "MX204/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Número de material": "30665145",
+      "Familia": "MX",
+      "Tipo": "Balanza analítica",
+      "Protección contra corrientes de aire": "SmartPan y ErgoDoors",
+      "Indicador de estado": "StatusLight",
+      "Documentación": "Compatible con flujos GxP",
+      "Conectividad": "Ethernet/USB y transferencia a PC o impresora",
+      "Software": "Compatible con LabX"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Características funcionales revisadas contra la página oficial de METTLER TOLEDO.",
+      "Capacidad, legibilidad y configuración metrológica se mantienen según la referencia ya registrada o se confirman al cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1323,18 +1326,21 @@
     "code": "30666211",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MR304/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "description": "Balanza analítica MR304/M robusta y fácil de limpiar, preparada para laboratorio y producción, con gestión de usuarios, ajuste automático, nivelación guiada, múltiples interfaces y comandos MT-SICS.",
     "specs": {
-      "Línea de balanzas": "MR",
-      "Modelo": "MR304/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Número de material": "30666211",
+      "Familia": "MR",
+      "Tipo": "Balanza analítica",
+      "Integración": "Múltiples interfaces y comandos MT-SICS",
+      "Sistemas": "Conexión a PLC, MES y otros instrumentos",
+      "Ajuste": "Automático",
+      "Nivelación": "Guiada",
+      "Limpieza": "Cortavientos QuickLock desmontable sin herramientas"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Características funcionales revisadas contra la página oficial de METTLER TOLEDO.",
+      "Capacidad, legibilidad y configuración metrológica se mantienen según la referencia ya registrada o se confirman al cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1353,18 +1359,21 @@
     "code": "30697387",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MA54/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "description": "Balanza analítica MA54/M para pesaje cotidiano, con pantalla LCD, operación táctil, aplicaciones integradas, ajuste interno y transferencia de datos mediante USB-A y RS232.",
     "specs": {
-      "Línea de balanzas": "MA",
-      "Modelo": "MA54/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Número de material": "30697387",
+      "Familia": "MA",
+      "Tipo": "Balanza analítica",
+      "Operación": "Controles táctiles y aplicaciones guiadas",
+      "Ajuste": "Interno mediante pesas de prueba",
+      "Interfaces": "USB-A y RS232",
+      "Pantalla": "LCD",
+      "Construcción": "Base metálica y carcasa resistente"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Características funcionales revisadas contra la página oficial de METTLER TOLEDO.",
+      "Capacidad, legibilidad y configuración metrológica se mantienen según la referencia ya registrada o se confirman al cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1420,18 +1429,21 @@
     "code": "30697413",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MA204/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "description": "Balanza analítica MA204/M para tareas rutinarias precisas, con pantalla LCD, operación táctil, aplicaciones guiadas, ajuste interno y transferencia de datos por USB-A y RS232.",
     "specs": {
-      "Línea de balanzas": "MA",
-      "Modelo": "MA204/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Número de material": "30697413",
+      "Familia": "MA",
+      "Tipo": "Balanza analítica",
+      "Operación": "Controles táctiles y aplicaciones guiadas",
+      "Ajuste": "Interno mediante pesas de prueba",
+      "Interfaces": "USB-A y RS232",
+      "Pantalla": "LCD",
+      "Construcción": "Base metálica y carcasa resistente"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Características funcionales revisadas contra la página oficial de METTLER TOLEDO.",
+      "Capacidad, legibilidad y configuración metrológica se mantienen según la referencia ya registrada o se confirman al cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
