@@ -5647,7 +5647,7 @@
     "code": "30111134",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 2.00 en 30 sobres monodosis de 20 mL para calibración de electrodos. El envase individual ayuda a utilizar solución fresca y reducir el riesgo de contaminación.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "30111134",
@@ -5676,7 +5676,7 @@
     "code": "51302069",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 4.01 en 30 sobres monodosis de 20 mL para calibración de electrodos de pH. El formato individual facilita una calibración práctica con solución fresca.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302069",
@@ -5705,7 +5705,7 @@
     "code": "51302047",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 7.00 en 30 sobres monodosis de 20 mL para calibración de electrodos de pH. El formato individual facilita una calibración práctica con solución fresca.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302047",
@@ -5734,7 +5734,7 @@
     "code": "51302070",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 9.21 en 30 sobres monodosis de 20 mL para calibración de electrodos de pH. El formato individual facilita una calibración práctica con solución fresca.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302070",
@@ -5763,7 +5763,7 @@
     "code": "51302079",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 10.01 en 30 sobres monodosis de 20 mL para calibración de electrodos de pH. El formato individual facilita una calibración práctica con solución fresca.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302079",
@@ -5792,7 +5792,7 @@
     "code": "30111135",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Buffer técnico pH 11.00 en 30 sobres monodosis de 20 mL para calibración de electrodos de pH. El formato individual facilita una calibración práctica con solución fresca.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "30111135",
@@ -5884,7 +5884,7 @@
     "code": "51350100",
     "capacity": "250 mL",
     "readability": "Consumible",
-    "description": "Solución Pepsina-HCl para limpieza de electrodos contaminados con proteínas.",
+    "description": "Solución de limpieza Pepsina-HCl de 250 mL para mantenimiento de electrodos de pH. Forma parte de la gama METTLER TOLEDO de soluciones de limpieza, almacenamiento y cuidado de sensores.",
     "specs": {
       "Presentación": "250 mL",
       "Número de material": "51350100",
@@ -5946,7 +5946,7 @@
     "code": "51350104",
     "capacity": "25 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 25 mL.",
+    "description": "Solución de regeneración de 25 mL para mantenimiento de electrodos de pH. METTLER TOLEDO la clasifica como solución de mantenimiento y suministra documentación de calidad y seguridad.",
     "specs": {
       "Presentación": "25 mL",
       "Número de material": "51350104",
@@ -6033,7 +6033,7 @@
     "code": "51300169",
     "capacity": "10 µS/cm / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 10 µS/cm / 250 mL.",
+    "description": "Estándar de conductividad de 10 µS/cm en botella de 250 mL para calibración y verificación de sistemas de medición de conductividad de laboratorio.",
     "specs": {
       "Presentación": "10 µS/cm / 250 mL",
       "Número de material": "51300169",
@@ -6062,7 +6062,7 @@
     "code": "51302153",
     "capacity": "84 µS/cm / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 84 µS/cm / 250 mL.",
+    "description": "Estándar de conductividad de 84 µS/cm en botella de 250 mL para calibración y verificación de sistemas de medición de conductividad de laboratorio.",
     "specs": {
       "Presentación": "84 µS/cm / 250 mL",
       "Número de material": "51302153",
@@ -6091,7 +6091,7 @@
     "code": "51300170",
     "capacity": "500 µS/cm / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 500 µS/cm / 250 mL.",
+    "description": "Estándar de conductividad de 500 µS/cm en botella de 250 mL para calibración y verificación de sistemas de medición de conductividad de laboratorio.",
     "specs": {
       "Presentación": "500 µS/cm / 250 mL",
       "Número de material": "51300170",
@@ -6182,7 +6182,7 @@
     "code": "51302049",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Estándar de conductividad de 1413 µS/cm presentado en 30 sobres monodosis de 20 mL, orientado a una calibración práctica con solución individual.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302049",
@@ -6211,7 +6211,7 @@
     "code": "51302050",
     "capacity": "30 sobres de 20 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 30 sobres de 20 mL.",
+    "description": "Estándar de conductividad de 12.88 mS/cm presentado en 30 sobres monodosis de 20 mL, orientado a una calibración práctica con solución individual.",
     "specs": {
       "Presentación": "30 sobres de 20 mL",
       "Número de material": "51302050",
@@ -6240,7 +6240,7 @@
     "code": "13865",
     "capacity": "80 unidades",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 80 unidades.",
+    "description": "Platos de muestra de aluminio de un solo uso para analizadores de humedad METTLER TOLEDO. Presentación de 80 unidades para preparación y medición rutinaria de muestras.",
     "specs": {
       "Presentación": "80 unidades",
       "Número de material": "13865",
@@ -6269,7 +6269,7 @@
     "code": "11113863",
     "capacity": "80 unidades",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 80 unidades.",
+    "description": "Platos de muestra de aluminio extra fuertes y de un solo uso para analizadores de humedad. Paquete de 80 unidades, indicado para muestras especiales, por ejemplo las que se contraen durante el secado.",
     "specs": {
       "Presentación": "80 unidades",
       "Número de material": "11113863",
@@ -6298,7 +6298,7 @@
     "code": "214464",
     "capacity": "100 unidades",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 100 unidades.",
+    "description": "Filtros de fibra de vidrio para muestras con alto contenido de humedad. Favorecen una distribución uniforme, aumentan la superficie de muestra y se suministran en paquetes de 100 unidades.",
     "specs": {
       "Presentación": "100 unidades",
       "Número de material": "214464",
@@ -6327,7 +6327,7 @@
     "code": "30020838",
     "capacity": "50 unidades",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 50 unidades.",
+    "description": "Filtros de polvo para analizadores de humedad HX/HS. Ayudan a impedir la entrada de polvo por el ventilador y están indicados para ambientes sucios o polvorientos; paquete de 50 unidades.",
     "specs": {
       "Presentación": "50 unidades",
       "Número de material": "30020838",
