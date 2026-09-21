@@ -723,20 +723,24 @@
     "model": "HE73",
     "code": "30237200",
     "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Analizador de humedad de nivel Standard para mediciones rápidas y fiables con operación sencilla.",
+    "readability": "1 mg / 0,01 %MC",
+    "description": "Analizador halógeno de humedad HE73 de 230 V para mediciones rutinarias, con dos métodos, criterio libre de desconexión y programas de secado estándar y rápido.",
     "specs": {
-      "Nivel": "Standard",
-      "Tecnología de calentamiento": "Halógena",
-      "Operación": "Flujo sencillo de 3 pasos",
-      "Familia": "Analizadores de humedad",
-      "Versión de imagen/referencia": "230 V"
+      "Legibilidad de masa": "1 mg",
+      "Legibilidad de humedad": "0,01 %MC",
+      "Temperatura de secado": "50–200 °C",
+      "Memoria de métodos": "2",
+      "Programas de secado": "Estándar y rápido",
+      "Criterio de desconexión": "Libremente definible",
+      "Pantalla": "LCD retroiluminada con indicador de progreso",
+      "Versión": "230 V",
+      "Número de material": "30237200"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
-      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
-      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
-      "Consulte la referencia del fabricante para validar el método aplicable."
+      "Dos accesos directos a métodos para facilitar el trabajo rutinario.",
+      "Criterio de desconexión configurable.",
+      "Diseño compacto y robusto para laboratorio y producción."
     ],
     "applications": [
       "Control de humedad",
@@ -753,21 +757,27 @@
     "sub": "Standard",
     "model": "HE53",
     "code": "30100246",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Analizador de humedad Standard orientado a tareas rutinarias y mediciones rápidas y fiables.",
+    "capacity": "54 g",
+    "readability": "1 mg / 0,01 %MC",
+    "description": "Analizador halógeno de humedad HE53 para tareas rutinarias, con operación sencilla en 3 pasos, indicador de progreso y conexión RS232 para impresión.",
     "specs": {
-      "Nivel": "Standard",
-      "Tecnología de calentamiento": "Halógena",
-      "Operación": "Flujo sencillo de 3 pasos",
-      "Familia": "Analizadores de humedad",
-      "Versión de imagen/referencia": "230 V"
+      "Capacidad máxima": "54 g",
+      "Legibilidad de masa": "1 mg",
+      "Legibilidad de humedad": "0,01 %MC",
+      "Temperatura de secado": "50–160 °C, incrementos de 1 °C",
+      "Programas de secado": "Estándar y rápido",
+      "Memoria de métodos": "1",
+      "Repetibilidad (2 g)": "0,15 %",
+      "Repetibilidad (10 g)": "0,05 %",
+      "Criterio de desconexión": "Automático y temporizado (1–120 min)",
+      "Interfaz": "RS232",
+      "Número de material": "30100246"
     },
     "source": "https://www.mt.com/in/en/home/products/Laboratory_Weighing_Solutions/moisture-analyzers/moisture-analyzer.html",
     "highlights": [
-      "Determinación rápida de humedad mediante calentamiento y control gravimétrico.",
-      "La configuración y prestaciones dependen del modelo y versión seleccionados.",
-      "Consulte la referencia del fabricante para validar el método aplicable."
+      "Operación sencilla para controles rutinarios de humedad.",
+      "Indicador de progreso durante la medición.",
+      "Compatible con documentación mediante impresora RS232."
     ],
     "applications": [
       "Control de humedad",
@@ -1049,18 +1059,22 @@
     "code": "30355421",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio XPR204/M de la línea XPR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "description": "Balanza analítica Excellence XPR204/M con funciones inteligentes de aseguramiento de calidad, StaticDetect, LevelControl, automatización de dosificación opcional y compatibilidad con LabX.",
     "specs": {
       "Línea de balanzas": "XPR",
       "Modelo": "XPR204/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Tipo": "Balanza analítica",
+      "Gestión de calidad": "StatusLight, LevelControl y GWP Approved",
+      "Detección electrostática": "StaticDetect; ionizador opcional",
+      "Software": "Compatible con LabX",
+      "Automatización": "Dosificación opcional",
+      "Número de material": "30355421"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "StaticDetect ayuda a identificar cargas electrostáticas que pueden afectar el pesaje.",
+      "StatusLight y LevelControl apoyan la validez del resultado.",
+      "LabX permite documentación y gestión centralizada de flujos de trabajo."
     ],
     "applications": [
       "Pesaje de laboratorio",
