@@ -1730,13 +1730,16 @@
     "code": "30988511",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador Karl Fischer coulométrico para contenidos bajos de agua.",
+    "description": "Valorador Karl Fischer coulométrico EVA C1 para contenidos bajos de agua en líquidos simples y sólidos solubles. La versión Base permite seleccionar componentes adicionales según la aplicación.",
     "specs": {
       "Familia": "Karl Fischer coulométrico",
       "Modelo": "EVA C1",
-      "Técnica": "Titulación / Karl Fischer según modelo",
+      "Técnica": "Karl Fischer coulométrica",
       "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Software": "Compatible con LabX",
+      "Número de material": "30988511",
+      "Aplicación": "Bajo contenido de agua",
+      "Configuración": "Paquete Base ampliable"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
     "highlights": [],
@@ -1811,13 +1814,19 @@
     "code": "30267117",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador compacto de uso general para análisis volumétricos.",
+    "description": "Valorador Compact G10S para aplicaciones dedicadas de control de calidad, con hasta 5 métodos de análisis, 10 funciones de método, 4 accesos directos por usuario e interfaz One Click.",
     "specs": {
       "Familia": "Compact",
       "Modelo": "G10S",
       "Técnica": "Titulación / Karl Fischer según modelo",
       "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Software": "Confirmar compatibilidad según configuración",
+      "Número de material": "30267117",
+      "Métodos de análisis": "Hasta 5",
+      "Funciones por método": "10",
+      "Accesos directos por usuario": "4",
+      "Interfaz": "One Click",
+      "Métodos predefinidos": "20"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
     "highlights": [],
@@ -1838,13 +1847,18 @@
     "code": "30252669",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador compacto de uso general con capacidades ampliadas.",
+    "description": "Valorador Compact G20S para múltiples valoraciones rutinarias y usuarios, con hasta 150 métodos de análisis, 12 funciones de método, 12 accesos directos por usuario y software LabX Express.",
     "specs": {
       "Familia": "Compact",
       "Modelo": "G20S",
       "Técnica": "Titulación / Karl Fischer según modelo",
       "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Software": "LabX Express",
+      "Número de material": "30252669",
+      "Métodos de análisis": "Hasta 150",
+      "Funciones por método": "12",
+      "Accesos directos por usuario": "12",
+      "Interfaz": "One Click"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
     "highlights": [],
@@ -2330,12 +2344,15 @@
     "code": "30486743",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Lector RFID externo para transferencia trazable de información de reactivos.",
+    "description": "Lector RFID SmartChemical externo para transferencia automática y trazable de datos de reactivos al valorador, reduciendo la transcripción manual y el tiempo de configuración.",
     "specs": {
       "N.º de material": "30486743",
       "Tipo": "Smart RFID",
       "Conexión": "USB Tipo A",
-      "Compatibilidad": "T5, T7, T9, G10S, G20S, V30S, EVA V1/V3 y EVA C1/C3"
+      "Compatibilidad": "EVA C1/C3, Compact G10S/G20S/V30S, Excellence T5/T7/T9 y EVA V1/V3",
+      "Número de material": "30486743",
+      "Tecnología": "Smart RFID",
+      "Función": "Transferencia automática de datos de reactivos"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/Family_Browse_Titration_Acc_main/titration-chemicals/rfid-reader.html",
     "highlights": [],
@@ -3027,7 +3044,7 @@
     "code": "30316504",
     "capacity": "610 g",
     "readability": "1 mg",
-    "description": "Balanza de precisión XPR de plataforma pequeña para pesaje de alta exactitud.",
+    "description": "Balanza de precisión Excellence XPR603S de 610 g de capacidad y 1 mg de legibilidad, con SmartPan Pro, métodos integrados, conectividad USB/LAN y compatibilidad con LabX.",
     "specs": {
       "Capacidad máxima": "610 g",
       "Legibilidad": "1 mg",
@@ -3038,7 +3055,10 @@
       "Plato de pesaje": "127 × 127 mm",
       "Línea de balanzas": "XPR603S",
       "Tipo de balanza": "Balanza de precisión",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Número de material": "30316504",
+      "Plato": "127 × 127 mm; SmartPan/estándar según configuración",
+      "Software": "Compatible con LabX"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3099,7 +3119,7 @@
     "code": "30316540",
     "capacity": "610 g",
     "readability": "1 mg",
-    "description": "Balanza de precisión XPR con SmartPan para resultados estables y rápidos.",
+    "description": "Balanza de precisión Excellence XPR603SN2 de 610 g y 1 mg, configurada con SmartPan para pesaje estable y rápido en tareas exigentes de laboratorio.",
     "specs": {
       "Capacidad máxima": "610 g",
       "Legibilidad": "1 mg",
@@ -3110,7 +3130,10 @@
       "Plato de pesaje": "127 × 127 mm",
       "Línea de balanzas": "XPR603SN2",
       "Tipo de balanza": "Balanza de precisión",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Número de material": "30316540",
+      "Repetibilidad típica": "0,5 mg",
+      "Plato": "127 × 127 mm; SmartPan"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3135,7 +3158,7 @@
     "code": "30316563",
     "capacity": "1210 g",
     "readability": "1 mg",
-    "description": "Balanza XPR de precisión para aplicaciones exigentes de laboratorio.",
+    "description": "Balanza de precisión Excellence XPR1203S de 1210 g y 1 mg, con SmartPan Pro, métodos integrados, transferencia digital de datos y compatibilidad con LabX.",
     "specs": {
       "Capacidad máxima": "1210 g",
       "Legibilidad": "1 mg",
@@ -3146,7 +3169,11 @@
       "Plato de pesaje": "127 × 127 mm",
       "Línea de balanzas": "XPR",
       "Tipo de balanza": "Balanza de precisión",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Número de material": "30316563",
+      "Repetibilidad típica": "0,4 mg",
+      "Plato": "127 × 127 mm",
+      "Software": "Compatible con LabX"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3171,7 +3198,7 @@
     "code": "30316701",
     "capacity": "3,1 kg",
     "readability": "1 mg",
-    "description": "Balanza XPR de precisión de 3,1 kg para aplicaciones de alta exactitud.",
+    "description": "Balanza de precisión Excellence XPR3003S de 3,1 kg y 1 mg, con SmartPan Pro, aseguramiento de calidad integrado, conectividad USB/LAN y compatibilidad con LabX.",
     "specs": {
       "Capacidad máxima": "3,1 kg",
       "Legibilidad": "1 mg",
@@ -3182,7 +3209,11 @@
       "Plato de pesaje": "127 × 127 mm",
       "Línea de balanzas": "XPR3003S",
       "Tipo de balanza": "Balanza de precisión",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Número de material": "30316701",
+      "Repetibilidad típica": "0,6 mg",
+      "Plato": "127 × 127 mm",
+      "Software": "Compatible con LabX"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3207,7 +3238,7 @@
     "code": "30316990",
     "capacity": "5,1 kg",
     "readability": "1 mg",
-    "description": "Balanza XPR de precisión de 5,1 kg con resolución de 1 mg.",
+    "description": "Balanza de precisión Excellence XPR5003S de 5,1 kg y 1 mg, con SmartPan Pro para estabilidad frente a corrientes de aire, métodos integrados y compatibilidad con LabX.",
     "specs": {
       "Capacidad máxima": "5,1 kg",
       "Legibilidad": "1 mg",
@@ -3218,7 +3249,11 @@
       "Plato de pesaje": "127 × 127 mm",
       "Línea de balanzas": "XPR5003S",
       "Tipo de balanza": "Balanza de precisión",
-      "Familia": "Excellence"
+      "Familia": "Excellence",
+      "Número de material": "30316990",
+      "Repetibilidad típica": "1 mg",
+      "Plato": "127 × 127 mm",
+      "Software": "Compatible con LabX"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3277,14 +3312,18 @@
     "code": "30317525",
     "capacity": "15,1 kg",
     "readability": "0,01 g",
-    "description": "Balanza XPR de gran plataforma para pesaje preciso de muestras pesadas.",
+    "description": "Balanza de precisión Excellence XPR15002L/A de plataforma grande, 15,1 kg de capacidad y 0,01 g de legibilidad, con SmartPan, pantalla táctil de 7 pulgadas, funciones de integridad de datos y compatibilidad con LabX.",
     "specs": {
       "Capacidad máxima": "15,1 kg",
       "Legibilidad": "0,01 g",
       "Plataforma": "Grande",
       "Familia": "Excellence",
       "Línea de balanzas": "XPR",
-      "Tipo de balanza": "Balanza de precisión"
+      "Tipo de balanza": "Balanza de precisión",
+      "Número de material": "30317525",
+      "Pantalla": "Táctil capacitiva a color de 7 pulgadas",
+      "Plato": "SmartPan",
+      "Software": "Compatible con LabX"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3341,14 +3380,16 @@
     "code": "30697446",
     "capacity": "Confirmar ficha",
     "readability": "0,01 g",
-    "description": "Balanza de precisión MA con ajuste interno y operación guiada.",
+    "description": "Balanza de precisión MA2002 para pesaje rutinario, con operación táctil, aplicaciones integradas, ajuste interno mediante pesas de prueba y transferencia de datos por USB y RS232.",
     "specs": {
       "Legibilidad": "0,01 g",
-      "Ajuste": "Interno",
-      "Interfaces": "USB y RS232",
+      "Ajuste": "Interno con pesas de prueba",
+      "Interfaces": "USB-A y RS232",
       "Familia": "Standard",
       "Línea de balanzas": "MA",
-      "Tipo de balanza": "Balanza de precisión"
+      "Tipo de balanza": "Balanza de precisión",
+      "Número de material": "30697446",
+      "Operación": "Control táctil y aplicaciones guiadas"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3373,14 +3414,16 @@
     "code": "30697452",
     "capacity": "Confirmar ficha",
     "readability": "0,01 g",
-    "description": "Balanza de precisión MA para tareas rutinarias, con ajuste interno.",
+    "description": "Balanza de precisión MA4002 para tareas rutinarias, con estructura robusta, control táctil, aplicaciones integradas, ajuste interno y conectividad USB-A y RS232.",
     "specs": {
       "Legibilidad": "0,01 g",
-      "Ajuste": "Interno",
-      "Interfaces": "USB y RS232",
+      "Ajuste": "Interno con pesas de prueba",
+      "Interfaces": "USB-A y RS232",
       "Familia": "Standard",
       "Línea de balanzas": "MA",
-      "Tipo de balanza": "Balanza de precisión"
+      "Tipo de balanza": "Balanza de precisión",
+      "Número de material": "30697452",
+      "Operación": "Control táctil y aplicaciones guiadas"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3437,14 +3480,16 @@
     "code": "30697475",
     "capacity": "Confirmar ficha",
     "readability": "0,1 g",
-    "description": "Balanza MA de gran plataforma para aplicaciones rutinarias de mayor capacidad.",
+    "description": "Balanza de precisión MA12001L de gran capacidad para tareas rutinarias, con base metálica robusta, aplicaciones integradas, ajuste interno y conectividad USB-A y RS232.",
     "specs": {
       "Legibilidad": "0,1 g",
-      "Ajuste": "Interno",
-      "Interfaces": "USB y RS232",
+      "Ajuste": "Interno con pesas de prueba",
+      "Interfaces": "USB-A y RS232",
       "Familia": "Standard",
       "Línea de balanzas": "MA",
-      "Tipo de balanza": "Balanza de precisión"
+      "Tipo de balanza": "Balanza de precisión",
+      "Número de material": "30697475",
+      "Operación": "Control táctil y aplicaciones guiadas"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -3469,14 +3514,16 @@
     "code": "30697478",
     "capacity": "Confirmar ficha",
     "readability": "0,1 g",
-    "description": "Balanza MA de gran plataforma para pesaje rutinario de alta capacidad.",
+    "description": "Balanza de precisión MA16001L de gran capacidad para trabajo rutinario, con construcción robusta, aplicaciones integradas, ajuste interno y transferencia de datos mediante USB-A y RS232.",
     "specs": {
       "Legibilidad": "0,1 g",
-      "Ajuste": "Interno",
-      "Interfaces": "USB y RS232",
+      "Ajuste": "Interno con pesas de prueba",
+      "Interfaces": "USB-A y RS232",
       "Familia": "Standard",
       "Línea de balanzas": "MA",
-      "Tipo de balanza": "Balanza de precisión"
+      "Tipo de balanza": "Balanza de precisión",
+      "Número de material": "30697478",
+      "Operación": "Control táctil y aplicaciones guiadas"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
@@ -4242,10 +4289,13 @@
     "code": "30470856",
     "capacity": "Dosificación",
     "readability": "Consultar configuración",
-    "description": "Dispositivo EasyPlus para preparación de muestras y tareas automatizadas de manipulación de líquidos.",
+    "description": "Unidad EasyPlus Easy Dose para tareas de dosificación y preparación de líquidos dentro de la plataforma EasyPlus; la configuración final depende de los accesorios y del flujo de trabajo seleccionado.",
     "specs": {
       "Aplicación principal": "Dosificación y preparación de muestras",
-      "Familia": "EasyPlus"
+      "Familia": "EasyPlus",
+      "Número de material": "30470856",
+      "Tipo": "Unidad de dosificación",
+      "Configuración": "Ampliable mediante accesorios EasyPlus"
     },
     "highlights": [
       "Referencia verificada en documentación oficial de METTLER TOLEDO.",
