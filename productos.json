@@ -927,18 +927,22 @@
     "code": "30997013",
     "capacity": "2 canales",
     "readability": "pH / ORP / conductividad",
-    "description": "Kit NineFocus pH/conductividad con dos módulos, InLab Expert Pro-DES e InLab 731 Pro-DES; modular y orientado a integridad de datos.",
+    "description": "NineFocus NF2300 Kit es una configuración multiparamétrica para pH y conductividad. Incluye dos módulos de medición, sensores InLab Expert Pro-DES e InLab 731 Pro-DES, brazo de electrodo y estándares para la calibración inicial.",
     "specs": {
-      "Parámetros": "pH, redox, conductividad; ampliable a DO",
+      "Número de material": "30997013",
+      "Configuración": "2 módulos de medición",
       "Sensores incluidos": "InLab Expert Pro-DES + InLab 731 Pro-DES",
-      "Módulos incluidos": "2",
-      "Software": "Compatible con LabX"
+      "Parámetros de la plataforma": "pH, redox, conductividad y oxígeno disuelto, según módulos/sensores",
+      "Sistema": "Modular y ampliable",
+      "Diagnóstico": "Diagnóstico de sensores con guía de resolución de problemas",
+      "Gestión de usuarios": "Flexible",
+      "Software": "Transferencia automática a LabX para soporte de integridad de datos"
     },
     "source": "https://www.mt.com/ph/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-meter-ninefocus-nf2300-kit.html",
     "highlights": [
-      "Plataforma modular de nueva generación sucesora de SevenExcellence.",
-      "Diagnóstico guiado con sensores InLab DES.",
-      "Diseñado para crecer en parámetros y productividad."
+      "Kit orientado a pH y conductividad.",
+      "Incluye sensores y estándares para calibración inicial.",
+      "Plataforma ampliable para cubrir hasta cuatro parámetros."
     ],
     "applications": [
       "pH",
@@ -2314,21 +2318,22 @@
     "code": "30997017",
     "capacity": "3 canales",
     "readability": "pH / conductividad / OD",
-    "description": "Kit multiparámetro NineFocus de triple canal para pH, conductividad y oxígeno disuelto, con sensores digitales DES y soporte de transferencia automática de datos a LabX.",
+    "description": "NineFocus NF2340 Kit combina pH, conductividad y oxígeno disuelto. Incluye tres módulos de medición, sensores InLab Expert Pro-DES, InLab 731 Pro-DES y OptiOx Pro-DES, brazo de electrodo y estándares para calibración inicial.",
     "specs": {
-      "N.º de material": "30997017",
-      "Canales": "Triple canal",
-      "Parámetros": "pH, ORP, conductividad y oxígeno disuelto",
-      "Sensores incluidos": "InLab Expert Pro-DES, InLab 731 Pro-DES y OptiOx Pro-DES",
-      "Plataforma": "NineFocus modular",
-      "Gestión de datos": "Transferencia automática a LabX",
-      "Cumplimiento": "Soporte para 21 CFR Part 11 y ALCOA++"
+      "Número de material": "30997017",
+      "Configuración": "3 módulos de medición",
+      "Sensores incluidos": "InLab Expert Pro-DES + InLab 731 Pro-DES + OptiOx Pro-DES",
+      "Aplicaciones": "pH, conductividad y oxígeno disuelto",
+      "Parámetros de la plataforma": "Hasta 4: pH, redox, conductividad y oxígeno disuelto",
+      "Sistema": "Modular y ampliable",
+      "Diagnóstico": "Diagnóstico de sensores con guía de resolución de problemas",
+      "Integridad de datos": "Gestión flexible de usuarios y transferencia automática a LabX"
     },
     "source": "https://www.mt.com/sg/en/home/products/Laboratory_Analytics_Browse/pH-meter/pH-meters/ph-cond-do-meter-ninefocus-nf2340-kit.html",
     "highlights": [
-      "Tres módulos de medición en un solo sistema.",
-      "Diagnóstico guiado de sensores.",
-      "Arquitectura ampliable y orientada a integridad de datos."
+      "Tres sensores incluidos para pH, conductividad y oxígeno disuelto.",
+      "Arquitectura modular para ampliar las capacidades del equipo.",
+      "LabX ayuda a soportar requisitos de integridad de datos y cumplimiento regulatorio."
     ],
     "applications": [
       "pH",
@@ -4567,19 +4572,20 @@
     "code": "30997018",
     "capacity": "Multiparámetro / integración",
     "readability": "Consultar ficha",
-    "description": "Medidor de sobremesa modular con un módulo para sensores InLab DES y REST API para integración con sistemas.",
+    "description": "NineFocus NF1000 API Base es una plataforma modular para automatizar mediciones e integrarlas directamente con sistemas externos mediante REST API. Incluye un módulo de medición para sensores InLab DES y brazo de electrodo.",
     "specs": {
-      "Canales": "1",
-      "Pantalla": "TFT color 7 pulgadas",
-      "Memoria": "3000 conjuntos de resultados",
-      "Protección": "IP54",
-      "Interfaz": "REST API, LAN, USB",
-      "Rango mV": "-2000…2000 mV"
+      "Número de material": "30997018",
+      "Configuración": "1 módulo de medición + brazo de electrodo",
+      "Sensores": "InLab DES",
+      "Arquitectura": "Modular",
+      "Integración": "REST API",
+      "Sistemas externos": "LIMS, ELN y MES",
+      "Aplicación": "Automatización e integración de mediciones de laboratorio"
     },
     "highlights": [
-      "Referencia verificada en la web oficial de METTLER TOLEDO.",
-      "Imagen asociada al número de material.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "REST API para intercambio de datos programable y seguro.",
+      "Integración directa con LIMS, ELN y MES sin software adicional.",
+      "Pensado para automatizar flujos y reducir pasos manuales."
     ],
     "applications": [
       "Control de calidad",
@@ -4598,16 +4604,21 @@
     "code": "30997014",
     "capacity": "pH / conductividad",
     "readability": "Consultar ficha",
-    "description": "Kit para agua pura con dos módulos de medición, InLab Pure Pro-DES e InLab 741 Pro-DES.",
+    "description": "NineFocus NF2300 Pure H2O es una configuración específica para pH y conductividad en agua pura. Incluye dos módulos, sensores InLab Pure Pro-DES e InLab 741 Pro-DES, brazo de electrodo y estándares de calibración inicial.",
     "specs": {
-      "Parámetros": "pH, redox, conductividad; ampliable",
+      "Número de material": "30997014",
+      "Configuración": "2 módulos de medición",
       "Sensores incluidos": "InLab Pure Pro-DES + InLab 741 Pro-DES",
-      "Enfoque": "Agua pura y muestras de baja fuerza iónica"
+      "Aplicación principal": "Agua pura",
+      "Parámetros de la plataforma": "pH, redox, conductividad y oxígeno disuelto, según módulos/sensores",
+      "Sistema": "Modular y ampliable",
+      "Diagnóstico": "Diagnóstico de sensores",
+      "Gestión de usuarios": "Flexible"
     },
     "highlights": [
-      "Referencia verificada en la web oficial de METTLER TOLEDO.",
-      "Imagen asociada al número de material.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Configuración especializada para agua pura.",
+      "Incluye sensores de pH y conductividad adecuados para esta aplicación.",
+      "Mantiene la arquitectura modular de NineFocus."
     ],
     "applications": [
       "Control de calidad",
