@@ -819,20 +819,21 @@
     "code": "30252672",
     "capacity": "1–4 buretas",
     "readability": "Potenciométrica / KF",
-    "description": "Valorador Excellence modular para aplicaciones potenciométricas y Karl Fischer, ampliable de una a cuatro buretas y compatible con automatización InMotion.",
+    "description": "Valorador Excellence T5 modular para aplicaciones potenciométricas y Karl Fischer. Puede ampliarse de 1 a 4 buretas y automatizarse con InMotion para aumentar el rendimiento.",
     "specs": {
-      "N.º de material": "30252672",
+      "Número de material": "30252672",
       "Familia": "Excellence",
-      "Técnicas": "Titulación potenciométrica y Karl Fischer",
-      "Buretas": "Ampliable de 1 a 4",
+      "Aplicaciones": "Potenciometría y Karl Fischer",
+      "Buretas": "1 a 4 en total",
       "Automatización": "Compatible con InMotion",
-      "Software": "Compatible con LabX"
+      "Interfaz": "One Click",
+      "Software": "Compatible con LabX",
+      "Accesorios": "Reconocimiento Plug & Play de sensores y buretas"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
     "highlights": [
-      "Plataforma modular para crecer con las necesidades del laboratorio.",
-      "Automatización InMotion para flujos de trabajo y series de muestras.",
-      "Integración con LabX para gestión de datos y métodos."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración y accesorios finales sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Ácido-base",
@@ -853,21 +854,23 @@
     "code": "30252675",
     "capacity": "1–4 buretas",
     "readability": "Potenciométrica / KF",
-    "description": "Valorador Excellence T7 con mayor modularidad para métodos avanzados, hasta cuatro buretas y tarjeta de sensor adicional; actualizable a T9.",
+    "description": "Valorador Excellence T7 de modularidad ampliada para potenciometría y Karl Fischer, con hasta 4 buretas, tarjeta de sensor adicional, automatización InMotion y posibilidad de actualización a T9.",
     "specs": {
-      "N.º de material": "30252675",
+      "Número de material": "30252675",
       "Familia": "Excellence",
-      "Buretas": "Ampliable de 1 a 4",
-      "Tarjetas de sensor": "Tarjeta adicional disponible",
-      "Karl Fischer": "Compatible",
-      "Automatización": "Compatible con InMotion",
-      "Actualización": "Actualizable a T9"
+      "Aplicaciones": "Potenciométrica, Karl Fischer volumétrica y coulométrica",
+      "Buretas": "Hasta 4 en total",
+      "Tarjeta de sensor adicional": "1",
+      "Métodos": "Hasta 150",
+      "Accesos directos de usuario": "24",
+      "Automatización": "InMotion",
+      "Actualización": "Actualizable a funcionalidades T9",
+      "Software": "Compatible con LabX"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
     "highlights": [
-      "Modularidad para aplicaciones avanzadas.",
-      "Preparado para Karl Fischer y automatización InMotion.",
-      "Puede actualizarse a la funcionalidad T9."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración y accesorios finales sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Control de calidad",
@@ -888,21 +891,23 @@
     "code": "30252676",
     "capacity": "1–8 buretas",
     "readability": "2 tareas simultáneas",
-    "description": "Valorador Excellence T9 de máxima modularidad, ampliable hasta ocho buretas y preparado para ejecutar dos tareas de valoración simultáneas.",
+    "description": "Valorador Excellence T9 de máxima modularidad, ampliable hasta 8 buretas y dos tarjetas de sensor adicionales. Permite ejecutar dos valoraciones simultáneamente y automatizar flujos complejos con InMotion.",
     "specs": {
-      "N.º de material": "30252676",
+      "Número de material": "30252676",
       "Familia": "Excellence",
-      "Buretas": "Ampliable de 1 a 8",
-      "Tarjetas de sensor": "Hasta 2 adicionales",
-      "Tareas simultáneas": "2",
-      "Karl Fischer": "Compatible",
-      "Automatización": "Compatible con InMotion"
+      "Aplicaciones": "Potenciométrica, Karl Fischer volumétrica y coulométrica",
+      "Buretas": "Hasta 8 en total",
+      "Tarjetas de sensor adicionales": "Hasta 2",
+      "Valoraciones simultáneas": "2",
+      "Funciones por método": "Hasta 150",
+      "Automatización": "InMotion, InMotion KF Oven y Rondolino",
+      "Software": "Compatible con LabX",
+      "Funciones avanzadas": "Lógica If…Then"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main/titrators.html",
     "highlights": [
-      "Máxima modularidad de la plataforma Excellence.",
-      "Dos tareas de valoración simultáneas.",
-      "Integración con automatización y gestión de datos."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración y accesorios finales sujetos a confirmación al cotizar."
     ],
     "applications": [
       "Laboratorios de alto rendimiento",
@@ -1876,16 +1881,22 @@
     "code": "30060044",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador EasyPlus para titulaciones rutinarias.",
+    "description": "Valorador EasyPlus Easy Pro para las tres aplicaciones rutinarias principales: ácido/base, precipitación y redox. iTitrate guía la programación y EasyDirect permite documentación en PC.",
     "specs": {
+      "Número de material": "30060044",
       "Familia": "EasyPlus",
-      "Modelo": "Easy Pro",
-      "Técnica": "Titulación / Karl Fischer según modelo",
-      "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Aplicaciones": "Ácido/base, precipitación y redox",
+      "Métodos de valoración": "3",
+      "Interfaz": "iTitrate, basada en aplicaciones",
+      "Conectividad PC": "EasyDirect Titration",
+      "Buretas compatibles": "10, 20 o 50 mL",
+      "Accesorios": "EasyPlus BNC Sensors, USB-P25, EasyPump y EasyStir"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
-    "highlights": [],
+    "highlights": [
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración y accesorios finales sujetos a confirmación al cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Determinación de concentración",
@@ -1903,16 +1914,23 @@
     "code": "30060045",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Valorador EasyPlus para Karl Fischer volumétrico.",
+    "description": "Valorador EasyPlus Easy KFV para determinación volumétrica rutinaria de agua por Karl Fischer, desde 100 ppm hasta 100 %, con programación guiada iTitrate.",
     "specs": {
+      "Número de material": "30060045",
       "Familia": "EasyPlus",
-      "Modelo": "Easy KFV",
-      "Técnica": "Titulación / Karl Fischer según modelo",
-      "Automatización": "Consultar accesorios y compatibilidad aplicable",
-      "Software": "Confirmar compatibilidad según configuración"
+      "Aplicación": "Karl Fischer volumétrico",
+      "Rango de determinación de agua": "100 ppm a 100 %",
+      "Métodos de valoración": "1",
+      "Interfaz": "iTitrate, basada en aplicaciones",
+      "Conectividad PC": "EasyDirect Titration",
+      "Buretas compatibles": "10, 20 o 50 mL",
+      "Manejo de muestras": "Puerto de inyección y cuchara para sólidos"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/Product_Family_Browse_titrators_main.html",
-    "highlights": [],
+    "highlights": [
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Configuración y accesorios finales sujetos a confirmación al cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Determinación de concentración",
