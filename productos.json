@@ -1286,20 +1286,25 @@
     "sub": "MR",
     "model": "MR204/M",
     "code": "30666208",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MR204/M de la línea MR. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "capacity": "220 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica MR204/M robusta y fácil de limpiar, con ajuste interno automático, nivelación guiada, gestión de usuarios y múltiples interfaces para integración con sistemas de laboratorio y producción.",
     "specs": {
-      "Línea de balanzas": "MR",
-      "Modelo": "MR204/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,1 mg",
+      "Repetibilidad, típica": "0,08 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "16 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "160 mg",
+      "Tiempo de estabilización": "2 s",
+      "Diámetro del plato": "90 mm",
+      "Dimensiones (Al × An × P)": "354 × 209 × 351 mm",
+      "Legibilidad certificada": "1 mg",
+      "Número de material": "30666208"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
@@ -1376,20 +1381,27 @@
     "sub": "MA",
     "model": "MA104/M",
     "code": "30697410",
-    "capacity": "Consultar configuración",
-    "readability": "Consultar ficha aplicable",
-    "description": "Balanza de laboratorio MA104/M de la línea MA. La configuración exacta, aprobación metrológica y prestaciones dependen de la variante comercial.",
+    "capacity": "120 g",
+    "readability": "0,1 mg",
+    "description": "Balanza analítica MA104/M para pesaje rutinario preciso, con ajuste interno, operación táctil, aplicaciones integradas y transferencia de datos mediante USB y RS232.",
     "specs": {
-      "Línea de balanzas": "MA",
-      "Modelo": "MA104/M",
-      "Tipo": "Balanza analítica / de laboratorio según configuración",
-      "Versión metrológica": "Confirmar según variante y mercado",
-      "Conectividad y funciones": "Consultar ficha técnica específica del modelo"
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Repetibilidad, típica": "0,08 mg",
+      "Peso mínimo (U = 1 %, k = 2), típico": "16 mg",
+      "Peso mínimo (USP 0,1 %, típico)": "160 mg",
+      "Tiempo de estabilización": "2 s",
+      "Diámetro del plato": "90 mm",
+      "Dimensiones (Al × An × P)": "354 × 209 × 354 mm",
+      "Legibilidad certificada": "1 mg",
+      "Interfaces": "USB-A y RS232",
+      "Ajuste": "Interno",
+      "Número de material": "30697410"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Weighing_Solutions/analytical-balances.html",
     "highlights": [
-      "Modelo perteneciente al portafolio actual de balanzas de laboratorio METTLER TOLEDO.",
-      "Disponible en configuraciones que deben validarse según aplicación y requisitos metrológicos."
+      "Ficha técnica revisada contra información oficial de METTLER TOLEDO.",
+      "La configuración final y los accesorios se confirman al momento de cotizar."
     ],
     "applications": [
       "Pesaje de laboratorio",
