@@ -784,21 +784,23 @@
     "code": "30139250",
     "capacity": "hasta 5 g",
     "readability": "0,1 µg (según configuración)",
-    "description": "Analizador termogravimétrico simultáneo con ultramicrobalanza METTLER TOLEDO y medición DSC/DTA/SDTA según configuración.",
+    "description": "Sistema simultáneo TGA/DSC 3+ con ultramicrobalanza METTLER TOLEDO y pesas de calibración integradas. Mide cambios de masa y puede registrar simultáneamente efectos térmicos mediante sensores SDTA, DTA o DSC.",
     "specs": {
-      "Capacidad": "Hasta 5 g según balanza",
-      "Resolución": "Hasta 0.1 µg",
+      "Número de material": "30139250",
+      "Técnica": "TGA/DSC simultáneo",
+      "Capacidad de pesaje": "Hasta 5 g, según configuración",
+      "Resolución de masa": "Hasta 0,1 µg",
+      "Puntos de medición": "Hasta 50 millones continuamente",
       "Temperatura": "Ambiente hasta 1600 °C",
-      "Señales": "TGA + DSC/DTA/SDTA según sensor",
-      "Gas": "Control de flujo integrado",
-      "Acoplamientos": "FTIR, MS y GC/MS"
+      "Sensores térmicos": "SDTA, DTA o DSC",
+      "Atmósfera": "Control integrado del caudal de gas",
+      "Acoplamientos": "TGA-FTIR, TGA-MS y TGA-GC/MS"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TGA-DSC-3-plus.html",
     "highlights": [
-      "Medición simultánea de cambio de masa y efectos térmicos.",
-      "Ultramicrobalanza con pesas de calibración integradas.",
-      "Amplio rango de temperatura hasta 1600 °C.",
-      "Arquitectura modular para adaptar sensores y análisis de gases desprendidos."
+      "Medición simultánea de pérdida/ganancia de masa y efectos térmicos.",
+      "Ultramicrobalanza con calibración integrada.",
+      "Compatible con análisis automatizado de gases desprendidos."
     ],
     "applications": [
       "Pérdida de masa",
@@ -2621,19 +2623,21 @@
     "code": "30674095",
     "capacity": "-150 a 700 °C",
     "readability": "DSC",
-    "description": "Calorímetro diferencial de barrido de nueva generación con sensor MMS 1, modos de flujo de calor y compensación de potencia y automatización de alto rendimiento.",
+    "description": "Sistema DSC 5+ de nueva generación para calorimetría diferencial de barrido. Incorpora el sensor MMS 1 con 136 termopares y dos calentadores integrados para modo de compensación de potencia, y está orientado a automatizar medición, evaluación e interpretación de resultados.",
     "specs": {
+      "Número de material": "30674095",
+      "Técnica": "Calorimetría diferencial de barrido (DSC)",
       "Sensor": "MMS 1",
       "Termopares": "136",
       "Calentadores integrados": "2",
-      "Modos": "Flujo de calor y compensación de potencia",
-      "Automatización": "Hasta 96 muestras + 7 referencias"
+      "Modo": "Compensación de potencia",
+      "Automatización": "Procesamiento, interpretación y evaluación automatizables"
     },
     "source": "https://www.mt.com/gb/en/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DSC-5-plus.html",
     "highlights": [
-      "FlexMode: compensación de potencia o flujo de calor.",
-      "Amplio rango térmico en una sola medición.",
-      "Automatización opcional con robot de muestras."
+      "Generación vigente que sustituye al DSC 3+.",
+      "MMS 1 combina 136 termopares y dos calentadores integrados.",
+      "Diseñado para mejorar automatización y reproducibilidad del análisis DSC."
     ],
     "applications": [
       "Transiciones térmicas",
@@ -2654,18 +2658,20 @@
     "code": "30259700",
     "capacity": "-150 a 1600 °C",
     "readability": "0,5 nm",
-    "description": "Analizador termomecánico de alta precisión con medición SDTA próxima a la muestra para estudiar cambios dimensionales frente a temperatura y carga.",
+    "description": "Analizador termomecánico TMA/SDTA 2+ para medir pequeños cambios dimensionales de una muestra en función de temperatura y carga. Integra mecánica de precisión con guiado paralelo y medición SDTA próxima a la muestra.",
     "specs": {
-      "Tecnología": "TMA + SDTA",
-      "Mecánica": "Sonda con guiado paralelo de precisión",
+      "Número de material": "30259700",
+      "Técnica": "Análisis termomecánico TMA/SDTA",
+      "Rango global de la familia": "-150 a 1600 °C, según configuración",
+      "Mecánica": "Sistema de guiado paralelo de alta precisión",
       "Temperatura de muestra": "Medición SDTA próxima a la muestra",
       "Operación": "One Click"
     },
     "source": "https://www.mt.com/mx/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-TMA-SDTA-2-plus.html",
     "highlights": [
-      "Mecánica de precisión para cambios dimensionales mínimos.",
-      "SDTA para efectos térmicos simultáneos.",
-      "Modo DLTMA y arquitectura modular."
+      "Detecta cambios dimensionales muy pequeños.",
+      "SDTA mide la temperatura muy cerca de la muestra.",
+      "One Click permite iniciar métodos predefinidos desde el terminal."
     ],
     "applications": [
       "Expansión térmica",
@@ -2686,18 +2692,20 @@
     "code": "30027401",
     "capacity": "-190 a 600 °C",
     "readability": "DMA",
-    "description": "Analizador mecánico dinámico con cabezal de medición giratorio para múltiples modos de deformación, incluso en líquidos o humedad relativa controlada.",
+    "description": "Analizador mecánico dinámico DMA 1 con cabezal de medición giratorio. Permite trabajar en distintos modos de deformación, incluso con muestras en líquidos o bajo condiciones definidas de humedad relativa.",
     "specs": {
+      "Número de material": "30027401",
+      "Técnica": "Análisis mecánico dinámico (DMA)",
       "Cabezal": "Giratorio",
       "Modos": "Múltiples modos de deformación",
-      "Entornos": "Aire, líquidos y humedad relativa definida",
-      "Configuración": "Portamuestras intercambiables"
+      "Entornos": "Medición en líquidos o humedad relativa definida",
+      "Posicionamiento": "Cabezal flexible para montaje de portamuestras"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/ta-instruments/thermal-analysis-system-DMA-1.html",
     "highlights": [
-      "Cabezal de medición giratorio.",
-      "Múltiples modos de deformación.",
-      "Opción de humedad y mediciones en líquidos."
+      "Cabezal giratorio para adaptar la configuración de ensayo.",
+      "Permite mediciones en líquidos y con humedad relativa controlada.",
+      "Amplia versatilidad para diferentes modos de deformación."
     ],
     "applications": [
       "Módulo viscoelástico",
