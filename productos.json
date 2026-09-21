@@ -5362,16 +5362,17 @@
     "code": "51350032",
     "capacity": "pH 4.01 / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: pH 4.01 / 250 mL.",
+    "description": "Buffer certificado pH 4.01, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 4.01 / 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350032",
-      "Familia": "Buffers pH"
+      "Familia": "Buffers pH",
+      "Tipo": "Buffer certificado de pH",
+      "Valor nominal": "pH 4.01"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5380,7 +5381,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350032.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH certificados"
   },
   {
     "id": "bufph700250",
@@ -5391,16 +5393,18 @@
     "code": "51350034",
     "capacity": "pH 7.00 / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: pH 7.00 / 250 mL.",
+    "description": "Buffer certificado pH 7.00, botella de 250 mL, para calibraciones de pH que requieren documentación y trazabilidad superior a una solución técnica rutinaria.",
     "specs": {
-      "Presentación": "pH 7.00 / 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350034",
-      "Familia": "Buffers pH"
+      "Familia": "Buffers pH",
+      "Tipo": "Buffer certificado de pH",
+      "Valor nominal": "pH 7.00",
+      "Uso": "Calibración de pH con solución certificada"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5409,7 +5413,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350034.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH certificados"
   },
   {
     "id": "bufph921250",
@@ -5420,16 +5425,17 @@
     "code": "51350036",
     "capacity": "pH 9.21 / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: pH 9.21 / 250 mL.",
+    "description": "Buffer certificado pH 9.21, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 9.21 / 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350036",
-      "Familia": "Buffers pH"
+      "Familia": "Buffers pH",
+      "Tipo": "Buffer certificado de pH",
+      "Valor nominal": "pH 9.21"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5438,7 +5444,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350036.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH certificados"
   },
   {
     "id": "bufph1000250",
@@ -5449,16 +5456,17 @@
     "code": "51350038",
     "capacity": "pH 10.00 / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: pH 10.00 / 250 mL.",
+    "description": "Buffer certificado pH 10.00, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 10.00 / 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350038",
-      "Familia": "Buffers pH"
+      "Familia": "Buffers pH",
+      "Tipo": "Buffer certificado de pH",
+      "Valor nominal": "pH 10.00"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5467,7 +5475,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350038.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH certificados"
   },
   {
     "id": "bufph200s",
@@ -5652,16 +5661,18 @@
     "code": "51350072",
     "capacity": "250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 250 mL.",
+    "description": "Solución de electrolito KCl 3 mol/L para mantenimiento y relleno de electrodos compatibles.",
     "specs": {
       "Presentación": "250 mL",
       "Número de material": "51350072",
-      "Familia": "Cuidado de electrodos"
+      "Familia": "Cuidado de electrodos",
+      "Tipo": "Electrolito",
+      "Composición": "KCl 3 mol/L",
+      "Uso": "Mantenimiento/relleno de electrodos compatibles"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5670,7 +5681,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350072.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Cuidado de electrodos"
   },
   {
     "id": "storage250",
@@ -5681,16 +5693,17 @@
     "code": "30111142",
     "capacity": "250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 250 mL.",
+    "description": "Solución de almacenamiento para electrodos de pH, destinada a mantener hidratado y acondicionado el sistema sensible durante el almacenamiento.",
     "specs": {
       "Presentación": "250 mL",
       "Número de material": "30111142",
-      "Familia": "Cuidado de electrodos"
+      "Familia": "Cuidado de electrodos",
+      "Tipo": "Solución de almacenamiento",
+      "Uso": "Almacenamiento y acondicionamiento de electrodos de pH"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5699,7 +5712,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/30111142.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Cuidado de electrodos"
   },
   {
     "id": "pepsin250",
@@ -5710,16 +5724,17 @@
     "code": "51350100",
     "capacity": "250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 250 mL.",
+    "description": "Solución Pepsina-HCl para limpieza de electrodos contaminados con proteínas.",
     "specs": {
       "Presentación": "250 mL",
       "Número de material": "51350100",
-      "Familia": "Cuidado de electrodos"
+      "Familia": "Cuidado de electrodos",
+      "Tipo": "Solución de limpieza",
+      "Aplicación": "Contaminación por proteínas"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5728,7 +5743,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350100.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Cuidado de electrodos"
   },
   {
     "id": "thiourea250",
@@ -5739,16 +5755,17 @@
     "code": "51350102",
     "capacity": "250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 250 mL.",
+    "description": "Solución de tiourea para limpieza de electrodos con contaminación específica compatible con este tratamiento.",
     "specs": {
       "Presentación": "250 mL",
       "Número de material": "51350102",
-      "Familia": "Cuidado de electrodos"
+      "Familia": "Cuidado de electrodos",
+      "Tipo": "Solución de limpieza",
+      "Aplicación": "Limpieza especializada de electrodos"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5757,7 +5774,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350102.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Cuidado de electrodos"
   },
   {
     "id": "regen25",
@@ -5942,16 +5960,17 @@
     "code": "51350092",
     "capacity": "1413 µS/cm / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 1413 µS/cm / 250 mL.",
+    "description": "Estándar de conductividad 1413 µS/cm para calibración y verificación de sensores de conductividad.",
     "specs": {
       "Presentación": "1413 µS/cm / 250 mL",
       "Número de material": "51350092",
-      "Familia": "Estándares de conductividad"
+      "Familia": "Estándares de conductividad",
+      "Tipo": "Estándar de conductividad",
+      "Valor nominal": "1413 µS/cm"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5960,7 +5979,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350092.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Estándares de conductividad"
   },
   {
     "id": "cond1288",
@@ -5971,16 +5991,17 @@
     "code": "51350094",
     "capacity": "12.88 mS/cm / 250 mL",
     "readability": "Consumible",
-    "description": "Consumible original METTLER TOLEDO. Presentación: 12.88 mS/cm / 250 mL.",
+    "description": "Estándar de conductividad 12.88 mS/cm para calibración y verificación de sensores de conductividad.",
     "specs": {
       "Presentación": "12.88 mS/cm / 250 mL",
       "Número de material": "51350094",
-      "Familia": "Estándares de conductividad"
+      "Familia": "Estándares de conductividad",
+      "Tipo": "Estándar de conductividad",
+      "Valor nominal": "12.88 mS/cm"
     },
     "highlights": [
-      "Referencia contrastada con páginas oficiales de METTLER TOLEDO.",
-      "Adecuado para reposición y recompra.",
-      "Confirmar stock, compatibilidad y presentación al cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -5989,7 +6010,8 @@
       "Rutina de laboratorio"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350094.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Estándares de conductividad"
   },
   {
     "id": "cond1413s",
@@ -6174,15 +6196,17 @@
     "code": "51350004",
     "capacity": "pH 4.01 / botella 250 mL",
     "readability": "Consumible",
-    "description": "Solución/consumible original METTLER TOLEDO para calibración, verificación o mantenimiento. Presentación: pH 4.01 / botella 250 mL.",
+    "description": "Buffer técnico pH 4.01, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 4.01 / botella 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350004",
-      "Familia": "Buffers pH técnicos"
+      "Familia": "Buffers pH técnicos",
+      "Tipo": "Buffer técnico de pH",
+      "Valor nominal": "pH 4.01"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Confirmar stock y presentación antes de cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -6190,7 +6214,8 @@
       "Mantenimiento"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350004.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH técnicos"
   },
   {
     "id": "techph700250",
@@ -6201,15 +6226,18 @@
     "code": "51350006",
     "capacity": "pH 7.00 / botella 250 mL",
     "readability": "Consumible",
-    "description": "Solución/consumible original METTLER TOLEDO para calibración, verificación o mantenimiento. Presentación: pH 7.00 / botella 250 mL.",
+    "description": "Buffer técnico pH 7.00, botella de 250 mL. Solución tampón para calibración rutinaria de electrodos de pH.",
     "specs": {
-      "Presentación": "pH 7.00 / botella 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350006",
-      "Familia": "Buffers pH técnicos"
+      "Familia": "Buffers pH técnicos",
+      "Tipo": "Buffer técnico de pH",
+      "Valor nominal": "pH 7.00",
+      "Uso": "Calibración rutinaria de pH"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Confirmar stock y presentación antes de cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -6217,7 +6245,8 @@
       "Mantenimiento"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350006.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH técnicos"
   },
   {
     "id": "techph921250",
@@ -6228,15 +6257,17 @@
     "code": "51350008",
     "capacity": "pH 9.21 / botella 250 mL",
     "readability": "Consumible",
-    "description": "Solución/consumible original METTLER TOLEDO para calibración, verificación o mantenimiento. Presentación: pH 9.21 / botella 250 mL.",
+    "description": "Buffer técnico pH 9.21, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 9.21 / botella 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350008",
-      "Familia": "Buffers pH técnicos"
+      "Familia": "Buffers pH técnicos",
+      "Tipo": "Buffer técnico de pH",
+      "Valor nominal": "pH 9.21"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Confirmar stock y presentación antes de cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -6244,7 +6275,8 @@
       "Mantenimiento"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350008.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH técnicos"
   },
   {
     "id": "techph1000250",
@@ -6255,15 +6287,17 @@
     "code": "51350010",
     "capacity": "pH 10.00 / botella 250 mL",
     "readability": "Consumible",
-    "description": "Solución/consumible original METTLER TOLEDO para calibración, verificación o mantenimiento. Presentación: pH 10.00 / botella 250 mL.",
+    "description": "Buffer técnico pH 10.00, botella de 250 mL.",
     "specs": {
-      "Presentación": "pH 10.00 / botella 250 mL",
+      "Presentación": "250 mL",
       "Número de material": "51350010",
-      "Familia": "Buffers pH técnicos"
+      "Familia": "Buffers pH técnicos",
+      "Tipo": "Buffer técnico de pH",
+      "Valor nominal": "pH 10.00"
     },
     "highlights": [
-      "Referencia contrastada con documentación/páginas oficiales de METTLER TOLEDO.",
-      "Confirmar stock y presentación antes de cotizar."
+      "Ficha diferenciada por tipo de solución y aplicación.",
+      "Verificar lote, certificado y presentación vigentes al cotizar cuando corresponda."
     ],
     "applications": [
       "Calibración",
@@ -6271,7 +6305,8 @@
       "Mantenimiento"
     ],
     "image": "https://www.mt.com/images/WebShop/MainImage/51350010.jpg",
-    "image_source": "METTLER TOLEDO WebShop MainImage"
+    "image_source": "METTLER TOLEDO WebShop MainImage",
+    "subfamily": "Buffers pH técnicos"
   },
   {
     "id": "rainbow1",
