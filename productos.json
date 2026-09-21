@@ -995,19 +995,21 @@
     "code": "30474903",
     "capacity": "nD 1,3200–1,7000",
     "readability": "Exactitud ±0,0001 nD",
-    "description": "Refractómetro Excellence para rutinas, con amplio rango de índice de refracción y control automático de temperatura.",
+    "description": "Refractómetro Excellence R4 para rutinas de índice de refracción, con control automático de temperatura y arquitectura modular.",
     "specs": {
-      "Rango nD": "1.3200–1.7000",
-      "Exactitud nD": "±0.0001",
-      "Repetibilidad nD": "0.00005",
-      "Temperatura": "0–100 °C",
-      "Interfaz": "One Click"
+      "Número de material": "30474903",
+      "Rango nD": "1,3200–1,7000",
+      "Exactitud nD": "±0,0001",
+      "Repetibilidad nD": "±0,00005",
+      "Control de temperatura": "0–100 °C",
+      "Operación": "One Click",
+      "Familia": "Excellence"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
     "highlights": [
-      "Control Peltier sin baño termostático externo.",
-      "Interfaz One Click para flujos de trabajo rutinarios.",
-      "Puede combinarse con densidad, pH/conductividad y otros parámetros."
+      "Amplio rango de índice de refracción.",
+      "Gestión de usuarios y límites de resultados.",
+      "One Click permite integrar muestreo, medición, enjuague, secado y SOP."
     ],
     "applications": [
       "Índice de refracción",
@@ -1026,18 +1028,19 @@
     "code": "30474904",
     "capacity": "nD 1,32000–1,58000",
     "readability": "Exactitud ±0,00002 nD",
-    "description": "Refractómetro Excellence de mayor precisión para índice de refracción, Brix y concentraciones derivadas.",
+    "description": "Refractómetro Excellence R5 de mayor exactitud para mediciones de índice de refracción, orientado a aplicaciones que requieren mayor desempeño metrológico.",
     "specs": {
-      "Rango nD": "1.32000–1.58000",
-      "Exactitud nD": "±0.00002",
-      "Repetibilidad nD": "0.00001",
+      "Número de material": "30474904",
+      "Rango nD": "1,32000–1,58000",
+      "Exactitud nD": "±0,00002",
+      "Repetibilidad nD": "±0,00001",
       "Familia": "Excellence"
     },
     "source": "https://www.mt.com/es/es/home/products/Laboratory_Analytics_Browse/refractometer/refractometers.html",
     "highlights": [
-      "Mayor exactitud de la línea Excellence.",
-      "Control preciso de temperatura mediante Peltier.",
-      "Integración con automatización y sistemas multiparámetro."
+      "Mayor exactitud y repetibilidad que R4.",
+      "Adecuado para aplicaciones exigentes de refractometría.",
+      "Plataforma Excellence."
     ],
     "applications": [
       "Índice de refracción de alta precisión",
@@ -1958,16 +1961,22 @@
     "code": "30474900",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Medidor de densidad Excellence modular con control automático de temperatura, visualización de la celda y detección automática de burbujas.",
+    "description": "Densímetro Excellence D4 modular con control automático de temperatura, visualización de la celda en tiempo real, detección automática de burbujas y corrección automática de viscosidad.",
     "specs": {
+      "Número de material": "30474900",
       "Familia": "Excellence",
-      "Control de temperatura": "Automático Peltier",
-      "Detección": "Burbujas automática",
-      "Interfaz": "One Click",
-      "Sistema": "Modular y automatizable"
+      "Tipo": "Densímetro de sobremesa",
+      "Control de temperatura": "Automático",
+      "Control de errores": "Vista de celda en tiempo real y detección automática de burbujas",
+      "Corrección": "Corrección automática de viscosidad",
+      "Operación": "One Click"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Diseñado para rutinas de densidad con control visual de la celda.",
+      "Arquitectura modular Excellence.",
+      "One Click permite ejecutar flujos completos de medición."
+    ],
     "applications": [
       "Densidad",
       "Gravedad específica",
@@ -2013,15 +2022,21 @@
     "code": "30468670",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Medidor compacto de densidad y gravedad específica con control automático de temperatura y detección de burbujas.",
+    "description": "Densímetro Easy D30 para densidad y gravedad específica con control automático de temperatura. Su diseño compacto permite uso tanto en laboratorio como cerca de producción.",
     "specs": {
-      "Parámetros": "Densidad y gravedad específica",
-      "Control de temperatura": "Automático",
-      "Detección": "Burbujas",
-      "Corrección": "Viscosidad"
+      "Número de material": "30468670",
+      "Familia": "EasyPlus",
+      "Mediciones": "Densidad y gravedad específica",
+      "Control de temperatura": "Automático; 15–25 °C",
+      "Control de errores": "Detección automática de burbujas y corrección de viscosidad",
+      "Interfaz": "Basada en aplicaciones con guía en pantalla"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Visualización de la medición en tiempo real.",
+      "Límites de aceptación/rechazo configurables.",
+      "Diseño compacto para laboratorio o planta."
+    ],
     "applications": [
       "Densidad",
       "Gravedad específica",
@@ -2039,15 +2054,21 @@
     "code": "30468671",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Medidor EasyPlus para densidad, gravedad específica, Brix, alcohol y otras concentraciones con control automático de temperatura.",
+    "description": "Densímetro Easy D40 para densidad, gravedad específica, Brix, alcohol y otras concentraciones, con control automático de temperatura y asistencia para reducir errores de medición.",
     "specs": {
-      "Parámetros": "Densidad, gravedad específica, Brix, alcohol y más",
+      "Número de material": "30468671",
+      "Familia": "EasyPlus",
+      "Mediciones": "Densidad, gravedad específica, Brix, alcohol y otras concentraciones",
       "Control de temperatura": "Automático",
-      "Detección": "Burbujas",
-      "Corrección": "Viscosidad"
+      "Control de errores": "Detección automática de burbujas y corrección de viscosidad",
+      "Interfaz": "Basada en aplicaciones con guía en pantalla"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Más aplicaciones de concentración que Easy D30.",
+      "Vista de medición en tiempo real.",
+      "Límites de control con identificación visual de aceptación/rechazo."
+    ],
     "applications": [
       "Densidad",
       "Brix",
@@ -2066,15 +2087,22 @@
     "code": "30330857",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Densímetro Densito para determinación de densidad en laboratorio o campo, según la familia.",
+    "description": "Densito es un densímetro portátil ligero para mediciones en laboratorio o campo. La bomba automática de muestreo se controla mediante joystick y los resultados pueden expresarse en densidad relativa, Brix, unidades API y otros formatos.",
     "specs": {
-      "Familia": "Portátil",
-      "Modelo": "Densito",
-      "Parámetro principal": "Densidad",
-      "Configuración": "Confirmar rango, exactitud y accesorios de la versión aplicable"
+      "Número de material": "30330857",
+      "Tipo": "Densímetro portátil",
+      "Operación": "Una mano",
+      "Muestreo": "Bomba automática controlada por joystick",
+      "Resultados": "Compensados por temperatura",
+      "Escalas": "Gravedad específica, Brix, API y otras",
+      "Exactitud indicada por fabricante": "Hasta el tercer decimal"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Diseñado para análisis portátil.",
+      "Flujo guiado para medición y limpieza.",
+      "Límites configurables para identificar resultados fuera de especificación."
+    ],
     "applications": [
       "Control de calidad",
       "Bebidas y alimentos",
@@ -2118,14 +2146,21 @@
     "code": "30468672",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro compacto para índice de refracción, Brix y otras concentraciones, con control automático de temperatura.",
+    "description": "Refractómetro Easy R40 para índice de refracción, Brix y otras concentraciones, con control automático de temperatura y tablas de concentración preprogramadas.",
     "specs": {
-      "Parámetros": "Índice de refracción, Brix y más",
-      "Tecnología": "FastStart",
-      "Control de temperatura": "Peltier automático"
+      "Número de material": "30468672",
+      "Familia": "EasyPlus",
+      "Mediciones": "Índice de refracción, Brix y otras concentraciones",
+      "Control de temperatura": "10–65 °C",
+      "Inicio de medición": "FastStart",
+      "Interfaz": "Basada en aplicaciones con guía en pantalla"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "FastStart permite iniciar la medición al colocar la muestra.",
+      "Tablas de concentración preprogramadas.",
+      "Límites configurables de aceptación/rechazo."
+    ],
     "applications": [
       "Brix",
       "Índice de refracción",
@@ -2196,16 +2231,20 @@
     "code": "51324650",
     "capacity": "Consultar configuración",
     "readability": "Consultar ficha aplicable",
-    "description": "Refractómetro Refracto 30PX para medición de índice de refracción, Brix u otras escalas según configuración.",
+    "description": "Refracto 30PX, refractómetro portátil para mediciones rápidas de índice de refracción/Brix. METTLER TOLEDO lo identifica actualmente como producto descatalogado.",
     "specs": {
-      "Familia": "Portátil",
-      "Modelo": "Refracto 30PX",
-      "Parámetros": "Índice de refracción / Brix según modelo",
-      "Configuración": "Confirmar rango, exactitud y automatización aplicable",
-      "Estado": "Descatalogado desde marzo de 2026"
+      "Número de material": "51324650",
+      "Tipo": "Refractómetro portátil",
+      "Rango Brix": "0–85 % m/m",
+      "Almacenamiento": "Hasta 1100 resultados",
+      "Estado": "Descatalogado; no fabricado desde marzo de 2026"
     },
     "source": "https://www.mt.com/us/en/home/service/preventive-maintenance/analytical-instruments-preventive-maintenance.html",
-    "highlights": [],
+    "highlights": [
+      "Equipo portátil para mediciones con pocas gotas de muestra.",
+      "Almacena hasta 1100 resultados.",
+      "Producto descatalogado: confirmar alternativa vigente antes de cotizar."
+    ],
     "applications": [
       "Control de calidad",
       "Concentración de soluciones",
@@ -5093,18 +5132,20 @@
     "code": "30474905",
     "capacity": "Celda modular Excellence",
     "readability": "Consultar ficha",
-    "description": "Celda de índice de refracción que se conecta a un densímetro Excellence para medir densidad e índice de refracción simultáneamente.",
+    "description": "Celda de índice refractivo RX4 para combinar con un densímetro Excellence y medir densidad e índice de refracción simultáneamente.",
     "specs": {
-      "Rango nD": "1.3200–1.7000",
-      "Exactitud nD": "±0.0001",
-      "Repetibilidad nD": "0.00005",
-      "Temperatura": "0–100 °C",
-      "Uso": "Con densímetro Excellence"
+      "Número de material": "30474905",
+      "Tipo": "Celda de índice refractivo modular",
+      "Rango nD": "1,3200–1,7000",
+      "Exactitud nD": "±0,0001",
+      "Repetibilidad nD": "±0,00005",
+      "Control de temperatura": "0–100 °C",
+      "Compatibilidad": "Densímetros Excellence"
     },
     "highlights": [
-      "Referencia verificada en la web oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Permite combinar densidad e índice de refracción en un sistema compacto.",
+      "Control Peltier integrado.",
+      "Sistema ampliable a otras mediciones."
     ],
     "applications": [
       "Sistemas multiparámetro",
@@ -5123,18 +5164,19 @@
     "code": "30474906",
     "capacity": "Celda modular Excellence",
     "readability": "Consultar ficha",
-    "description": "Celda de índice de refracción de alta precisión para integración con densímetros Excellence y sistemas multiparámetro.",
+    "description": "Celda de índice refractivo RX5 de alta exactitud para integración con sistemas Excellence de densidad y refractometría.",
     "specs": {
-      "Rango nD": "1.32000–1.58000",
-      "Exactitud nD": "±0.00002",
-      "Repetibilidad nD": "0.00001",
-      "Temperatura": "5–75 °C",
-      "Uso": "Con densímetro Excellence"
+      "Número de material": "30474906",
+      "Tipo": "Celda de índice refractivo modular",
+      "Rango nD": "1,32000–1,58000",
+      "Exactitud nD": "±0,00002",
+      "Repetibilidad nD": "±0,00001",
+      "Compatibilidad": "Sistemas Excellence"
     },
     "highlights": [
-      "Referencia verificada en la web oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar configuración y disponibilidad al cotizar."
+      "Mayor exactitud que RX4.",
+      "Diseñada para sistemas multiparámetro Excellence.",
+      "Permite integrar refractometría con otras mediciones."
     ],
     "applications": [
       "Sistemas multiparámetro",
