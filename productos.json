@@ -5242,18 +5242,21 @@
     "code": "30578100",
     "capacity": "Punto de fusión",
     "readability": "Consultar ficha",
-    "description": "Sistema de entrada para determinación automática de punto y rango de fusión de hasta 3 muestras simultáneas.",
+    "description": "Sistema de punto de fusión MP30 para determinación automática de punto e intervalo de fusión. Permite medir simultáneamente hasta 3 muestras y trabajar hasta 300 °C.",
     "specs": {
       "Temperatura máxima": "300 °C",
       "Muestras simultáneas": "Hasta 3",
       "Detección": "Automática por transmisión",
       "Interfaz": "One Click",
-      "Registro": "Video a color"
+      "Registro": "Video a color",
+      "Número de material": "30578100",
+      "Determinaciones": "Punto e intervalo de fusión",
+      "Operación": "One Click",
+      "Documentación": "Vídeo a color en pantalla"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5272,18 +5275,22 @@
     "code": "30578101",
     "capacity": "Punto de fusión / slip melting",
     "readability": "Consultar ficha",
-    "description": "Sistema para punto/rango de fusión y punto de fusión por deslizamiento, con detección automática y video.",
+    "description": "Sistema MP55 para punto/intervalo de fusión y punto de fusión por deslizamiento. Admite hasta 3 muestras de fusión o 2 muestras de fusión por deslizamiento, hasta 300 °C.",
     "specs": {
       "Temperatura máxima": "300 °C",
       "Punto/rango de fusión": "Hasta 3 muestras",
       "Slip melting": "Hasta 2 muestras",
       "Interfaz": "One Click",
-      "Registro": "Video a color"
+      "Registro": "Video a color",
+      "Número de material": "30578101",
+      "Determinaciones": "Punto/intervalo de fusión y fusión por deslizamiento",
+      "Muestras simultáneas": "Hasta 3 de fusión o 2 de fusión por deslizamiento",
+      "Operación": "One Click",
+      "Documentación": "Vídeo a color"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5302,18 +5309,21 @@
     "code": "30578102",
     "capacity": "Punto de fusión",
     "readability": "Consultar ficha",
-    "description": "Sistema Excellence para determinación automática de punto y rango de fusión con mayor rendimiento de muestras.",
+    "description": "Sistema MP70 para determinación automática de punto e intervalo de fusión, con medición simultánea de hasta 4 muestras y temperatura máxima de 350 °C.",
     "specs": {
       "Temperatura máxima": "350 °C",
       "Muestras simultáneas": "Hasta 4",
       "Detección": "Automática por transmisión",
       "Interfaz": "One Click",
-      "Software": "Compatible con LabX"
+      "Software": "Compatible con LabX",
+      "Número de material": "30578102",
+      "Determinaciones": "Punto e intervalo de fusión",
+      "Operación": "One Click",
+      "Documentación": "Vídeo a color"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5332,17 +5342,20 @@
     "code": "30578103",
     "capacity": "Valores térmicos múltiples",
     "readability": "Consultar ficha",
-    "description": "Sistema multipropósito para determinar automáticamente punto de fusión, ebullición, turbidez y slip melting.",
+    "description": "Sistema MP80 multipropósito para determinación automática de punto de fusión, ebullición, turbidez y fusión por deslizamiento hasta 350 °C.",
     "specs": {
       "Temperatura máxima": "350 °C",
-      "Determinaciones": "Fusión, ebullición, turbidez y slip melting",
+      "Determinaciones": "Fusión, ebullición, turbidez y fusión por deslizamiento",
       "Interfaz": "One Click",
-      "Registro": "Video a color"
+      "Registro": "Video a color",
+      "Número de material": "30578103",
+      "Operación": "One Click",
+      "Evaluación": "Automática",
+      "Documentación": "Vídeo a color"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5361,18 +5374,20 @@
     "code": "30578105",
     "capacity": "Punto de fusión",
     "readability": "Consultar ficha",
-    "description": "Sistema Excellence de alto rendimiento para punto/rango de fusión, con hasta 6 muestras simultáneas.",
+    "description": "Sistema MP90 de alto rendimiento para punto e intervalo de fusión. Permite medir simultáneamente hasta 6 muestras y alcanzar 400 °C.",
     "specs": {
       "Temperatura máxima": "400 °C",
       "Muestras simultáneas": "Hasta 6",
       "Métodos almacenados": "Hasta 60",
       "Interfaz": "One Click",
-      "Software": "Compatible con LabX"
+      "Software": "Compatible con LabX",
+      "Número de material": "30578105",
+      "Determinaciones": "Punto e intervalo de fusión",
+      "Operación": "One Click"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5391,18 +5406,20 @@
     "code": "30578107",
     "capacity": "Punto de goteo / reblandecimiento",
     "readability": "Consultar ficha",
-    "description": "Sistema automático para determinar simultáneamente punto de goteo y reblandecimiento de dos muestras.",
+    "description": "Sistema DP70 para determinación simultánea y automática de punto de goteo y reblandecimiento de dos muestras, hasta 400 °C.",
     "specs": {
       "Temperatura máxima": "400 °C",
       "Muestras simultáneas": "2",
-      "Detección": "Cámara + análisis digital de imagen",
+      "Detección": "Cámara y análisis digital de imagen",
       "Interfaz": "One Click",
-      "Registro": "Video a color"
+      "Registro": "Video a color",
+      "Número de material": "30578107",
+      "Determinaciones": "Punto de goteo y reblandecimiento",
+      "Operación": "One Click"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
@@ -5421,18 +5438,22 @@
     "code": "30578109",
     "capacity": "Punto de goteo / reblandecimiento",
     "readability": "Consultar ficha",
-    "description": "Sistema para punto de goteo y reblandecimiento, incluido trabajo a temperaturas inferiores al ambiente mediante celda externa.",
+    "description": "Sistema DP90 para punto de goteo y reblandecimiento, incluyendo determinaciones por debajo de la temperatura ambiente. La plataforma permite mediciones hasta -20 °C para aplicaciones que requieren enfriamiento.",
     "specs": {
       "Rango de temperatura": "-20 a 400 °C",
       "Muestras simultáneas": "2",
       "Celda": "Externa; apta para refrigerador/congelador",
       "Detección": "Cámara + análisis digital de imagen",
-      "Interfaz": "One Click"
+      "Interfaz": "One Click",
+      "Número de material": "30578109",
+      "Determinaciones": "Punto de goteo y reblandecimiento",
+      "Temperatura mínima": "Hasta -20 °C",
+      "Aplicación diferencial": "Mediciones subambientales",
+      "Operación": "One Click"
     },
     "highlights": [
-      "Referencia verificada en el portafolio oficial de METTLER TOLEDO.",
-      "Imagen oficial asociada al número de material.",
-      "Confirmar disponibilidad y configuración al cotizar."
+      "Ficha revisada contra información oficial de METTLER TOLEDO.",
+      "Medición automatizada con documentación orientada a control de calidad."
     ],
     "applications": [
       "Control de calidad",
