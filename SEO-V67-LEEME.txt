@@ -1,0 +1,8 @@
+EXACTA SEO V67
+257 productos preservados.
+257 páginas SEO estáticas creadas en /productos/.
+269 URLs en sitemap.xml.
+catalogo.js: misma lógica V34; solo cambia el enlace de cada ficha hacia /productos/[id].html.
+producto.html: compatibilidad con enlaces antiguos + noindex,follow.
+Se añadieron canonical, Open Graph, Product JSON-LD y BreadcrumbList.
+No se alteraron datos técnicos de productos.json.
