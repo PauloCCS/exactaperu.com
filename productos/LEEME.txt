@@ -1,4 +1,4 @@
-EXACTA V73.3 — PARTE 01 (1-90)
+EXACTA V73.3 — PARTE 02 (91-180)
 
 Contiene 90 fichas HTML de producto.
 
@@ -13,4 +13,4 @@ IMPORTANTE:
 8. Repite con la siguiente parte.
 
 Commit sugerido:
-Actualizar fichas de productos V73.3 parte 01
+Actualizar fichas de productos V73.3 parte 02
