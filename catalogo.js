@@ -18,7 +18,20 @@ function iconClass(p){return p.category==='Analizadores de humedad'?'moisture':p
 function placeholder(p,detail=false){return `<div class="equipment-placeholder ${detail?'detail-placeholder':''}"><div class="generic-icon ${iconClass(p)}"><span></span></div><strong>${esc(p.model)}</strong><small>${detail?'Fotografía del producto en preparación':'Fotografía en preparación'}</small></div>`}
 function productCard(p){return `<article class="product-card" data-sub="${esc(p.sub)}" data-search="${esc((p.model+' '+p.code+' '+p.sub).toLowerCase())}"><div class="product-image ${p.image?'':'placeholder'}">${p.image?`<img src="${p.image}" alt="${esc(p.model)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.product-image')?.classList.add('image-error');this.style.display='none'">`:placeholder(p)}</div><div class="product-body"><div class="product-brand">${esc(p.brand)}</div><h3>${esc(p.model)}</h3><p class="product-meta">${esc(p.sub)}${p.code?' · '+esc(p.code):''}</p><div class="product-spec">${esc(p.capacity)} · ${esc(p.readability)}</div><a class="product-link" href="productos/${encodeURIComponent(p.id)}.html">Ver ficha técnica →</a></div></article>`}
 function renderBrands(){const el=document.getElementById('brands');if(!el)return;el.innerHTML=`<a class="brand-card" href="marca.html?marca=mettler-toledo"><div><div class="brand-wordmark">METTLER TOLEDO</div><h2>Mettler Toledo</h2><p>Equipos de laboratorio e instrumentación.</p></div><span>Ver categorías →</span></a><div class="brand-card"><div><div class="brand-wordmark">GIARDINO</div><h2>Giardino</h2><p>Catálogo en preparación.</p></div><span>Próximamente</span></div><div class="brand-card"><div><div class="brand-wordmark">HIXWER</div><h2>Hixwer</h2><p>Catálogo en preparación.</p></div><span>Próximamente</span></div>`}
-function renderCategories(){const el=document.getElementById('categories');if(!el)return;el.innerHTML=CATEGORIES.map(c=>{const n=PRODUCTS.filter(p=>p.category===c.name).length;return c.enabled?`<a class="category-card" href="catalogo.html?marca=mettler-toledo&categoria=${encodeURIComponent(c.name)}"><div><div class="category-icon">${c.icon}</div><h3>${c.name}</h3><p>${c.desc}</p><small>${n} referencias</small></div><span>Explorar catálogo →</span></a>`:`<div class="category-card" style="opacity:.72"><div><div class="category-icon">${c.icon}</div><h3>${c.name}</h3><p>${c.desc}</p></div><span>En preparación</span></div>`}).join('')}
+const CATEGORY_SLUGS={
+  "Balanzas":"balanzas",
+  "Analizadores de humedad":"analizadores-de-humedad",
+  "Análisis térmico":"analisis-termico",
+  "Titulación":"titulacion",
+  "pH y electrodos":"ph-y-electrodos",
+  "Densidad":"densidad",
+  "Refractometría":"refractometria",
+  "Punto de fusión y goteo":"punto-de-fusion-y-goteo",
+  "Accesorios y consumibles":"accesorios-y-consumibles"
+};
+const categoryUrl=name=>CATEGORY_SLUGS[name]?`categorias/${CATEGORY_SLUGS[name]}.html`:`catalogo.html?marca=mettler-toledo&categoria=${encodeURIComponent(name)}`;
+
+function renderCategories(){const el=document.getElementById('categories');if(!el)return;el.innerHTML=CATEGORIES.map(c=>{const n=PRODUCTS.filter(p=>p.category===c.name).length;return c.enabled?`<a class="category-card" href="${categoryUrl(c.name)}"><div><div class="category-icon">${c.icon}</div><h3>${c.name}</h3><p>${c.desc}</p><small>${n} referencias</small></div><span>Explorar catálogo →</span></a>`:`<div class="category-card" style="opacity:.72"><div><div class="category-icon">${c.icon}</div><h3>${c.name}</h3><p>${c.desc}</p></div><span>En preparación</span></div>`}).join('')}
 
 function ensureFamilyNavStyles(){
  if(document.getElementById('family-nav-v34'))return;
