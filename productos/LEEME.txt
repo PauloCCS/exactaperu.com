@@ -1,0 +1,16 @@
+EXACTA V73.3 — PARTE 01 (1-90)
+
+Contiene 90 fichas HTML de producto.
+
+IMPORTANTE:
+1. Descomprime este ZIP en tu PC.
+2. NO subas el ZIP a GitHub.
+3. En GitHub entra a la carpeta /productos.
+4. Usa Add file > Upload files.
+5. Arrastra los archivos .html extraídos de esta parte.
+6. GitHub mostrará que reemplazará los archivos existentes con el mismo nombre.
+7. Confirma el commit.
+8. Repite con la siguiente parte.
+
+Commit sugerido:
+Actualizar fichas de productos V73.3 parte 01
