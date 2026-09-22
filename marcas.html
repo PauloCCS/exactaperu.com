@@ -97,7 +97,16 @@ function runCatalogSearch(){
   searchEmpty.style.display=matches.length?'none':'block';
   searchMeta.textContent=matches.length?`${matches.length} resultado${matches.length===1?'':'s'} mostrado${matches.length===1?'':'s'}${matches.length===24?' (máximo 24)':''}.`:'Sin resultados para esta búsqueda.';
 }
-if(searchInput) searchInput.addEventListener('input',runCatalogSearch);
+if(searchInput){
+  searchInput.addEventListener('input',runCatalogSearch);
+  const initialSearch=new URLSearchParams(window.location.search).get('buscar');
+  if(initialSearch){
+    searchInput.value=initialSearch;
+    runCatalogSearch();
+    const searchSection=document.querySelector('.catalog-search');
+    if(searchSection) requestAnimationFrame(()=>searchSection.scrollIntoView({behavior:'smooth',block:'start'}));
+  }
+}
 </script>
 
 </body></html>
