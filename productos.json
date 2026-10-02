@@ -9487,5 +9487,41 @@
     "image": "",
     "image_source": "",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+  },
+  {
+    "id": "ohaus-skx123-eu-30253070",
+    "brand": "OHAUS",
+    "category": "Balanzas",
+    "sub": "Scout SKX",
+    "model": "SKX123 EU",
+    "code": "30253070",
+    "capacity": "120 g",
+    "readability": "0,001 g",
+    "description": "Balanza portátil OHAUS Scout SKX123 EU, 120 g x 0,001 g, adaptador CA incluido o baterías AA.",
+    "specs": {},
+    "source": "https://www.ohaus.com/",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+  },
+  {
+    "id": "ohaus-skx1202-eu-30253074",
+    "brand": "OHAUS",
+    "category": "Balanzas",
+    "sub": "Scout SKX",
+    "model": "SKX1202 EU",
+    "code": "30253074",
+    "capacity": "1200 g",
+    "readability": "0,01 g",
+    "description": "Balanza portátil OHAUS Scout SKX1202 EU, 1200 g x 0,01 g, adaptador CA incluido o baterías AA.",
+    "specs": {},
+    "source": "https://www.ohaus.com/",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   }
 ]
