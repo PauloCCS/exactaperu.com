@@ -8468,17 +8468,17 @@
     "category": "Balanzas",
     "sub": "Semi-Micro",
     "model": "EXP125D/AD",
-    "code": "31058907",
+    "code": "",
     "capacity": "82/120 g",
     "readability": "0,01/0,1 mg",
     "description": "Balanza semi-micro OHAUS Explorer Plus EXP125D/AD, rango dual 82/120 g y legibilidad 0,01/0,1 mg.",
     "specs": {},
-    "source": "https://eu-en.ohaus.com/es-eu/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp125d-ad-%282%29",
+    "source": "https://mx.ohaus.com/es-mx/explorerplussemi-microexp-11",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; SKU regional no consignado hasta verificación inequívoca"
   },
   {
     "id": "ohaus-exp225-ad",
