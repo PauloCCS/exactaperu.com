@@ -9177,12 +9177,12 @@
     "code": "30971922",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB32 EU, capacidad 90 g y resolución de humedad 0,01 %, para control rutinario de humedad.",
+    "description": "Analizador de humedad OHAUS MB32 EU, capacidad 90 g, resolución de humedad 0,01 %, calentamiento por fibra de carbono y rango de temperatura de 40 a 180 °C.",
     "specs": {
       "Capacidad": "90 g",
       "Resolución humedad": "0,01 %",
       "Temperatura": "40–180 °C",
-      "Calentador": "Halógeno",
+      "Calentador": "Fibra de carbono IR",
       "Pantalla": "LCD 4 pulgadas"
     },
     "source": "https://eu-en.ohaus.com/en-eu/products/moisture-analyzers/mb32",
