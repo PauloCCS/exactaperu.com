@@ -8618,17 +8618,19 @@
     "description": "Analizador de humedad OHAUS MB62 EU, capacidad 90 g y resolución de humedad 0,01 %, para análisis de humedad en laboratorio y control de calidad.",
     "specs": {
       "Capacidad": "90 g",
-      "Resolución humedad": "0,01 %",
-      "Temperatura": "40–200 °C",
+      "Resolución humedad": "1 mg / 0,01 %",
+      "Tamaño de plato": "90 mm",
       "Calentador": "Fibra de carbono IR",
-      "Pantalla": "TFT 4,3 pulgadas"
+      "Temperatura": "40–200 °C",
+      "Comunicación": "RS232 y USB Device",
+      "Alimentación": "Fuente interna con cable incluido"
     },
-    "source": "https://eu-en.ohaus.com/en-eu/products/moisture-analyzers/mb62",
+    "source": "https://mec.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb62/moisture-analyzer-mb62-eu",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Ficha individual oficial OHAUS verificada"
   },
   {
     "id": "ohaus-st300g",
