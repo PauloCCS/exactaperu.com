@@ -8473,7 +8473,7 @@
     "readability": "0,01/0,1 mg",
     "description": "Balanza semi-micro OHAUS Explorer Plus EXP125D/AD, rango dual 82/120 g y legibilidad 0,01/0,1 mg.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp",
+    "source": "https://mx.ohaus.com/es-mx/explorerplussemi-microexp-11",
     "highlights": [],
     "applications": [],
     "image": "",
@@ -8558,7 +8558,7 @@
     "category": "Balanzas",
     "sub": "Analítica",
     "model": "PR124/E",
-    "code": "",
+    "code": "30431405",
     "capacity": "120 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR124/E, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
@@ -8568,7 +8568,7 @@
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
     "id": "ohaus-pr224",
@@ -8576,7 +8576,7 @@
     "category": "Balanzas",
     "sub": "Analítica",
     "model": "PR224",
-    "code": "",
+    "code": "30430061",
     "capacity": "220 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR224, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
@@ -8586,7 +8586,7 @@
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
     "id": "ohaus-pr224e",
