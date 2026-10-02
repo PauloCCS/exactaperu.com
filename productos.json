@@ -8544,7 +8544,11 @@
     "capacity": "120 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR124, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
-    "specs": {},
+    "specs": {
+      "Calibración": "InCal™ semiautomática",
+      "Comunicación": "RS232",
+      "Pantalla": "LCD retroiluminada"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124",
     "highlights": [],
     "applications": [],
@@ -8562,7 +8566,11 @@
     "capacity": "120 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR124/E, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
-    "specs": {},
+    "specs": {
+      "Calibración": "Externa",
+      "Comunicación": "RS232",
+      "Pantalla": "LCD retroiluminada"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124-e",
     "highlights": [],
     "applications": [],
@@ -8580,7 +8588,11 @@
     "capacity": "220 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR224, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
-    "specs": {},
+    "specs": {
+      "Calibración": "InCal™ semiautomática",
+      "Comunicación": "RS232",
+      "Pantalla": "LCD retroiluminada"
+    },
     "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/pr-series-analytical/electronic-balance-pr224",
     "highlights": [],
     "applications": [],
@@ -8598,7 +8610,11 @@
     "capacity": "220 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS PR PR224/E, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
-    "specs": {},
+    "specs": {
+      "Calibración": "Externa",
+      "Comunicación": "RS232",
+      "Pantalla": "LCD retroiluminada"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr224-e",
     "highlights": [],
     "applications": [],
@@ -9346,7 +9362,11 @@
     "capacity": "82 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS Pioneer PX84, 82 g x 0,1 mg, alimentación 100–240 VAC.",
-    "specs": {},
+    "specs": {
+      "Calibración": "InCal™ semiautomática",
+      "Comunicación": "RS232 y USB Device",
+      "Pantalla": "LCD retroiluminada de 2 líneas"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px84",
     "highlights": [],
     "applications": [],
@@ -9364,7 +9384,11 @@
     "capacity": "120 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS Pioneer PX124, 120 g x 0,1 mg, alimentación 100–240 VAC.",
-    "specs": {},
+    "specs": {
+      "Calibración": "InCal™ semiautomática",
+      "Comunicación": "RS232 y USB Device",
+      "Pantalla": "LCD retroiluminada de 2 líneas"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px124",
     "highlights": [],
     "applications": [],
@@ -9382,7 +9406,11 @@
     "capacity": "220 g",
     "readability": "0,1 mg",
     "description": "Balanza analítica OHAUS Pioneer PX224, 220 g x 0,1 mg, alimentación 100–240 VAC.",
-    "specs": {},
+    "specs": {
+      "Calibración": "InCal™ semiautomática",
+      "Comunicación": "RS232 y USB Device",
+      "Pantalla": "LCD retroiluminada de 2 líneas"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px224",
     "highlights": [],
     "applications": [],
