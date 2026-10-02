@@ -10177,14 +10177,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter ST210 para aplicaciones rutinarias de laboratorio.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-st230",
@@ -10197,14 +10197,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter ST230 para mediciones rutinarias y muestras acuosas.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-st260",
@@ -10217,14 +10217,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter ST260 para aplicaciones especializadas de laboratorio.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14.00 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-st270",
@@ -10237,14 +10237,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter ST270 para aplicaciones especializadas de laboratorio.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14.00 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-st272",
@@ -10257,14 +10257,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter ST272 para aplicaciones de laboratorio.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "2.00 – 12.00 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-stmicro5",
@@ -10277,14 +10277,14 @@
     "readability": "",
     "description": "Electrodo micro de pH OHAUS Starter STMICRO5 para volúmenes pequeños y recipientes estrechos.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-stpure",
@@ -10297,14 +10297,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter STPURE para muestras de baja fuerza iónica y agua pura.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "0.00 – 14 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-stsurf",
@@ -10317,14 +10317,14 @@
     "readability": "",
     "description": "Electrodo de pH OHAUS Starter STSURF para medición sobre superficies.",
     "specs": {
-      "Rango de medición": "0–14 pH"
+      "Rango de medición": "2.00 – 12.00 pH"
     },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-stcon3",
@@ -10376,12 +10376,14 @@
     "capacity": "",
     "readability": "",
     "description": "Electrodo de oxígeno disuelto OHAUS Starter STDO21 con cable de 1 m.",
-    "specs": {},
+    "specs": {
+      "Rango de medición": "0.00 – 20.0 mg/L (ppm)"
+    },
     "source": "https://mec.ohaus.com/en-us/starterelectrodes",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   }
 ]
