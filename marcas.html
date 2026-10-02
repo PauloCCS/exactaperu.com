@@ -79,7 +79,7 @@ function runCatalogSearch(){
     searchMeta.textContent=catalogProducts.length+' productos disponibles en el catálogo actual.';return;
   }
   const terms=q.split(/\s+/).filter(Boolean);
-  const matches=catalogProducts.map(p=>{
+  const allMatches=catalogProducts.map(p=>{
     const model=normalizeText(p.model), code=normalizeText(p.code);
     const hay=normalizeText([p.brand,p.category,p.sub,p.model,p.code,p.description].join(' '));
     if(!terms.every(t=>hay.includes(t))) return null;
@@ -88,14 +88,15 @@ function runCatalogSearch(){
     if(model.startsWith(q)||code.startsWith(q)) score+=40;
     if(model.includes(q)||code.includes(q)) score+=20;
     return {p,score};
-  }).filter(Boolean).sort((a,b)=>b.score-a.score||a.p.model.localeCompare(b.p.model,'es')).slice(0,24);
+  }).filter(Boolean).sort((a,b)=>b.score-a.score||a.p.model.localeCompare(b.p.model,'es'));
+  const matches=allMatches.slice(0,24);
   searchResults.innerHTML=matches.map(x=>{
     const p=x.p;
     return `<a class="search-card" href="productos/${encodeURIComponent(p.id)}.html">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.model)}" loading="lazy" referrerpolicy="no-referrer">`:`<div class="search-img-placeholder" aria-hidden="true">OHAUS</div>`}<div><h3>${esc(p.model)}</h3><div class="scode">${esc(p.code?('Código '+p.code):p.brand)}</div><div class="scat">${esc(p.category)}${p.sub?' · '+esc(p.sub):''}</div></div></a>`;
   }).join('');
   searchResults.classList.toggle('active',matches.length>0);
   searchEmpty.style.display=matches.length?'none':'block';
-  searchMeta.textContent=matches.length?`${matches.length} resultado${matches.length===1?'':'s'} mostrado${matches.length===1?'':'s'}${matches.length===24?' (máximo 24)':''}.`:'Sin resultados para esta búsqueda.';
+  searchMeta.textContent=allMatches.length?(allMatches.length>24?`Mostrando 24 de ${allMatches.length} resultados.`:`${allMatches.length} resultado${allMatches.length===1?'':'s'} mostrado${allMatches.length===1?'':'s'}.`):'Sin resultados para esta búsqueda.';
 }
 if(searchInput){
   searchInput.addEventListener('input',runCatalogSearch);
