@@ -8686,12 +8686,14 @@
     "readability": "",
     "description": "Medidor de mesa OHAUS AQUASEARCHER AB33PH-F para pH, ORP y temperatura; resolución 0,01 pH y memoria de hasta 1000 mediciones.",
     "specs": {
-      "Rango pH": "-2,00 – 16,00 pH",
-      "Resolución pH": "0,01 pH",
-      "Comunicación": "RS232 y USB",
-      "Memoria": "1000 mediciones",
       "Parámetros": "pH, ORP y temperatura",
-      "Protección": "IP54"
+      "Rango pH": "-2,00 – 16,00 pH",
+      "Rango ORP": "-2000 – +2000 mV",
+      "Rango temperatura": "-5 – 110 °C",
+      "Resolución": "0,01 pH / 1 mV / 0,1 °C",
+      "Memoria": "1000 mediciones",
+      "Comunicación": "RS232 y USB Device",
+      "Alimentación": "Adaptador CA incluido"
     },
     "source": "https://mx.ohaus.com/es-mx/products/instruments-equipment/water-analysis/aquasearcher-ab33ph-bench-meter/ph-meter-a-ab33ph-f",
     "highlights": [],
@@ -9157,18 +9159,20 @@
     "description": "Analizador de humedad OHAUS MB92 EU, 90 g, resolución de humedad 0,01 %, calentamiento infrarrojo por fibra de carbono y pantalla táctil de 4,3 pulgadas.",
     "specs": {
       "Capacidad": "90 g",
-      "Resolución humedad": "0,01 %",
+      "Resolución humedad": "1 mg / 0,01 %",
+      "Tamaño de plato": "90 mm",
       "Calentador": "Fibra de carbono IR",
       "Temperatura": "40–200 °C",
+      "Pantalla": "Táctil capacitiva 4,3 pulgadas",
       "Comunicación": "RS232, USB Device y USB Host",
-      "Pantalla": "TFT táctil 4,3 pulgadas"
+      "Alimentación": "Fuente interna con cable incluido"
     },
     "source": "https://mec.ohaus.com/en-eu/mb92-3",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Familia/variante EU oficial OHAUS verificada; SKU conservado según referencia regional previamente validada"
   },
   {
     "id": "ohaus-mb32-eu-30971922",
