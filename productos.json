@@ -10135,5 +10135,223 @@
     "image": "",
     "image_source": "",
     "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-st210",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "ST210",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter ST210 para aplicaciones rutinarias de laboratorio.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-st230",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "ST230",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter ST230 para mediciones rutinarias y muestras acuosas.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-st260",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "ST260",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter ST260 para aplicaciones especializadas de laboratorio.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-st270",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "ST270",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter ST270 para aplicaciones especializadas de laboratorio.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-st272",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "ST272",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter ST272 para aplicaciones de laboratorio.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stmicro5",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "STMICRO5",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo micro de pH OHAUS Starter STMICRO5 para volúmenes pequeños y recipientes estrechos.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stpure",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "STPURE",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter STPURE para muestras de baja fuerza iónica y agua pura.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stsurf",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "model": "STSURF",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de pH OHAUS Starter STSURF para medición sobre superficies.",
+    "specs": {
+      "Rango de medición": "0–14 pH"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stcon3",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "model": "STCON3",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de conductividad OHAUS Starter STCON3 para un amplio rango de medición.",
+    "specs": {
+      "Rango de medición": "2 µS/cm – 200 mS/cm"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stcon7",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "model": "STCON7",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de conductividad OHAUS Starter STCON7 para conductividad baja.",
+    "specs": {
+      "Rango de medición": "0,02 – 200 µS/cm"
+    },
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-stdo21-1m",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Oxígeno disuelto",
+    "model": "STDO21 1M",
+    "code": "",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo de oxígeno disuelto OHAUS Starter STDO21 con cable de 1 m.",
+    "specs": {},
+    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
   }
 ]
