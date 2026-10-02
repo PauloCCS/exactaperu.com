@@ -8453,7 +8453,7 @@
     "code": "31059170",
     "capacity": "120 g",
     "readability": "0,01 mg",
-    "description": "Producto OHAUS EXP125/AD. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza semi-micro OHAUS Explorer Plus EXP125/AD, capacidad 120 g y legibilidad 0,01 mg.",
     "specs": {},
     "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp125-ad-(1)",
     "highlights": [],
@@ -8471,14 +8471,14 @@
     "code": "",
     "capacity": "82/120 g",
     "readability": "0,01/0,1 mg",
-    "description": "Producto OHAUS EXP125D/AD. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza semi-micro OHAUS Explorer Plus EXP125D/AD, rango dual 82/120 g y legibilidad 0,01/0,1 mg.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-exp225-ad",
@@ -8489,7 +8489,7 @@
     "code": "31059172",
     "capacity": "220 g",
     "readability": "0,01 mg",
-    "description": "Producto OHAUS EXP225/AD. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza semi-micro OHAUS Explorer Plus EXP225/AD, capacidad 220 g y legibilidad 0,01 mg.",
     "specs": {},
     "source": "https://mx.ohaus.com/en-us/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp225-ad-(1)",
     "highlights": [],
@@ -8507,7 +8507,7 @@
     "code": "31059171",
     "capacity": "120/220 g",
     "readability": "0,01/0,1 mg",
-    "description": "Producto OHAUS EXP225D/AD. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza semi-micro OHAUS Explorer Plus EXP225D/AD, capacidad 120/220 g y legibilidad 0,01/0,1 mg.",
     "specs": {},
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp225d-ad-(1)",
     "highlights": [],
@@ -8525,14 +8525,14 @@
     "code": "30430060",
     "capacity": "62 g",
     "readability": "0,1 mg",
-    "description": "Producto OHAUS PR64/E. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza analítica OHAUS PR PR64/E, capacidad 62 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr64-e",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
   },
   {
     "id": "ohaus-pr124",
@@ -8543,14 +8543,14 @@
     "code": "",
     "capacity": "120 g",
     "readability": "0,1 mg",
-    "description": "Producto OHAUS PR124. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza analítica OHAUS PR PR124, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
   },
   {
     "id": "ohaus-pr124e",
@@ -8561,14 +8561,14 @@
     "code": "",
     "capacity": "120 g",
     "readability": "0,1 mg",
-    "description": "Producto OHAUS PR124/E. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza analítica OHAUS PR PR124/E, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124-e",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
   },
   {
     "id": "ohaus-pr224",
@@ -8579,14 +8579,14 @@
     "code": "",
     "capacity": "220 g",
     "readability": "0,1 mg",
-    "description": "Producto OHAUS PR224. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza analítica OHAUS PR PR224, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr224",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
   },
   {
     "id": "ohaus-pr224e",
@@ -8597,14 +8597,14 @@
     "code": "",
     "capacity": "220 g",
     "readability": "0,1 mg",
-    "description": "Producto OHAUS PR224/E. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
+    "description": "Balanza analítica OHAUS PR PR224/E, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
     "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr224-e",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
   },
   {
     "id": "ohaus-mb62-eu-30971923",
