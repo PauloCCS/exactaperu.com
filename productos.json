@@ -9325,5 +9325,23 @@
     "image": "",
     "image_source": "",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+  },
+  {
+    "id": "ohaus-spx2202-30268862",
+    "brand": "OHAUS",
+    "category": "Balanzas",
+    "sub": "Scout SPX",
+    "model": "SPX2202",
+    "code": "30268862",
+    "capacity": "2200 g",
+    "readability": "0,01 g",
+    "description": "Balanza portátil OHAUS Scout SPX2202, 2200 g x 0,01 g, adaptador 100–240 VAC o baterías AA.",
+    "specs": {},
+    "source": "https://www.ohaus.com/",
+    "highlights": [],
+    "applications": [],
+    "image": "",
+    "image_source": "",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   }
 ]
