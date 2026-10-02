@@ -35,7 +35,7 @@
 @media(max-width:900px){.search-results{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:580px){.search-results{grid-template-columns:1fr}.search-box{display:block}.catalog-search{padding:18px}.search-card img{width:78px;height:78px;flex-basis:78px}}
 
-</style></head><body>
+.search-img-placeholder small{display:block;margin-top:6px;font-size:11px;font-weight:600;letter-spacing:0;text-align:center;opacity:.72}.search-img-placeholder span{display:block}</style></head><body>
 <div class="topbar"><div class="container"><span>+51 932 610 623 · Lima, Perú</span><span>contacto@exactaperu.com</span></div></div>
 <header><div class="container nav"><a class="logo" href="index.html"><img src="logo-exacta5.svg" alt="Exacta Soluciones Industriales"></a><button class="hamburger" id="menuButton" aria-label="Abrir menú">☰</button><nav class="menu" id="menu"><a href="index.html">Inicio</a><a href="index.html#soluciones">Soluciones</a><a href="servicios.html">Servicios</a><a href="marcas.html">Marcas</a><a href="index.html#nosotros">Nosotros</a><a href="index.html#industrias">Industrias</a><a href="index.html#contacto">Contacto</a><a class="nav-cta" href="https://wa.me/51932610623?text=Buenos%20d%C3%ADas.%20Deseo%20solicitar%20informaci%C3%B3n." target="_blank">Contactar</a></nav></div></header>
 <main><div class="container">
@@ -92,7 +92,7 @@ function runCatalogSearch(){
   const matches=allMatches.slice(0,24);
   searchResults.innerHTML=matches.map(x=>{
     const p=x.p;
-    return `<a class="search-card" href="productos/${encodeURIComponent(p.id)}.html">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.model)}" loading="lazy" referrerpolicy="no-referrer">`:`<div class="search-img-placeholder" aria-hidden="true">OHAUS</div>`}<div><h3>${esc(p.model)}</h3><div class="scode">${esc(p.code?('Código '+p.code):p.brand)}</div><div class="scat">${esc(p.category)}${p.sub?' · '+esc(p.sub):''}</div></div></a>`;
+    const familyLabel=p.sub||p.category||p.brand; return `<a class="search-card" href="productos/${encodeURIComponent(p.id)}.html">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.model)}" loading="lazy" referrerpolicy="no-referrer">`:`<div class="search-img-placeholder" aria-hidden="true"><span>OHAUS</span><small>${esc(familyLabel)}</small></div>`}<div><h3>${esc(p.model)}</h3><div class="scode">${esc(p.code?('Código '+p.code):p.brand)}</div><div class="scat">${esc(p.category)}${p.sub?' · '+esc(p.sub):''}</div></div></a>`;
   }).join('');
   searchResults.classList.toggle('active',matches.length>0);
   searchEmpty.style.display=matches.length?'none':'block';
