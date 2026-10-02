@@ -8651,14 +8651,21 @@
     "code": "",
     "capacity": "",
     "readability": "0,01 pH",
-    "description": "Producto OHAUS ST2200-F. Consulte ficha técnica para especificaciones, compatibilidad y disponibilidad.",
-    "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
+    "description": "Medidor de mesa OHAUS Starter ST2200-F para pH, ORP y temperatura, resolución 0,01 pH y memoria interna de hasta 99 registros.",
+    "specs": {
+      "Rango pH": "0,00–14,00 pH",
+      "Resolución pH": "0,01 pH",
+      "Rango ORP": "-1999–1999 mV",
+      "Rango temperatura": "0–100 °C",
+      "Pantalla": "LCD retroiluminada",
+      "Alimentación": "Adaptador CA incluido"
+    },
+    "source": "https://mx.ohaus.com/es-mx/starter2200phbenchmeter-10",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Fuente oficial OHAUS verificada"
   },
   {
     "id": "ohaus-ab33ph-f",
@@ -9166,14 +9173,20 @@
     "code": "30073984",
     "capacity": "",
     "readability": "1 mV",
-    "description": "Medidor tipo lápiz OHAUS ST10R para ORP, rango -1000 a 1000 mV, IP67 y alimentación por baterías.",
-    "specs": {},
-    "source": "https://www.ohaus.com/",
+    "description": "Medidor tipo pluma OHAUS Starter ST10R para ORP, rango -1000 a 1000 mV, protección IP67 y alimentación por baterías.",
+    "specs": {
+      "Parámetro": "ORP",
+      "Rango": "-1000–1000 mV",
+      "Resolución": "1 mV",
+      "Exactitud": "±2 mV",
+      "Protección": "IP67"
+    },
+    "source": "https://us.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-pen-meters/pen-meter-st10r",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Fuente oficial OHAUS verificada"
   },
   {
     "id": "ohaus-st20c-b-30073976",
@@ -9184,14 +9197,20 @@
     "code": "30073976",
     "capacity": "",
     "readability": "1 µS/cm",
-    "description": "Medidor tipo lápiz OHAUS ST20C-B para conductividad y temperatura, 0–1999 µS/cm, IP67 y alimentación por baterías.",
-    "specs": {},
-    "source": "https://www.ohaus.com/",
+    "description": "Medidor tipo pluma OHAUS Starter ST20C-B para conductividad y temperatura, con compensación automática y protección IP67.",
+    "specs": {
+      "Conductividad": "0–1999 µS/cm",
+      "Resolución": "1 µS/cm",
+      "Exactitud conductividad": "±1,5 %",
+      "Temperatura": "0–99 °C",
+      "Protección": "IP67"
+    },
+    "source": "https://us.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-pen-meters/pen-meter-st20c-b",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Fuente oficial OHAUS verificada"
   },
   {
     "id": "ohaus-30100443",
@@ -9222,12 +9241,12 @@
     "readability": "",
     "description": "Electrodo de referencia OHAUS STREF1, cuerpo de vidrio y cable de 1,1 m.",
     "specs": {},
-    "source": "https://www.ohaus.com/",
+    "source": "https://us.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ref-electrode-stref1",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Fuente oficial OHAUS verificada"
   },
   {
     "id": "ohaus-st350-30129354",
@@ -9258,12 +9277,12 @@
     "readability": "",
     "description": "Electrodo de temperatura OHAUS STTEMP30, 0–100 °C, acero inoxidable y sensor 30 kΩ.",
     "specs": {},
-    "source": "https://www.ohaus.com/",
+    "source": "https://kr.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/temperature-electrode-sttemp30",
     "highlights": [],
     "applications": [],
     "image": "",
     "image_source": "",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source_status": "Fuente oficial OHAUS verificada"
   },
   {
     "id": "ohaus-st280-30681114",
