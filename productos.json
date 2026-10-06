@@ -8631,7 +8631,7 @@
     "code": "30971923",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB62 EU, capacidad 90 g y resolución de humedad 0,01 %, para análisis de humedad en laboratorio y control de calidad.",
+    "description": "Analizador de humedad OHAUS MB62 EU: capacidad 90 g, lectura 1 mg / 0,01 %, calefactor de fibra de carbono y rango de 40 a 200 °C.",
     "specs": {
       "Capacidad": "90 g",
       "Resolución humedad": "1 mg / 0,01 %",
@@ -8644,8 +8644,8 @@
     "source": "https://mec.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb62/moisture-analyzer-mb62-eu",
     "highlights": [],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
+    "image": "https://mec.ohaus.com/getmedia/334c968f-8f38-4086-b5c4-5437e1ac0f33/MB62_Left_DMX_ID_4295015601_WebShop",
+    "image_source": "OHAUS – imagen del modelo correspondiente",
     "source_status": "Ficha individual oficial OHAUS verificada"
   },
   {
@@ -9148,7 +9148,7 @@
     "code": "30246943",
     "capacity": "120 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB120, capacidad 120 g y resolución de humedad 0,01 %, con gestión avanzada de métodos.",
+    "description": "Analizador de humedad OHAUS MB120: capacidad 120 g, lectura 1 mg / 0,01 %, calefactor halógeno, rango de 40 a 230 °C y alimentación 230 V.",
     "specs": {
       "Capacidad": "120 g",
       "Resolución humedad": "0,01 %",
@@ -9156,11 +9156,11 @@
       "Calentador": "Halógeno",
       "Pantalla": "TFT táctil 4,3 pulgadas"
     },
-    "source": "https://us.ohaus.com/en-us/products/moisture-analyzers/mb120",
+    "source": "https://oceania.ohaus.com/en-oc/products/balances-scales/moisture-analyzers/mb120/moisture-analyzer-mb120",
     "highlights": [],
     "applications": [],
     "image": "https://mx.ohaus.com/getmedia/67f42646-e22e-4ed2-834c-72d90669410a/MB120_Smartguide_Right_1_600x600.jpg.jpg",
-    "image_source": "OHAUS",
+    "image_source": "OHAUS – imagen del modelo correspondiente",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9172,7 +9172,7 @@
     "code": "30971924",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB92 EU, 90 g, resolución de humedad 0,01 %, calentamiento infrarrojo por fibra de carbono y pantalla táctil de 4,3 pulgadas.",
+    "description": "Analizador de humedad OHAUS MB92 EU: capacidad 90 g, lectura 1 mg / 0,01 %, calefactor de fibra de carbono, pantalla táctil de 4,3 pulgadas y rango de 40 a 200 °C.",
     "specs": {
       "Capacidad": "90 g",
       "Resolución humedad": "1 mg / 0,01 %",
@@ -9183,11 +9183,11 @@
       "Comunicación": "RS232, USB Device y USB Host",
       "Alimentación": "Fuente interna con cable incluido"
     },
-    "source": "https://mec.ohaus.com/en-eu/mb92-3",
+    "source": "https://mec.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb92/moisture-analyzer-mb92-eu",
     "highlights": [],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
+    "image": "https://pl.ohaus.com/getmedia/28cd8fcd-00f1-4f35-9561-ec3adb045983/MB92_Left_DMX_ID_4295015706_WebShop",
+    "image_source": "OHAUS – imagen del modelo correspondiente",
     "source_status": "Familia/variante EU oficial OHAUS verificada; SKU conservado según referencia regional previamente validada"
   },
   {
@@ -9199,7 +9199,7 @@
     "code": "30971922",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB32 EU, capacidad 90 g, resolución de humedad 0,01 %, calentamiento por fibra de carbono y rango de temperatura de 40 a 180 °C.",
+    "description": "Analizador de humedad OHAUS MB32 EU: capacidad 90 g, lectura 1 mg / 0,01 %, calefactor de fibra de carbono y rango de 40 a 180 °C.",
     "specs": {
       "Capacidad": "90 g",
       "Resolución humedad": "0,01 %",
@@ -9207,11 +9207,11 @@
       "Calentador": "Fibra de carbono IR",
       "Pantalla": "LCD 4 pulgadas"
     },
-    "source": "https://eu-en.ohaus.com/en-eu/products/moisture-analyzers/mb32",
+    "source": "https://japan.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb32/moisture-analyzer-mb32-eu",
     "highlights": [],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
+    "image": "https://japan.ohaus.com/getmedia/32409205-52fb-443a-93e9-a1ced6bc0cfa/MB32_Left_DMX_ID_4295015507_WebShop",
+    "image_source": "OHAUS – imagen del modelo correspondiente",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9428,12 +9428,14 @@
     "capacity": "2200 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SPX2202, 2200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://br.ohaus.com/en-us/scoutspx",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
@@ -9590,12 +9592,14 @@
     "capacity": "120 g",
     "readability": "0,001 g",
     "description": "Balanza portátil OHAUS Scout SKX123 EU, 120 g x 0,001 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 93 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/products/balances-scales/portable-balances/scout-skx/skx123-eu",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://eu-fr.ohaus.com/getmedia/6fee4fa2-d248-4766-856c-aa1ec47d03fb/Scout_SKX_Draftshield_Right_DMX-ID_4294973078_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada"
   },
   {
@@ -9608,12 +9612,14 @@
     "capacity": "1200 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SKX1202 EU, 1200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://mec.ohaus.com/en-mec/products/balances-scales/portable-balances/scout-skx/skx1202-eu",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada"
   },
   {
@@ -9626,12 +9632,14 @@
     "capacity": "420 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SPX422, 420 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx422",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/f3a1a49b-29b6-400d-bc7d-aa245e8389e8/Scout_SPX_Round_Pan_Right_DMX-ID_4294972965_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9644,12 +9652,14 @@
     "capacity": "620 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SPX622, 620 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx622",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/f3a1a49b-29b6-400d-bc7d-aa245e8389e8/Scout_SPX_Round_Pan_Right_DMX-ID_4294972965_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9662,12 +9672,14 @@
     "capacity": "620 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SPX621, 620 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx621",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9680,12 +9692,14 @@
     "capacity": "2200 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SPX2201, 2200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx2201",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9698,12 +9712,14 @@
     "capacity": "8200 g",
     "readability": "1 g",
     "description": "Balanza portátil OHAUS Scout SPX8200, 8200 g x 1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx8200",
     "highlights": [],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
@@ -9716,12 +9732,14 @@
     "capacity": "220 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SKX222 EU, 220 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9734,12 +9752,14 @@
     "capacity": "420 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SKX422 EU, 420 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9752,12 +9772,14 @@
     "capacity": "620 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SKX622 EU, 620 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9770,12 +9792,14 @@
     "capacity": "2200 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout SKX2202 EU, 2200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9788,12 +9812,14 @@
     "capacity": "420 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SKX421 EU, 420 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9806,12 +9832,14 @@
     "capacity": "620 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SKX621 EU, 620 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9824,12 +9852,14 @@
     "capacity": "2200 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SKX2201 EU, 2200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9842,12 +9872,14 @@
     "capacity": "6200 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout SKX6201 EU, 6200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9860,12 +9892,14 @@
     "capacity": "8200 g",
     "readability": "1 g",
     "description": "Balanza portátil OHAUS Scout SKX8200 EU, 8200 g x 1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
     "highlights": [],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9878,12 +9912,14 @@
     "capacity": "220 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout STX222 EU, 220 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9896,12 +9932,14 @@
     "capacity": "420 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout STX422 EU, 420 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9914,12 +9952,14 @@
     "capacity": "620 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout STX622 EU, 620 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9932,12 +9972,14 @@
     "capacity": "1200 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout STX1202 EU, 1200 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9950,12 +9992,14 @@
     "capacity": "2200 g",
     "readability": "0,01 g",
     "description": "Balanza portátil OHAUS Scout STX2202 EU, 2200 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9968,12 +10012,14 @@
     "capacity": "420 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout STX421 EU, 420 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "Ø 120 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -9986,12 +10032,14 @@
     "capacity": "620 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout STX621 EU, 620 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -10004,12 +10052,14 @@
     "capacity": "2200 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout STX2201 EU, 2200 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -10022,12 +10072,14 @@
     "capacity": "6200 g",
     "readability": "0,1 g",
     "description": "Balanza portátil OHAUS Scout STX6201 EU, 6200 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
@@ -10040,12 +10092,14 @@
     "capacity": "8200 g",
     "readability": "1 g",
     "description": "Balanza portátil OHAUS Scout STX8200 EU, 8200 g x 1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "specs": {
+      "Plato": "140 mm × 170 mm"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
     "highlights": [],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – configuración de Scout con protector, plato redondo o rectangular según el modelo",
     "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
   },
   {
