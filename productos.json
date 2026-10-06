@@ -8731,22 +8731,37 @@
     "code": "30971923",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB62 EU, capacidad 90 g y resolución de humedad 0,01 %, para análisis de humedad en laboratorio y control de calidad.",
+    "description": "Analizador de humedad OHAUS MB62 EU de 90 g, legibilidad de peso de 1 mg y lectura de humedad de 0,01 %. Calentamiento por fibra de carbono de 40 a 200 °C, pantalla LCD de 5 pulgadas y almacenamiento de 20 métodos y 100 resultados.",
     "specs": {
-      "Capacidad": "90 g",
-      "Resolución humedad": "1 mg / 0,01 %",
-      "Tamaño de plato": "90 mm",
-      "Calentador": "Fibra de carbono IR",
-      "Temperatura": "40–200 °C",
+      "Capacidad máxima": "90 g",
+      "Legibilidad de peso": "0,001 g (1 mg)",
+      "Lectura de humedad": "0,01 %",
+      "Tamaño del plato": "Ø 90 mm",
+      "Tipo de calefactor": "Infrarrojo por fibra de carbono",
+      "Rango de temperatura": "40–200 °C",
+      "Alimentación": "200–240 V CA, 50/60 Hz; versión EU con cable incluido",
+      "Pantalla": "LCD de 5 pulgadas con segunda línea",
       "Comunicación": "RS232 y USB Device",
-      "Alimentación": "Fuente interna con cable incluido"
+      "Perfiles de secado": "Estándar, rápido, rampa y escalonado",
+      "Métodos almacenados": "20",
+      "Resultados almacenados": "100",
+      "Repetibilidad de humedad": "0,10 % (muestra de 3 g); 0,018 % (muestra de 10 g)"
     },
     "source": "https://mec.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb62/moisture-analyzer-mb62-eu",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
-    "source_status": "Ficha individual oficial OHAUS verificada"
+    "highlights": [
+      "Pantalla LCD de 5 pulgadas con segunda línea",
+      "Hasta 20 métodos y 100 resultados",
+      "Cuatro perfiles de secado"
+    ],
+    "applications": [
+      "Determinación de humedad",
+      "Determinación de sólidos",
+      "Pesaje"
+    ],
+    "image": "/assets/ohaus/mb62.jpg",
+    "image_source": "OHAUS – fotografía oficial del modelo",
+    "source_status": "Ficha individual OHAUS verificada",
+    "product_url": "productos/ohaus-mb62-eu-30971923.html"
   },
   {
     "id": "ohaus-st300g",
@@ -9248,20 +9263,36 @@
     "code": "30246943",
     "capacity": "120 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB120, capacidad 120 g y resolución de humedad 0,01 %, con gestión avanzada de métodos.",
+    "description": "Analizador de humedad OHAUS MB120 de 120 g, legibilidad de peso de 1 mg y lectura de humedad de 0,01 %. Incorpora calentamiento halógeno de 40 a 230 °C, pantalla táctil de 4,3 pulgadas y SmartGuide™. Versión de 230 V.",
     "specs": {
-      "Capacidad": "120 g",
-      "Resolución humedad": "0,01 %",
-      "Temperatura": "40–230 °C",
-      "Calentador": "Halógeno",
-      "Pantalla": "TFT táctil 4,3 pulgadas"
+      "Capacidad máxima": "120 g",
+      "Legibilidad de peso": "0,001 g (1 mg)",
+      "Lectura de humedad": "0,01 %",
+      "Tamaño del plato": "Ø 90 mm",
+      "Tipo de calefactor": "Halógeno",
+      "Rango de temperatura": "40–230 °C",
+      "Alimentación": "230 V CA; cable de alimentación incluido",
+      "Pantalla": "Táctil TFT a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB Device y USB Host",
+      "Perfiles de secado": "Estándar, rápido, rampa y escalonado",
+      "Métodos almacenados": "100",
+      "Resultados almacenados": "1.000"
     },
-    "source": "https://us.ohaus.com/en-us/products/moisture-analyzers/mb120",
-    "highlights": [],
-    "applications": [],
-    "image": "https://mx.ohaus.com/getmedia/67f42646-e22e-4ed2-834c-72d90669410a/MB120_Smartguide_Right_1_600x600.jpg.jpg",
-    "image_source": "OHAUS",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source": "https://oceania.ohaus.com/en-oc/products/balances-scales/moisture-analyzers/mb120/moisture-analyzer-mb120",
+    "highlights": [
+      "SmartGuide™ para desarrollar métodos de secado",
+      "Hasta 100 métodos y 1.000 resultados",
+      "Cuatro perfiles de secado"
+    ],
+    "applications": [
+      "Determinación de humedad",
+      "Determinación de sólidos",
+      "Pesaje"
+    ],
+    "image": "/assets/ohaus/mb120.jpg",
+    "image_source": "OHAUS – fotografía oficial del modelo",
+    "source_status": "Ficha individual OHAUS verificada",
+    "product_url": "productos/ohaus-mb120-30246943.html"
   },
   {
     "id": "ohaus-mb92-eu-30971924",
@@ -9272,23 +9303,37 @@
     "code": "30971924",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB92 EU, 90 g, resolución de humedad 0,01 %, calentamiento infrarrojo por fibra de carbono y pantalla táctil de 4,3 pulgadas.",
+    "description": "Analizador de humedad OHAUS MB92 EU de 90 g, legibilidad de peso de 1 mg y lectura de humedad de 0,01 %. Calentamiento por fibra de carbono de 40 a 200 °C, pantalla táctil de 4,3 pulgadas y almacenamiento de 20 métodos y 200 resultados.",
     "specs": {
-      "Capacidad": "90 g",
-      "Resolución humedad": "1 mg / 0,01 %",
-      "Tamaño de plato": "90 mm",
-      "Calentador": "Fibra de carbono IR",
-      "Temperatura": "40–200 °C",
-      "Pantalla": "Táctil capacitiva 4,3 pulgadas",
+      "Capacidad máxima": "90 g",
+      "Legibilidad de peso": "0,001 g (1 mg)",
+      "Lectura de humedad": "0,01 %",
+      "Tamaño del plato": "Ø 90 mm",
+      "Tipo de calefactor": "Infrarrojo por fibra de carbono",
+      "Rango de temperatura": "40–200 °C",
+      "Alimentación": "200–240 V CA, 50/60 Hz; versión EU con cable incluido",
+      "Pantalla": "Táctil capacitiva a color de 4,3 pulgadas",
       "Comunicación": "RS232, USB Device y USB Host",
-      "Alimentación": "Fuente interna con cable incluido"
+      "Perfiles de secado": "Estándar, rápido, rampa y escalonado",
+      "Métodos almacenados": "20",
+      "Resultados almacenados": "200",
+      "Repetibilidad de humedad": "0,08 % (muestra de 3 g); 0,015 % (muestra de 10 g)"
     },
-    "source": "https://mec.ohaus.com/en-eu/mb92-3",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
-    "source_status": "Familia/variante EU oficial OHAUS verificada; SKU conservado según referencia regional previamente validada"
+    "source": "https://mec.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb92/moisture-analyzer-mb92-eu",
+    "highlights": [
+      "Pantalla táctil capacitiva de 4,3 pulgadas",
+      "Hasta 20 métodos y 200 resultados",
+      "Perfiles estándar, rápido, rampa y escalonado"
+    ],
+    "applications": [
+      "Determinación de humedad",
+      "Determinación de sólidos",
+      "Pesaje"
+    ],
+    "image": "/assets/ohaus/mb92.jpg",
+    "image_source": "OHAUS – fotografía oficial del modelo",
+    "source_status": "Ficha individual OHAUS verificada",
+    "product_url": "productos/ohaus-mb92-eu-30971924.html"
   },
   {
     "id": "ohaus-mb32-eu-30971922",
@@ -9299,20 +9344,36 @@
     "code": "30971922",
     "capacity": "90 g",
     "readability": "0,01 %",
-    "description": "Analizador de humedad OHAUS MB32 EU, capacidad 90 g, resolución de humedad 0,01 %, calentamiento por fibra de carbono y rango de temperatura de 40 a 180 °C.",
+    "description": "Analizador de humedad OHAUS MB32 EU de 90 g, legibilidad de peso de 1 mg y lectura de humedad de 0,01 %. Calentamiento por fibra de carbono de 40 a 180 °C, pantalla LCD de 4 pulgadas y dos métodos almacenados para pruebas rutinarias.",
     "specs": {
-      "Capacidad": "90 g",
-      "Resolución humedad": "0,01 %",
-      "Temperatura": "40–180 °C",
-      "Calentador": "Fibra de carbono IR",
-      "Pantalla": "LCD 4 pulgadas"
+      "Capacidad máxima": "90 g",
+      "Legibilidad de peso": "0,001 g (1 mg)",
+      "Lectura de humedad": "0,01 %",
+      "Tamaño del plato": "Ø 90 mm",
+      "Tipo de calefactor": "Infrarrojo por fibra de carbono",
+      "Rango de temperatura": "40–180 °C",
+      "Alimentación": "200–240 V CA, 50/60 Hz; versión EU con cable incluido",
+      "Pantalla": "LCD de 4 pulgadas con segunda línea",
+      "Comunicación": "RS232 y USB Device",
+      "Perfiles de secado": "Estándar y rápido",
+      "Métodos almacenados": "2",
+      "Repetibilidad de humedad": "0,15 % (muestra de 3 g); 0,02 % (muestra de 10 g)"
     },
-    "source": "https://eu-en.ohaus.com/en-eu/products/moisture-analyzers/mb32",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-MB92-Moisture-Analyzer.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de nueva familia OHAUS MB; no sustituye especificaciones del modelo",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "source": "https://japan.ohaus.com/en-mec/products/balances-scales/moisture-analyzers/mb32/moisture-analyzer-mb32-eu",
+    "highlights": [
+      "Pantalla LCD de 4 pulgadas con segunda línea",
+      "Hasta 2 métodos de secado",
+      "Perfiles estándar y rápido"
+    ],
+    "applications": [
+      "Determinación de humedad",
+      "Determinación de sólidos",
+      "Pesaje"
+    ],
+    "image": "/assets/ohaus/mb32.jpg",
+    "image_source": "OHAUS – fotografía oficial del modelo",
+    "source_status": "Ficha individual OHAUS verificada",
+    "product_url": "productos/ohaus-mb32-eu-30971922.html"
   },
   {
     "id": "ohaus-st10r-30073984",
@@ -11141,5 +11202,43 @@
     "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STDO11-Dissolved-Oxygen-Electrode.jpg",
     "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter DO electrodes",
     "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
+  },
+  {
+    "id": "ohaus-mb23-80252470",
+    "brand": "OHAUS",
+    "category": "Analizadores de humedad",
+    "sub": "MB",
+    "model": "MB23",
+    "code": "80252470",
+    "capacity": "110 g",
+    "readability": "0,1 %",
+    "description": "Analizador de humedad OHAUS MB23 de 110 g, legibilidad de peso de 10 mg y lectura de humedad de 0,1 %. Calentamiento infrarrojo de 50 a 160 °C, pantalla LCD y comunicación RS232. Referencia 80252470 para alimentación de 230 V.",
+    "specs": {
+      "Capacidad máxima": "110 g",
+      "Legibilidad de peso": "0,01 g (10 mg)",
+      "Lectura de humedad": "0,1 %",
+      "Tamaño del plato": "Ø 90 mm",
+      "Tipo de calefactor": "Infrarrojo",
+      "Rango de temperatura": "50–160 °C, en pasos de 5 °C",
+      "Alimentación": "200–240 V CA, 50/60 Hz; versión de 230 V",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232",
+      "Perfiles de secado": "Estándar"
+    },
+    "source": "https://mea-en.ohaus.com/en-mea/products/balances-scales/moisture-analyzers/mb23/moisture-analyzer-mb23",
+    "highlights": [
+      "Calentamiento infrarrojo de 50 a 160 °C",
+      "Pantalla LCD retroiluminada",
+      "Finalización manual, temporizada o automática"
+    ],
+    "applications": [
+      "Determinación de humedad",
+      "Determinación de sólidos",
+      "Pesaje"
+    ],
+    "image": "/assets/ohaus/mb23.jpg",
+    "image_source": "OHAUS – fotografía oficial del modelo",
+    "source_status": "Ficha individual OHAUS verificada",
+    "product_url": "productos/ohaus-mb23-80252470.html"
   }
 ]
