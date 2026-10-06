@@ -8764,78 +8764,6 @@
     "product_url": "productos/ohaus-mb62-eu-30971923.html"
   },
   {
-    "id": "ohaus-st310-83033965",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST310",
-    "code": "83033965",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST310 con conector BNC, para mediciones rutinarias de pH en laboratorio.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/electrochemistry/electrodes/ph-electrodes/st310",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del electrodo OHAUS ST310",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
-  },
-  {
-    "id": "ohaus-st320-ip67-30468960",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST320 IP67 3 m",
-    "code": "30468960",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST320 IP67 con cable de 3 m, diseñado para mediciones donde se requiere mayor alcance y protección frente al agua.",
-    "specs": {},
-    "source": "https://mx.ohaus.com/es-mx/",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST320-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS ST320 IP67 3 m",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
-  },
-  {
-    "id": "ohaus-stdo11-30031639",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Oxígeno disuelto",
-    "model": "STDO11",
-    "code": "30031639",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo OHAUS Starter STDO11 para medición de oxígeno disuelto, compatible con equipos Starter correspondientes.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/electrochemistry/electrodes/dissolved-oxygen-electrodes/stdo11",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STDO11-Dissolved-Oxygen-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS STDO11",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
-  },
-  {
-    "id": "ohaus-stcon5-30681116",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Conductividad",
-    "model": "STCON5",
-    "code": "30681116",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo OHAUS Starter STCON5 para medición de conductividad en aplicaciones de laboratorio y análisis de agua.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/electrochemistry/electrodes/conductivity-electrodes/stcon5",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STCON5-Conductivity-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS STCON5",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
-  },
-  {
     "id": "ohaus-80850087",
     "brand": "OHAUS",
     "category": "Accesorios y consumibles",
@@ -9297,78 +9225,6 @@
     "image": "https://www.scalesgalore.com/Ohaus/Ohaus-pH-Buffer-Solution.jpg",
     "image_source": "Imagen referencial de soluciones/consumibles OHAUS para análisis de agua",
     "source_status": "Referencia y código verificados en OHAUS"
-  },
-  {
-    "id": "ohaus-stref1-30059253",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Referencia",
-    "model": "STREF1",
-    "code": "30059253",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de referencia OHAUS STREF1, cuerpo de vidrio y cable de 1,1 m.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ref-electrode-stref1",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STREF1-Reference-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS STREF1",
-    "source_status": "Fuente oficial OHAUS verificada"
-  },
-  {
-    "id": "ohaus-st350-30129354",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST350",
-    "code": "30129354",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS ST350, rango 0–14 pH y cable de 1 m.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/electrochemistry/electrodes/ph-electrodes/st350",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST350-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del electrodo OHAUS ST350",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
-  },
-  {
-    "id": "ohaus-sttemp30-83033970",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Temperatura",
-    "model": "STTEMP30",
-    "code": "83033970",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de temperatura OHAUS STTEMP30, 0–100 °C, acero inoxidable y sensor 30 kΩ.",
-    "specs": {},
-    "source": "https://kr.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/temperature-electrode-sttemp30",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STTEMP30-Temperature-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS STTEMP30",
-    "source_status": "Fuente oficial OHAUS verificada"
-  },
-  {
-    "id": "ohaus-st280-30681114",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST280",
-    "code": "30681114",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS ST280, 0–14 pH, cuerpo de vidrio y cable de 1 m.",
-    "specs": {},
-    "source": "https://us.ohaus.com/en-us/products/electrochemistry/electrodes/ph-electrodes/st280",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST280-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen del modelo OHAUS ST280",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
   },
   {
     "id": "ohaus-px84-30429839",
@@ -10839,226 +10695,6 @@
     "image_source": "OHAUS – fotografía de la configuración de familia",
     "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
     "product_url": "/productos/ohaus-exp12202.html"
-  },
-  {
-    "id": "ohaus-st210",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST210",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST210 para aplicaciones rutinarias de laboratorio.",
-    "specs": {
-      "Rango de medición": "0.00 – 14 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-st230",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST230",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST230 para mediciones rutinarias y muestras acuosas.",
-    "specs": {
-      "Rango de medición": "0.00 – 14 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-st260",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST260",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST260 para aplicaciones especializadas de laboratorio.",
-    "specs": {
-      "Rango de medición": "0.00 – 14.00 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-st270",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST270",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST270 para aplicaciones especializadas de laboratorio.",
-    "specs": {
-      "Rango de medición": "0.00 – 14.00 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-st272",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "ST272",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter ST272 para aplicaciones de laboratorio.",
-    "specs": {
-      "Rango de medición": "2.00 – 12.00 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stmicro5",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "STMICRO5",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo micro de pH OHAUS Starter STMICRO5 para volúmenes pequeños y recipientes estrechos.",
-    "specs": {
-      "Rango de medición": "0.00 – 14 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stpure",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "STPURE",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter STPURE para muestras de baja fuerza iónica y agua pura.",
-    "specs": {
-      "Rango de medición": "0.00 – 14 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stsurf",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "pH",
-    "model": "STSURF",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de pH OHAUS Starter STSURF para medición sobre superficies.",
-    "specs": {
-      "Rango de medición": "2.00 – 12.00 pH"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-ST310-pH-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter pH electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stcon3",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Conductividad",
-    "model": "STCON3",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de conductividad OHAUS Starter STCON3 para un amplio rango de medición.",
-    "specs": {
-      "Rango de medición": "2 µS/cm – 200 mS/cm"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STCON5-Conductivity-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter conductivity electrodes",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stcon7",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Conductividad",
-    "model": "STCON7",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de conductividad OHAUS Starter STCON7 para conductividad baja.",
-    "specs": {
-      "Rango de medición": "0,02 – 200 µS/cm"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STCON5-Conductivity-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter conductivity electrodes",
-    "source_status": "Modelo y aplicación respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
-  },
-  {
-    "id": "ohaus-stdo21-1m",
-    "brand": "OHAUS",
-    "category": "Electrodos",
-    "sub": "Oxígeno disuelto",
-    "model": "STDO21 1M",
-    "code": "",
-    "capacity": "",
-    "readability": "",
-    "description": "Electrodo de oxígeno disuelto OHAUS Starter STDO21 con cable de 1 m.",
-    "specs": {
-      "Rango de medición": "0.00 – 20.0 mg/L (ppm)"
-    },
-    "source": "https://mec.ohaus.com/en-us/starterelectrodes",
-    "highlights": [],
-    "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-STDO11-Dissolved-Oxygen-Electrode.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Starter DO electrodes",
-    "source_status": "Modelo y rango verificados en familia oficial OHAUS; código no consignado sin verificación individual"
   },
   {
     "id": "ohaus-mb23-80252470",
@@ -13636,6 +13272,2043 @@
       "https://us.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-400d-do-portable/do-meter-st400d-g-%281%29",
       "https://us.ohaus.com/en-us/starter400ddoportable",
       "https://manuals.plus/m/1ad591560dce7f52b35a41bbef85b695c16e1e4c5ea5fc3fcc5af7fd67d986f8"
+    ]
+  },
+  {
+    "id": "ohaus-stcon7",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON7",
+    "code": "30080693",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON7 para Conductividad. Cuerpo de plástico y cable de 1 m. Intervalo: 0,02 µS/cm–200 µS/cm. Para mediciones de baja conductividad en agua pura y destilada.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "ABS",
+      "Intervalo de medición": "0,02 µS/cm–200 µS/cm",
+      "Dimensiones (largo × diámetro)": "95 mm × 12 mm",
+      "Material de la celda": "Acero 316L",
+      "Conector": "Mini-DIN",
+      "Temperatura de operación de la sonda": "0–60 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; ST400M; AB23EC; ST300C; AB33EC"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon7",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon7",
+      "https://deon0hlc66wzg.cloudfront.net/images/ohaus_stcon7_manual.pdf?v=3958208930"
+    ],
+    "highlights": [
+      "Conductividad · 0,02 µS/cm–200 µS/cm",
+      "Cable de 1 m",
+      "Cuerpo de plástico",
+      "Para mediciones de baja conductividad en agua pura y destilada."
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-0.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/474f5df8-3954-40b6-a729-ebde609794c1/STCON7_DMX-ID_4294967702_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,02 µS/cm–200 µS/cm",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "AB23EC",
+        "id": "ohaus-ab23ec-f"
+      },
+      {
+        "model": "ST300C",
+        "id": "ohaus-st300c-f"
+      },
+      {
+        "model": "AB33EC",
+        "id": "ohaus-ab33ec-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stcon8-w-chamb-30681235",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON8 con cámara",
+    "code": "30681235",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON8 con cámara para Conductividad. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,055–300 µS/cm. Versión con cámara de flujo para medición de baja conductividad.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,055–300 µS/cm",
+      "Dimensiones (largo × diámetro)": "155 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ NTC",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Configuración": "Con cámara de flujo",
+      "Medidores indicados por OHAUS": "AB33M1; ST400M; AB23EC; ST300C; AB33EC"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon8-w-flow-chamber",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon8-w-flow-chamber"
+    ],
+    "highlights": [
+      "Conductividad · 0,055–300 µS/cm",
+      "Cable de 1 m",
+      "Cuerpo de vidrio",
+      "Versión con cámara de flujo para medición de baja conductividad."
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-1.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/695800f5-b8b9-40fc-b3d1-50116f1fe991/STCON8_w_chamber_vertical_2_DMX_ID_4295006268_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,055–300 µS/cm",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "AB23EC",
+        "id": "ohaus-ab23ec-f"
+      },
+      {
+        "model": "ST300C",
+        "id": "ohaus-st300c-f"
+      },
+      {
+        "model": "AB33EC",
+        "id": "ohaus-ab33ec-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stcon3-ip67-3m-30468962",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON3 IP67 3 m",
+    "code": "30468962",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON3 IP67 3 m para Conductividad. Cuerpo de plástico y cable de 3 m. Intervalo: 2 µS/cm–200 mS/cm.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "3 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "2 µS/cm–200 mS/cm",
+      "Dimensiones (largo × diámetro)": "135 mm × 15 mm",
+      "Temperatura de operación de la sonda": "0 °C–50 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Versión": "IP67, cable de 3 m",
+      "Peso neto": "165 g",
+      "Medidores indicados por OHAUS": "ST400M"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon3-ip67-3m",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/cond-electrode-stcon3-ip67-3m"
+    ],
+    "highlights": [
+      "Conductividad · 2 µS/cm–200 mS/cm",
+      "Cable de 3 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-2.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/51f62567-f126-4b72-8aab-943b5879a062/Cond-Electrode-STCON3-IP67-3m_DMX-ID_4294991667_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "2 µS/cm–200 mS/cm",
+    "compatible_links": [
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stcon5-30681116",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON5",
+    "code": "30681116",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON5 para Conductividad. Cuerpo de vidrio y cable de 1 m. Intervalo: 50–2000 µS/cm.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "50–2000 µS/cm",
+      "Dimensiones (largo × diámetro)": "155 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ NTC",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Medidores indicados por OHAUS": "AB33M1; ST400M; AB23EC; ST300C; AB33EC"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/conductivity-electrode-stcon5",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/conductivity-electrode-stcon5"
+    ],
+    "highlights": [
+      "Conductividad · 50–2000 µS/cm",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-3.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/00f4f822-0248-483a-b171-8cfe729adab5/STCON5_DMX_ID_4295006267_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "50–2000 µS/cm",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "AB23EC",
+        "id": "ohaus-ab23ec-f"
+      },
+      {
+        "model": "ST300C",
+        "id": "ohaus-st300c-f"
+      },
+      {
+        "model": "AB33EC",
+        "id": "ohaus-ab33ec-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stcon8-30681117",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON8",
+    "code": "30681117",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON8 para Conductividad. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,055–300 µS/cm.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,055–300 µS/cm",
+      "Dimensiones (largo × diámetro)": "155 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ NTC",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Medidores indicados por OHAUS": "AB33M1; ST400M; AB23EC; ST300C; AB33EC"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/conductivity-electrode-stcon8",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/conductivity-electrode-stcon8"
+    ],
+    "highlights": [
+      "Conductividad · 0,055–300 µS/cm",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-4.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/10db16ed-51f3-4944-b7b5-50dd845364ac/STCON8_DMX_ID_4295006269_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,055–300 µS/cm",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "AB23EC",
+        "id": "ohaus-ab23ec-f"
+      },
+      {
+        "model": "ST300C",
+        "id": "ohaus-st300c-f"
+      },
+      {
+        "model": "AB33EC",
+        "id": "ohaus-ab33ec-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stcon3",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Conductividad",
+    "family": "Conductividad",
+    "model": "STCON3",
+    "code": "83033972",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STCON3 para Conductividad. Cuerpo de plástico y cable de 1,1 m. Intervalo: 2 µS/cm–200 mS/cm.",
+    "specs": {
+      "Tipo de sensor": "Conductividad",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "2 µS/cm–200 mS/cm",
+      "Dimensiones (largo × diámetro)": "135 mm × 15 mm",
+      "Temperatura de operación de la sonda": "0 °C–50 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Peso neto": "85 g",
+      "Medidores indicados por OHAUS": "AB33M1; ST400M; AB23EC; ST300C; AB33EC"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/4-ring-conductivity-electrode-stcon3",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/4-ring-conductivity-electrode-stcon3"
+    ],
+    "highlights": [
+      "Conductividad · 2 µS/cm–200 mS/cm",
+      "Cable de 1,1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de Conductividad"
+    ],
+    "image": "/assets/ohaus/el-5.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/342eaa41-9965-4c03-8574-e8a18a420de2/STCON3_DMX-ID_31436_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "2 µS/cm–200 mS/cm",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "AB23EC",
+        "id": "ohaus-ab23ec-f"
+      },
+      {
+        "model": "ST300C",
+        "id": "ohaus-st300c-f"
+      },
+      {
+        "model": "AB33EC",
+        "id": "ohaus-ab33ec-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stdo11-30031639",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Oxígeno disuelto",
+    "family": "Oxígeno disuelto",
+    "model": "STDO11",
+    "code": "30031639",
+    "capacity": "",
+    "readability": "",
+    "description": "Sonda OHAUS STDO11 para Oxígeno disuelto. Cuerpo de plástico y cable de 1 m. Intervalo: 0–200%.",
+    "specs": {
+      "Tipo de sensor": "Oxígeno disuelto",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0–200%",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–50 °C",
+      "Sensor de temperatura": "No integrado",
+      "Tecnología": "Polarográfica",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "ST300D"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo11",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo11"
+    ],
+    "highlights": [
+      "Oxígeno disuelto · 0–200%",
+      "Cable de 1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de Oxígeno disuelto"
+    ],
+    "image": "/assets/ohaus/el-6.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/45df897b-9f44-42d0-b9c9-6eb87c64d263/STDO11_DMX-ID_29434_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0–200%",
+    "compatible_links": [
+      {
+        "model": "ST300D",
+        "id": "ohaus-st300d-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stdo21-1m",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Oxígeno disuelto",
+    "family": "Oxígeno disuelto",
+    "model": "STDO21 1 m",
+    "code": "30378544",
+    "capacity": "",
+    "readability": "",
+    "description": "Sonda OHAUS STDO21 1 m para Oxígeno disuelto. Cuerpo de plástico y cable de 1 m. Intervalo: 0–20 mg/L (ppm).",
+    "specs": {
+      "Tipo de sensor": "Oxígeno disuelto",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0–20 mg/L (ppm)",
+      "Dimensiones (largo × diámetro)": "125 mm × 16 mm",
+      "Temperatura de operación de la sonda": "0 °C–60 °C",
+      "Tecnología": "Óptica",
+      "Peso neto": "105 g",
+      "Medidores indicados por OHAUS": "ST400D"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo21-1m-cable",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo21-1m-cable"
+    ],
+    "highlights": [
+      "Oxígeno disuelto · 0–20 mg/L (ppm)",
+      "Cable de 1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de Oxígeno disuelto"
+    ],
+    "image": "/assets/ohaus/el-7.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/0df077a7-68ca-45db-bff5-adc43a0b071e/STDO21_with_5_meters_cable_DMX-ID_4294975698_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0–20 mg/L (ppm)",
+    "compatible_links": [
+      {
+        "model": "ST400D",
+        "id": "ohaus-st400d-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stdo21-5m-30378545",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Oxígeno disuelto",
+    "family": "Oxígeno disuelto",
+    "model": "STDO21 5 m",
+    "code": "30378545",
+    "capacity": "",
+    "readability": "",
+    "description": "Sonda OHAUS STDO21 5 m para Oxígeno disuelto. Cuerpo de plástico y cable de 5 m. Intervalo: 0–20 mg/L (ppm).",
+    "specs": {
+      "Tipo de sensor": "Oxígeno disuelto",
+      "Longitud del cable": "5 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0–20 mg/L (ppm)",
+      "Dimensiones (largo × diámetro)": "125 mm × 16 mm",
+      "Temperatura de operación de la sonda": "0 °C–60 °C",
+      "Tecnología": "Óptica",
+      "Peso neto": "105 g",
+      "Medidores indicados por OHAUS": "ST400D"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo21-5m-cable",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/do-electrode-stdo21-5m-cable"
+    ],
+    "highlights": [
+      "Oxígeno disuelto · 0–20 mg/L (ppm)",
+      "Cable de 5 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de Oxígeno disuelto"
+    ],
+    "image": "/assets/ohaus/el-7.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/0df077a7-68ca-45db-bff5-adc43a0b071e/STDO21_with_5_meters_cable_DMX-ID_4294975698_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0–20 mg/L (ppm)",
+    "compatible_links": [
+      {
+        "model": "ST400D",
+        "id": "ohaus-st400d-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-storp1-30038555",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "ORP",
+    "family": "ORP",
+    "model": "STORP1",
+    "code": "30038555",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STORP1 para ORP. Cuerpo de plástico y cable de 1,1 m. Intervalo: −1000–1000 mV.",
+    "specs": {
+      "Tipo de sensor": "ORP",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "−1000–1000 mV",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/orp-electrode-storp1",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/orp-electrode-storp1"
+    ],
+    "highlights": [
+      "ORP · −1000–1000 mV",
+      "Cable de 1,1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de ORP"
+    ],
+    "image": "/assets/ohaus/el-9.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/617ec47d-9662-4b8e-8e34-f476588168a3/STORP1_DMX-ID_29430_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "−1000–1000 mV",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-storp2-30038553",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "ORP",
+    "family": "ORP",
+    "model": "STORP2",
+    "code": "30038553",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STORP2 para ORP. Cuerpo de vidrio y cable de 1,1 m. Intervalo: −1000–1000 mV.",
+    "specs": {
+      "Tipo de sensor": "ORP",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "−1000–1000 mV",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/orp-electrode-storp2",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/orp-electrode-storp2"
+    ],
+    "highlights": [
+      "ORP · −1000–1000 mV",
+      "Cable de 1,1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de ORP"
+    ],
+    "image": "/assets/ohaus/el-10.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/35bbf69d-453c-497c-aeba-ae50c1289ee6/STORP2_DMX-ID_29446_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "−1000–1000 mV",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st210",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST210",
+    "code": "83033966",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST210 para pH. Cuerpo de plástico y cable de 1,1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st210",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st210"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1,1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-11.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/1c2c7583-5a24-4085-9e13-3ab2f3e5df7b/ST210_DMX-ID_31424_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st230",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST230",
+    "code": "83033968",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST230 para pH. Cuerpo de vidrio y cable de 1,1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st230",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st230"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1,1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-12.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/d9359b3a-7d36-485a-a61d-956156f91121/ST230_DMX-ID_31426_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st272",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST272",
+    "code": "30393265",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST272 para pH. Cuerpo de plástico y cable de 1 m. Intervalo: 2,00–12,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "2,00–12,00 pH",
+      "Dimensiones (largo × diámetro)": "160 mm × 15 mm",
+      "Temperatura de operación de la sonda": "0 °C–50 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "95 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st272",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st272"
+    ],
+    "highlights": [
+      "pH · 2,00–12,00 pH",
+      "Cable de 1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-13.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/555e29cd-04da-45d1-beab-bb46f7ac298f/ST272_oblique_DMX-ID_4294989306_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "2,00–12,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st280-30681114",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST280",
+    "code": "30681114",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST280 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "160 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "5 °C–60 °C",
+      "Sensor de temperatura": "No integrado",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st280",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st280"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-14.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/d0818748-fbe7-45d6-8572-f8a094adb30b/ST280_DMX_ID_4295006262_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st310-83033965",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST310",
+    "code": "83033965",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST310 para pH. Cuerpo de plástico y cable de 1,1 m. Intervalo: 0,00–14,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0,00–14,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Peso neto": "80 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st310",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st310"
+    ],
+    "highlights": [
+      "pH · 0,00–14,00 pH",
+      "Cable de 1,1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-15.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/e63639ba-ad5f-4d41-9653-4abb503309e5/ST310_DMX-ID_31428_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st320-83033967",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST320",
+    "code": "83033967",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST320 para pH. Cuerpo de plástico y cable de 1,1 m. Intervalo: 0,00–13,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0,00–13,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Peso neto": "80 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st320",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st320"
+    ],
+    "highlights": [
+      "pH · 0,00–13,00 pH",
+      "Cable de 1,1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-16.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/b314b576-47f0-4ba2-a8ab-5cd0588f5e80/ST320_DMX-ID_31434_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–13,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st320-ip67-30468960",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST320 IP67 3 m",
+    "code": "30468960",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST320 IP67 3 m para pH. Cuerpo de plástico y cable de 3 m. Intervalo: 0,00–13,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "3 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0,00–13,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–80 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Versión": "IP67, cable de 3 m",
+      "Peso neto": "165 g",
+      "Medidores indicados por OHAUS": "ST400M; ST400"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st320-ip67-3m",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st320-ip67-3m",
+      "https://mx.ohaus.com/es-mx/products/instruments-equipment/water-analysis/starter-400-ph-portable/ph-meter-st400-f"
+    ],
+    "highlights": [
+      "pH · 0,00–13,00 pH",
+      "Cable de 3 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-17.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/6522971e-d0c7-4588-8375-a33fa5c87cd4/pH-Electrode-ST320-IP67-3m-ZH_DMX-ID_4294991666_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–13,00 pH",
+    "compatible_links": [
+      {
+        "model": "ST400M",
+        "id": "ohaus-st400m-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st322-30681113",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST322",
+    "code": "30681113",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST322 para pH. Cuerpo de plástico y cable de 1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "165 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "5 °C–60 °C",
+      "Sensor de temperatura": "30 kΩ NTC",
+      "Compensación de temperatura": "Automática con medidor compatible",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st322",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st322"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-18.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/24f8f11c-6689-4d0d-b5c3-a6c4e16a3b94/ST322_DMX_ID_4295006263_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st410-30656037",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST410",
+    "code": "30656037",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST410 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "5 °C–90 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st410",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st410"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-19.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/68a1cac6-fac2-4520-8575-19b68b606801/ST410_FRONT_DMX-ID_4295006208_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st420-30681115",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST420",
+    "code": "30681115",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST420 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 2,00–12,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "2,00–12,00 pH",
+      "Dimensiones (largo × diámetro)": "160 mm × ≈12 mm",
+      "Temperatura de operación de la sonda": "5 °C–90 °C",
+      "Sensor de temperatura": "No integrado",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st420",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st420"
+    ],
+    "highlights": [
+      "pH · 2,00–12,00 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-20.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/f3c3139a-e178-46d3-8675-8558f13ab354/ST420_DMX_ID_4295006265_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "2,00–12,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stmicro5",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "STMICRO5",
+    "code": "30087566",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STMICRO5 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14 pH. Microelectrodo de 5 mm de diámetro para recipientes estrechos.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "80 mm × 5 mm",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stmicro5",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stmicro5"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio",
+      "Microelectrodo de 5 mm de diámetro para recipientes estrechos."
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-21.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/e0858439-fda1-4bd5-b52d-09bc77878656/STMICRO5_DMX-ID_4294967707_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stmicro8-30087569",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "STMICRO8",
+    "code": "30087569",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STMICRO8 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14 pH. Microelectrodo de 8 mm de diámetro para recipientes estrechos.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "150 mm × 8 mm",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "80 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stmicro8",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stmicro8"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio",
+      "Microelectrodo de 8 mm de diámetro para recipientes estrechos."
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-22.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/e54b2846-76bf-4470-885c-f2d8217556f1/STMICRO8_DMX-ID_4294967734_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stpure",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "STPURE",
+    "code": "83033969",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STPURE para pH. Cuerpo de vidrio y cable de 1,1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stpure",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stpure"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1,1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-23.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/d1748a32-b1a6-4a28-83a8-a23677b019ae/STPURE_DMX-ID_31438_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st260",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST260",
+    "code": "30129357",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST260 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st260-en",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st260-en"
+    ],
+    "highlights": [
+      "pH · 0,00–14,00 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-24.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/5ed1af32-9049-45d4-9b53-43a12c730353/ST260_DMX-ID_4294968704_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st270",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST270",
+    "code": "30240974",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST270 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st270",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st270"
+    ],
+    "highlights": [
+      "pH · 0,00–14,00 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-25.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/55f71458-78d3-4996-97c8-b770ec78ae51/ST270_DMX_ID_4294971740_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-st350-30129354",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "ST350",
+    "code": "30129354",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS ST350 para pH. Cuerpo de vidrio y cable de 1 m. Intervalo: 0,00–14 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Vidrio",
+      "Intervalo de medición": "0,00–14 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st350-en",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-st350-en"
+    ],
+    "highlights": [
+      "pH · 0,00–14 pH",
+      "Cable de 1 m",
+      "Cuerpo de vidrio"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-26.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/2d8a2dcd-c0ca-4681-9a70-4e4b2f9fc9f2/ST350_Vertical_DMX-ID_4294968705_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0,00–14 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stsurf",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "pH",
+    "family": "pH",
+    "model": "STSURF",
+    "code": "30129470",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STSURF para pH. Cuerpo de plástico y cable de 1 m. Intervalo: 2,00–12,00 pH.",
+    "specs": {
+      "Tipo de sensor": "pH",
+      "Longitud del cable": "1 m",
+      "Material del cuerpo": "Plástico",
+      "Intervalo de medición": "2,00–12,00 pH",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stsurf-en",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ph-electrode-stsurf-en"
+    ],
+    "highlights": [
+      "pH · 2,00–12,00 pH",
+      "Cable de 1 m",
+      "Cuerpo de plástico"
+    ],
+    "applications": [
+      "Medición de pH"
+    ],
+    "image": "/assets/ohaus/el-27.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/ed4eca41-58a9-4657-9478-a733429c60c9/STSURF_DMX-ID_4294968706_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "2,00–12,00 pH",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-stref1-30059253",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Referencia",
+    "family": "Referencia",
+    "model": "STREF1",
+    "code": "30059253",
+    "capacity": "",
+    "readability": "",
+    "description": "Electrodo OHAUS STREF1 para Referencia. Cuerpo de vidrio y cable de 1,1 m. Se utiliza como referencia junto con un electrodo indicador y un medidor con entrada de referencia compatible.",
+    "specs": {
+      "Tipo de sensor": "Referencia",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Vidrio",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Sensor de temperatura": "No integrado",
+      "Peso neto": "70 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ref-electrode-stref1",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/ref-electrode-stref1"
+    ],
+    "highlights": [
+      "Referencia · Electrodo de referencia",
+      "Cable de 1,1 m",
+      "Cuerpo de vidrio",
+      "Se utiliza como referencia junto con un electrodo indicador y un medidor con entrada de referencia compatible."
+    ],
+    "applications": [
+      "Medición de Referencia"
+    ],
+    "image": "/assets/ohaus/el-28.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/7c36abaf-3027-477e-bfc0-a1485ed6718f/STREF1_DMX-ID_31446_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      }
+    ]
+  },
+  {
+    "id": "ohaus-sttemp30-83033970",
+    "brand": "OHAUS",
+    "category": "Electrodos",
+    "sub": "Temperatura",
+    "family": "Temperatura",
+    "model": "STTEMP30",
+    "code": "83033970",
+    "capacity": "",
+    "readability": "",
+    "description": "Sonda OHAUS STTEMP30 para Temperatura. Cuerpo de acero inoxidable y cable de 1,1 m. Intervalo: 0–100°C.",
+    "specs": {
+      "Tipo de sensor": "Temperatura",
+      "Longitud del cable": "1,1 m",
+      "Material del cuerpo": "Acero inoxidable",
+      "Intervalo de medición": "0–100°C",
+      "Dimensiones (largo × diámetro)": "120 mm × 12 mm",
+      "Temperatura de operación de la sonda": "0 °C–100 °C",
+      "Sensor de temperatura": "30 kΩ",
+      "Peso neto": "80 g",
+      "Medidores indicados por OHAUS": "AB33M1; FB2200; ST5000i; AB41PH; ST5000; ST2200; ST300; ST400; AB33PH; AB23PH; ST300D"
+    },
+    "source": "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/temperature-electrode-sttemp30",
+    "technical_sources": [
+      "https://mec.ohaus.com/en-us/products/instruments-equipment/water-analysis/starter-electrodes/temperature-electrode-sttemp30",
+      "https://mx.ohaus.com/es-mx/products/instruments-equipment/water-analysis/starter-300d-do-portable/do-meter-st300d"
+    ],
+    "highlights": [
+      "Temperatura · 0–100°C",
+      "Cable de 1,1 m",
+      "Cuerpo de acero inoxidable"
+    ],
+    "applications": [
+      "Medición de Temperatura"
+    ],
+    "image": "/assets/ohaus/el-29.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://mec.ohaus.com/getmedia/901236e4-bfc7-4d48-8e49-32fde1b345eb/STTEMP30_DMX-ID_31420_WebShop",
+    "source_status": "Especificaciones contrastadas con referencias OHAUS",
+    "range": "0–100°C",
+    "compatible_links": [
+      {
+        "model": "AB33M1",
+        "id": "ohaus-ab33m1-f"
+      },
+      {
+        "model": "AB41PH",
+        "id": "ohaus-ab41ph-f"
+      },
+      {
+        "model": "ST5000",
+        "id": "ohaus-st5000-f"
+      },
+      {
+        "model": "ST2200",
+        "id": "ohaus-st2200f"
+      },
+      {
+        "model": "ST300",
+        "id": "ohaus-st300-f"
+      },
+      {
+        "model": "ST400",
+        "id": "ohaus-st400-f"
+      },
+      {
+        "model": "AB33PH",
+        "id": "ohaus-ab33ph-f"
+      },
+      {
+        "model": "AB23PH",
+        "id": "ohaus-ab23ph-f"
+      },
+      {
+        "model": "ST300D",
+        "id": "ohaus-st300d-f"
+      }
     ]
   }
 ]
