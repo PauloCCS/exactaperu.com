@@ -8453,14 +8453,29 @@
     "code": "31059170",
     "capacity": "120 g",
     "readability": "0,01 mg",
-    "description": "Balanza semi-micro OHAUS Explorer Plus EXP125/AD, capacidad 120 g y legibilidad 0,01 mg.",
-    "specs": {},
+    "description": "Balanza semimicro OHAUS Explorer Plus EXP para aplicaciones exigentes de pesaje, con funciones avanzadas de trazabilidad, cumplimiento y conectividad.",
+    "specs": {
+      "Modelo": "EXP125/AD",
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,01 mg",
+      "Tamaño del plato": "80 mm × 80 mm",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    },
     "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp125-ad-(1)",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://mx.ohaus.com/getmedia/2efc7895-6c54-4c86-98e3-84d3fbce9916/EXP_SemiMicro_Front_DMX-ID_4295003599_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mx.ohaus.com/getmedia/10f733ae-415d-43a7-86be-1872dec6859c/Explorer_Plus_Semi-Micro_draftshield_light_Right_DMX_ID_4295018329_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-exp125-ad.html"
   },
   {
     "id": "ohaus-exp125d-ad",
@@ -8469,16 +8484,31 @@
     "sub": "Semi-Micro",
     "model": "EXP125D/AD",
     "code": "",
-    "capacity": "82/120 g",
-    "readability": "0,01/0,1 mg",
-    "description": "Balanza semi-micro OHAUS Explorer Plus EXP125D/AD, rango dual 82/120 g y legibilidad 0,01/0,1 mg.",
-    "specs": {},
+    "capacity": "82 g / 120 g",
+    "readability": "0,01 mg / 0,1 mg",
+    "description": "Balanza semimicro OHAUS Explorer Plus EXP para aplicaciones exigentes de pesaje, con funciones avanzadas de trazabilidad, cumplimiento y conectividad.",
+    "specs": {
+      "Modelo": "EXP125D/AD",
+      "Capacidad máxima": "82 g / 120 g",
+      "Legibilidad": "0,01 mg / 0,1 mg",
+      "Tamaño del plato": "80 mm × 80 mm",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    },
     "source": "https://mx.ohaus.com/es-mx/explorerplussemi-microexp-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://mx.ohaus.com/getmedia/2efc7895-6c54-4c86-98e3-84d3fbce9916/EXP_SemiMicro_Front_DMX-ID_4295003599_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; SKU regional no consignado hasta verificación inequívoca"
+    "image": "https://mx.ohaus.com/getmedia/10f733ae-415d-43a7-86be-1872dec6859c/Explorer_Plus_Semi-Micro_draftshield_light_Right_DMX_ID_4295018329_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; SKU regional no consignado hasta verificación inequívoca",
+    "product_url": "/productos/ohaus-exp125d-ad.html"
   },
   {
     "id": "ohaus-exp225-ad",
@@ -8489,14 +8519,29 @@
     "code": "31059172",
     "capacity": "220 g",
     "readability": "0,01 mg",
-    "description": "Balanza semi-micro OHAUS Explorer Plus EXP225/AD, capacidad 220 g y legibilidad 0,01 mg.",
-    "specs": {},
+    "description": "Balanza semimicro OHAUS Explorer Plus EXP para aplicaciones exigentes de pesaje, con funciones avanzadas de trazabilidad, cumplimiento y conectividad.",
+    "specs": {
+      "Modelo": "EXP225/AD",
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,01 mg",
+      "Tamaño del plato": "80 mm × 80 mm",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    },
     "source": "https://mx.ohaus.com/en-us/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp225-ad-(1)",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://mx.ohaus.com/getmedia/2efc7895-6c54-4c86-98e3-84d3fbce9916/EXP_SemiMicro_Front_DMX-ID_4295003599_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mx.ohaus.com/getmedia/10f733ae-415d-43a7-86be-1872dec6859c/Explorer_Plus_Semi-Micro_draftshield_light_Right_DMX_ID_4295018329_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-exp225-ad.html"
   },
   {
     "id": "ohaus-exp225d-ad",
@@ -8505,16 +8550,31 @@
     "sub": "Semi-Micro",
     "model": "EXP225D/AD",
     "code": "31059171",
-    "capacity": "120/220 g",
-    "readability": "0,01/0,1 mg",
-    "description": "Balanza semi-micro OHAUS Explorer Plus EXP225D/AD, capacidad 120/220 g y legibilidad 0,01/0,1 mg.",
-    "specs": {},
+    "capacity": "120 g / 220 g",
+    "readability": "0,01 mg / 0,1 mg",
+    "description": "Balanza semimicro OHAUS Explorer Plus EXP para aplicaciones exigentes de pesaje, con funciones avanzadas de trazabilidad, cumplimiento y conectividad.",
+    "specs": {
+      "Modelo": "EXP225D/AD",
+      "Capacidad máxima": "120 g / 220 g",
+      "Legibilidad": "0,01 mg / 0,1 mg",
+      "Tamaño del plato": "80 mm × 80 mm",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/explorer-plus-semi-micro-exp/semi-micro-balance-exp225d-ad-(1)",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://mx.ohaus.com/getmedia/2efc7895-6c54-4c86-98e3-84d3fbce9916/EXP_SemiMicro_Front_DMX-ID_4295003599_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mx.ohaus.com/getmedia/10f733ae-415d-43a7-86be-1872dec6859c/Explorer_Plus_Semi-Micro_draftshield_light_Right_DMX_ID_4295018329_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-exp225d-ad.html"
   },
   {
     "id": "ohaus-pr64e",
@@ -8525,14 +8585,26 @@
     "code": "30430060",
     "capacity": "62 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS PR PR64/E, capacidad 62 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
-    "specs": {},
+    "description": "Balanza analítica OHAUS PR PR64/E para aplicaciones rutinarias de pesaje en laboratorio, industria y educación, con operación sencilla y diseño robusto.",
+    "specs": {
+      "Modelo": "PR64/E",
+      "Número de artículo": "30430060",
+      "Capacidad máxima": "62 g",
+      "Legibilidad": "0,1 mg",
+      "Tamaño del plato": "90 mm",
+      "Calibración": "Calibración externa",
+      "Comunicación": "RS232"
+    },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr64-e",
-    "highlights": [],
+    "highlights": [
+      "Calibración externa",
+      "RS232"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-PR224-Analytical-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS PR Analytical",
-    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
+    "image": "https://mx.ohaus.com/getmedia/33972b56-36ad-4c46-b9b0-9ef727819529/PR-Analytical_Draftshield-Closed_Right_DMX-ID_4294988919_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado",
+    "product_url": "/productos/ohaus-pr64e.html"
   },
   {
     "id": "ohaus-pr124",
@@ -8543,18 +8615,25 @@
     "code": "",
     "capacity": "120 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS PR PR124, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
+    "description": "Balanza analítica OHAUS PR PR124 para aplicaciones rutinarias de pesaje en laboratorio, industria y educación, con operación sencilla y diseño robusto.",
     "specs": {
+      "Modelo": "PR124",
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Tamaño del plato": "90 mm",
       "Calibración": "InCal™ semiautomática",
-      "Comunicación": "RS232",
-      "Pantalla": "LCD retroiluminada"
+      "Comunicación": "RS232"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124",
-    "highlights": [],
+    "highlights": [
+      "InCal™ semiautomática",
+      "RS232"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-PR224-Analytical-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS PR Analytical",
-    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
+    "image": "https://mx.ohaus.com/getmedia/33972b56-36ad-4c46-b9b0-9ef727819529/PR-Analytical_Draftshield-Closed_Right_DMX-ID_4294988919_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado",
+    "product_url": "/productos/ohaus-pr124.html"
   },
   {
     "id": "ohaus-pr124e",
@@ -8565,18 +8644,25 @@
     "code": "30431405",
     "capacity": "120 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS PR PR124/E, capacidad 120 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
+    "description": "Balanza analítica OHAUS PR PR124/E para aplicaciones rutinarias de pesaje en laboratorio, industria y educación, con operación sencilla y diseño robusto.",
     "specs": {
-      "Calibración": "Externa",
-      "Comunicación": "RS232",
-      "Pantalla": "LCD retroiluminada"
+      "Modelo": "PR124/E",
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Tamaño del plato": "90 mm",
+      "Calibración": "Calibración externa",
+      "Comunicación": "RS232"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr124-e",
-    "highlights": [],
+    "highlights": [
+      "Calibración externa",
+      "RS232"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-PR224-Analytical-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS PR Analytical",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mx.ohaus.com/getmedia/33972b56-36ad-4c46-b9b0-9ef727819529/PR-Analytical_Draftshield-Closed_Right_DMX-ID_4294988919_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-pr124e.html"
   },
   {
     "id": "ohaus-pr224",
@@ -8587,18 +8673,25 @@
     "code": "30430061",
     "capacity": "220 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS PR PR224, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
+    "description": "Balanza analítica OHAUS PR PR224 para aplicaciones rutinarias de pesaje en laboratorio, industria y educación, con operación sencilla y diseño robusto.",
     "specs": {
+      "Modelo": "PR224",
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,1 mg",
+      "Tamaño del plato": "90 mm",
       "Calibración": "InCal™ semiautomática",
-      "Comunicación": "RS232",
-      "Pantalla": "LCD retroiluminada"
+      "Comunicación": "RS232"
     },
     "source": "https://mx.ohaus.com/es-mx/products/balances-scales/analytical-balances/pr-series-analytical/electronic-balance-pr224",
-    "highlights": [],
+    "highlights": [
+      "InCal™ semiautomática",
+      "RS232"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-PR224-Analytical-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS PR Analytical",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mx.ohaus.com/getmedia/33972b56-36ad-4c46-b9b0-9ef727819529/PR-Analytical_Draftshield-Closed_Right_DMX-ID_4294988919_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-pr224.html"
   },
   {
     "id": "ohaus-pr224e",
@@ -8609,18 +8702,25 @@
     "code": "",
     "capacity": "220 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS PR PR224/E, capacidad 220 g y legibilidad 0,1 mg, para pesaje rutinario de laboratorio.",
+    "description": "Balanza analítica OHAUS PR PR224/E para aplicaciones rutinarias de pesaje en laboratorio, industria y educación, con operación sencilla y diseño robusto.",
     "specs": {
-      "Calibración": "Externa",
-      "Comunicación": "RS232",
-      "Pantalla": "LCD retroiluminada"
+      "Modelo": "PR224/E",
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,1 mg",
+      "Tamaño del plato": "90 mm",
+      "Calibración": "Calibración externa",
+      "Comunicación": "RS232"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pr-series-analytical/pr224-e",
-    "highlights": [],
+    "highlights": [
+      "Calibración externa",
+      "RS232"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-PR224-Analytical-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS PR Analytical",
-    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado"
+    "image": "https://mx.ohaus.com/getmedia/33972b56-36ad-4c46-b9b0-9ef727819529/PR-Analytical_Draftshield-Closed_Right_DMX-ID_4294988919_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones respaldados por ficha oficial OHAUS; código se mantiene solo cuando está verificado",
+    "product_url": "/productos/ohaus-pr224e.html"
   },
   {
     "id": "ohaus-mb62-eu-30971923",
@@ -9361,18 +9461,29 @@
     "code": "30429839",
     "capacity": "82 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS Pioneer PX84, 82 g x 0,1 mg, alimentación 100–240 VAC.",
+    "description": "Balanza analítica OHAUS Pioneer PX84 para pesaje de alta precisión en laboratorio, con diseño robusto y operación intuitiva.",
     "specs": {
+      "Capacidad máxima": "82 g",
+      "Legibilidad": "0,1 mg",
+      "Familia": "Pioneer PX",
+      "Alimentación": "100–240 VAC, 50/60 Hz",
       "Calibración": "InCal™ semiautomática",
       "Comunicación": "RS232 y USB Device",
-      "Pantalla": "LCD retroiluminada de 2 líneas"
+      "Tamaño del plato": "Ø 90 mm",
+      "Pantalla": "LCD retroiluminada de dos líneas",
+      "Protección contra corrientes de aire": "Incluida"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px84",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada de dos líneas",
+      "InCal™ semiautomática",
+      "RS232 y USB Device"
+    ],
     "applications": [],
-    "image": "https://us.ohaus.com/getmedia/3fdbdb44-d7d2-4f38-a6b7-f0f388777fb5/PX_Front_DMX-ID_4295002978_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mea-en.ohaus.com/getmedia/2bf0247e-0bda-4c90-a07a-ebc20ac46ce1/PX-Analytical_Draftshield-Closed_Right_DMX-ID_4294988787_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-px84-30429839.html"
   },
   {
     "id": "ohaus-px124-30429841",
@@ -9383,18 +9494,29 @@
     "code": "30429841",
     "capacity": "120 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS Pioneer PX124, 120 g x 0,1 mg, alimentación 100–240 VAC.",
+    "description": "Balanza analítica OHAUS Pioneer PX124 para pesaje de alta precisión en laboratorio, con diseño robusto y operación intuitiva.",
     "specs": {
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,1 mg",
+      "Familia": "Pioneer PX",
+      "Alimentación": "100–240 VAC, 50/60 Hz",
       "Calibración": "InCal™ semiautomática",
       "Comunicación": "RS232 y USB Device",
-      "Pantalla": "LCD retroiluminada de 2 líneas"
+      "Tamaño del plato": "Ø 90 mm",
+      "Pantalla": "LCD retroiluminada de dos líneas",
+      "Protección contra corrientes de aire": "Incluida"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px124",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada de dos líneas",
+      "InCal™ semiautomática",
+      "RS232 y USB Device"
+    ],
     "applications": [],
-    "image": "https://us.ohaus.com/getmedia/3fdbdb44-d7d2-4f38-a6b7-f0f388777fb5/PX_Front_DMX-ID_4295002978_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mea-en.ohaus.com/getmedia/2bf0247e-0bda-4c90-a07a-ebc20ac46ce1/PX-Analytical_Draftshield-Closed_Right_DMX-ID_4294988787_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-px124-30429841.html"
   },
   {
     "id": "ohaus-px224-30429845",
@@ -9405,18 +9527,29 @@
     "code": "30429845",
     "capacity": "220 g",
     "readability": "0,1 mg",
-    "description": "Balanza analítica OHAUS Pioneer PX224, 220 g x 0,1 mg, alimentación 100–240 VAC.",
+    "description": "Balanza analítica OHAUS Pioneer PX224 para pesaje de alta precisión en laboratorio, con diseño robusto y operación intuitiva.",
     "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,1 mg",
+      "Familia": "Pioneer PX",
+      "Alimentación": "100–240 VAC, 50/60 Hz",
       "Calibración": "InCal™ semiautomática",
       "Comunicación": "RS232 y USB Device",
-      "Pantalla": "LCD retroiluminada de 2 líneas"
+      "Tamaño del plato": "Ø 90 mm",
+      "Pantalla": "LCD retroiluminada de dos líneas",
+      "Protección contra corrientes de aire": "Incluida"
     },
     "source": "https://us.ohaus.com/en-us/products/balances-scales/analytical-balances/pioneer-analytical/px224",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada de dos líneas",
+      "InCal™ semiautomática",
+      "RS232 y USB Device"
+    ],
     "applications": [],
-    "image": "https://us.ohaus.com/getmedia/3fdbdb44-d7d2-4f38-a6b7-f0f388777fb5/PX_Front_DMX-ID_4295002978_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://mea-en.ohaus.com/getmedia/2bf0247e-0bda-4c90-a07a-ebc20ac46ce1/PX-Analytical_Draftshield-Closed_Right_DMX-ID_4294988787_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-px224-30429845.html"
   },
   {
     "id": "ohaus-spx2202",
@@ -9427,14 +9560,27 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SPX2202, 2200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX2202, 2200 g de capacidad y 0,01 g de legibilidad para pesaje rutinario y móvil.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador 100–240 VAC o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://br.ohaus.com/en-us/scoutspx",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones verificados en familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-spx2202.html"
   },
   {
     "id": "ohaus-nv222-30467927",
@@ -9445,14 +9591,29 @@
     "code": "30467927",
     "capacity": "220 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Navigator NV222, 220 g x 0,01 g, adaptador CA incluido o baterías.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Navigator NV222, 220 g de capacidad y 0,01 g de legibilidad para pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,01 g",
+      "Tamaño del plato": "Ø 145 mm",
+      "Familia": "Navigator",
+      "Alimentación": "Adaptador CA incluido o 4 baterías C",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB o Ethernet mediante accesorios opcionales",
+      "Calibración": "Externa",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://asiapacific.ohaus.com/en-AP/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NV222",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "Externa",
+      "RS232, USB o Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Navigator-NV222-Portable-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Navigator; variante física equivalente",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "/assets/ohaus/nv-round.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-nv222-30467927.html"
   },
   {
     "id": "ohaus-nv1201-30467932",
@@ -9463,14 +9624,29 @@
     "code": "30467932",
     "capacity": "1200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Navigator NV1201, 1200 g x 0,1 g, adaptador CA incluido o baterías.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Navigator NV1201, 1200 g de capacidad y 0,1 g de legibilidad para pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "1200 g",
+      "Legibilidad": "0,1 g",
+      "Tamaño del plato": "144 mm × 190 mm",
+      "Familia": "Navigator",
+      "Alimentación": "Adaptador CA incluido o 4 baterías C",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB o Ethernet mediante accesorios opcionales",
+      "Calibración": "Externa",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://asiapacific.ohaus.com/en-AP/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NV1201",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "Externa",
+      "RS232, USB o Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Navigator-NV222-Portable-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Navigator; variante física equivalente",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "/assets/ohaus/nv-square.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-nv1201-30467932.html"
   },
   {
     "id": "ohaus-nv2202-eu-30615585",
@@ -9481,14 +9657,29 @@
     "code": "30615585",
     "capacity": "2200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Navigator NV2202 EU, 2200 g x 0,01 g, adaptador CA incluido o baterías.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Navigator NV2202 EU, 2200 g de capacidad y 0,01 g de legibilidad para pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,01 g",
+      "Tamaño del plato": "144 mm × 190 mm",
+      "Familia": "Navigator",
+      "Alimentación": "Adaptador CA incluido o 4 baterías C",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB o Ethernet mediante accesorios opcionales",
+      "Calibración": "Externa",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/products/balances-scales/portable-balances/navigator/portable-precision-balance-nv2202-eu",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "Externa",
+      "RS232, USB o Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://eu-en.ohaus.com/getmedia/96849607-6e07-4201-94b7-0a9187f67dd1/NV_Square-Pan_0_00g_Right_EU_DMX-ID_4295003035_WebShop",
-    "image_source": "OHAUS",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "/assets/ohaus/nv-square.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-nv2202-eu-30615585.html"
   },
   {
     "id": "ohaus-nvt22000-30467940",
@@ -9499,14 +9690,29 @@
     "code": "30467940",
     "capacity": "22000 g",
     "readability": "1 g",
-    "description": "Balanza portátil OHAUS Navigator NVT22000, 22000 g x 1 g, adaptador CA incluido o baterías.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Navigator NVT22000, 22000 g de capacidad y 1 g de legibilidad para pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "22000 g",
+      "Legibilidad": "1 g",
+      "Tamaño del plato": "174 mm × 230 mm",
+      "Familia": "Navigator",
+      "Alimentación": "Adaptador CA incluido o 4 baterías C",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB o Ethernet mediante accesorios opcionales",
+      "Calibración": "Externa",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://asiapacific.ohaus.com/en-AP/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "Externa",
+      "RS232, USB o Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Navigator-NV222-Portable-Balance.jpg",
-    "image_source": "Proveedor especializado – imagen referencial de familia OHAUS Navigator; variante física equivalente",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "/assets/ohaus/nvt.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-nvt22000-30467940.html"
   },
   {
     "id": "ohaus-30269021",
@@ -9589,14 +9795,27 @@
     "code": "30253070",
     "capacity": "120 g",
     "readability": "0,001 g",
-    "description": "Balanza portátil OHAUS Scout SKX123 EU, 120 g x 0,001 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX123 EU, 120 g de capacidad y 0,001 g de legibilidad, orientada a educación y laboratorio.",
+    "specs": {
+      "Capacidad máxima": "120 g",
+      "Legibilidad": "0,001 g",
+      "Plato": "Ø 93 mm",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Protección contra corrientes de aire": "Incluida",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/products/balances-scales/portable-balances/scout-skx/skx123-eu",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "https://eu-fr.ohaus.com/getmedia/6fee4fa2-d248-4766-856c-aa1ec47d03fb/Scout_SKX_Draftshield_Right_DMX-ID_4294973078_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-skx123-eu-30253070.html"
   },
   {
     "id": "ohaus-skx1202-eu-30253074",
@@ -9607,14 +9826,27 @@
     "code": "30253074",
     "capacity": "1200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SKX1202 EU, 1200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX1202 EU, 1200 g de capacidad y 0,01 g de legibilidad, orientada a educación y laboratorio.",
+    "specs": {
+      "Capacidad máxima": "1200 g",
+      "Legibilidad": "0,01 g",
+      "Plato": "140 mm × 170 mm",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://mec.ohaus.com/en-mec/products/balances-scales/portable-balances/scout-skx/skx1202-eu",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Fuente oficial OHAUS verificada"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada",
+    "product_url": "/productos/ohaus-skx1202-eu-30253074.html"
   },
   {
     "id": "ohaus-spx422-30268907",
@@ -9625,14 +9857,27 @@
     "code": "30268907",
     "capacity": "420 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SPX422, 420 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX422, 420 g de capacidad y 0,01 g de legibilidad, para pesaje rutinario, conteo de piezas y aplicaciones móviles.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx422",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://br.ohaus.com/getmedia/f3a1a49b-29b6-400d-bc7d-aa245e8389e8/Scout_SPX_Round_Pan_Right_DMX-ID_4294972965_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-spx422-30268907.html"
   },
   {
     "id": "ohaus-spx622-30268908",
@@ -9643,14 +9888,27 @@
     "code": "30268908",
     "capacity": "620 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SPX622, 620 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX622, 620 g de capacidad y 0,01 g de legibilidad, para pesaje rutinario, conteo de piezas y aplicaciones móviles.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx622",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://br.ohaus.com/getmedia/f3a1a49b-29b6-400d-bc7d-aa245e8389e8/Scout_SPX_Round_Pan_Right_DMX-ID_4294972965_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-spx622-30268908.html"
   },
   {
     "id": "ohaus-spx621-30268912",
@@ -9661,14 +9919,27 @@
     "code": "30268912",
     "capacity": "620 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SPX621, 620 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX621, 620 g de capacidad y 0,1 g de legibilidad, para pesaje rutinario, conteo de piezas y aplicaciones móviles.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx621",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-spx621-30268912.html"
   },
   {
     "id": "ohaus-spx2201-30268913",
@@ -9679,14 +9950,27 @@
     "code": "30268913",
     "capacity": "2200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SPX2201, 2200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX2201, 2200 g de capacidad y 0,1 g de legibilidad, para pesaje rutinario, conteo de piezas y aplicaciones móviles.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx2201",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-spx2201-30268913.html"
   },
   {
     "id": "ohaus-spx8200-30268915",
@@ -9697,14 +9981,27 @@
     "code": "30268915",
     "capacity": "8200 g",
     "readability": "1 g",
-    "description": "Balanza portátil OHAUS Scout SPX8200, 8200 g x 1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SPX8200, 8200 g de capacidad y 1 g de legibilidad, para pesaje rutinario, conteo de piezas y aplicaciones móviles.",
+    "specs": {
+      "Capacidad máxima": "8200 g",
+      "Legibilidad": "1 g",
+      "Familia": "Scout SPX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://asiapacific.ohaus.com/en-ap/products/balances-scales/portable-balances/scout-spx/spx8200",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://asiapacific.ohaus.com/getmedia/0b71f47d-0d67-41cb-bd9d-f5ed40e88d8e/SPX_Front_DMX-ID_4295002827_WebShop.jpg",
-    "image_source": "OHAUS – imagen referencial de familia",
-    "source_status": "Fuente oficial OHAUS verificada en ficha individual"
+    "image": "https://br.ohaus.com/getmedia/003cfc48-bbf9-44bb-9b8e-9f1f10028cfe/Scout_SPX_Square_Pan_Right_DMX-ID_4294972969_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Fuente oficial OHAUS verificada en ficha individual",
+    "product_url": "/productos/ohaus-spx8200-30268915.html"
   },
   {
     "id": "ohaus-skx222-eu",
@@ -9715,14 +10012,27 @@
     "code": "",
     "capacity": "220 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SKX222 EU, 220 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX222 EU, 220 g de capacidad y 0,01 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx222-eu.html"
   },
   {
     "id": "ohaus-skx422-eu",
@@ -9733,14 +10043,27 @@
     "code": "",
     "capacity": "420 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SKX422 EU, 420 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX422 EU, 420 g de capacidad y 0,01 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx422-eu.html"
   },
   {
     "id": "ohaus-skx622-eu",
@@ -9751,14 +10074,27 @@
     "code": "",
     "capacity": "620 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SKX622 EU, 620 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX622 EU, 620 g de capacidad y 0,01 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx622-eu.html"
   },
   {
     "id": "ohaus-skx2202-eu",
@@ -9769,14 +10105,27 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout SKX2202 EU, 2200 g x 0,01 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX2202 EU, 2200 g de capacidad y 0,01 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx2202-eu.html"
   },
   {
     "id": "ohaus-skx421-eu",
@@ -9787,14 +10136,27 @@
     "code": "",
     "capacity": "420 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SKX421 EU, 420 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX421 EU, 420 g de capacidad y 0,1 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/f5e2fe58-3312-4ff7-9565-d27f04d6b31f/Scout_SKX_Round_Pan_Right_DMX-ID_4294973084_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx421-eu.html"
   },
   {
     "id": "ohaus-skx621-eu",
@@ -9805,14 +10167,27 @@
     "code": "",
     "capacity": "620 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SKX621 EU, 620 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX621 EU, 620 g de capacidad y 0,1 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx621-eu.html"
   },
   {
     "id": "ohaus-skx2201-eu",
@@ -9823,14 +10198,27 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SKX2201 EU, 2200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX2201 EU, 2200 g de capacidad y 0,1 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx2201-eu.html"
   },
   {
     "id": "ohaus-skx6201-eu",
@@ -9841,14 +10229,27 @@
     "code": "",
     "capacity": "6200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout SKX6201 EU, 6200 g x 0,1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX6201 EU, 6200 g de capacidad y 0,1 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "6200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx6201-eu.html"
   },
   {
     "id": "ohaus-skx8200-eu",
@@ -9859,14 +10260,27 @@
     "code": "",
     "capacity": "8200 g",
     "readability": "1 g",
-    "description": "Balanza portátil OHAUS Scout SKX8200 EU, 8200 g x 1 g, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout SKX8200 EU, 8200 g de capacidad y 1 g de legibilidad, orientada a educación, laboratorio y pesaje rutinario.",
+    "specs": {
+      "Capacidad máxima": "8200 g",
+      "Legibilidad": "1 g",
+      "Familia": "Scout SKX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "LCD retroiluminada",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutskx-10",
-    "highlights": [],
+    "highlights": [
+      "LCD retroiluminada",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://trisense.ee/cdn/shop/collections/ohaus-scout-skx.jpg",
-    "image_source": "Trisense – imagen referencial de familia OHAUS Scout SKX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/8635c730-74aa-4cf5-b57e-577afed8fa98/Scout_SKX_Square_Pan_Right_DMX-ID_4294973088_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-skx8200-eu.html"
   },
   {
     "id": "ohaus-stx222-eu",
@@ -9877,14 +10291,27 @@
     "code": "",
     "capacity": "220 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout STX222 EU, 220 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX222 EU, 220 g de capacidad y 0,01 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx222-eu.html"
   },
   {
     "id": "ohaus-stx422-eu",
@@ -9895,14 +10322,27 @@
     "code": "",
     "capacity": "420 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout STX422 EU, 420 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX422 EU, 420 g de capacidad y 0,01 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx422-eu.html"
   },
   {
     "id": "ohaus-stx622-eu",
@@ -9913,14 +10353,27 @@
     "code": "",
     "capacity": "620 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout STX622 EU, 620 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX622 EU, 620 g de capacidad y 0,01 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx622-eu.html"
   },
   {
     "id": "ohaus-stx1202-eu",
@@ -9931,14 +10384,27 @@
     "code": "",
     "capacity": "1200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout STX1202 EU, 1200 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX1202 EU, 1200 g de capacidad y 0,01 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "1200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx1202-eu.html"
   },
   {
     "id": "ohaus-stx2202-eu",
@@ -9949,14 +10415,27 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,01 g",
-    "description": "Balanza portátil OHAUS Scout STX2202 EU, 2200 g x 0,01 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX2202 EU, 2200 g de capacidad y 0,01 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx2202-eu.html"
   },
   {
     "id": "ohaus-stx421-eu",
@@ -9967,14 +10446,27 @@
     "code": "",
     "capacity": "420 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout STX421 EU, 420 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX421 EU, 420 g de capacidad y 0,1 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "Ø 120 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/4f6865e6-d515-43a9-8f26-96d7fef08a5f/Scout_STX_Round_Pan_Right_DMX-ID_4294973401_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx421-eu.html"
   },
   {
     "id": "ohaus-stx621-eu",
@@ -9985,14 +10477,27 @@
     "code": "",
     "capacity": "620 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout STX621 EU, 620 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX621 EU, 620 g de capacidad y 0,1 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx621-eu.html"
   },
   {
     "id": "ohaus-stx2201-eu",
@@ -10003,14 +10508,27 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout STX2201 EU, 2200 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX2201 EU, 2200 g de capacidad y 0,1 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx2201-eu.html"
   },
   {
     "id": "ohaus-stx6201-eu",
@@ -10021,14 +10539,27 @@
     "code": "",
     "capacity": "6200 g",
     "readability": "0,1 g",
-    "description": "Balanza portátil OHAUS Scout STX6201 EU, 6200 g x 0,1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX6201 EU, 6200 g de capacidad y 0,1 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "6200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx6201-eu.html"
   },
   {
     "id": "ohaus-stx8200-eu",
@@ -10039,14 +10570,27 @@
     "code": "",
     "capacity": "8200 g",
     "readability": "1 g",
-    "description": "Balanza portátil OHAUS Scout STX8200 EU, 8200 g x 1 g, pantalla táctil a color, adaptador CA incluido o baterías AA.",
-    "specs": {},
+    "description": "Balanza portátil OHAUS Scout STX8200 EU, 8200 g de capacidad y 1 g de legibilidad, con pantalla táctil a color para aplicaciones de laboratorio e industria.",
+    "specs": {
+      "Capacidad máxima": "8200 g",
+      "Legibilidad": "1 g",
+      "Familia": "Scout STX",
+      "Alimentación": "Adaptador CA incluido o 4 baterías AA",
+      "Plato": "140 mm × 170 mm",
+      "Protección contra corrientes de aire": "Sin protector",
+      "Pantalla": "Táctil a color de 4,3 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet mediante accesorios opcionales"
+    },
     "source": "https://eu-en.ohaus.com/en-eu/scoutstx-11",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color de 4,3 pulgadas",
+      "RS232, USB y Ethernet mediante accesorios opcionales"
+    ],
     "applications": [],
-    "image": "https://acornsci.co.nz/cdn/shop/products/4c9aa682-19f1-44de-9671-ac5701f749a9.jpg?v=1513113850",
-    "image_source": "Acorn Scientific – imagen referencial de familia OHAUS Scout STX",
-    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual"
+    "image": "https://oceania.ohaus.com/getmedia/671a66e4-6f08-4acf-bd11-4057b480db84/Scout_STX_Square_Pan_0_1g_Right_DMX-ID_4294973599_WebShop",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y especificaciones verificados en fuente oficial OHAUS; código de artículo no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-stx8200-eu.html"
   },
   {
     "id": "ohaus-exp223-ad",
@@ -10056,15 +10600,30 @@
     "model": "EXP223/AD",
     "code": "",
     "capacity": "220 g",
-    "readability": "1 mg",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP223/AD, capacidad 220 g y legibilidad 1 mg, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "readability": "0,001 g",
+    "description": "Balanza OHAUS EXP223/AD de la familia Explorer Plus Precision EXP, capacidad 220 g, legibilidad 0,001 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "220 g",
+      "Legibilidad": "0,001 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "130 mm × 130 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida con puertas automáticas"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-shield.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp223-ad.html"
   },
   {
     "id": "ohaus-exp423-ad",
@@ -10074,15 +10633,30 @@
     "model": "EXP423/AD",
     "code": "",
     "capacity": "420 g",
-    "readability": "1 mg",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP423/AD, capacidad 420 g y legibilidad 1 mg, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "readability": "0,001 g",
+    "description": "Balanza OHAUS EXP423/AD de la familia Explorer Plus Precision EXP, capacidad 420 g, legibilidad 0,001 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "420 g",
+      "Legibilidad": "0,001 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "130 mm × 130 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida con puertas automáticas"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-shield.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp423-ad.html"
   },
   {
     "id": "ohaus-exp623-ad",
@@ -10092,15 +10666,30 @@
     "model": "EXP623/AD",
     "code": "",
     "capacity": "620 g",
-    "readability": "1 mg",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP623/AD, capacidad 620 g y legibilidad 1 mg, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "readability": "0,001 g",
+    "description": "Balanza OHAUS EXP623/AD de la familia Explorer Plus Precision EXP, capacidad 620 g, legibilidad 0,001 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "620 g",
+      "Legibilidad": "0,001 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "130 mm × 130 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida con puertas automáticas"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-shield.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp623-ad.html"
   },
   {
     "id": "ohaus-exp1203-ad",
@@ -10110,15 +10699,30 @@
     "model": "EXP1203/AD",
     "code": "",
     "capacity": "1200 g",
-    "readability": "1 mg",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP1203/AD, capacidad 1200 g y legibilidad 1 mg, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "readability": "0,001 g",
+    "description": "Balanza OHAUS EXP1203/AD de la familia Explorer Plus Precision EXP, capacidad 1200 g, legibilidad 0,001 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "1200 g",
+      "Legibilidad": "0,001 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "130 mm × 130 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Incluida con puertas automáticas"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-shield.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp1203-ad.html"
   },
   {
     "id": "ohaus-exp2202",
@@ -10129,14 +10733,29 @@
     "code": "",
     "capacity": "2200 g",
     "readability": "0,01 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP2202, capacidad 2200 g y legibilidad 0,01 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP2202 de la familia Explorer Plus Precision EXP, capacidad 2200 g, legibilidad 0,01 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "2200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp2202.html"
   },
   {
     "id": "ohaus-exp4202",
@@ -10147,14 +10766,29 @@
     "code": "",
     "capacity": "4200 g",
     "readability": "0,01 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP4202, capacidad 4200 g y legibilidad 0,01 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP4202 de la familia Explorer Plus Precision EXP, capacidad 4200 g, legibilidad 0,01 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "4200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp4202.html"
   },
   {
     "id": "ohaus-exp6202",
@@ -10165,14 +10799,29 @@
     "code": "",
     "capacity": "6200 g",
     "readability": "0,01 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP6202, capacidad 6200 g y legibilidad 0,01 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP6202 de la familia Explorer Plus Precision EXP, capacidad 6200 g, legibilidad 0,01 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "6200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp6202.html"
   },
   {
     "id": "ohaus-exp8202",
@@ -10183,14 +10832,29 @@
     "code": "",
     "capacity": "8200 g",
     "readability": "0,01 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP8202, capacidad 8200 g y legibilidad 0,01 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP8202 de la familia Explorer Plus Precision EXP, capacidad 8200 g, legibilidad 0,01 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "8200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp8202.html"
   },
   {
     "id": "ohaus-exp10201",
@@ -10201,14 +10865,29 @@
     "code": "",
     "capacity": "10200 g",
     "readability": "0,1 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP10201, capacidad 10200 g y legibilidad 0,1 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP10201 de la familia Explorer Plus Precision EXP, capacidad 10200 g, legibilidad 0,1 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "10200 g",
+      "Legibilidad": "0,1 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp10201.html"
   },
   {
     "id": "ohaus-exp12202",
@@ -10219,14 +10898,29 @@
     "code": "",
     "capacity": "12200 g",
     "readability": "0,01 g",
-    "description": "Balanza de precisión OHAUS Explorer Plus EXP12202, capacidad 12200 g y legibilidad 0,01 g, orientada a aplicaciones exigentes de laboratorio e industria.",
-    "specs": {},
+    "description": "Balanza OHAUS EXP12202 de la familia Explorer Plus Precision EXP, capacidad 12200 g, legibilidad 0,01 g, AutoCal™ y pantalla táctil de 7 pulgadas.",
+    "specs": {
+      "Capacidad máxima": "12200 g",
+      "Legibilidad": "0,01 g",
+      "Familia": "Explorer Plus Precision",
+      "Alimentación": "Adaptador incluido: entrada 100–240 V CA, 50–60 Hz; salida 12 V CC",
+      "Tamaño del plato": "201 mm × 178 mm",
+      "Pantalla": "Táctil a color TFT de 7 pulgadas",
+      "Comunicación": "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales",
+      "Calibración": "AutoCal™ automática",
+      "Protección contra corrientes de aire": "Sin protector"
+    },
     "source": "https://us.ohaus.com/en-us/explorerplusprecisionexp",
-    "highlights": [],
+    "highlights": [
+      "Táctil a color TFT de 7 pulgadas",
+      "AutoCal™ automática",
+      "RS232, USB y Ethernet; Wi-Fi/Bluetooth opcionales"
+    ],
     "applications": [],
-    "image": "https://www.scalesgalore.com/Ohaus/Ohaus-Explorer-Plus-Precision-Balance-EXP223-AD.jpg",
-    "image_source": "Proveedor especializado – imagen referencial OHAUS Explorer Plus Precision; misma plataforma física, alimentación oficial 100–240 VAC",
-    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual"
+    "image": "/assets/ohaus/exp-open.jpg",
+    "image_source": "OHAUS – fotografía de la configuración de familia",
+    "source_status": "Modelo y prestaciones respaldados por familia oficial OHAUS; código no consignado sin verificación individual",
+    "product_url": "/productos/ohaus-exp12202.html"
   },
   {
     "id": "ohaus-st210",
