@@ -20158,6 +20158,74 @@
     "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
   },
   {
+    "id": "ohaus-30954235",
+    "brand": "OHAUS",
+    "category": "Accesorios y consumibles",
+    "family": "Fundas y protección",
+    "sub": "Fundas y protección",
+    "model": "Funda de protección MB32 / MB62",
+    "code": "30954235",
+    "capacity": "",
+    "readability": "",
+    "description": "OHAUS Funda de protección MB32 / MB62. Protección del instrumento durante su uso o almacenamiento.",
+    "specs": {
+      "Marca": "OHAUS",
+      "Código de producto": "30954235",
+      "Tipo": "Fundas y protección",
+      "Equipos indicados por el fabricante": "Moisture Analyzer MB32 110V; Moisture Analyzer MB62 110V"
+    },
+    "source": "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb32-62",
+    "technical_sources": [
+      "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb32-62"
+    ],
+    "highlights": [
+      "Protección del instrumento durante su uso o almacenamiento."
+    ],
+    "applications": [
+      "Protección del instrumento durante su uso o almacenamiento."
+    ],
+    "image": "/assets/ohaus/ac-30954235.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://us.ohaus.com/getmedia/700547b9-0dc3-4aab-b66d-12f0a0e4c222/In_Use_Cover_MB32_MB62_WebShop",
+    "source_status": "Datos contrastados con referencias OHAUS",
+    "compatible_links": [],
+    "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
+  },
+  {
+    "id": "ohaus-30954269",
+    "brand": "OHAUS",
+    "category": "Accesorios y consumibles",
+    "family": "Fundas y protección",
+    "sub": "Fundas y protección",
+    "model": "Funda de protección MB92",
+    "code": "30954269",
+    "capacity": "",
+    "readability": "",
+    "description": "OHAUS Funda de protección MB92. Protección del instrumento durante su uso o almacenamiento.",
+    "specs": {
+      "Marca": "OHAUS",
+      "Código de producto": "30954269",
+      "Tipo": "Fundas y protección",
+      "Equipos indicados por el fabricante": "Moisture Analyzer MB92 110V"
+    },
+    "source": "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb92",
+    "technical_sources": [
+      "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb92"
+    ],
+    "highlights": [
+      "Protección del instrumento durante su uso o almacenamiento."
+    ],
+    "applications": [
+      "Protección del instrumento durante su uso o almacenamiento."
+    ],
+    "image": "/assets/ohaus/ac-30954269.jpg",
+    "image_source": "OHAUS · fotografía oficial",
+    "photo_source": "https://us.ohaus.com/getmedia/4a1a07ea-f90c-470a-927d-38f38d09ff61/In_Use_Cover_MB92_WebShop",
+    "source_status": "Datos contrastados con referencias OHAUS",
+    "compatible_links": [],
+    "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
+  },
+  {
     "id": "ohaus-30284478",
     "brand": "OHAUS",
     "category": "Accesorios y consumibles",
@@ -20647,74 +20715,6 @@
         "model": "EXP12202"
       }
     ],
-    "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
-  },
-  {
-    "id": "ohaus-30954235",
-    "brand": "OHAUS",
-    "category": "Accesorios y consumibles",
-    "family": "Fundas y protección",
-    "sub": "Fundas y protección",
-    "model": "In use cover MB32/62",
-    "code": "30954235",
-    "capacity": "",
-    "readability": "",
-    "description": "OHAUS In use cover MB32/62. Protección del instrumento durante su uso o almacenamiento.",
-    "specs": {
-      "Marca": "OHAUS",
-      "Código de producto": "30954235",
-      "Tipo": "Fundas y protección",
-      "Equipos indicados por el fabricante": "Moisture Analyzer MB32 110V; Moisture Analyzer MB62 110V"
-    },
-    "source": "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb32-62",
-    "technical_sources": [
-      "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb32-62"
-    ],
-    "highlights": [
-      "Protección del instrumento durante su uso o almacenamiento."
-    ],
-    "applications": [
-      "Protección del instrumento durante su uso o almacenamiento."
-    ],
-    "image": "/assets/ohaus/ac-30954235.jpg",
-    "image_source": "OHAUS · fotografía oficial",
-    "photo_source": "https://us.ohaus.com/getmedia/700547b9-0dc3-4aab-b66d-12f0a0e4c222/In_Use_Cover_MB32_MB62_WebShop",
-    "source_status": "Datos contrastados con referencias OHAUS",
-    "compatible_links": [],
-    "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
-  },
-  {
-    "id": "ohaus-30954269",
-    "brand": "OHAUS",
-    "category": "Accesorios y consumibles",
-    "family": "Fundas y protección",
-    "sub": "Fundas y protección",
-    "model": "In use cover MB92",
-    "code": "30954269",
-    "capacity": "",
-    "readability": "",
-    "description": "OHAUS In use cover MB92. Protección del instrumento durante su uso o almacenamiento.",
-    "specs": {
-      "Marca": "OHAUS",
-      "Código de producto": "30954269",
-      "Tipo": "Fundas y protección",
-      "Equipos indicados por el fabricante": "Moisture Analyzer MB92 110V"
-    },
-    "source": "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb92",
-    "technical_sources": [
-      "https://us.ohaus.com/en-us/products/accessories/accessories/in-use-covers/in-use-cover-mb92"
-    ],
-    "highlights": [
-      "Protección del instrumento durante su uso o almacenamiento."
-    ],
-    "applications": [
-      "Protección del instrumento durante su uso o almacenamiento."
-    ],
-    "image": "/assets/ohaus/ac-30954269.jpg",
-    "image_source": "OHAUS · fotografía oficial",
-    "photo_source": "https://us.ohaus.com/getmedia/4a1a07ea-f90c-470a-927d-38f38d09ff61/In_Use_Cover_MB92_WebShop",
-    "source_status": "Datos contrastados con referencias OHAUS",
-    "compatible_links": [],
     "selection_note": "Seleccione los accesorios según el modelo exacto del instrumento y las conexiones disponibles."
   },
   {
