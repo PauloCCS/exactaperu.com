@@ -68,16 +68,26 @@ def main():
             generic = {'Valor citado', 'Características mencionadas', 'Temperatura citada', 'Velocidad citada', 'Protección mencionada', 'Conexiones mencionadas'}
             specific_values = {v.casefold().strip().rstrip('.') for k, v in facts if k not in generic}
             facts = [(k, v) for k, v in facts if not (k in generic and v.casefold().strip().rstrip('.') in specific_values)]
-        if facts == old_facts:
+        if facts == old_facts and source_id not in FACTS:
             continue
         rows = ''.join('<tr><td>' + html.escape(k) + '</td><td>' + html.escape(v) + '</td></tr>' for k, v in facts)
         revised = original[:match.start(2)] + rows + original[match.end(2):]
+        description = None
+        if source_id in FACTS:
+            name = html.unescape(re.search(r'<h1>(.*?)</h1>', original)[1])
+            description = name + '. ' + '. '.join(k + ': ' + v for k, v in facts[:2]) + '.'
+            revised = re.sub(r'(<meta name="description" content=")[^"]*(">)', lambda m: m[1] + html.escape(description, quote=True) + m[2], revised)
+            revised = re.sub(r'(<p class="description">).*?(</p>)', lambda m: m[1] + html.escape(description) + m[2], revised, flags=re.S)
         def schema_update(m):
             obj = json.loads(m[2])
             if obj.get('@type') == 'Product':
                 obj['additionalProperty'] = [{'@type': 'PropertyValue', 'name': k, 'value': v} for k, v in facts]
+                if description:
+                    obj['description'] = description
             return m[1] + json.dumps(obj, ensure_ascii=False) + m[3]
         revised = re.sub(r'(<script type="application/ld\+json">)(.*?)(</script>)', schema_update, revised, flags=re.S)
+        if revised == original:
+            continue
         path.write_text(revised)
         changed.append(path.name)
     print(json.dumps({'changed': len(changed), 'files': changed}, ensure_ascii=False, indent=2))
