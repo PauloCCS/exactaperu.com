@@ -7,6 +7,7 @@ import html
 import json
 import re
 from pathlib import Path
+from partner_specs_round2 import FACTS as ROUND2_FACTS
 
 FACTS = {
     3583: [('Material', 'Polipropileno (PP)'), ('Presentación', 'Bolsa de 1000 unidades'), ('Diseño', 'Puntera de ajuste cónico'), ('Esterilización publicada', 'Autoclave a 121 °C durante 20 minutos'), ('Compatibilidad', 'Confirmar volumen, modelo de micropipeta y ajuste antes de seleccionar')],
@@ -33,6 +34,7 @@ FACTS = {
     5750: [('Tipo', 'Caudalímetro de agua de área variable'), ('Cuerpo', 'Acrílico transparente'), ('Racores', 'Latón'), ('Control de caudal', 'Válvula integrada'), ('Escalas', 'Unidades inglesas o métricas según variante'), ('Montaje', 'Panel o en línea según configuración'), ('Mantenimiento', 'Desmontable para limpieza')],
     5768: [('Tipo', 'Caudalímetro de aire de área variable'), ('Cuerpo', 'Acrílico transparente'), ('Racores', 'Latón'), ('Válvula', 'Sin válvula'), ('Escalas', 'Unidades inglesas o métricas según variante'), ('Montaje', 'Panel o en línea según configuración'), ('Mantenimiento', 'Desmontable para limpieza')],
 }
+FACTS.update(ROUND2_FACTS)
 
 ROW = re.compile(r'<tr><td>([^<]*)</td><td>([^<]*)</td></tr>')
 TABLE = re.compile(r'(<table class="spec-table" aria-label="Características y configuraciones"><tbody>)(.*?)(</tbody></table>)', re.S)
@@ -52,6 +54,8 @@ def main():
         source_id = int(path.name.split('-')[1])
         original = path.read_text()
         match = TABLE.search(original)
+        if match is None and source_id == 3405:
+            match = re.search(r'(<table class="spec-table" aria-label="Tabla técnica 1"><tbody>)(.*?)(</tbody></table>)', original, re.S)
         if not match:
             continue
         old_facts = [(html.unescape(k), html.unescape(v)) for k, v in ROW.findall(match[2])]
