@@ -3,7 +3,8 @@ const CATEGORIES=[
  {name:'Balanzas',icon:'⚖',desc:'Microbalanzas, balanzas analíticas y de precisión.',enabled:true},
  {name:'Analizadores de humedad',icon:'◫',desc:'HX204, HS153, HC103, HE73 y HE53.',enabled:true},
  {name:'Titulación',icon:'⚗',desc:'Valoradores Excellence, potenciometría y Karl Fischer.',enabled:true},
- {name:'pH y electrodos',icon:'⌁',desc:'NineFocus, medición electroquímica y sensores InLab.',enabled:true},
+ {name:'pH y electroquímica',icon:'⌁',desc:'NineFocus, SevenDirect, FiveEasy, FiveGo y Seven2Go.',enabled:true},
+ {name:'Electrodos',icon:'⌁',desc:'Sensores InLab de pH y redox.',enabled:true},
  {name:'Densidad',icon:'◉',desc:'Densímetros Excellence y soluciones multiparámetro.',enabled:true},
  {name:'Refractometría',icon:'◇',desc:'Refractómetros Excellence para nD, Brix y más.',enabled:true},
  {name:'Análisis térmico',icon:'△',desc:'TGA, DSC y caracterización térmica.',enabled:true},
@@ -23,7 +24,8 @@ const CATEGORY_SLUGS={
   "Analizadores de humedad":"analizadores-de-humedad",
   "Análisis térmico":"analisis-termico",
   "Titulación":"titulacion",
-  "pH y electrodos":"ph-y-electrodos",
+  "pH y electroquímica":"ph-y-electroquimica",
+  "Electrodos":"electrodos",
   "Densidad":"densidad",
   "Refractometría":"refractometria",
   "Punto de fusión y goteo":"punto-de-fusion-y-goteo",
@@ -143,5 +145,6 @@ function renderCatalog(){
  }
 }
 function renderProduct(){const el=document.getElementById('productDetail');if(!el)return;const p=PRODUCTS.find(x=>x.id===qs('id'));if(!p){el.innerHTML='<div class="empty">Producto no encontrado.</div>';return}document.title=`${p.model} | Exacta Perú`;const rows=Object.entries(p.specs).map(([k,v])=>`<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join('');const msg=encodeURIComponent(`Buenos días. Deseo información y cotización de ${p.brand} ${p.model}${p.code?' ('+p.code+')':''}.`);el.innerHTML=`<div class="crumbs"><a href="marcas.html">Marcas</a> › <a href="marca.html?marca=mettler-toledo">Mettler Toledo</a> › <a href="catalogo.html?marca=mettler-toledo&categoria=${encodeURIComponent(p.category)}">${esc(p.category)}</a> › ${esc(p.model)}</div><section class="detail"><div class="detail-media ${p.image?'':'placeholder'}">${p.image?`<img src="${p.image}" alt="${esc(p.model)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.product-image')?.classList.add('image-error');this.style.display='none'">`:placeholder(p,true)}</div><div><div class="product-brand">${esc(p.brand)}</div><h1>${kind(p)} ${esc(p.model)} Mettler Toledo</h1><p class="code">${p.code?'Código: '+esc(p.code)+' · ':''}Categoría: ${esc(p.category)}</p><span class="badge">Marca disponible · suministro sujeto a confirmación</span><p class="description">${esc(p.description)}</p><div class="actions"><a class="btn btn-primary" href="mailto:contacto@exactaperu.com?subject=${encodeURIComponent('Cotización '+p.model)}">Solicitar cotización</a><a class="btn btn-whatsapp" target="_blank" href="https://wa.me/51932610623?text=${msg}">WhatsApp</a><a class="btn btn-outline" target="_blank" rel="noopener" href="${p.source}">Ver referencia del fabricante</a></div><div class="spec-wrap"><h2>Especificaciones técnicas</h2><table class="spec-table">${rows}</table></div>${p.highlights?.length?`<section class="info-block"><h2>Características principales</h2><ul class="feature-list">${p.highlights.map(v=>`<li>${esc(v)}</li>`).join('')}</ul></section>`:''}${p.applications?.length?`<section class="info-block"><h2>Aplicaciones</h2><div class="application-tags">${p.applications.map(v=>`<span>${esc(v)}</span>`).join('')}</div></section>`:''}<div class="technical-note"><strong>Nota técnica</strong><p>Las prestaciones corresponden a información de referencia para el modelo indicado. La configuración, versión metrológica, accesorios, software y disponibilidad deben confirmarse antes de emitir una oferta.</p></div><p class="source-note"><a target="_blank" rel="noopener" href="${p.source}">Consultar fuente técnica del fabricante →</a></p></div></section>`}
-async function init(){menu();try{const r=await fetch('productos.json?v=34');if(!r.ok)throw new Error();PRODUCTS=await r.json()}catch(e){console.error('No se pudo cargar productos.json')}renderBrands();renderCategories();renderCatalog();renderProduct()}
+async function init(){menu();try{const r=await fetch('productos.json?v=35');if(!r.ok)throw new Error();PRODUCTS=await r.json()}catch(e){console.error('No se pudo cargar productos.json')}renderBrands();renderCategories();renderCatalog();renderProduct()}
 document.addEventListener('DOMContentLoaded',init);
+
