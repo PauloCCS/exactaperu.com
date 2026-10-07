@@ -30,6 +30,17 @@
   } : null;
   if (item) window.gtag('event', 'view_item', {items: [item]});
 
+  document.addEventListener('submit', function (event) {
+    if (!event.target || event.target.id !== 'contactForm') return;
+    window.gtag('event', 'whatsapp_click', {
+      send_to: measurementId,
+      form_id: 'contactForm',
+      link_text: 'Enviar consulta por WhatsApp',
+      page_location: location.href,
+      transport_type: 'beacon'
+    });
+  });
+
   document.addEventListener('click', function (event) {
     const link = event.target.closest && event.target.closest('a');
     if (!link) return;
